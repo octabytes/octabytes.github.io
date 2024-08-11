@@ -1,0 +1,25 @@
+enabled: true
+id: "recipes"
+
+content:
+  title: "What can you Build from InBzar"
+  description: "You can build a subscription box business, sell digital products, and create any kind of e-commerce system you can imagine."
+
+  recipes:
+    - title: "Create Subscription Box Business"
+      category: "Subscription Box"
+      description: "Launch and manage a Subscription Box Business effortlessly with InBzar. Customize subscription plans, curate product selections, and automate deliveries to provide your customers with a delightful and personalized unboxing experience."
+      image: "images/recipes/subscription-box.avif"
+      url: "https://docs.inbzar.com/recipes/create-subscription-box"
+
+    - title: "Sell Subscription Boxes as Recurring and Onetime purchase"
+      category: "Subscription Box"
+      description: "With InBzar, you can sell subscriptions both as recurring and one-time purchases. Offer flexible options to your customers, allowing them to choose between ongoing subscriptions or a single purchase, catering to diverse preferences and increasing your sales opportunities."
+      image: "images/recipes/purchase-vs-subscribe.png"
+      url: "https://docs.inbzar.com/recipes/subscription-box-with-onetime-and-recurring-payment"
+
+    - title: "Start selling Digital Products"
+      category: "Digital Products"
+      description: "Start selling digital products seamlessly with InBzar. Easily upload and manage files, documents, and videos, offering instant access to your customers. Enhance your e-commerce store by providing downloadable content that meets your customers' needs."
+      image: "images/recipes/digital-products.webp"
+      url: "https://docs.inbzar.com/recipes/sell-digital-products"

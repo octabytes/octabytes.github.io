@@ -1,0 +1,185 @@
+enabled: true
+id: "features"
+
+content:
+  - feature: "Subscription Box"
+    title: "Sell Products on Subscription Basis"
+    description: "Boost your sales with InBzar's Subscription Box feature, offering a flexible way to sell products on a subscription basis. Customers can subscribe to receive boxes at regular intervals, or opt for a one-time purchase if enabled. With customizable start and closing dates for orders, you can manage your inventory efficiently and meet customer demands seamlessly. Elevate your e-commerce offerings with this dynamic and user-friendly feature."
+    image: "images/features/subscription-box.png"
+    keypoints:
+      - title: "Onetime Purchase"
+        description: "The Onetime Purchase feature allows store owners to offer subscription boxes for both one-time and subscription-based purchases at different prices, providing flexibility and tailored pricing options to meet customer needs."
+        icon: "shopping-bag"
+
+      - title: "Customer Defined Delivery"
+        description: "With Customer Defined Delivery, you can allow customers to set their preferred delivery intervals, ensuring their subscription boxes arrive exactly when they need them."
+        icon: "gift"
+
+      - title: "Orders Opening"
+        description: "Store owners can specify opening and closing dates for orders, ensuring efficient inventory management and precise control over order periods for their subscription boxes."
+        icon: "arrow-path-rounded-square"
+
+      - title: "Expire Subscriptions automatically"
+        description: "Store owners can set automatic subscription cancellations by defining the number of orders after which the subscription expires or manually cancel subscriptions if no order limit is specified."
+        icon: "credit-card"
+
+  - feature: "Digital Products"
+    title: "Expand Your Offerings with Digital Products Feature"
+    description: "InBzar supports the sale of digital products, offering a robust library system that enables timely delivery of multiple files and documents. Enhance your e-commerce platform by seamlessly distributing digital content to your customers."
+    image: "images/features/product.png"
+    keypoints:
+      - title: "Versatile Digital Content Support"
+        description: "Easily attach files, documents, and videos to your products, providing comprehensive digital offerings to your customers."
+        icon: "document"
+
+      - title: "Library System"
+        description: "Organize and manage your digital products efficiently with InBzar's robust library system."
+        icon: "building-library"
+
+      - title: "Access Control"
+        description: "Restrict digital content based on purchases or specific time intervals, or offer free access to enhance customer engagement."
+        icon: "lock-closed"
+
+  - feature: "Library System"
+    title: "Enhance Your Digital Offerings with Library System"
+    description: "The Library System enables you to attach digital content—such as files, documents, or videos—to your products. You can restrict access to this content based on purchases or set periodic availability. Alternatively, you can make content freely accessible without any purchase requirements, providing versatile options to meet your business needs."
+    image: "images/features/library.png"
+    keypoints:
+      - title: "Restriction"
+        description: "With Library Restriction, you have the flexibility to allow free access to digital content or restrict it based on your specific needs, providing control over how your digital products are distributed."
+        icon: "lock-closed"
+
+      - title: "Periodic Restriction"
+        description: "Library Periodic Restriction allows you to limit access to digital content based on specific time intervals. Customers can only access this content if they purchase the product within the defined period."
+        icon: "clock"
+
+  - feature: "Payment Systems"
+    title: "Seamless Transactions with Personal Payment System"
+    description: " InBzar's Personal Payment System empowers you to integrate your own payment methods, including PayPal, Stripe, or other manual systems, ensuring all payments go directly into your account without any transaction fees. Unlike other platforms, InBzar does not hold your funds or charge commissions. This system keeps all customer subscriptions active in your account, eliminating vendor lock-in and allowing you to move your customers freely. By using your own payment system, InBzar fosters a stronger relationship between you and your customers."
+    image: "images/features/payment-method.svg"
+    keypoints:
+      - title: "No Transaction Fee"
+        description: "Your payments are deposited directly into your account without any commissions or transaction fees from InBzar, payments go directly into your account"
+        icon: "credit-card"
+
+      - title: "Freely move customers"
+        description: "This system keeps all customer subscriptions active in your account, eliminating vendor lock-in and allowing you to move your customers freely"
+        icon: "lock-open"
+
+      - title: "Multiple Payment Systems"
+        description: "The Multiple Payment System feature allows you to integrate various payment methods into your store, including PayPal, Stripe, and other manual systems. This flexibility ensures a seamless and convenient payment experience for your customers."
+        icon: "banknotes"
+
+  - feature: "Marketing and Notifications"
+    title: "Boost Your Outreach with Marketing and Notification System"
+    description: "InBzar works with SendGrid to provide a powerful Marketing and Notification system. Effortlessly send notifications and marketing emails to keep your customers informed and engaged. Enhance your communication strategy with reliable and efficient email services integrated seamlessly into your e-commerce platform."
+    image: "images/features/sendgrid.png"
+    keypoints:
+      - title: "Automatically Synchronization"
+        description: "Automatically Synchronization ensures that customers and their data are seamlessly synced with SendGrid. This eliminates the need for manual import or export, streamlining your marketing and notification processes."
+        icon: "arrow-path"
+
+      - title: "Custom Templates"
+        description: "Custom Templates allow you to design and use personalized templates for notifications and marketing campaigns. Tailor these templates to represent your brand and meet your specific needs, ensuring consistent and professional communication with your customers."
+        icon: "document-text"
+
+      - title: "Integrated Dashboard"
+        description: "The Integrated Dashboard feature allows you to manage all your marketing and notification tasks directly from the InBzar dashboard, eliminating the need to switch to the SendGrid app. Streamline your workflow with a unified interface for greater efficiency and convenience."
+        icon: "squares"
+
+  - feature: "Referral System"
+    title: "Boost Sales with Referral System"
+    description: "InBzar's Referral System enhances your sales strategy by allowing you to create and distribute referral links. When new customers make purchases using these links, the referrer earns a reward, and you can offer discounts to the referred customers. You can also set specific conditions for each referral link, including applicable products, start and expiration dates, and usage limits. This flexibility helps you tailor your referral campaigns to meet your marketing goals."
+    image: "images/features/referral.png"
+    keypoints:
+      - title: "Attach Discount"
+        description: "With the Attach Discount feature in Referral System, you can add discounts to referral links. This allows referred customers to receive special discounts when they use the referral link, enhancing their incentive to make a purchase and boosting the effectiveness of your referral campaigns."
+        icon: "currency-dollar"
+
+      - title: "Configuration and Conditions"
+        description: "The Configuration and Conditions feature allows you to customize referral links by setting specific criteria. Define which products, collections, or types of products the referral link applies to, as well as set start and end dates for its validity. You can also limit the number of times the referral link can be used, providing you with precise control over your referral campaigns."
+        icon: "lock-closed"
+
+      - title: "Order and Payment History"
+        description: "The Order and Payment History feature provides both you and the referrer with detailed insights into referral activities. View all orders placed using the referral link, track earnings and payments, and see outstanding balances. This transparency helps you monitor the effectiveness of your referral program and manage payouts efficiently."
+        icon: "book-open"
+
+  - feature: "Customer Chat"
+    title: "Real-Time Customer Chat with Tawk.to"
+    description: "Tawk.to provide free live chat widget which is integrated with InBzar by default, this enables real-time communication between customers and store owners. Engage in instant conversations to address inquiries, resolve issues, and provide personalized support directly from your store's platform, enhancing the overall customer experience."
+    image: "images/features/tawk-chat.webp"
+    keypoints:
+      - title: "Instant Messaging"
+        description: "Enable real-time communication between customers and store owners for quick responses and support."
+        icon: "chat-bubble-bottom-center-text"
+
+      - title: "Direct Conversations"
+        description: "Facilitate one-on-one interactions to address customer inquiries and concerns directly."
+        icon: "chat-bubble-left-right"
+
+      - title: "Conversation History"
+        description: "Access past chat interactions to review previous discussions and provide informed support."
+        icon: "book-open"
+
+  - feature: "User Behavior and Analytics"
+    title: "Enhance Insights with Google Analytics"
+    description: "InBzar integrates with Google Analytics to offer comprehensive user behavior and web analytics for your storefront. Gain valuable insights into customer interactions, track website performance, and analyze trends to make data-driven decisions and optimize your store’s performance."
+    image: "images/features/google-analytics.png"
+    keypoints:
+      - title: "Traffic Sources"
+        description: "Identify where your traffic is coming from, including direct visits, referrals, and search engines, to refine your marketing strategies."
+        icon: "user-group"
+
+      - title: "Real-Time Data"
+        description: "Access real-time insights into website performance and visitor activity to stay updated on your store’s performance."
+        icon: "clock"
+
+      - title: "User Flow Visualization"
+        description: "Visualize user paths through your site to understand how customers navigate and identify potential areas for improvement."
+        icon: "arrow-trending-up"
+
+      - title: "Behavioral Insights"
+        description: "Gain insights into customer behavior patterns, such as bounce rates and exit pages, to enhance user experience and engagement."
+        icon: "cursor-arrow-rays"
+
+  - feature: "Web Builder"
+    title: "Customize with Ease Using InBzar's Web Builder"
+    description: "InBzar's Web Builder lets you personalize your theme with flexibility and precision. Create and edit pages using pre-built blocks that you can rearrange to fit your needs. Unlike traditional drag-and-drop builders, which can impact performance and responsiveness, InBzar’s Web Builder offers a more efficient approach. For those familiar with HTML and CSS, you can design and add custom blocks. Alternatively, use any drag-and-drop tool to create blocks and simply copy and paste them into InBzar’s Web Builder for seamless integration."
+    image: "images/features/web-builder.png"
+    keypoints:
+      - title: "Performance Optimization"
+        description: "Avoid common performance and responsiveness issues associated with traditional drag-and-drop builders."
+        icon: "arrow-trending-up"
+
+      - title: "Responsive Design"
+        description: "Ensure your customizations maintain responsiveness across different devices and screen sizes."
+        icon: "device-mobile-phone"
+
+      - title: "Pre-Built Blocks"
+        description: "Use pre-designed blocks that you can edit and rearrange to customize your pages without starting from scratch."
+        icon: "cube"
+
+      - title: "HTML/CSS Customization"
+        description: "Design and create your own blocks using HTML and CSS for advanced customization."
+        icon: "code-bracket"
+
+      - title: "Drag-and-Drop Integration"
+        description: "If preferred, create blocks using drag-and-drop tools and import them into InBzar’s Web Builder for seamless integration."
+        icon: "chevron-up-down"
+
+  - feature: "Custom Theme"
+    title: "Personalized Themes with InBzar's Custom Theme Service"
+    description: "If our existing themes don't meet your needs, you can create a custom theme specifically to your requirements. Alternatively, our highly skilled developers are available to design and build a theme for you, ensuring it is both performant and responsive. With deep knowledge of the InBzar platform, our team will craft a theme that perfectly aligns with your vision and enhances your store's functionality."
+    image: "images/features/custom-theme.png"
+    keypoints:
+      - title: "Custom Theme Creation"
+        description: "Design and develop a unique theme tailored specifically to your requirements and branding."
+        icon: "newspaper"
+
+      - title: "Developer Expertise"
+        description: "Access highly skilled developers who are experts in the InBzar platform, ensuring a high-quality, performant, and responsive theme."
+        icon: "code-bracket"
+
+      - title: "Ongoing Support"
+        description: "Benefit from ongoing support and adjustments as needed to ensure your custom theme evolves with your business."
+        icon: "question-mark-circle"

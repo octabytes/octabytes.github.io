@@ -1,0 +1,9 @@
+{{ $svg := .name }}
+{{ $class := .class | default "" }}
+{{ $filePath := printf "/static/icons/%s.svg" $svg | readFile }}
+{{ $match := `<svg([^>]*)>` }}
+{{ $replaceWith := printf `<svg class="%s"$1>` $class }}
+{{ $updatedSVG := replaceRE $match $replaceWith $filePath }}
+
+{{ $safeHTML := $updatedSVG | safeHTML }}
+{{ return $safeHTML }}

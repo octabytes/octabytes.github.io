@@ -1,0 +1,19 @@
+<!-- Title -->
+{{ partial "head/_title" . }}
+
+
+<!-- Meta -->
+{{ partial "head/_meta" . }}
+
+
+<!-- Favicon -->
+<link rel="icon" href="{{ .Site.Params.favicon }}" />
+
+<!-- Stylesheets and Javascript -->
+{{ partialCached "head/_resources" . }}
+
+
+<!-- Google Analytics -->
+{{ if .Site.GoogleAnalytics }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}

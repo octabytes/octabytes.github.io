@@ -1,0 +1,76 @@
+baseURL: "https://inbzar.com/"
+languageCode: "en-us"
+
+title: "InBzar"
+
+googleAnalytics: "G-XH6EFM03RM"
+
+params:
+  title: "InBzar"
+  description: "E-commerce Platform for Subscription Boxes, Digital Products, and More!"
+  keywords: "e-commerce, subscription boxes, digital products, online shopping, e-commerce platform, buy subscription boxes, digital goods, online marketplace, e-commerce store, InBzar, inbzar, shop online, subscription services, digital downloads, online retail, e-commerce solutions"
+
+  logo: "/images/logo.png"
+  favicon: "/images/favicon.ico"
+
+  copyright: "2024 InBzar. All rights reserved."
+
+  liveChat: true
+
+  social:
+    facebook: "#"
+    instagram: "#"
+    twitter: "#"
+    github: "#"
+    youtube: "#"
+
+menus:
+  main:
+    - name: "Features"
+      url: "/#features"
+      weight: 1
+
+    - name: "Recipes"
+      url: "https://docs.inbzar.com/recipes"
+      weight: 2
+
+    - name: "Docs"
+      url: "https://docs.inbzar.com"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#pricing"
+      weight: 4
+
+    - name: "Contact us"
+      url: "/contact-us"
+      weight: 5
+
+  buttons:
+    - name: "Coming soon"
+      url: "#"
+
+  footer:
+    - name: "Features"
+      url: "/#features"
+      weight: 1
+
+    - name: "Recipes"
+      url: "https://docs.inbzar.com/recipes"
+      weight: 2
+
+    - name: "Docs"
+      url: "https://docs.inbzar.com"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#pricing"
+      weight: 4
+
+    - name: "Contact us"
+      url: "/contact-us"
+      weight: 5
+
+    - name: "Terms and Conditions"
+      url: "/terms-and-conditions"
+      weight: 6
