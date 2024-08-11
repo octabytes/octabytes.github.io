@@ -18,6 +18,8 @@
 
 
   <!-- CTA -->
-  {{ partial "sections/cta" . }}
+  {{ with .Site.Data.home.cta }}
+    {{ partial "sections/cta" . }}
+  {{ end }}
 
 {{ end }}

@@ -39,30 +39,22 @@ menus:
       weight: 3
 
   buttons:
-    - name: "Get Started"
+    - name: "Start free Trial"
       url: "#"
 
   footer:
-    - name: "Features"
-      url: "/#features"
+    - name: "Managed service"
+      url: "#"
       weight: 1
 
-    - name: "Recipes"
-      url: "https://docs.inbzar.com/recipes"
+    - name: "Top applications"
+      url: "#"
       weight: 2
 
-    - name: "Docs"
-      url: "https://docs.inbzar.com"
+    - name: "350+ softwares"
+      url: "#"
       weight: 3
-
-    - name: "Pricing"
-      url: "/#pricing"
-      weight: 4
-
-    - name: "Contact us"
-      url: "/contact-us"
-      weight: 5
 
     - name: "Terms and Conditions"
       url: "/terms-and-conditions"
-      weight: 6
+      weight: 4

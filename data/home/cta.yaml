@@ -1,0 +1,10 @@
+enabled: true
+id: cta
+
+content:
+  title: "Start your free trial today"
+  description: "Boost your productivity. Start using your favorite app today."
+
+  button:
+    link: "#"
+    label: "Start free Trial"

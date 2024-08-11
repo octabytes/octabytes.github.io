@@ -2,12 +2,11 @@ enabled: true
 id: "hero"
 
 content:
-  highlightedText: "Fully managed"
-  title: "platform to deploy your favorite open-source softwares for you!"
+  title: "'Fully managed' platform to deploy your favorite 'open-source' softwares for you!"
   description: "Effortlessly deploy and manage open source software with our fully managed DevOps platform, streamlining the entire process for you."
 
   buttonPrimary:
-    label: "Get Started"
+    label: "Start free Trial"
     url: "#"
 
   buttonSecondary:
