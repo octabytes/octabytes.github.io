@@ -5,21 +5,19 @@
   {{ end }}
 
 
+  <!-- Softwares Logo -->
+  {{ with .Site.Data.home.logos }}
+    {{ partial "sections/logos" . }}
+  {{ end }}
+
+
   <!-- Features Section -->
   {{ with .Site.Data.home.features }}
     {{ partial "sections/features" . }}
   {{ end }}
 
 
-  <!-- Price Section -->
-  {{ with .Site.Data.home.price }}
-    {{ partial "sections/price" . }}
-  {{ end }}
-
-
-  <!-- Recipes Section -->
-  {{ with .Site.Data.home.recipes }}
-    {{ partial "sections/recipes" . }}
-  {{ end }}
+  <!-- CTA -->
+  {{ partial "sections/cta" . }}
 
 {{ end }}

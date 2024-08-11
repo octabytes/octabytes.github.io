@@ -1,21 +1,21 @@
-baseURL: "https://inbzar.com/"
+baseURL: "https://octabyte.io/"
 languageCode: "en-us"
 
-title: "InBzar"
+title: "OctaByte"
 
-googleAnalytics: "G-XH6EFM03RM"
+googleAnalytics: "TODO_REPLACE_IT"
 
 params:
-  title: "InBzar"
-  description: "E-commerce Platform for Subscription Boxes, Digital Products, and More!"
-  keywords: "e-commerce, subscription boxes, digital products, online shopping, e-commerce platform, buy subscription boxes, digital goods, online marketplace, e-commerce store, InBzar, inbzar, shop online, subscription services, digital downloads, online retail, e-commerce solutions"
+  title: "OctaByte: Fully Managed Open source"
+  description: "Deploy 325+ open-source software in <3 mins. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
+  keywords: "octabyte, DevOps, open source, deployment"
 
   logo: "/images/logo.png"
   favicon: "/images/favicon.ico"
 
-  copyright: "2024 InBzar. All rights reserved."
+  copyright: "2024 OctaByte. All rights reserved."
 
-  liveChat: true
+  liveChat: false
 
   social:
     facebook: "#"
@@ -26,28 +26,20 @@ params:
 
 menus:
   main:
-    - name: "Features"
-      url: "/#features"
+    - name: "Managed service"
+      url: "#"
       weight: 1
 
-    - name: "Recipes"
-      url: "https://docs.inbzar.com/recipes"
+    - name: "Top applications"
+      url: "#"
       weight: 2
 
-    - name: "Docs"
-      url: "https://docs.inbzar.com"
+    - name: "350+ softwares"
+      url: "#"
       weight: 3
 
-    - name: "Pricing"
-      url: "/#pricing"
-      weight: 4
-
-    - name: "Contact us"
-      url: "/contact-us"
-      weight: 5
-
   buttons:
-    - name: "Coming soon"
+    - name: "Get Started"
       url: "#"
 
   footer:

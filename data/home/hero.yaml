@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "E-commerce Platform for Subscription Boxes, Digital Products, and More!"
-  description: "InBzar is an all-in-one e-commerce platform designed for subscription boxes, digital products, and a variety of e-commerce systems."
-  image: "images/hero/order.png"
+  highlightedText: "Fully managed"
+  title: "platform to deploy your favorite open-source softwares for you!"
+  description: "Effortlessly deploy and manage open source software with our fully managed DevOps platform, streamlining the entire process for you."
 
   buttonPrimary:
-    label: "Coming soon"
+    label: "Get Started"
     url: "#"
 
   buttonSecondary:
-    label: "Learn more"
-    url: "https://docs.inbzar.com/features"
+    label: "Top applications"
+    url: "#"

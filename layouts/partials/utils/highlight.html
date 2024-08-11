@@ -1,0 +1,5 @@
+{{/* highlight.html */}}
+{{- $content := . -}}
+{{- $pattern := "'([^']+)'" -}}
+{{- $highlighted := replaceRE $pattern "<span class=\"bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent\">$1</span>" $content -}}
+{{- $highlighted | safeHTML -}}
