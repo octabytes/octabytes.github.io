@@ -1,0 +1,51 @@
+enabled: true
+id: "applications"
+
+content:
+  title: "'Applications'"
+  description: "Unleash the potential of open-source applications with our managed services. Whether you need content management, communication tools, or e-commerce platforms, our services ensure smooth operations, timely updates, and expert support, so you can deliver an exceptional user experience."
+
+  categories:
+    - CRM / ERP
+    - Note-taking
+    - Project management
+    - Calendar
+    - Live chat
+    - Invoicing and payments
+    - Documentation
+    - Search
+    - Email marketing
+    - Product Feedback
+    - Forum / Community
+    - Business Intelligence
+    - Password manager
+    - Analytics
+    - E-commerce
+    - CMS
+    - Customer support
+    - Fediverse
+    - Automation
+    - HCM
+    - CMMS
+    - HRMS
+
+  applications:
+    - image: "https://dash.elest.io/templatesIcones/Wordpress-Multisites.png"
+      title: "Wordpress-Multisites"
+      description: "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress."
+      url: "#"
+
+    - image: "https://dash.elest.io/templatesIcones/Wordpress-Multisites.png"
+      title: "Wordpress-Multisites"
+      description: "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress."
+      url: "#"
+
+    - image: "https://dash.elest.io/templatesIcones/Wordpress-Multisites.png"
+      title: "Wordpress-Multisites"
+      description: "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress."
+      url: "#"
+
+    - image: "https://dash.elest.io/templatesIcones/Wordpress-Multisites.png"
+      title: "Wordpress-Multisites"
+      description: "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress."
+      url: "#"
