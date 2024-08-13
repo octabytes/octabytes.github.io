@@ -8,7 +8,8 @@ content:
   description: "REPLACE_ME"
   dashboardImage: "REPLACE_ME_IMAGE"
 
-  videoUrl: ""
+  videoUrl: "REPLACE"
+  website: "REPLACE"
 
   screenshots:
     - "REPLACE_ME_IMAGE"
