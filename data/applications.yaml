@@ -43,7 +43,7 @@ content:
       id: "forum-and-community"
 
     - name: "Business Intelligence"
-      id: "business-and-intelligence"
+      id: "business-intelligence"
 
     - name: "Password manager"
       id: "password-manager"
@@ -76,16 +76,154 @@ content:
       id: "hrms"
 
   applications:
-    - image: "https://dash.elest.io/templatesIcones/CryptPad.png"
-      title: "CryptPad"
-      description: "CryptPad is a collaboration suite, encrypted and open-source."
-      url: "/open-source/cryptpad"
-      category: "crm-and-erp"
-
     - image: "https://dash.elest.io/templatesIcones/Dolibarr.png"
       title: "Dolibarr"
       description: "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity"
       url: "/open-source/dolibarr"
+      category: "crm-and-erp"
+
+    - image: "https://dash.elest.io/templatesIcones/Odoo_ERP_CRM.png"
+      title: "Odoo ERP & CRM"
+      description: "Odoo is a suite of web-based, open-source business apps."
+      url: "/open-source/odoo"
+      category: "crm-and-erp"
+
+    - image: "https://dash.elest.io/templatesIcones/Vikunja.png"
+      title: "Vikunja"
+      description: "The open-source to-do app. Organize everything, on all platforms."
+      url: "/open-source/vikunja"
+      category: "note-taking"
+
+    - image: "https://dash.elest.io/templatesIcones/Plane.png"
+      title: "Plane"
+      description: "An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind"
+      url: "/open-source/plane"
+      category: "project-management"
+
+    - image: "https://dash.elest.io/templatesIcones/Cal.png"
+      title: "Cal"
+      description: "Calendly alternative Cal.com, is the event-juggling scheduler for everyone. Focus on meetings, not making meetings. Free for individuals."
+      url: "/open-source/cal"
+      category: "calendar"
+
+    - image: "https://dash.elest.io/templatesIcones/Chatwoot.png"
+      title: "Chatwoot"
+      description: "Chatwoot is an open-source, alternative customer engagement suite."
+      url: "/open-source/chatwoot"
+      category: "live-chat"
+
+    - image: "https://dash.elest.io/templatesIcones/Crater.png"
+      title: "Crater"
+      description: "Crater helps you track expenses, and payments & create professional invoices & estimates."
+      url: "/open-source/crater"
+      category: "invoicing-and-payments"
+
+    - image: "https://dash.elest.io/templatesIcones/Papermerge.png"
+      title: "Papermerge"
+      description: "Open Source Document Management System for Digital Archives (Scanned Documents)"
+      url: "/open-source/papermerge"
+      category: "documentation"
+
+    - image: "https://dash.elest.io/templatesIcones/MeiliSearch.png"
+      title: "MeiliSearch"
+      description: "MeiliSearch is a next-generation search API."
+      url: "/open-source/meilisearch"
+      category: "search"
+
+    - image: "https://dash.elest.io/templatesIcones/Listmonk.png"
+      title: "Listmonk"
+      description: "Listmonk is a self-hosted, high-performance mailing list and newsletter manager."
+      url: "/open-source/listmonk"
+      category: "email-marketing"
+
+    - image: "https://dash.elest.io/templatesIcones/LimeSurvey.png"
+      title: "LimeSurvey"
+      description: "LimeSurvey is the most popular FOSS online survey tool on the web."
+      url: "/open-source/limesurvey"
+      category: "product-feedback"
+
+    - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
+      title: "Mastodon"
+      description: "Mastodon is a free fediverse, open-source social network server with OpenSearch for indexing."
+      url: "/open-source/mastodon"
+      category: "forum-and-community"
+
+    - image: "https://dash.elest.io/templatesIcones/Superset.png"
+      title: "Superset"
+      description: "Apache Superset is a data visualization and data exploration platform."
+      url: "/open-source/superset"
+      category: "business-intelligence"
+
+    - image: "https://dash.elest.io/templatesIcones/Vaultwarden.png"
+      title: "Vaultwarden"
+      description: "Vaultwarden is an open-source password management application that can be self-hosted and run on your infrastructure."
+      url: "/open-source/vaultwarden"
+      category: "password-manager"
+
+    - image: "https://dash.elest.io/templatesIcones/Umami.png"
+      title: "Umami"
+      description: "Umami is a simple, fast, website analytics alternative to Google Analytics."
+      url: "/open-source/umami"
+      category: "analytics"
+
+    - image: "https://dash.elest.io/templatesIcones/Shopware.png"
+      title: "Shopware"
+      description: "Shopware is a modern eCommerce platform connecting enterprise-level capabilities with flexibility."
+      url: "/open-source/shopware"
+      category: "e-com"
+
+    - image: "https://dash.elest.io/templatesIcones/Prestashop.png"
+      title: "Prestashop"
+      description: "The PrestaShop project is a universal open-source software platform to build your e-commerce solution."
+      url: "/open-source/prestashop"
+      category: "e-com"
+
+    - image: "https://dash.elest.io/templatesIcones/Ghost.png"
+      title: "Ghost"
+      description: "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content."
+      url: "/open-source/ghost"
+      category: "cms"
+
+    - image: "https://dash.elest.io/templatesIcones/Directus.png"
+      title: "Directus"
+      description: "Directus is an Open Data Platform for managing the content of any SQL database."
+      url: "/open-source/directus"
+      category: "cms"
+
+    - image: "https://dash.elest.io/templatesIcones/FreeScout.png"
+      title: "FreeScout"
+      description: "FreeScout is a free self-hosted help desk & shared mailbox."
+      url: "/open-source/freescout"
+      category: "customer-support"
+
+    - image: "https://dash.elest.io/templatesIcones/Pixelfed.png"
+      title: "Pixelfed"
+      description: "Pixelfed is a fediverse decentralized social network for image sharing. Unlike other platforms with features similar to those of the social network Instagram."
+      url: "/open-source/pixelfed"
+      category: "fediverse"
+
+    - image: "https://dash.elest.io/templatesIcones/Windmill.png"
+      title: "Windmill"
+      description: "Open source low code framework to turn scripts into workflows and internal apps with auto-generated UIs in minutes."
+      url: "/open-source/windmill"
+      category: "automation"
+
+    - image: "https://dash.elest.io/templatesIcones/MintHCM.png"
+      title: "MintHCM"
+      description: "Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches."
+      url: "/open-source/minthcm"
+      category: "hcm"
+
+    - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
+      title: "FrappeHR"
+      description: "Frappe HR (ERPNext HRMS) is a user-friendly solution designed to streamline HR and payroll operations, driving excellence within your team."
+      url: "/open-source/frappehr"
+      category: "crm-and-erp"
+
+    - image: "https://dash.elest.io/templatesIcones/CryptPad.png"
+      title: "CryptPad"
+      description: "CryptPad is a collaboration suite, encrypted and open-source."
+      url: "/open-source/cryptpad"
       category: "crm-and-erp"
 
     - image: "https://dash.elest.io/templatesIcones/Attendize.png"
@@ -104,12 +242,6 @@ content:
       title: "HumHub"
       description: "HumHub to communicate and collaborate, share information, interact with all people in your organization, and personalize the software to fit your individual needs."
       url: "/open-source/humhub"
-      category: "crm-and-erp"
-
-    - image: "https://dash.elest.io/templatesIcones/Odoo_ERP_CRM.png"
-      title: "Odoo ERP & CRM"
-      description: "Odoo is a suite of web-based, open-source business apps."
-      url: "/open-source/odoo"
       category: "crm-and-erp"
 
     - image: "https://dash.elest.io/templatesIcones/ErpNext.png"
@@ -148,12 +280,6 @@ content:
       url: "/open-source/twenty"
       category: "crm-and-erp"
 
-    - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
-      title: "FrappeHR"
-      description: "Frappe HR (ERPNext HRMS) is a user-friendly solution designed to streamline HR and payroll operations, driving excellence within your team."
-      url: "/open-source/frappehr"
-      category: "crm-and-erp"
-
     - image: "https://dash.elest.io/templatesIcones/Joplin.png"
       title: "Joplin"
       description: "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS"
@@ -164,12 +290,6 @@ content:
       title: "Cryptgeon"
       description: "Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte."
       url: "/open-source/cryptgeon"
-      category: "note-taking"
-
-    - image: "https://dash.elest.io/templatesIcones/Vikunja.png"
-      title: "Vikunja"
-      description: "The open-source to-do app. Organize everything, on all platforms."
-      url: "/open-source/vikunja"
       category: "note-taking"
 
     - image: "https://dash.elest.io/templatesIcones/HedgeDoc.png"
@@ -213,12 +333,6 @@ content:
       description: "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
       url: "/open-source/huly"
       category: "note-taking"
-
-    - image: "https://dash.elest.io/templatesIcones/Plane.png"
-      title: "Plane"
-      description: "An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind"
-      url: "/open-source/plane"
-      category: "project-management"
 
     - image: "https://dash.elest.io/templatesIcones/Leantime.png"
       title: "Leantime"
@@ -280,22 +394,10 @@ content:
       url: "/open-source/rallly"
       category: "calendar"
 
-    - image: "https://dash.elest.io/templatesIcones/Cal.png"
-      title: "Cal"
-      description: "Calendly alternative Cal.com, is the event-juggling scheduler for everyone. Focus on meetings, not making meetings. Free for individuals."
-      url: "/open-source/cal"
-      category: "calendar"
-
     - image: "https://dash.elest.io/templatesIcones/LobeChat.png"
       title: "LobeChat"
       description: "An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application."
       url: "/open-source/lobechat"
-      category: "live-chat"
-
-    - image: "https://dash.elest.io/templatesIcones/Chatwoot.png"
-      title: "Chatwoot"
-      description: "Chatwoot is an open-source, alternative customer engagement suite."
-      url: "/open-source/chatwoot"
       category: "live-chat"
 
     - image: "https://dash.elest.io/templatesIcones/Mattermost_Team_Edition.png"
@@ -352,12 +454,6 @@ content:
       url: "/open-source/botpress"
       category: "live-chat"
 
-    - image: "https://dash.elest.io/templatesIcones/Crater.png"
-      title: "Crater"
-      description: "Crater helps you track expenses, and payments & create professional invoices & estimates."
-      url: "/open-source/crater"
-      category: "invoicing-and-payments"
-
     - image: "https://dash.elest.io/templatesIcones/Lago.png"
       title: "Lago"
       description: "Open-source alternative to Stripe Billing and Chargebee. It offers a modular architecture for metering and usage-based billing, at every stage of your company."
@@ -387,12 +483,6 @@ content:
       description: "An open-source payments switch written in Rust to make payments fast, reliable, and affordable."
       url: "/open-source/hyperswitch"
       category: "invoicing-and-payments"
-
-    - image: "https://dash.elest.io/templatesIcones/Papermerge.png"
-      title: "Papermerge"
-      description: "Open Source Document Management System for Digital Archives (Scanned Documents)"
-      url: "/open-source/papermerge"
-      category: "documentation"
 
     - image: "https://dash.elest.io/templatesIcones/Cells.png"
       title: "Cells"
@@ -460,12 +550,6 @@ content:
       url: "/open-source/serpbear"
       category: "search"
 
-    - image: "https://dash.elest.io/templatesIcones/MeiliSearch.png"
-      title: "MeiliSearch"
-      description: "MeiliSearch is a next-generation search API."
-      url: "/open-source/meilisearch"
-      category: "search"
-
     - image: "https://dash.elest.io/templatesIcones/Typesense.png"
       title: "Typesense"
       description: "Typesense is a fast, typo-tolerant, fuzzy search engine for building great search experiences."
@@ -495,18 +579,6 @@ content:
       description: "Mautic is open-source marketing automation software."
       url: "/open-source/mautic"
       category: "email-marketing"
-
-    - image: "https://dash.elest.io/templatesIcones/Listmonk.png"
-      title: "Listmonk"
-      description: "Listmonk is a self-hosted, high-performance mailing list and newsletter manager."
-      url: "/open-source/listmonk"
-      category: "email-marketing"
-
-    - image: "https://dash.elest.io/templatesIcones/LimeSurvey.png"
-      title: "LimeSurvey"
-      description: "LimeSurvey is the most popular FOSS online survey tool on the web."
-      url: "/open-source/limesurvey"
-      category: "product-feedback"
 
     - image: "https://dash.elest.io/templatesIcones/Fider.png"
       title: "Fider"
@@ -542,12 +614,6 @@ content:
       title: "AzuraCast"
       description: "A self-hosted web radio management suite."
       url: "/open-source/azuracast"
-      category: "forum-and-community"
-
-    - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
-      title: "Mastodon"
-      description: "Mastodon is a free fediverse, open-source social network server with OpenSearch for indexing."
-      url: "/open-source/mastodon"
       category: "forum-and-community"
 
     - image: "https://dash.elest.io/templatesIcones/Flarum.png"
@@ -634,18 +700,6 @@ content:
       url: "/open-source/lightdash"
       category: "business-intelligence"
 
-    - image: "https://dash.elest.io/templatesIcones/Superset.png"
-      title: "Superset"
-      description: "Apache Superset is a data visualization and data exploration platform."
-      url: "/open-source/superset"
-      category: "business-intelligence"
-
-    - image: "https://dash.elest.io/templatesIcones/Vaultwarden.png"
-      title: "Vaultwarden"
-      description: "Vaultwarden is an open-source password management application that can be self-hosted and run on your infrastructure."
-      url: "/open-source/vaultwarden"
-      category: "password-manager"
-
     - image: "https://dash.elest.io/templatesIcones/Passit.png"
       title: "Passit"
       description: "Password manager to use on any device with a web browser to secure your digital life."
@@ -681,12 +735,6 @@ content:
       description: "Vault is a tool for secrets management, encryption as a service, and privileged access management."
       url: "/open-source/vault"
       category: "password-manager"
-
-    - image: "https://dash.elest.io/templatesIcones/Umami.png"
-      title: "Umami"
-      description: "Umami is a simple, fast, website analytics alternative to Google Analytics."
-      url: "/open-source/umami"
-      category: "analytics"
 
     - image: "https://dash.elest.io/templatesIcones/Matomo.png"
       title: "Matomo"
@@ -736,12 +784,6 @@ content:
       url: "/open-source/ackee"
       category: "analytics"
 
-    - image: "https://dash.elest.io/templatesIcones/Prestashop.png"
-      title: "Prestashop"
-      description: "The PrestaShop project is a universal open-source software platform to build your e-commerce solution."
-      url: "/open-source/prestashop"
-      category: "e-com"
-
     - image: "https://dash.elest.io/templatesIcones/Magento.png"
       title: "Magento"
       description: "Magento open-source software delivers basic e-commerce capabilities that allow you to build a unique online store from the ground up."
@@ -760,12 +802,6 @@ content:
       url: "/open-source/btcpay"
       category: "e-com"
 
-    - image: "https://dash.elest.io/templatesIcones/Shopware.png"
-      title: "Shopware"
-      description: "Shopware is a modern eCommerce platform connecting enterprise-level capabilities with flexibility."
-      url: "/open-source/shopware"
-      category: "e-com"
-
     - image: "https://dash.elest.io/templatesIcones/WooCommerce.png"
       title: "WooCommerce"
       description: "WooCommerce is a customizable, open-source eCommerce platform built on WordPress."
@@ -782,12 +818,6 @@ content:
       title: "Wordpress"
       description: "WordPress is open-source software you can use to create a beautiful website, blog or app."
       url: "/open-source/wordpress"
-      category: "cms"
-
-    - image: "https://dash.elest.io/templatesIcones/Ghost.png"
-      title: "Ghost"
-      description: "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content."
-      url: "/open-source/ghost"
       category: "cms"
 
     - image: "https://dash.elest.io/templatesIcones/Drupal.png"
@@ -826,23 +856,11 @@ content:
       url: "/open-source/agencyos"
       category: "cms"
 
-    - image: "https://dash.elest.io/templatesIcones/Directus.png"
-      title: "Directus"
-      description: "Directus is an Open Data Platform for managing the content of any SQL database."
-      url: "/open-source/directus"
-      category: "cms"
-
     - image: "https://dash.elest.io/templatesIcones/Strapi.png"
       title: "Strapi"
       description: "Strapi enables easy building of self-hosted, customizable, performant content API."
       url: "/open-source/strapi"
       category: "cms"
-
-    - image: "https://dash.elest.io/templatesIcones/FreeScout.png"
-      title: "FreeScout"
-      description: "FreeScout is a free self-hosted help desk & shared mailbox."
-      url: "/open-source/freescout"
-      category: "customer-support"
 
     - image: "https://dash.elest.io/templatesIcones/Papercups.png"
       title: "Papercups"
@@ -934,12 +952,6 @@ content:
       url: "/open-source/pleroma"
       category: "fediverse"
 
-    - image: "https://dash.elest.io/templatesIcones/Pixelfed.png"
-      title: "Pixelfed"
-      description: "Pixelfed is a fediverse decentralized social network for image sharing. Unlike other platforms with features similar to those of the social network Instagram."
-      url: "/open-source/pixelfed"
-      category: "fediverse"
-
     - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
       title: "Mastodon"
       description: "Mastodon is a free fediverse, open-source social network server with OpenSearch for indexing."
@@ -1006,12 +1018,6 @@ content:
       url: "/open-source/automatisch"
       category: "automation"
 
-    - image: "https://dash.elest.io/templatesIcones/Windmill.png"
-      title: "Windmill"
-      description: "Open source low code framework to turn scripts into workflows and internal apps with auto-generated UIs in minutes."
-      url: "/open-source/windmill"
-      category: "automation"
-
     - image: "https://dash.elest.io/templatesIcones/Node-red.png"
       title: "Node-red"
       description: "Node-RED is a low-code programming environment for event-driven applications."
@@ -1047,12 +1053,6 @@ content:
       description: "Airflow is a platform created by the community to programmatically author, schedule and monitor workflows."
       url: "/open-source/airflow-worker"
       category: "automation"
-
-    - image: "https://dash.elest.io/templatesIcones/MintHCM.png"
-      title: "MintHCM"
-      description: "Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches."
-      url: "/open-source/minthcm"
-      category: "hcm"
 
     - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
       title: "FrappeHR"
