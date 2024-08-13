@@ -1,6 +1,71 @@
 {{ define "main" }}
   {{ with .Site.Data.applications }}
     {{ if .enabled }}
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          const buttons = document.querySelectorAll("#category-buttons button");
+          const cards = document.querySelectorAll(
+            "#application-list .application-card",
+          );
+          const searchInput = document.getElementById("search-input");
+
+          function filterCards() {
+            const searchTerm = searchInput.value.toLowerCase();
+            const selectedCategory =
+              document
+                .querySelector("#category-buttons button.active")
+                ?.getAttribute("data-category") || "all";
+
+            cards.forEach((card) => {
+              const category = card.getAttribute("data-category");
+              const title = card
+                .querySelector(".title")
+                .textContent.toLowerCase();
+              const description = card
+                .querySelector(".description")
+                .textContent.toLowerCase();
+
+              const matchesCategory =
+                selectedCategory === "all" || category === selectedCategory;
+              const matchesSearch =
+                title.includes(searchTerm) || description.includes(searchTerm);
+
+              if (matchesCategory && matchesSearch) {
+                card.style.display = "";
+              } else {
+                card.style.display = "none";
+              }
+            });
+          }
+
+          buttons.forEach((button) => {
+            button.addEventListener("click", function () {
+              const category = this.getAttribute("data-category");
+
+              // Remove 'bg-gradient-to-r' class from all spans
+              buttons.forEach((btn) => {
+                const span = btn.querySelector("div > span");
+                span.classList.remove("bg-gradient-to-r", "text-white");
+              });
+
+              // Add 'bg-gradient-to-r' class to the span of the clicked button
+              const activeSpan = this.querySelector("div > span");
+              activeSpan.classList.add("bg-gradient-to-r", "text-white");
+
+              // Remove 'active' class from all buttons
+              buttons.forEach((btn) => btn.classList.remove("active"));
+
+              // Add 'active' class to the clicked button
+              this.classList.add("active");
+
+              filterCards();
+            });
+          });
+
+          searchInput.addEventListener("input", filterCards);
+        });
+      </script>
+
       <section id="{{ .id }}">
         <div class="bg-white">
           <div class="mx-auto max-w-7xl py-16 px-4 sm:px-6 lg:px-8">
@@ -13,13 +78,14 @@
           </div>
         </div>
         <div
+          id="category-buttons"
           class="flex mx-4 sm:mx-0 flex-wrap gap-y-2 sm:gap-y-4 gap-x-2 sm:gap-x-0 isolate">
           {{ range .content.categories }}
-            <button class="mt-2 sm:mt-0 sm:ml-4">
+            <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
               <div class="-m-1 flex flex-wrap items-center">
                 <span
                   class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
-                  <span>{{ . }}</span>
+                  <span>{{ .name }}</span>
                 </span>
               </div>
             </button>
@@ -46,6 +112,7 @@
                 </svg>
               </div>
               <input
+                id="search-input"
                 type="text"
                 name="search"
                 class="block w-full rounded-none rounded-l-md border-gray-300 pl-10 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -74,9 +141,15 @@
         </div>
 
         <div class="m-10">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div
+            id="application-list"
+            class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {{ range .content.applications }}
-              <a href="{{ .url }}">
+              <a
+                href="{{ .url }}"
+                class="application-card"
+                data-category="{{ .category }}">
+                <h2 class="sr-only">{{ .category }}</h2>
                 <div
                   class="flex flex-row flex-nowrap p-5 w-full h-full rounded-lg shadow-[0_0.375rem_1.5rem_0_rgba(68,67,68,0.1)] hover:shadow-[0_13px_53px_rgba(152,160,171,0.35)]">
                   <div class="flex justify-center">
@@ -92,11 +165,11 @@
                   <div
                     class="flex flex-col flex-nowrap flex-grow overflow-hidden text-ellipsis">
                     <div>
-                      <div class="text-[16px] mb-[5px] font-extrabold">
+                      <div class="title text-[16px] mb-[5px] font-extrabold">
                         {{ .title }}
                       </div>
                       <div
-                        class="text-[#252525] text-[14px] leading-[1.25] text-left">
+                        class="description text-[#252525] text-[14px] leading-[1.25] text-left">
                         {{ .description }}
                       </div>
                     </div>
