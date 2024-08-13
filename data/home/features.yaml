@@ -6,9 +6,9 @@ content:
   description: "We deploy and manage open-source software to your choice."
 
   features:
-    - title: "Fast deployments"
-      description: "Select an open-source software and start using it in under 5 minutes."
-      icon: "bolt"
+    - title: "Simple no-tricks pricing"
+      description: "Enjoy transparent and straightforward pricing with no hidden fees or complex terms."
+      icon: "banknotes"
 
     - title: "No vendor lock-in"
       description: "You can migrate your software and data to any where any time you want. With OctaByte you are totally free and in control."
