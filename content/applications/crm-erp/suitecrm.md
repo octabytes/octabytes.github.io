@@ -8,7 +8,7 @@ content:
   description: "SuiteCRM is the award winning Customer Relationship Management application. Making it easy for your Sales, Marketing and Customer Service departments to discover key information that will help you grow, retain and delight your customers."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/SuiteCRM-7-V7qA.png"
 
-  videoUrl: ""
+  videoUrl: "https://www.youtube.com/watch?v=kL_zByM4nyM"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/SuiteCRM-7-V7qA.png"

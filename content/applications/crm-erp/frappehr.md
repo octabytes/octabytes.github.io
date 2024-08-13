@@ -8,7 +8,7 @@ content:
   description: "Frappe HR (ERPNext HRMS) is a 100% open-source, modern, user-friendly solution to drive excellence within your team. Simplify your HR and Payroll operations with a product crafted as per your needs."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/hrms-2gKn.png"
 
-  videoUrl: ""
+  videoUrl: "https://www.youtube.com/watch?v=dt_2SJJulPM"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/hrms-2gKn.png"

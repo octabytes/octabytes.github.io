@@ -8,7 +8,7 @@ content:
   description: "It's an Open Source Software suite (written in PHP with optional JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/4058858e-d8ba-44d1-b716-61474e57f960-jH9R.jpg"
 
-  videoUrl: ""
+  videoUrl: "https://youtu.be/GJ8-r9bHyB8"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/4058858e-d8ba-44d1-b716-61474e57f960-jH9R.jpg"

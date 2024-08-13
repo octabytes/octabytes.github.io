@@ -8,7 +8,7 @@ content:
   description: "Odoo's suite of open-source business apps covers a wide range of needs, including CRM, e-commerce, accounting, inventory, billing, point of sale and project management. It is very easy to use and fully integrated."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Odoo-2-7kJ5.jpg"
 
-  videoUrl: ""
+  videoUrl: "https://www.youtube.com/watch?v=y7TlnAv6cto"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Odoo-2-7kJ5.jpg"
