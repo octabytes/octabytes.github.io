@@ -26,7 +26,7 @@ content:
   logo: /images/applications/analytics/matomo-app/logo.png
   name: Matomo
   screenshots:
-    - /images/applications/analytics/matomo-app/screenshot-1.jpg
+    - /images/applications/analytics/matomo-app/dashboard.jpg
     - /images/applications/analytics/matomo-app/screenshot-2.jpg
   videoUrl: REPLACE
   website: https://matomo.org/
