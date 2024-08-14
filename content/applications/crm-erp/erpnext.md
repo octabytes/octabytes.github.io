@@ -8,7 +8,7 @@ content:
   description: "ERPNext is a free and open-source integrated Enterprise Resource Planning software developed by Frappé Technologies Pvt. Ltd. and is built on MariaDB database system using Frappe, a Python based server-side framework. ERPNext is a generic ERP software used by manufacturers, distributors and services companies."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/ERP-2-LLTl.jpg"
 
-  videoUrl: ""
+  website: "https://erpnext.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/ERP-2-LLTl.jpg"

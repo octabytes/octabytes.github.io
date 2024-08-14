@@ -8,7 +8,7 @@ content:
   description: "Invoice Ninja provides freelancers and business owners with a complete suite of invoicing and payment tools. You can invoice, accept payments, track expenses, create proposals and time-tasks."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/InvoiceNinja-2-D7UZ.jpg"
 
-  videoUrl: "https://youtu.be/CxGxXiotv0I"
+  website: "https://invoiceninja.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/InvoiceNinja-2-D7UZ.jpg"

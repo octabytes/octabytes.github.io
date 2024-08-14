@@ -8,7 +8,7 @@ content:
   description: "HumHub enables organizations to connect, communicate, and collaborate. it is intuitive to use, can be extended individually with numerous modules, and is an irreplaceable tool for many use cases. Users of it include companies and corporations, cities and municipalities, social and charitable institutions, foundations and clubs, associations, political parties, and educational institutions such as schools and universities."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/570-screenshot4-Nk1C.png"
 
-  videoUrl: ""
+  website: "https://www.humhub.com/en/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/570-screenshot4-Nk1C.png"

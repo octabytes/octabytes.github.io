@@ -8,7 +8,7 @@ content:
   description: "The open-source to-do app. Organize everything, on all platforms."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/08-task-kanban-background-W4Vv.webp"
 
-  videoUrl: ""
+  website: "https://vikunja.io/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/08-task-kanban-background-W4Vv.webp"

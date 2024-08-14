@@ -8,7 +8,7 @@ content:
   description: "Open-source CRM, Building a modern alternative to Salesforce, powered by the community."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/oclg8rdRgBnzeLnSJOfettLFjI-vBxU.webp"
 
-  videoUrl: ""
+  website: "https://twenty.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/oclg8rdRgBnzeLnSJOfettLFjI-vBxU.webp"

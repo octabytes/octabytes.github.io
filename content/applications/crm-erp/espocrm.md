@@ -8,7 +8,7 @@ content:
   description: "EspoCRM is a web application that allows users to see, enter and evaluate all your company relationships regardless of the type. People, companies, projects or opportunities — all in an easy and intuitive interface."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2023-03-15-161235-uaX3.png"
 
-  videoUrl: ""
+  website: "https://www.espocrm.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2023-03-15-161235-uaX3.png"

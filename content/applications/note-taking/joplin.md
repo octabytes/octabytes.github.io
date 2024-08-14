@@ -8,7 +8,7 @@ content:
   description: "Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/joplin-g3xfx-u83-NSwB.png"
 
-  videoUrl: ""
+  website: "https://joplinapp.org/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/joplin-g3xfx-u83-NSwB.png"

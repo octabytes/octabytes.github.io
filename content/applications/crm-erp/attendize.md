@@ -8,7 +8,7 @@ content:
   description: "Attendize is a ticket-selling and event management platform and is everything you need for a successful event. Attendize has a wide array of features aimed at making organizing events as effortless as possible."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2023-11-14-204930-OP9v.png"
 
-  videoUrl: ""
+  website: "https://www.attendize.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2023-11-14-204930-OP9v.png"

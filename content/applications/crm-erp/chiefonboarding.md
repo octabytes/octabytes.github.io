@@ -8,7 +8,7 @@ content:
   description: "Streamline employee onboarding a new hire is often complicated and chaotic, especially in remote teams. We will help you structure your onboarding process for IT, HR, managers, buddies, and, of course, your new hires."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/sequences-xZ9h.png"
 
-  videoUrl: "https://www.youtube.com/watch?v=8fYpB8WTH2M"
+  website: "https://chiefonboarding.com/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/sequences-xZ9h.png"

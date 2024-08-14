@@ -8,7 +8,7 @@ content:
   description: "Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, bar camps, etc."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/shop-frontpage-OhTD.png"
 
-  videoUrl: ""
+  website: "https://pretix.eu/about/en/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/shop-frontpage-OhTD.png"

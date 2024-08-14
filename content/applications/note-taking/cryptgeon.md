@@ -8,7 +8,7 @@ content:
   description: "Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2024-03-13-211505-X7oc.png"
 
-  videoUrl: ""
+  website: "https://cryptgeon.org/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2024-03-13-211505-X7oc.png"

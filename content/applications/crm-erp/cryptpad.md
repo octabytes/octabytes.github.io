@@ -8,7 +8,7 @@ content:
   description: "CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. Because all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored."
   dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/cryptpad-sanjay-u83--1--jZvp.jpg"
 
-  videoUrl: ""
+  website: "https://cryptpad.fr/"
 
   screenshots:
     - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/cryptpad-sanjay-u83--1--jZvp.jpg"

@@ -31,14 +31,14 @@
             <div class="flex items-center justify-start gap-3 my-5 flex-wrap">
               <a
                 href="#"
-                class="rounded-md bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
                 Start {{ .Params.content.name }} Trial
               </a>
               <a
-                href="{{ .Params.content.videoUrl }}"
+                href="{{ .Params.content.website }}"
                 target="_blank"
-                class="rounded-md bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                Watch intro video
+                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                {{ .Params.content.name }} Website
               </a>
             </div>
           </div>
@@ -69,10 +69,16 @@
           </span>
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
-          Deploy a fully managed instance of {{ .Params.content.name }} in few
-          minutes on OctaByte. You can relax knowing that we are taking care of
-          installation, configuration, encryption, security, backups, live
-          monitoring, software & OS updates.
+          Deploy a fully managed instance of
+          <a
+            class="font-extrabold"
+            href="{{ .Params.content.website }}"
+            target="_blank">
+            {{ .Params.content.name }}
+          </a>
+          in few minutes on OctaByte. You can relax knowing that we are taking
+          care of installation, configuration, encryption, security, backups,
+          live monitoring, software & OS updates.
         </p>
       </div>
       <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
@@ -151,13 +157,13 @@
     <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
       <div class="mx-auto max-w-2xl text-center">
         <h2 class="text-4xl font-bold tracking-tight text-white">
-          Start your {{ .Params.content.name }} instance now!
+          Start your {{ .Params.content.name }} trial now!
         </h2>
         <div class="mt-10 flex items-center justify-center gap-x-6">
           <a
             href="#"
             class="rounded-md bg-white px-3.5 py-1.5 text-base font-semibold leading-7 text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">
-            Get Started your Trial
+            Get Started Free Trial
           </a>
         </div>
       </div>
