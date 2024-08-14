@@ -7,8 +7,8 @@ googleAnalytics: "TODO_REPLACE_IT"
 
 params:
   title: "OctaByte: Fully Managed Open source"
-  description: "Deploy 325+ open-source software in <3 mins. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
-  keywords: "octabyte, DevOps, open source, deployment"
+  description: "Deploy 100+ open-source software in <3 mins. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
+  keywords: "octabyte, DevOps, open source, deployment, open source applications"
 
   logo: "/images/logo.png"
   favicon: "/images/favicon.ico"
@@ -26,15 +26,15 @@ params:
 
 menus:
   main:
-    - name: "Managed service"
+    - name: "100+ softwares"
       url: "#"
       weight: 1
 
-    - name: "Top applications"
-      url: "#"
+    - name: "Top Applications"
+      url: "/#top-applications"
       weight: 2
 
-    - name: "350+ softwares"
+    - name: "How it works"
       url: "#"
       weight: 3
 
@@ -43,15 +43,15 @@ menus:
       url: "#"
 
   footer:
-    - name: "Managed service"
+    - name: "100+ softwares"
       url: "#"
       weight: 1
 
-    - name: "Top applications"
-      url: "#"
+    - name: "Top Applications"
+      url: "/#top-applications"
       weight: 2
 
-    - name: "350+ softwares"
+    - name: "How it works"
       url: "#"
       weight: 3
 

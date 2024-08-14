@@ -1,9 +1,9 @@
 enabled: true
-id: softwares-logo
+id: top-applications
 
 content:
-  title: "'350+' softwares"
-  description: "Deploy any one of over 350+ supported softwares in less than 3 minutes. You can relax knowing that we are taking care of installation, configuration, encryption, backups, software & OS updates, live monitoring…and more!"
+  title: "'100+' softwares"
+  description: "Deploy any one of over 100+ supported softwares in less than 3 minutes. You can relax knowing that we are taking care of installation, configuration, encryption, backups, software & OS updates, live monitoring…and more!"
 
   logos:
     - image: "https://dash.elest.io/templatesIcones/Dolibarr.png"
