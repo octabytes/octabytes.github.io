@@ -409,7 +409,7 @@ content:
     - image: "https://dash.elest.io/templatesIcones/Rocket.Chat.png"
       title: "Rocket.Chat"
       description: "Rocket.Chat is an open-source communications platform for organizations with high standards of data protection."
-      url: "/applications/live-chat/rocket.chat"
+      url: "/applications/live-chat/rocket-chat"
       category: "live-chat"
 
     - image: "https://dash.elest.io/templatesIcones/Papercups.png"
@@ -1053,9 +1053,3 @@ content:
       description: "Airflow is a platform created by the community to programmatically author, schedule and monitor workflows."
       url: "/applications/automation/airflow-worker"
       category: "automation"
-
-    - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
-      title: "FrappeHR"
-      description: "Frappe HR (ERPNext HRMS) is a user-friendly solution designed to streamline HR and payroll operations, driving excellence within your team."
-      url: "/applications/hrms/frappehr"
-      category: "hrms"
