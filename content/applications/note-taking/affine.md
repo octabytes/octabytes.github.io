@@ -4,16 +4,16 @@ draft: false
 
 content:
   name: "Affine"
-  logo: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Affine-KOfL.png"
+  logo: "/images/applications/note-taking/affine/logo.png"
   description: "Open Source, Privacy First Monday, Notion and Miro's Alternative. Affine is the next-generation collaborative knowledge base for professionals. It's not just a collection of Docs, whiteboard, and tables. Transform any building block as you like. Say goodbye to redundancy. Store your data once, and keep your data as you like it."
-  dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/198174913-d4f90da8-ae2a-4eb6-8424-55c94de432a1-JZ0G.jpeg"
+  dashboardImage: "/images/applications/note-taking/affine/dashboard.jpeg"
 
   videoUrl: "REPLACE"
   website: "https://affine.pro/"
 
   screenshots:
-    - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/198174913-d4f90da8-ae2a-4eb6-8424-55c94de432a1-JZ0G.jpeg"
-    - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/spaces-xctQQ5okTyf6JkedqFt3-uploads-git-blob-d5f393262b279f8a253addacb821f5ee3d729d55-----update-qMnJ.png"
+    - "/images/applications/note-taking/affine/dashboard.jpeg"
+    - "/images/applications/note-taking/affine/screenshot.png"
 
   features:
     - title: "Shape Your Page"
