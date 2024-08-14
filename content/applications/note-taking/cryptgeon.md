@@ -1,29 +1,24 @@
 ---
-title: "Cryptgeon"
-draft: false
-
 content:
-  name: "Cryptgeon"
-  logo: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Cryptgeon-g7dQ.png"
-  description: "Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte."
-  dashboardImage: "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2024-03-13-211505-X7oc.png"
-
-  website: "https://cryptgeon.org/"
-
-  screenshots:
-    - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2024-03-13-211505-X7oc.png"
-    - "https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Screenshot-2024-03-13-211607-NGJx.png"
-
+  dashboardImage: /images/applications/note-taking/cryptgeon/dashboard.png
+  description: Cryptgeon is a secure, open-source note / file-sharing service inspired
+    by PrivNote written in rust & svelte.
   features:
-    - title: "Send"
-      description: "Send text or files"
-
-    - title: "Decryption"
-      description: "The server cannot decrypt contents due to client-side encryption"
-
-    - title: "Constraints"
-      description: "View or time constraints"
-
-    - title: "Persistence"
-      description: "In memory, no persistence"
+  - description: Send text or files
+    title: Send
+  - description: The server cannot decrypt contents due to client-side encryption
+    title: Decryption
+  - description: View or time constraints
+    title: Constraints
+  - description: In memory, no persistence
+    title: Persistence
+  logo: /images/applications/note-taking/cryptgeon/logo.png
+  name: Cryptgeon
+  screenshots:
+  - /images/applications/note-taking/cryptgeon/screenshot-1.png
+  - /images/applications/note-taking/cryptgeon/screenshot-2.png
+  website: https://cryptgeon.org/
+draft: false
+title: Cryptgeon
 ---
+
