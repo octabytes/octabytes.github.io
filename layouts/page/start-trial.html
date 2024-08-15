@@ -40,7 +40,8 @@
 
         function onFormSubmit() {
           if (start_trial_form_submitted) {
-            window.location = "{{ .Params.content.stripePaymentLink }}"
+            localStorage.removeItem("referral-code");
+            window.location = "{{ .Params.content.paymentLink }}"
           }
         }
       </script>
@@ -141,8 +142,8 @@
               name="entry.257344567"
               id="service-name"
               required
-              readonly
-              class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" />
+              disabled
+              class="block w-full rounded-md border-0 px-3.5 py-2 disabled:cursor-not-allowed disabled:border-gray-200 disabled:bg-gray-50 disabled:text-gray-500 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" />
           </div>
         </div>
 
