@@ -2,96 +2,55 @@
 title: "Terms and Conditions"
 date: "2024-08-06T20:07:48+05:00"
 draft: false
-layout: "terms-and-conditions"
+layout: "markdown"
 ---
 
 # Terms and Conditions
 
-## 1. Introduction
+## 1. Acceptance of Terms
 
-Welcome to InBzar! These terms and conditions outline the rules and regulations for using our platform. By accessing or using InBzar, you agree to comply with these terms. If you disagree with any part of these terms, you must not use our platform.
+By using OctaByte’s services, you agree to comply with and be bound by the following terms and conditions. These terms apply to all users of the platform, including but not limited to customers, visitors, and vendors.
 
-## 2. Definitions
+## 2. Service Overview
 
-- **"InBzar"** refers to the e-commerce platform operated by InBzar.
-- **"User"** refers to anyone who accesses or uses InBzar, including store owners and customers.
-- **"Store Owner"** refers to users who create and manage a store on InBzar.
-- **"Customer"** refers to users who purchase products from stores on InBzar.
-- **"Product"** refers to any item listed for sale by a store owner on InBzar.
+OctaByte provides fully managed hosting services for open-source community versions of software. OctaByte does not own or develop the software offered and is not responsible for any issues related to the performance or functionality of the software itself. The service is limited to hosting, managing, and maintaining servers and updates for the hosted software.
 
-## 3. User Accounts
+## 3. Pricing and Payment
 
-- Users must create an account to use features of InBzar.
-- Users are responsible for maintaining the confidentiality of their account information and for all activities under their account.
-- Users must provide accurate and complete information during the registration process.
+OctaByte offers transparent, subscription-based pricing starting at $5 per month for shared servers. Additional pricing may apply for custom server specifications based on customer requirements. All payments are non-refundable, except in cases of service errors or violations on OctaByte’s end.
 
-## 4. Store Creation and Management
+## 4. Server and Application Management
 
-- Store owners can create and manage their stores on InBzar by purchasing a subscription.
-- Store owners are responsible for the accuracy and legality of their store content, including product descriptions, pricing, and images.
-- Store owners must comply with all applicable laws and regulations, including those related to consumer protection, product safety, and intellectual property rights.
+OctaByte will manage server operations, including setting up, maintaining, and updating the server infrastructure. Updates to open-source applications will be provided at no additional cost. Customers are responsible for any additional software or custom configurations they wish to install on their server.
 
-## 5. Product Listings
+## 5. Customization and Scaling
 
-- Products listed on InBzar must comply with our content guidelines and applicable laws.
-- Store owners are prohibited from selling illegal, counterfeit, or prohibited products on InBzar. This includes, but is not limited to, items that violate intellectual property rights, are unsafe, or are otherwise illegal to sell under applicable law.
-- InBzar reserves the right to remove or modify any product listing that violates our terms or is otherwise deemed inappropriate.
+Customers have the option to upgrade server specifications based on their usage and system load requirements. Contact OctaByte for any special server configurations. All changes to server specs may result in a change in the pricing plan.
 
-## 6. Payments and Fees
+## 6. Data Ownership and Migration
 
-- InBzar does not charge any fees for transactions.
-- Store owners must purchase a subscription to create a store on InBzar.
-- Store owners are responsible for integrating their own payment providers. All customer payments are processed directly through these providers, and funds go directly to the store owner's account.
-- Store owners are responsible for any applicable taxes related to their sales on InBzar.
+All data hosted on OctaByte servers belongs to the customer. Customers have the right to migrate their data away from OctaByte at any time without any vendor lock-in. OctaByte will provide reasonable assistance during migrations, but the customer is ultimately responsible for any migration-related tasks.
 
-## 7. Subdomains and Custom Domains
+## 7. Limitation of Liability
 
-- InBzar provides each store with a free subdomain (e.g., yourstore.inbzar.com).
-- Store owners can link their own domain with their store front if they choose.
-- The free subdomain provided by InBzar remains the property of InBzar. Store owners cannot claim ownership of this subdomain.
-- InBzar reserves the right to reclaim and repurpose any subdomain at its discretion. In such cases, InBzar will provide the store owner with a new free subdomain.
+OctaByte is not responsible for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the service, including but not limited to issues related to software performance, server downtime, or data loss.
 
-## 8. Shipping and Delivery
+## 8. Service Availability
 
-- Store owners are responsible for shipping products to customers in a timely and reliable manner.
-- Customers must provide accurate shipping information to ensure successful delivery.
-- InBzar is not responsible for any issues related to shipping or delivery of products.
+While OctaByte strives to provide continuous uptime for its services, there may be occasional downtime due to maintenance, upgrades, or unforeseen technical issues. OctaByte will make reasonable efforts to notify customers of planned maintenance in advance.
 
-## 9. Returns and Refunds
+## 9. Usage Restrictions
 
-- Store owners must establish and clearly communicate their return and refund policies to customers.
-- Customers should contact the store owner directly for any issues related to returns or refunds.
-- InBzar may mediate disputes between store owners and customers at its discretion.
+Users may not use OctaByte’s services for any illegal or unethical activities, including but not limited to hacking, distributing malicious software, or violating the intellectual property rights of others. OctaByte reserves the right to suspend or terminate accounts involved in such activities without notice.
 
-## 10. Intellectual Property
+## 10. Changes to Terms
 
-- Users retain ownership of any content they submit to InBzar but grant InBzar a non-exclusive license to use, reproduce, and display such content.
-- Users must not infringe on the intellectual property rights of others while using InBzar.
+OctaByte reserves the right to modify these terms and conditions at any time. Continued use of the service after any changes constitutes acceptance of the new terms.
 
-## 11. Prohibited Activities
+## 11. Termination
 
-Users must not engage in any activities that:
+Customers may cancel their subscription at any time. OctaByte also reserves the right to terminate services if a customer is found to be in violation of these terms. Upon termination, OctaByte will provide reasonable assistance in facilitating the migration of the customer’s data.
 
-- Violate any laws or regulations.
-- Involve fraud or deception.
-- Harm or attempt to harm minors.
-- Infringe on the rights of others.
-- Interfere with the security or operation of InBzar.
-- Sell illegal, counterfeit, or prohibited products.
+## 12. Contact Information
 
-## 12. Limitation of Liability
-
-- InBzar is provided "as is" and "as available" without warranties of any kind.
-- InBzar is not liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the platform.
-
-## 13. Indemnification
-
-Users agree to indemnify and hold InBzar harmless from any claims, losses, liabilities, damages, costs, or expenses arising from their use of the platform or violation of these terms.
-
-## 14. Modifications to Terms
-
-InBzar reserves the right to modify these terms at any time. Changes will be effective upon posting on the platform. Continued use of InBzar constitutes acceptance of the modified terms.
-
-## 15. Contact Information
-
-For questions or concerns regarding these terms, please [contact us](/contact-us).
+For any questions or concerns regarding these terms, customers can contact OctaByte’s support team through our website [contact us](/contact-us)

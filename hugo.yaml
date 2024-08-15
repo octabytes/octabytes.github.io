@@ -27,7 +27,7 @@ params:
 menus:
   main:
     - name: "100+ softwares"
-      url: "#"
+      url: "/applications"
       weight: 1
 
     - name: "Top Applications"
@@ -35,16 +35,16 @@ menus:
       weight: 2
 
     - name: "How it works"
-      url: "#"
+      url: "/how-it-works"
       weight: 3
 
   buttons:
     - name: "Start free Trial"
-      url: "#"
+      url: "/applications"
 
   footer:
     - name: "100+ softwares"
-      url: "#"
+      url: "/applications"
       weight: 1
 
     - name: "Top Applications"
@@ -52,7 +52,7 @@ menus:
       weight: 2
 
     - name: "How it works"
-      url: "#"
+      url: "/how-it-works"
       weight: 3
 
     - name: "Terms and Conditions"

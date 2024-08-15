@@ -1,5 +1,73 @@
 content:
   applications:
+    - category: live-chat
+      description: Chatwoot is an open-source, alternative customer engagement suite.
+      image: /images/applications/live-chat/chatwoot/logo.png
+      title: Chatwoot
+      url: /applications/live-chat/chatwoot
+
+    - category: cms
+      description:
+        Ghost is a powerful app for new-media creators to publish, share,
+        and grow a business around their content.
+      image: /images/applications/cms/ghost/logo.png
+      title: Ghost
+      url: /applications/cms/ghost
+
+    - category: hrms crm-erp
+      description:
+        Frappe HR (ERPNext HRMS) is a user-friendly solution designed to
+        streamline HR and payroll operations, driving excellence within your team.
+      image: /images/applications/hrms/frappehr/logo.png
+      title: FrappeHR
+      url: /applications/hrms/frappehr
+
+    - category: e-com
+      description:
+        Shopware is a modern eCommerce platform connecting enterprise-level
+        capabilities with flexibility.
+      image: /images/applications/e-commerce/shopware/logo.png
+      title: Shopware
+      url: /applications/e-commerce/shopware
+
+    - category: cms
+      description:
+        Directus is an Open Data Platform for managing the content of any
+        SQL database.
+      image: /images/applications/cms/directus/logo.png
+      title: Directus
+      url: /applications/cms/directus
+
+    - category: crm-erp
+      description: Odoo is a suite of web-based, open-source business apps.
+      image: /images/applications/crm-erp/odoo/logo.png
+      title: Odoo ERP & CRM
+      url: /applications/crm-erp/odoo
+
+    - category: calendar
+      description:
+        Calendly alternative Cal.com, is the event-juggling scheduler for
+        everyone. Focus on meetings, not making meetings. Free for individuals.
+      image: /images/applications/calendar/cal/logo.png
+      title: Cal
+      url: /applications/calendar/cal
+
+    - category: invoicing-and-payments
+      description:
+        Crater helps you track expenses, and payments & create professional
+        invoices & estimates.
+      image: /images/applications/invoicing-and-payments/crater/logo.png
+      title: Crater
+      url: /applications/invoicing-and-payments/crater
+
+    - category: crm-erp invoicing-and-payments
+      description:
+        Invoice Ninja is the leading free, open-source online invoicing app
+        for freelancers and businesses.
+      image: /images/applications/crm-erp/invoiceninja/logo.png
+      title: InvoiceNinja
+      url: /applications/crm-erp/invoiceninja
+
     - category: crm-erp
       description:
         Dolibarr ERP CRM is a modern software package to manage your company
@@ -7,11 +75,7 @@ content:
       image: /images/applications/crm-erp/dolibarr/logo.png
       title: Dolibarr
       url: /applications/crm-erp/dolibarr
-    - category: crm-erp
-      description: Odoo is a suite of web-based, open-source business apps.
-      image: /images/applications/crm-erp/odoo/logo.png
-      title: Odoo ERP & CRM
-      url: /applications/crm-erp/odoo
+
     - category: note-taking
       description: The open-source to-do app. Organize everything, on all platforms.
       image: /images/applications/note-taking/vikunja/logo.png
@@ -24,25 +88,7 @@ content:
       image: /images/applications/project-management/plane/logo.png
       title: Plane
       url: /applications/project-management/plane
-    - category: calendar
-      description:
-        Calendly alternative Cal.com, is the event-juggling scheduler for
-        everyone. Focus on meetings, not making meetings. Free for individuals.
-      image: /images/applications/calendar/cal/logo.png
-      title: Cal
-      url: /applications/calendar/cal
-    - category: live-chat
-      description: Chatwoot is an open-source, alternative customer engagement suite.
-      image: /images/applications/live-chat/chatwoot/logo.png
-      title: Chatwoot
-      url: /applications/live-chat/chatwoot
-    - category: invoicing-and-payments
-      description:
-        Crater helps you track expenses, and payments & create professional
-        invoices & estimates.
-      image: /images/applications/invoicing-and-payments/crater/logo.png
-      title: Crater
-      url: /applications/invoicing-and-payments/crater
+
     - category: documentation
       description:
         Open Source Document Management System for Digital Archives (Scanned
@@ -67,7 +113,7 @@ content:
       image: /images/applications/product-feedback/limesurvey/logo.png
       title: LimeSurvey
       url: /applications/product-feedback/limesurvey
-    - category: forum-and-community
+    - category: forum-and-community fediverse
       description:
         Mastodon is a free fediverse, open-source social network server with
         OpenSearch for indexing.
@@ -93,13 +139,7 @@ content:
       image: /images/applications/analytics/umami/logo.png
       title: Umami
       url: /applications/analytics/umami
-    - category: e-com
-      description:
-        Shopware is a modern eCommerce platform connecting enterprise-level
-        capabilities with flexibility.
-      image: /images/applications/e-commerce/shopware/logo.png
-      title: Shopware
-      url: /applications/e-commerce/shopware
+
     - category: e-com
       description:
         The PrestaShop project is a universal open-source software platform
@@ -107,20 +147,7 @@ content:
       image: /images/applications/e-commerce/prestashop/logo.png
       title: Prestashop
       url: /applications/e-commerce/prestashop
-    - category: cms
-      description:
-        Ghost is a powerful app for new-media creators to publish, share,
-        and grow a business around their content.
-      image: /images/applications/cms/ghost/logo.png
-      title: Ghost
-      url: /applications/cms/ghost
-    - category: cms
-      description:
-        Directus is an Open Data Platform for managing the content of any
-        SQL database.
-      image: /images/applications/cms/directus/logo.png
-      title: Directus
-      url: /applications/cms/directus
+
     - category: customer-support
       description: FreeScout is a free self-hosted help desk & shared mailbox.
       image: /images/applications/customer-support/freescout/logo.png
@@ -148,13 +175,7 @@ content:
       image: /images/applications/hcm/minthcm/logo.png
       title: MintHCM
       url: /applications/hcm/minthcm
-    - category: hrms
-      description:
-        Frappe HR (ERPNext HRMS) is a user-friendly solution designed to
-        streamline HR and payroll operations, driving excellence within your team.
-      image: /images/applications/hrms/frappehr/logo.png
-      title: FrappeHR
-      url: /applications/hrms/frappehr
+
     - category: crm-erp
       description: CryptPad is a collaboration suite, encrypted and open-source.
       image: /images/applications/crm-erp/cryptpad/logo.png
@@ -174,26 +195,12 @@ content:
       url: /applications/crm-erp/pretix
     - category: crm-erp
       description:
-        HumHub to communicate and collaborate, share information, interact
-        with all people in your organization, and personalize the software to fit your
-        individual needs.
-      image: /images/applications/crm-erp/humhub/logo.png
-      title: HumHub
-      url: /applications/crm-erp/humhub
-    - category: crm-erp
-      description:
         ERPNext is the leading open-source enterprise resource planning (ERP)
         software.
       image: /images/applications/crm-erp/erpnext/logo.png
       title: ErpNext
       url: /applications/crm-erp/erpnext
-    - category: crm-erp
-      description:
-        Invoice Ninja is the leading free, open-source online invoicing app
-        for freelancers and businesses.
-      image: /images/applications/crm-erp/invoiceninja/logo.png
-      title: InvoiceNinja
-      url: /applications/crm-erp/invoiceninja
+
     - category: crm-erp
       description:
         SuiteCRM is an open source Customer Relationship Management (CRM)
@@ -276,7 +283,7 @@ content:
       image: /images/applications/note-taking/flatnotes/logo.png
       title: Flatnotes
       url: /applications/note-taking/flatnotes
-    - category: note-taking
+    - category: note-taking project-management
       description:
         All-in-One Project Management Platform (alternative to Linear, Jira,
         Slack, Notion, Motion)
@@ -326,13 +333,6 @@ content:
       image: /images/applications/project-management/siglens/logo.png
       title: SigLens
       url: /applications/project-management/siglens
-    - category: project-management
-      description:
-        All-in-One Project Management Platform (alternative to Linear, Jira,
-        Slack, Notion, Motion)
-      image: /images/applications/project-management/huly/logo.png
-      title: Huly
-      url: /applications/project-management/huly
     - category: calendar
       description:
         Open Source Appointment Scheduler that allows customers to book appointments
@@ -368,11 +368,6 @@ content:
       image: /images/applications/live-chat/rocket-chat/logo.png
       title: Rocket.Chat
       url: /applications/live-chat/rocket-chat
-    - category: live-chat
-      description: Papercups is an open-source live customer chat.
-      image: /images/applications/live-chat/papercups/logo.png
-      title: Papercups
-      url: /applications/live-chat/papercups
     - category: live-chat
       description:
         The Open Source Discord Alternative. Find your community, connect
@@ -432,14 +427,7 @@ content:
       image: /images/applications/invoicing-and-payments/bigcapital/logo.png
       title: Bigcapital
       url: /applications/invoicing-and-payments/bigcapital
-    - category: invoicing-and-payments
-      description:
-        Invoice Ninja is the leading free, open-source online invoicing app
-        for freelancers and businesses.
-      image: /images/applications/invoicing-and-payments/invoiceninja/logo.png
-      title: InvoiceNinja
-      url: /applications/invoicing-and-payments/invoiceninja
-    - category: invoicing-and-payments
+    - category: invoicing-and-payments e-com
       description: Start Accepting Bitcoin Payments With 0% Fees & No Third-party.
       image: /images/applications/invoicing-and-payments/btcpay/logo.png
       title: BTCPay
@@ -496,7 +484,7 @@ content:
       image: /images/applications/documentation/documenso/logo.png
       title: Documenso
       url: /applications/documentation/documenso
-    - category: documentation
+    - category: documentation forum-and-community
       description:
         An open-source knowledge-based community software. You can use it
         quickly to build Q&A community for your products, customers, teams, and more.
@@ -554,11 +542,6 @@ content:
       image: /images/applications/search/zincsearch/logo.png
       title: ZincSearch
       url: /applications/search/zincsearch
-    - category: email-marketing
-      description: Mautic is open-source marketing automation software.
-      image: /images/applications/email-marketing/mautic/logo.png
-      title: Mautic
-      url: /applications/email-marketing/mautic
     - category: product-feedback
       description: Customer Feedback Made Easy.
       image: /images/applications/product-feedback/fider/logo.png
@@ -578,14 +561,7 @@ content:
       image: /images/applications/forum-community/discourse/logo.png
       title: Discourse
       url: /applications/forum-community/discourse
-    - category: forum-and-community
-      description:
-        A replacement for Lemmy-ui with more features, a better design, and
-        more customizability. It includes Photon UI + Lemmy
-      image: /images/applications/forum-community/photon/logo.png
-      title: Photon
-      url: /applications/forum-community/photon
-    - category: forum-and-community
+    - category: forum-and-community crm-erp
       description:
         HumHub to communicate and collaborate, share information, interact
         with all people in your organization, and personalize the software to fit your
@@ -603,7 +579,7 @@ content:
       image: /images/applications/forum-community/flarum/logo.png
       title: Flarum
       url: /applications/forum-community/flarum
-    - category: forum-and-community
+    - category: forum-and-community fediverse
       description: Create your community based on Matrix protocol.
       image: /images/applications/forum-community/element/logo.png
       title: Element
@@ -630,13 +606,6 @@ content:
       url: /applications/forum-community/friendica
     - category: forum-and-community
       description:
-        Open-source Reddit alternative. Create your own discussion platform
-        with Lemmy.
-      image: /images/applications/forum-community/lemmy/logo.png
-      title: Lemmy
-      url: /applications/forum-community/lemmy
-    - category: forum-and-community
-      description:
         A reddit-like content aggregator and micro-blogging platform for
         the fediverse.
       image: /images/applications/forum-community/kbin/logo.png
@@ -657,13 +626,6 @@ content:
       image: /images/applications/forum-community/phpbb/logo.png
       title: PhpBB
       url: /applications/forum-community/phpbb
-    - category: forum-and-community
-      description:
-        An open-source knowledge-based community software. You can use it
-        quickly to build Q&A community for your products, customers, teams, and more.
-      image: /images/applications/forum-community/answer/logo.png
-      title: Answer
-      url: /applications/forum-community/answer
     - category: business-intelligence
       description:
         Countly is a product analytics platform that helps teams track, analyze,
@@ -802,11 +764,6 @@ content:
       title: nopCommerce
       url: /applications/e-commerce/nopcommerce
     - category: e-com
-      description: Start Accepting Bitcoin Payments With 0% Fees & No Third-party.
-      image: /images/applications/e-commerce/btcpay/logo.png
-      title: BTCPay
-      url: /applications/e-commerce/btcpay
-    - category: e-com
       description:
         WooCommerce is a customizable, open-source eCommerce platform built
         on WordPress.
@@ -874,7 +831,7 @@ content:
       image: /images/applications/cms/strapi/logo.png
       title: Strapi
       url: /applications/cms/strapi
-    - category: customer-support
+    - category: customer-support live-chat
       description: Papercups is a open-source live customer chat
       image: /images/applications/customer-support/papercups/logo.png
       title: Papercups
@@ -952,7 +909,7 @@ content:
       image: /images/applications/fediverse/misskey/logo.png
       title: Misskey
       url: /applications/fediverse/misskey
-    - category: fediverse
+    - category: fediverse forum-and-community
       description:
         A replacement for Lemmy-ui with more features, a better design, and
         more customizability. It includes Photon UI + Lemmy.
@@ -974,18 +931,6 @@ content:
       image: /images/applications/fediverse/pleroma/logo.png
       title: Pleroma
       url: /applications/fediverse/pleroma
-    - category: fediverse
-      description:
-        Mastodon is a free fediverse, open-source social network server with
-        OpenSearch for indexing.
-      image: /images/applications/fediverse/mastodon/logo.png
-      title: Mastodon
-      url: /applications/fediverse/mastodon
-    - category: fediverse
-      description: Create your community based on Matrix protocol.
-      image: /images/applications/fediverse/element/logo.png
-      title: Element
-      url: /applications/fediverse/element
     - category: fediverse
       description: Free software to take back control of your videos for the Fediverse.
       image: /images/applications/fediverse/peertube/logo.png
@@ -1014,7 +959,7 @@ content:
       image: /images/applications/fediverse/friendica/logo.png
       title: Friendica
       url: /applications/fediverse/friendica
-    - category: fediverse
+    - category: fediverse forum-and-community
       description:
         Open-source Reddit alternative. Create your own discussion platform
         with Lemmy.
@@ -1028,7 +973,7 @@ content:
       image: /images/applications/fediverse/kbin/logo.png
       title: KBIN
       url: /applications/fediverse/kbin
-    - category: automation
+    - category: automation email-marketing
       description: Mautic is an open source marketing automation software.
       image: /images/applications/automation/mautic/logo.png
       title: Mautic

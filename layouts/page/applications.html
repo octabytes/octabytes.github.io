@@ -26,7 +26,8 @@
                 .textContent.toLowerCase();
 
               const matchesCategory =
-                selectedCategory === "all" || category === selectedCategory;
+                selectedCategory === "all" ||
+                category.includes(selectedCategory);
               const matchesSearch =
                 title.includes(searchTerm) || description.includes(searchTerm);
 

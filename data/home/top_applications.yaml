@@ -2,102 +2,106 @@ enabled: true
 id: top-applications
 
 content:
-  title: "'100+' softwares"
+  title: "'Top' softwares"
   description: "Deploy any one of over 100+ supported softwares in less than 3 minutes. You can relax knowing that we are taking care of installation, configuration, encryption, backups, software & OS updates, live monitoring…and more!"
 
+  button:
+    label: "View all 100+ softwares"
+    link: "/applications"
+
   logos:
-    - image: "https://dash.elest.io/templatesIcones/Dolibarr.png"
-      name: "Dolibarr"
-      url: "/open-source/dolibarr"
-
-    - image: "https://dash.elest.io/templatesIcones/Odoo_ERP_CRM.png"
-      name: "Odoo ERP & CRM"
-      url: "/open-source/odoo"
-
-    - image: "https://dash.elest.io/templatesIcones/Vikunja.png"
-      name: "Vikunja"
-      url: "/open-source/vikunja"
-
-    - image: "https://dash.elest.io/templatesIcones/Plane.png"
-      name: "Plane"
-      url: "/open-source/plane"
-
-    - image: "https://dash.elest.io/templatesIcones/Cal.png"
-      name: "Cal"
-      url: "/open-source/cal"
-
     - image: "https://dash.elest.io/templatesIcones/Chatwoot.png"
       name: "Chatwoot"
-      url: "/open-source/chatwoot"
-
-    - image: "https://dash.elest.io/templatesIcones/Crater.png"
-      name: "Crater"
-      url: "/open-source/crater"
-
-    - image: "https://dash.elest.io/templatesIcones/Papermerge.png"
-      name: "Papermerge"
-      url: "/open-source/papermerge"
-
-    - image: "https://dash.elest.io/templatesIcones/MeiliSearch.png"
-      name: "MeiliSearch"
-      url: "/open-source/meilisearch"
-
-    - image: "https://dash.elest.io/templatesIcones/Listmonk.png"
-      name: "Listmonk"
-      url: "/open-source/listmonk"
-
-    - image: "https://dash.elest.io/templatesIcones/LimeSurvey.png"
-      name: "LimeSurvey"
-      url: "/open-source/limesurvey"
-
-    - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
-      name: "Mastodon"
-      url: "/open-source/mastodon"
-
-    - image: "https://dash.elest.io/templatesIcones/Superset.png"
-      name: "Superset"
-      url: "/open-source/superset"
-
-    - image: "https://dash.elest.io/templatesIcones/Vaultwarden.png"
-      name: "Vaultwarden"
-      url: "/open-source/vaultwarden"
-
-    - image: "https://dash.elest.io/templatesIcones/Umami.png"
-      name: "Umami"
-      url: "/open-source/umami"
-
-    - image: "https://dash.elest.io/templatesIcones/Shopware.png"
-      name: "Shopware"
-      url: "/open-source/shopware"
-
-    - image: "https://dash.elest.io/templatesIcones/Prestashop.png"
-      name: "Prestashop"
-      url: "/open-source/prestashop"
+      url: "/applications/live-chat/chatwoot"
 
     - image: "https://dash.elest.io/templatesIcones/Ghost.png"
       name: "Ghost"
-      url: "/open-source/ghost"
-
-    - image: "https://dash.elest.io/templatesIcones/Directus.png"
-      name: "Directus"
-      url: "/open-source/directus"
-
-    - image: "https://dash.elest.io/templatesIcones/FreeScout.png"
-      name: "FreeScout"
-      url: "/open-source/freescout"
-
-    - image: "https://dash.elest.io/templatesIcones/Pixelfed.png"
-      name: "Pixelfed"
-      url: "/open-source/pixelfed"
-
-    - image: "https://dash.elest.io/templatesIcones/Windmill.png"
-      name: "Windmill"
-      url: "/open-source/windmill"
-
-    - image: "https://dash.elest.io/templatesIcones/MintHCM.png"
-      name: "MintHCM"
-      url: "/open-source/minthcm"
+      url: "/applications/cms/ghost"
 
     - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
       name: "FrappeHR"
-      url: "/open-source/frappehr"
+      url: "/applications/hrms/frappehr"
+
+    - image: "https://dash.elest.io/templatesIcones/Shopware.png"
+      name: "Shopware"
+      url: "/applications/e-commerce/shopware"
+
+    - image: "https://dash.elest.io/templatesIcones/Directus.png"
+      name: "Directus"
+      url: "/applications/cms/directus"
+
+    - image: "https://dash.elest.io/templatesIcones/Odoo_ERP_CRM.png"
+      name: "Odoo ERP & CRM"
+      url: "/applications/crm-erp/odoo"
+
+    - image: "https://dash.elest.io/templatesIcones/Cal.png"
+      name: "Cal"
+      url: "/applications/calendar/cal"
+
+    - image: "https://dash.elest.io/templatesIcones/Crater.png"
+      name: "Crater"
+      url: "/applications/invoicing-and-payments/crater"
+
+    - image: "https://dash.elest.io/templatesIcones/Papermerge.png"
+      name: "Papermerge"
+      url: "/applications/documentation/papermerge"
+
+    - image: "/images/applications/crm-erp/invoiceninja/logo.png"
+      name: "InvoiceNinja"
+      url: "/applications/crm-erp/invoiceninja"
+
+    - image: "https://dash.elest.io/templatesIcones/Dolibarr.png"
+      name: "Dolibarr"
+      url: "/applications/crm-erp/dolibarr"
+
+    - image: "https://dash.elest.io/templatesIcones/Vikunja.png"
+      name: "Vikunja"
+      url: "/applications/note-taking/vikunja"
+
+    - image: "https://dash.elest.io/templatesIcones/Plane.png"
+      name: "Plane"
+      url: "/applications/project-management/plane"
+
+    - image: "https://dash.elest.io/templatesIcones/MeiliSearch.png"
+      name: "MeiliSearch"
+      url: "/applications/search/meilisearch"
+
+    - image: "https://dash.elest.io/templatesIcones/LimeSurvey.png"
+      name: "LimeSurvey"
+      url: "/applications/product-feedback/limesurvey"
+
+    - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
+      name: "Mastodon"
+      url: "/applications/forum-community/mastodon"
+
+    - image: "https://dash.elest.io/templatesIcones/Superset.png"
+      name: "Superset"
+      url: "/applications/business-intelligence/superset"
+
+    - image: "https://dash.elest.io/templatesIcones/Vaultwarden.png"
+      name: "Vaultwarden"
+      url: "/applications/password-manager/vaultwarden"
+
+    - image: "https://dash.elest.io/templatesIcones/Umami.png"
+      name: "Umami"
+      url: "/applications/analytics/umami"
+
+    - image: "https://dash.elest.io/templatesIcones/Prestashop.png"
+      name: "Prestashop"
+      url: "/applications/e-commerce/prestashop"
+
+    - image: "https://dash.elest.io/templatesIcones/FreeScout.png"
+      name: "FreeScout"
+      url: "/applications/customer-support/freescout"
+
+    - image: "https://dash.elest.io/templatesIcones/Pixelfed.png"
+      name: "Pixelfed"
+      url: "/applications/fediverse/pixelfed"
+
+    - image: "https://dash.elest.io/templatesIcones/Windmill.png"
+      name: "Windmill"
+      url: "/applications/automation/windmill"
+
+    - image: "https://dash.elest.io/templatesIcones/MintHCM.png"
+      name: "MintHCM"
+      url: "/applications/hcm/minthcm"

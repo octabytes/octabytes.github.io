@@ -7,8 +7,8 @@ content:
 
   buttonPrimary:
     label: "Start free Trial"
-    url: "#"
+    url: "/applications"
 
   buttonSecondary:
     label: "Top applications"
-    url: "#"
+    url: "/#top-applications"

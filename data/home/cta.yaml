@@ -6,5 +6,5 @@ content:
   description: "Boost your productivity. Start using your favorite app today."
 
   button:
-    link: "#"
     label: "Start free Trial"
+    link: "/applications"
