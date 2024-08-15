@@ -1,9 +1,13 @@
 {{ $title := .Site.Title }}
 {{ if .IsHome }}
   {{ $title = printf "%s | %s" $title .Site.Params.description }}
+{{ else if strings.Contains .Permalink "applications/" }}
+  {{ $title = printf "%s fully managed open source service | OctaByte.io" .Title }}
 {{ else if .Title }}
   {{ $title = printf "%s | %s" $title .Title }}
 {{ end }}
 
 
 <title>{{ $title }}</title>
+
+<meta property="og:title" content="{{ $title }}" />
