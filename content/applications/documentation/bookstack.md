@@ -16,8 +16,7 @@ content:
       title: Searchable and connected
     - description:
         BookStack is built using PHP, on top of the Laravel framework, and
-        uses MySQL to store data. With performance in mind, it can run happily on a
-        $5 Digital Ocean VPS.
+        uses MySQL to store data. With performance in mind.
       title: Simple requirements
     - description:
         On top of the powerful search and linking, there is also cross-book
