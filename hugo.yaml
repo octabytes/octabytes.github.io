@@ -15,7 +15,7 @@ params:
 
   copyright: "2024 OctaByte. All rights reserved."
 
-  liveChat: false
+  liveChat: true
 
   social:
     facebook: "#"
