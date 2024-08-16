@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "'Fully managed' platform to deploy your favorite 'open-source' applications just for '$7'"
+  title: "'Fully managed' platform to deploy your favorite 'open-source' applications just for '$15'"
   description: "Effortlessly deploy and manage open source software with our fully managed DevOps platform, streamlining the entire process for you."
 
   buttonPrimary:
