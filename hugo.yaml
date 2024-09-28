@@ -55,10 +55,6 @@ menus:
       url: "/how-it-works"
       weight: 3
 
-    - name: "Contact us"
-      url: "/contact-us"
-      weight: 4
-
     - name: "Terms and Conditions"
       url: "/terms-and-conditions"
       weight: 5

@@ -16,7 +16,7 @@ OctaByte provides fully managed hosting services for open-source community versi
 
 ## 3. Pricing and Payment
 
-OctaByte offers transparent, subscription-based pricing starting at $15 per month for shared servers. Additional pricing may apply for custom server specifications based on customer requirements. All payments are non-refundable, except in cases of service errors or violations on OctaByte’s end.
+OctaByte offers transparent, subscription-based pricing starting at $22 per month for shared servers. Additional pricing may apply for custom server specifications based on customer requirements. All payments are non-refundable, except in cases of service errors or violations on OctaByte’s end.
 
 ## 4. Server and Application Management
 
@@ -52,4 +52,4 @@ Customers may cancel their subscription at any time. OctaByte also reserves the 
 
 ## 12. Contact Information
 
-For any questions or concerns regarding these terms, customers can contact OctaByte’s support team through our website [contact us](/contact-us)
+For any questions or concerns regarding these terms, customers can contact OctaByte’s support team.

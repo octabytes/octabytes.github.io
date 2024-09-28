@@ -12,7 +12,7 @@ OctaByte is a fully managed platform designed to help you deploy and manage your
 
 ## Hassle-Free Software Management
 
-Our service allows you to run these open-source apps without the hassle of managing servers or updates. OctaByte handles everything from server setup to software management, ensuring you can focus on using the tools you love. By default, for just $15, you get access to a shared server, but we also offer custom server configurations based on your specific requirements.
+Our service allows you to run these open-source apps without the hassle of managing servers or updates. OctaByte handles everything from server setup to software management, ensuring you can focus on using the tools you love. By default, for just $22, you get access to a shared server, but we also offer custom server configurations based on your specific requirements.
 
 ## Full Community Version, No Restrictions
 
@@ -20,4 +20,4 @@ Unlike other services that limit features or charge high fees for hosted version
 
 ## Simple, Transparent Pricing
 
-Our pricing starts at $15 with no hidden fees, and you can scale your server as your needs grow. Plus, your data belongs to you—you can migrate away from OctaByte at any time without any vendor lock-in.
+Our pricing starts at $22 with no hidden fees, and you can scale your server as your needs grow. Plus, your data belongs to you—you can migrate away from OctaByte at any time without any vendor lock-in.
