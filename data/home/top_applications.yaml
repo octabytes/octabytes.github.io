@@ -62,7 +62,7 @@ content:
       name: "Plane"
       url: "/applications/project-management/plane"
 
-    - image: "https://dash.elest.io/templatesIcones/MeiliSearch.png"
+    - image: "/images/applications/search/meilisearch/logo.png"
       name: "MeiliSearch"
       url: "/applications/search/meilisearch"
 
