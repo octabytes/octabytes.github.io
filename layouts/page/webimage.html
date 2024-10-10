@@ -1,0 +1,124 @@
+{{ define "main" }}
+  <section>
+    <div class="p-4 mt-10 w-full">
+      <div class="w-full grid gap-16 items-center sm:grid-cols-[1fr_1.3fr]">
+        <div>
+          <div class="flex items-center gap-5">
+            <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
+              <img
+                src="{{ .Params.content.logo }}"
+                style="width: 90px; aspect-ratio: 1; object-fit: contain" />
+            </div>
+
+            <h1 class="text-xl font-extrabold">
+              <span
+                class="text-4xl bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
+                {{ .Params.content.name }}
+              </span>
+              <br />
+              fully managed by OctaByte
+            </h1>
+          </div>
+
+          <div class="ml-4">
+            <p class="mt-2 text-base">
+              {{ .Params.content.description }}
+            </p>
+            <p class="mt-4">
+              Start free {{ .Params.content.name }} trial with OctaByte. Simple
+              no-tricks Pricing, Scalable &amp; Secure, just in
+              <span
+                class="bg-gradient-to-r font-extrabold from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
+                $22.
+              </span>
+            </p>
+            <div class="flex items-center justify-start gap-3 my-5 flex-wrap">
+              <a
+                href="/start-trial?service={{ .Params.content.name }}"
+                class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                Start Free Trial
+              </a>
+              <a
+                href="{{ .Params.content.website }}"
+                target="_blank"
+                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                {{ .Params.content.name }} Website
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
+          <div
+            class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
+          <img
+            src="{{ .Params.content.dashboardImage }}"
+            alt="{{ .Params.content.name }} dashboard"
+            width="100%" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white">
+    <img
+      src="{{ .Params.content.image }}"
+      alt="{{ .Params.content.name }}"
+      usemap="#image-map" />
+    <map name="image-map">
+      <area
+        target=""
+        alt="Google"
+        title="Google"
+        href="https://google.com"
+        coords="381,416,620,473"
+        shape="rect" />
+    </map>
+  </section>
+
+  <section class="relative isolate overflow-hidden bg-gray-900">
+    <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-4xl font-bold tracking-tight text-white">
+          Start your {{ .Params.content.name }} trial now!
+        </h2>
+        <div class="mt-10 flex items-center justify-center gap-x-6">
+          <a
+            href="/start-trial?service={{ .Params.content.name }}"
+            class="rounded-md bg-white px-3.5 py-1.5 text-base font-semibold leading-7 text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">
+            Get Started Free Trial
+          </a>
+        </div>
+      </div>
+    </div>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
+      class="absolute top-1/2 left-1/2 -z-10 h-[64rem] w-[64rem] -translate-x-1/2"
+      aria-hidden="true">
+      <circle
+        cx="512"
+        cy="512"
+        r="512"
+        fill="url(#8d958450-c69f-4251-94bc-4e091a323369)"
+        fill-opacity="0.7" />
+      <defs>
+        <radialGradient
+          id="8d958450-c69f-4251-94bc-4e091a323369"
+          cx="0"
+          cy="0"
+          r="1"
+          gradientUnits="userSpaceOnUse"
+          gradientTransform="translate(512 512) rotate(90) scale(512)">
+          <stop stop-color="#7775D6"></stop>
+          <stop offset="1" stop-color="#E935C1" stop-opacity="0"></stop>
+        </radialGradient>
+      </defs>
+    </svg>
+  </section>
+  <script src="/js/imagemapresizer.min.js"></script>
+  <script>
+    imageMapResize();
+  </script>
+{{ end }}
