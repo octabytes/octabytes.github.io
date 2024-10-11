@@ -38,6 +38,7 @@ content:
     - /images/applications/live-chat/chatwoot/screenshot-2.jpg
   videoUrl: REPLACE
   website: https://www.chatwoot.com/
+  webarchive: chatwoot
 draft: false
 title: Chatwoot
 ---
