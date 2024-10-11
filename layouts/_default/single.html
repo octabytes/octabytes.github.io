@@ -39,9 +39,9 @@
                 Start Free Trial
               </a>
               <a
-                href="#features"
+                href="#webarchive"
                 class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                {{ .Params.content.name }} Features
+                {{ .Params.content.name }} website
               </a>
             </div>
           </div>
@@ -73,7 +73,7 @@
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
           Deploy a fully managed instance of
-          <a class="font-extrabold" href="#features">
+          <a class="font-extrabold" href="#webarchive">
             {{ .Params.content.name }}
           </a>
           in just
@@ -154,6 +154,15 @@
       </div>
     </div>
   </section>
+
+  {{ with .Params.content.webarchive }}
+    <section id="webarchive" class="bg-white pb-12 sm:pb-16">
+      <iframe
+        class="w-full h-screen"
+        src="https://webarchive.octabyte.io/{{ . }}"></iframe>
+    </section>
+  {{ end }}
+
 
   <section class="relative isolate overflow-hidden bg-gray-900">
     <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
