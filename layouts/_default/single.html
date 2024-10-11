@@ -39,9 +39,9 @@
                 Start Free Trial
               </a>
               <a
-                href="#webarchive"
+                href="#features"
                 class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                {{ .Params.content.name }} Website
+                {{ .Params.content.name }} Features
               </a>
             </div>
           </div>
@@ -73,7 +73,7 @@
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
           Deploy a fully managed instance of
-          <a class="font-extrabold" href="#webarchive">
+          <a class="font-extrabold" href="#features">
             {{ .Params.content.name }}
           </a>
           in just
@@ -129,7 +129,7 @@
     </div>
   </section>
 
-  <section class="bg-white py-24 sm:py-32">
+  <section id="features" class="bg-white py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:text-center">
         <h2
@@ -154,15 +154,6 @@
       </div>
     </div>
   </section>
-
-  {{ with .Params.content.webarchive }}
-    <section id="webarchive" class="bg-white py-24 sm:py-32">
-      <iframe
-        class="w-full h-screen"
-        src="http://webarchive.octabyte.io/chatwoot/"></iframe>
-    </section>
-  {{ end }}
-
 
   <section class="relative isolate overflow-hidden bg-gray-900">
     <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
