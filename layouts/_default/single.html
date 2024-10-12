@@ -41,7 +41,7 @@
               <a
                 href="#webarchive"
                 class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                {{ .Params.content.name }} website
+                {{ .Params.content.name }} detail
               </a>
             </div>
           </div>
@@ -158,9 +158,27 @@
   {{ with .Params.content.webarchive }}
     <section id="webarchive" class="bg-white pb-12 sm:pb-16">
       <iframe
-        class="w-full h-screen"
+        id="web-frame"
+        class="w-full"
         src="https://webarchive.octabyte.io/{{ . }}"></iframe>
     </section>
+    <script>
+      window.addEventListener(
+        "message",
+        function (event) {
+          const allowedOrigins = ["https://webarchive.octabyte.io"];
+
+          if (!allowedOrigins.includes(event.origin)) return;
+
+          const iframe = document.getElementById("web-frame");
+          const height = parseInt(event.data);
+          if (!isNaN(height)) {
+            iframe.style.height = height + "px";
+          }
+        },
+        false,
+      );
+    </script>
   {{ end }}
 
 
