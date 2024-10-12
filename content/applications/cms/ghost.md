@@ -43,6 +43,7 @@ content:
     - /images/applications/cms/ghost/screenshot-2.jpg
   videoUrl: REPLACE
   website: https://ghost.org/
+  webarchive: ghost
 draft: false
 title: Ghost
 ---

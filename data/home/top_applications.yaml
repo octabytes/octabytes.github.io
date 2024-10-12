@@ -10,15 +10,15 @@ content:
     link: "/applications"
 
   logos:
-    - image: "https://dash.elest.io/templatesIcones/Chatwoot.png"
+    - image: "/images/applications/live-chat/chatwoot/logo.png"
       name: "Chatwoot"
       url: "/applications/live-chat/chatwoot"
 
-    - image: "https://dash.elest.io/templatesIcones/Ghost.png"
+    - image: "/images/applications/cms/ghost/logo.png"
       name: "Ghost"
       url: "/applications/cms/ghost"
 
-    - image: "https://dash.elest.io/templatesIcones/FrappeHR.png"
+    - image: "/images/applications/hrms/frappehr/logo.png"
       name: "FrappeHR"
       url: "/applications/hrms/frappehr"
 
