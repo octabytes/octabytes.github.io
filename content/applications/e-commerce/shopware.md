@@ -31,7 +31,7 @@ content:
   name: Shopware
   screenshots:
     - /images/applications/e-commerce/shopware/dashboard.png
-    - /images/applications/e-commerce/shopware/screenshot-2.png
+    - /images/applications/e-commerce/shopware/screenshot-2.webp
   videoUrl: REPLACE
   website: https://www.shopware.com/
 draft: false
