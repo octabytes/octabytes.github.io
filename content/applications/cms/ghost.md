@@ -44,6 +44,7 @@ content:
   videoUrl: REPLACE
   website: https://ghost.org/
   webarchive: ghost
+  title: Ghost The best open source blog & newsletter platform
 draft: false
 title: Ghost
 ---

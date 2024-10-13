@@ -32,6 +32,7 @@ content:
   videoUrl: REPLACE
   website: https://frappehr.com/
   webarchive: frappehr
+  title: Frappe HR
 draft: false
 title: FrappeHR
 ---
