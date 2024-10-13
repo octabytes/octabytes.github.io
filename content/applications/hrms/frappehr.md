@@ -31,6 +31,7 @@ content:
     - /images/applications/hrms/frappehr/dashboard.jpg
   videoUrl: REPLACE
   website: https://frappehr.com/
+  webarchive: frappehr
 draft: false
 title: FrappeHR
 ---

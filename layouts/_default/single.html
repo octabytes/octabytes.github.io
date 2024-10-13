@@ -38,11 +38,22 @@
                 class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
                 Start Free Trial
               </a>
-              <a
-                href="#webarchive"
-                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                {{ .Params.content.name }} detail
-              </a>
+
+              {{ if .Params.content.webarchive }}
+                <a
+                  href="#webarchive"
+                  class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                  {{ .Params.content.name }} detail
+                </a>
+              {{ else }}
+                <a
+                  href="{{ .Params.content.website }}"
+                  target="_blank"
+                  class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                  {{ .Params.content.name }} website
+                </a>
+              {{ end }}
+
             </div>
           </div>
         </div>
@@ -73,9 +84,19 @@
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
           Deploy a fully managed instance of
-          <a class="font-extrabold" href="#webarchive">
-            {{ .Params.content.name }}
-          </a>
+          {{ if .Params.content.webarchive }}
+            <a class="font-extrabold" href="#webarchive">
+              {{ .Params.content.name }}
+            </a>
+          {{ else }}
+            <a
+              class="font-extrabold"
+              href="{{ .Params.content.website }}"
+              target="_blank">
+              {{ .Params.content.name }}
+            </a>
+          {{ end }}
+
           in just
           <span class="font-extrabold">$22.</span>
           You can relax knowing that we are taking care of installation,
