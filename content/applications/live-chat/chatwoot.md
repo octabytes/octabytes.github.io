@@ -39,6 +39,7 @@ content:
   videoUrl: REPLACE
   website: https://www.chatwoot.com/
   webarchive: chatwoot
+  title: Chatwoot Customer engagement platform. An open-source, self-hosted alternative to Intercom, Zendesk
 draft: false
 title: Chatwoot
 ---

@@ -7,6 +7,7 @@
             <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
               <img
                 src="{{ .Params.content.logo }}"
+                alt="{{ .Title }} logo"
                 style="width: 90px; aspect-ratio: 1; object-fit: contain" />
             </div>
 
@@ -141,10 +142,9 @@
               class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
               <div
                 class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
-              <img src="{{ . }}" width="100%" />
+              <img src="{{ . }}" alt="{{ $.Title }} screenshot" width="100%" />
             </div>
           {{ end }}
-
         </div>
       </div>
     </div>
@@ -176,12 +176,13 @@
     </div>
   </section>
 
-  {{ with .Params.content.webarchive }}
+  {{ if .Params.content.webarchive }}
     <section id="webarchive" class="bg-white pb-12 sm:pb-16">
       <iframe
+        title="{{ .Params.content.title }}"
         id="web-frame"
         class="w-full h-screen"
-        src="https://webarchive.octabyte.io/{{ . }}"></iframe>
+        src="https://webarchive.octabyte.io/{{ .Params.content.webarchive }}"></iframe>
     </section>
     <script>
       window.addEventListener(
