@@ -22,7 +22,7 @@ content:
       name: "FrappeHR"
       url: "/applications/hrms/frappehr"
 
-    - image: "https://dash.elest.io/templatesIcones/Shopware.png"
+    - image: "/images/applications/e-commerce/shopware/logo.png"
       name: "Shopware"
       url: "/applications/e-commerce/shopware"
 
@@ -30,7 +30,7 @@ content:
       name: "Directus"
       url: "/applications/cms/directus"
 
-    - image: "https://dash.elest.io/templatesIcones/Odoo_ERP_CRM.png"
+    - image: "/images/applications/crm-erp/odoo/logo.png"
       name: "Odoo ERP & CRM"
       url: "/applications/crm-erp/odoo"
 

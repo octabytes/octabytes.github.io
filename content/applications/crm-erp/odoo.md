@@ -39,6 +39,8 @@ content:
     - /images/applications/crm-erp/odoo/dashboard.jpg
     - /images/applications/crm-erp/odoo/screenshot-2.jpg
   website: https://www.odoo.com/
+  webarchive: odoo
+  title: Odoo
 draft: false
 title: Odoo ERP & CRM
 ---
