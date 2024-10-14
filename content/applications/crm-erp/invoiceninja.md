@@ -34,6 +34,9 @@ content:
     - /images/applications/crm-erp/invoiceninja/dashboard.jpg
     - /images/applications/crm-erp/invoiceninja/screenshot-2.jpg
   website: https://invoiceninja.com/
+  webarchive: invoiceninja
+  title: Invoice Ninja - Free Invoicing Software for Small Businesses | Invoice
+    Ninja
 draft: false
 title: InvoiceNinja
 ---
