@@ -38,7 +38,7 @@ content:
       name: "Cal"
       url: "/applications/calendar/cal"
 
-    - image: "https://dash.elest.io/templatesIcones/Crater.png"
+    - image: "/images/applications/invoicing-and-payments/crater/logo.png"
       name: "Crater"
       url: "/applications/invoicing-and-payments/crater"
 
