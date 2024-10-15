@@ -26,7 +26,7 @@ content:
       name: "Shopware"
       url: "/applications/e-commerce/shopware"
 
-    - image: "https://dash.elest.io/templatesIcones/Directus.png"
+    - image: "/images/applications/cms/directus/logo.png"
       name: "Directus"
       url: "/applications/cms/directus"
 
@@ -34,7 +34,7 @@ content:
       name: "Odoo ERP & CRM"
       url: "/applications/crm-erp/odoo"
 
-    - image: "https://dash.elest.io/templatesIcones/Cal.png"
+    - image: "/images/applications/calendar/cal/logo.png"
       name: "Cal"
       url: "/applications/calendar/cal"
 
@@ -42,7 +42,7 @@ content:
       name: "Crater"
       url: "/applications/invoicing-and-payments/crater"
 
-    - image: "https://dash.elest.io/templatesIcones/Papermerge.png"
+    - image: "/images/applications/documentation/papermerge/logo.png"
       name: "Papermerge"
       url: "/applications/documentation/papermerge"
 
@@ -50,15 +50,15 @@ content:
       name: "InvoiceNinja"
       url: "/applications/crm-erp/invoiceninja"
 
-    - image: "https://dash.elest.io/templatesIcones/Dolibarr.png"
+    - image: "/images/applications/crm-erp/dolibarr/logo.png"
       name: "Dolibarr"
       url: "/applications/crm-erp/dolibarr"
 
-    - image: "https://dash.elest.io/templatesIcones/Vikunja.png"
+    - image: "/images/applications/note-taking/vikunja/logo.png"
       name: "Vikunja"
       url: "/applications/note-taking/vikunja"
 
-    - image: "https://dash.elest.io/templatesIcones/Plane.png"
+    - image: "/images/applications/project-management/plane/logo.png"
       name: "Plane"
       url: "/applications/project-management/plane"
 
@@ -66,42 +66,42 @@ content:
       name: "MeiliSearch"
       url: "/applications/search/meilisearch"
 
-    - image: "https://dash.elest.io/templatesIcones/LimeSurvey.png"
+    - image: "/images/applications/product-feedback/limesurvey/logo.png"
       name: "LimeSurvey"
       url: "/applications/product-feedback/limesurvey"
 
-    - image: "https://dash.elest.io/templatesIcones/Mastodon.png"
+    - image: "/images/applications/forum-community/mastodon/logo.png"
       name: "Mastodon"
       url: "/applications/forum-community/mastodon"
 
-    - image: "https://dash.elest.io/templatesIcones/Superset.png"
+    - image: "/images/applications/business-intelligence/superset/logo.png"
       name: "Superset"
       url: "/applications/business-intelligence/superset"
 
-    - image: "https://dash.elest.io/templatesIcones/Vaultwarden.png"
+    - image: "/images/applications/password-manager/vaultwarden/logo.png"
       name: "Vaultwarden"
       url: "/applications/password-manager/vaultwarden"
 
-    - image: "https://dash.elest.io/templatesIcones/Umami.png"
+    - image: "/images/applications/analytics/umami/logo.png"
       name: "Umami"
       url: "/applications/analytics/umami"
 
-    - image: "https://dash.elest.io/templatesIcones/Prestashop.png"
+    - image: "/images/applications/e-commerce/prestashop/logo.png"
       name: "Prestashop"
       url: "/applications/e-commerce/prestashop"
 
-    - image: "https://dash.elest.io/templatesIcones/FreeScout.png"
+    - image: "/images/applications/customer-support/freescout/logo.png"
       name: "FreeScout"
       url: "/applications/customer-support/freescout"
 
-    - image: "https://dash.elest.io/templatesIcones/Pixelfed.png"
+    - image: "/images/applications/fediverse/pixelfed/logo.png"
       name: "Pixelfed"
       url: "/applications/fediverse/pixelfed"
 
-    - image: "https://dash.elest.io/templatesIcones/Windmill.png"
+    - image: "/images/applications/automation/windmill/logo.png"
       name: "Windmill"
       url: "/applications/automation/windmill"
 
-    - image: "https://dash.elest.io/templatesIcones/MintHCM.png"
+    - image: "/images/applications/hcm/minthcm/logo.png"
       name: "MintHCM"
       url: "/applications/hcm/minthcm"

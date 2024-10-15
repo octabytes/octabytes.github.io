@@ -23,6 +23,8 @@ content:
     - /images/applications/crm-erp/twenty/dashboard.webp
     - /images/applications/crm-erp/twenty/screenshot-2.png
   website: https://twenty.com/
+  webarchive: twenty
+  title: Twenty - Open-Source CRM
 draft: false
 title: Twenty
 ---
