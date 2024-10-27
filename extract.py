@@ -7,7 +7,7 @@ import yaml
 html_file_path = "tmp.html"
 
 # Define output paths
-images_base_path = "./static/images/databases/relational-database"
+images_base_path = "./static/images/databases/specialized-database"
 yaml_path = "./data/databases.yaml"
 
 # Load HTML content from the file
@@ -28,10 +28,11 @@ for card in cards:
     item_name = card.select_one(".template__label").get_text().strip().lower()
     title = item_name.capitalize()
     description = card.select_one(".template__description").get_text().strip()
+    description = " ".join(description.split())  # Remove extra whitespace and line breaks
     image_url = card.select_one("img")["src"]
 
     # Construct URLs
-    new_link = f"/databases/relational-database/{item_name}"
+    new_link = f"/databases/specialized-database/{item_name}"
     external_link = f"https://elest.io{link}"
 
     # Download and save the image
@@ -43,11 +44,12 @@ for card in cards:
 
     # Append to databases data
     databases_data["content"]["databases"].append({
-        "category": "relational-database",
+        "category": "specialized-database",
         "description": description,
-        "image": f"/images/databases/relational-database/{item_name}/logo.png",
+        "image": f"/images/databases/specialized-database/{item_name}/logo.png",
         "title": title,
         "url": new_link,
+        "external_link": external_link
     })
 
 # Save the YAML file
