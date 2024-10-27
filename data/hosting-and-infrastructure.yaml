@@ -1,0 +1,303 @@
+content:
+  services:
+  - category: monitoring
+    description: Changedetection.io is an open source web page monitoring, notification
+      and change detection.
+    external_link: https://elest.io/open-source/changedetection
+    image: /images/hosting-and-infrastructure/monitoring/changedetection/logo.png
+    title: Changedetection
+    url: /hosting-and-infrastructure/monitoring/changedetection
+  - category: monitoring
+    description: Coroot is an APM & Observability tool, a DataDog and NewRelic alternative
+    external_link: https://elest.io/open-source/coroot
+    image: /images/hosting-and-infrastructure/monitoring/coroot/logo.png
+    title: Coroot
+    url: /hosting-and-infrastructure/monitoring/coroot
+  - category: monitoring
+    description: Grafana is a multi-platform, open-source analytics and interactive
+      visualization web application.
+    external_link: https://elest.io/open-source/grafana
+    image: /images/hosting-and-infrastructure/monitoring/grafana/logo.png
+    title: Grafana
+    url: /hosting-and-infrastructure/monitoring/grafana
+  - category: monitoring
+    description: Loki is a log aggregation system designed to store and query logs
+      from all your applications and infrastructure.
+    external_link: https://elest.io/open-source/loki
+    image: /images/hosting-and-infrastructure/monitoring/loki/logo.png
+    title: Loki
+    url: /hosting-and-infrastructure/monitoring/loki
+  - category: monitoring
+    description: Reimplementation of the Sentry error tracking platform, Track errors,
+      uptime, and performance.
+    external_link: https://elest.io/open-source/glitchtip
+    image: /images/hosting-and-infrastructure/monitoring/glitchtip/logo.png
+    title: Glitchtip
+    url: /hosting-and-infrastructure/monitoring/glitchtip
+  - category: monitoring
+    description: Sensu is an open source monitoring tool for ephemeral infrastructure
+      and distributed applications.
+    external_link: https://elest.io/open-source/sensu
+    image: /images/hosting-and-infrastructure/monitoring/sensu/logo.png
+    title: Sensu
+    url: /hosting-and-infrastructure/monitoring/sensu
+  - category: monitoring
+    description: SigNoz is an open-source APM solution for understanding issues in
+      your applications and solving them quickly
+    external_link: https://elest.io/open-source/signoz
+    image: /images/hosting-and-infrastructure/monitoring/signoz/logo.png
+    title: Signoz
+    url: /hosting-and-infrastructure/monitoring/signoz
+  - category: monitoring
+    description: Uptime Kuma is a self-hosted monitoring tool like Uptime Robot.
+    external_link: https://elest.io/open-source/uptime-kuma
+    image: /images/hosting-and-infrastructure/monitoring/uptime-kuma/logo.png
+    title: Uptime-kuma
+    url: /hosting-and-infrastructure/monitoring/uptime-kuma
+  - category: monitoring
+    description: Healthchecks is an online service for monitoring regularly running
+      tasks such as cron jobs.
+    external_link: https://elest.io/open-source/healthchecks
+    image: /images/hosting-and-infrastructure/monitoring/healthchecks/logo.png
+    title: Healthchecks
+    url: /hosting-and-infrastructure/monitoring/healthchecks
+  - category: monitoring
+    description: VictoriaMetrics is a fast, cost-effective monitoring solution and
+      time series database
+    external_link: https://elest.io/open-source/victoriametrics
+    image: /images/hosting-and-infrastructure/monitoring/victoriametrics/logo.png
+    title: Victoriametrics
+    url: /hosting-and-infrastructure/monitoring/victoriametrics
+  - category: monitoring
+    description: Jitsu is an open-source web and app-event collection platform.
+    external_link: https://elest.io/open-source/jitsu
+    image: /images/hosting-and-infrastructure/monitoring/jitsu/logo.png
+    title: Jitsu
+    url: /hosting-and-infrastructure/monitoring/jitsu
+  - category: monitoring
+    description: Zabbix is an enterprise-class open source distributed monitoring
+      solution.
+    external_link: https://elest.io/open-source/zabbix
+    image: /images/hosting-and-infrastructure/monitoring/zabbix/logo.png
+    title: Zabbix
+    url: /hosting-and-infrastructure/monitoring/zabbix
+  - category: monitoring
+    description: Power your metrics and alerting with the leading open-source monitoring
+      solution
+    external_link: https://elest.io/open-source/prometheus
+    image: /images/hosting-and-infrastructure/monitoring/prometheus/logo.png
+    title: Prometheus
+    url: /hosting-and-infrastructure/monitoring/prometheus
+  - category: monitoring infrastructure
+    description: The Industry Standard In IT Infrastructure Monitoring
+    external_link: https://elest.io/open-source/nagios
+    image: /images/hosting-and-infrastructure/monitoring/nagios/logo.png
+    title: Nagios
+    url: /hosting-and-infrastructure/monitoring/nagios
+  - category: monitoring
+    description: The first open-source hypervision solution
+    external_link: https://elest.io/open-source/canopsis
+    image: /images/hosting-and-infrastructure/monitoring/canopsis/logo.png
+    title: Canopsis
+    url: /hosting-and-infrastructure/monitoring/canopsis
+  - category: email
+    description: Mailcow is a mail server suite with an elegant web interface for
+      managing domains, mailboxes, etc.
+    external_link: https://elest.io/open-source/mailcow
+    image: /images/hosting-and-infrastructure/email/mailcow/logo.png
+    title: Mailcow
+    url: /hosting-and-infrastructure/email/mailcow
+  - category: email
+    description: Postal is a fully featured open-source mail delivery platform for
+      incoming and outgoing email.
+    external_link: https://elest.io/open-source/postal
+    image: /images/hosting-and-infrastructure/email/postal/logo.png
+    title: Postal
+    url: /hosting-and-infrastructure/email/postal
+  - category: email
+    description: Mailu is an insular email distribution - mail server as Docker images
+    external_link: https://elest.io/open-source/mailu
+    image: /images/hosting-and-infrastructure/email/mailu/logo.png
+    title: Mailu
+    url: /hosting-and-infrastructure/email/mailu
+  - category: storage
+    description: Nextcloud provides an industry-leading, on-premises content collaboration
+      platform.
+    external_link: https://elest.io/open-source/nextcloud
+    image: /images/hosting-and-infrastructure/storage/nextcloud/logo.png
+    title: Nextcloud
+    url: /hosting-and-infrastructure/storage/nextcloud
+  - category: storage
+    description: PhotoPrism is an AI-powered app for browsing, organizing & sharing
+      your photo collection
+    external_link: https://elest.io/open-source/photoprism
+    image: /images/hosting-and-infrastructure/storage/photoprism/logo.png
+    title: Photoprism
+    url: /hosting-and-infrastructure/storage/photoprism
+  - category: storage
+    description: Syncthing is a free, continuous, multiple-device file synchronization
+      program.
+    external_link: https://elest.io/open-source/syncthing
+    image: /images/hosting-and-infrastructure/storage/syncthing/logo.png
+    title: Syncthing
+    url: /hosting-and-infrastructure/storage/syncthing
+  - category: storage
+    description: Filestash is a Dropbox-like file manager that lets you manage your
+      data anywhere it is located.
+    external_link: https://elest.io/open-source/filestash
+    image: /images/hosting-and-infrastructure/storage/filestash/logo.png
+    title: Filestash
+    url: /hosting-and-infrastructure/storage/filestash
+  - category: storage
+    description: ownCloud is a suite of client-server software for creating and using
+      file hosting services.
+    external_link: https://elest.io/open-source/owncloud
+    image: /images/hosting-and-infrastructure/storage/owncloud/logo.png
+    title: Owncloud
+    url: /hosting-and-infrastructure/storage/owncloud
+  - category: storage
+    description: Paperless-ngx is a document management system that transforms your
+      physical documents into a searchable online archive so you can keep, well, less
+      paper.
+    external_link: https://elest.io/open-source/paperless-ngx
+    image: /images/hosting-and-infrastructure/storage/paperless-ngx/logo.png
+    title: Paperless-ngx
+    url: /hosting-and-infrastructure/storage/paperless-ngx
+  - category: storage
+    description: ArchiveBox is a powerful, self-hosted internet archiving solution
+      to collect, save, and view sites you want to preserve offline.
+    external_link: https://elest.io/open-source/archivebox
+    image: /images/hosting-and-infrastructure/storage/archivebox/logo.png
+    title: Archivebox
+    url: /hosting-and-infrastructure/storage/archivebox
+  - category: storage
+    description: Simple document organizer
+    external_link: https://elest.io/open-source/docspell
+    image: /images/hosting-and-infrastructure/storage/docspell/logo.png
+    title: Docspell
+    url: /hosting-and-infrastructure/storage/docspell
+  - category: storage
+    description: Self-hosted photo and video backup solution directly from your mobile
+      phone.
+    external_link: https://elest.io/open-source/immich
+    image: /images/hosting-and-infrastructure/storage/immich/logo.png
+    title: Immich
+    url: /hosting-and-infrastructure/storage/immich
+  - category: storage
+    description: PicoShare is a service for sharing images, videos, and other files.
+    external_link: https://elest.io/open-source/picoshare
+    image: /images/hosting-and-infrastructure/storage/picoshare/logo.png
+    title: Picoshare
+    url: /hosting-and-infrastructure/storage/picoshare
+  - category: storage
+    description: MinIO is a leader in hybrid cloud and multi-cloud object storage.
+    external_link: https://elest.io/open-source/minio
+    image: /images/hosting-and-infrastructure/storage/minio/logo.png
+    title: Minio
+    url: /hosting-and-infrastructure/storage/minio
+  - category: storage
+    description: Fully featured and highly configurable SFTP server with optional
+      HTTP/S, FTP/S and WebDAV support
+    external_link: https://elest.io/open-source/sftpgo
+    image: /images/hosting-and-infrastructure/storage/sftpgo/logo.png
+    title: Sftpgo
+    url: /hosting-and-infrastructure/storage/sftpgo
+  - category: containers
+    description: Nomad is a scheduler and workload orchestrator.
+    external_link: https://elest.io/open-source/nomad
+    image: /images/hosting-and-infrastructure/containers/nomad/logo.png
+    title: Nomad
+    url: /hosting-and-infrastructure/containers/nomad
+  - category: containers
+    description: Portainer is a centralized service delivery platform for containerized
+      apps.
+    external_link: https://elest.io/open-source/portainer
+    image: /images/hosting-and-infrastructure/containers/portainer/logo.png
+    title: Portainer
+    url: /hosting-and-infrastructure/containers/portainer
+  - category: containers
+    description: Docker Registry is a stateless, highly scalable server side application
+      that stores and lets you distribute Docker images. The Registry is open-source,
+      under the permissive Apache license.
+    external_link: https://elest.io/open-source/dockerregistry
+    image: /images/hosting-and-infrastructure/containers/dockerregistry/logo.png
+    title: Dockerregistry
+    url: /hosting-and-infrastructure/containers/dockerregistry
+  - category: containers
+    description: K3s is a fully compliant Kubernetes distribution
+    external_link: https://elest.io/open-source/k3s
+    image: /images/hosting-and-infrastructure/containers/k3s/logo.png
+    title: K3s
+    url: /hosting-and-infrastructure/containers/k3s
+  - category: containers
+    description: MicroK8s is a small, fast, single-package Kubernetes for developers,
+      IoT and edge
+    external_link: https://elest.io/open-source/microk8s
+    image: /images/hosting-and-infrastructure/containers/microk8s/logo.png
+    title: Microk8s
+    url: /hosting-and-infrastructure/containers/microk8s
+  - category: containers
+    description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and
+      run Kubernetes workloads at any scale on any infrastructure. All batteries included.
+      100% open source & free.
+    external_link: https://elest.io/open-source/k0s
+    image: /images/hosting-and-infrastructure/containers/k0s/logo.png
+    title: K0s
+    url: /hosting-and-infrastructure/containers/k0s
+  - category: containers
+    description: The free artifact repository with universal format support.
+    external_link: https://elest.io/open-source/nexus3
+    image: /images/hosting-and-infrastructure/containers/nexus3/logo.png
+    title: Nexus3
+    url: /hosting-and-infrastructure/containers/nexus3
+  - category: infrastructure
+    description: iTop adapts to the needs of digital businesses to manage multiple
+      customers, contracts and SLAs
+    external_link: https://elest.io/open-source/itop
+    image: /images/hosting-and-infrastructure/infrastructure/itop/logo.png
+    title: Itop
+    url: /hosting-and-infrastructure/infrastructure/itop
+  - category: infrastructure
+    description: Centrifugo is a scalable real-time, language-agnostic messaging server.
+    external_link: https://elest.io/open-source/centrifugo
+    image: /images/hosting-and-infrastructure/infrastructure/centrifugo/logo.png
+    title: Centrifugo
+    url: /hosting-and-infrastructure/infrastructure/centrifugo
+  - category: infrastructure
+    description: PowerDNS is a premier supplier of open-source DNS software, services
+      and support.
+    external_link: https://elest.io/open-source/powerdns
+    image: /images/hosting-and-infrastructure/infrastructure/powerdns/logo.png
+    title: Powerdns
+    url: /hosting-and-infrastructure/infrastructure/powerdns
+  - category: infrastructure
+    description: RabbitMQ is the most widely deployed open source message broker
+    external_link: https://elest.io/open-source/rabbitmq
+    image: /images/hosting-and-infrastructure/infrastructure/rabbitmq/logo.png
+    title: Rabbitmq
+    url: /hosting-and-infrastructure/infrastructure/rabbitmq
+  - category: infrastructure
+    description: The Reliable, High Performance TCP/HTTP Load Balancer
+    external_link: https://elest.io/open-source/haproxy
+    image: /images/hosting-and-infrastructure/infrastructure/haproxy/logo.png
+    title: Haproxy
+    url: /hosting-and-infrastructure/infrastructure/haproxy
+  - category: infrastructure
+    description: A Fast and Scalable Web Platform by Extending NGINX with LuaJIT
+    external_link: https://elest.io/open-source/openresty
+    image: /images/hosting-and-infrastructure/infrastructure/openresty/logo.png
+    title: Openresty
+    url: /hosting-and-infrastructure/infrastructure/openresty
+  - category: infrastructure
+    description: Fast & powerful proxy server
+    external_link: https://elest.io/open-source/squid
+    image: /images/hosting-and-infrastructure/infrastructure/squid/logo.png
+    title: Squid
+    url: /hosting-and-infrastructure/infrastructure/squid
+  - category: infrastructure
+    description: A fully functional local cloud stack. Develop and test your cloud
+      and serverless apps offline!
+    external_link: https://elest.io/open-source/localstack
+    image: /images/hosting-and-infrastructure/infrastructure/localstack/logo.png
+    title: Localstack
+    url: /hosting-and-infrastructure/infrastructure/localstack
