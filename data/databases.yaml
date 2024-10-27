@@ -1,0 +1,63 @@
+content:
+  databases:
+    - category: relational-database
+      description:
+        "PostgreSQL is a powerful, open-source object-relational database\n\
+        \          system, known for reliability, data integrity and performance."
+      image: /images/databases/relational-database/postgresql/logo.png
+      title: Postgresql
+      url: /databases/relational-database/postgresql
+    - category: relational-database
+      description:
+        "MySQL is an Oracle-backed open-source RDBMS that runs on almost\
+        \ all\n          platforms."
+      image: /images/databases/relational-database/mysql/logo.png
+      title: Mysql
+      url: /databases/relational-database/mysql
+    - category: relational-database
+      description: The open source relational database
+      image: /images/databases/relational-database/mariadb/logo.png
+      title: Mariadb
+      url: /databases/relational-database/mariadb
+    - category: relational-database
+      description:
+        "MariaDB ColumnStore is a GPLv2 open-source columnar database built\
+        \ on\n          MariaDB Server."
+      image: /images/databases/relational-database/columnstore/logo.png
+      title: Columnstore
+      url: /databases/relational-database/columnstore
+    - category: relational-database
+      description:
+        "TimescaleDB is the leading open-source relational database with\n\
+        \          support for time-series data."
+      image: /images/databases/relational-database/timescaledb/logo.png
+      title: Timescaledb
+      url: /databases/relational-database/timescaledb
+    - category: relational-database
+      description:
+        "ClickHouse is an open-source, column-oriented DBMS for online\n\
+        \          analytical processing."
+      image: /images/databases/relational-database/clickhouse/logo.png
+      title: Clickhouse
+      url: /databases/relational-database/clickhouse
+    - category: relational-database
+      description:
+        "ClickHouse + S3 is an open-source, column-oriented DBMS for online\n\
+        \          analytical processing."
+      image: /images/databases/relational-database/clickhouses3/logo.png
+      title: Clickhouses3
+      url: /databases/relational-database/clickhouses3
+    - category: relational-database
+      description:
+        "SQL Server 2019 is a modern data platform designed to tackle the\n\
+        \          challenges of today's data professional."
+      image: /images/databases/relational-database/mssql/logo.png
+      title: Mssql
+      url: /databases/relational-database/mssql
+    - category: relational-database
+      description:
+        "Hydra is an open-source alternative to enterprise data warehouses\
+        \ and\n          it's simple, fast, and adaptable to your needs."
+      image: /images/databases/relational-database/hydra/logo.png
+      title: Hydra
+      url: /databases/relational-database/hydra
