@@ -7,8 +7,8 @@ import yaml
 html_file_path = "tmp.html"
 
 # Define output paths
-images_base_path = "./static/images/databases/specialized-database"
-yaml_path = "./data/databases.yaml"
+images_base_path = "./static/images/development/no-code"
+yaml_path = "./data/development.yaml"
 
 # Load HTML content from the file
 with open(html_file_path, "r", encoding="utf-8") as file:
@@ -19,7 +19,7 @@ soup = BeautifulSoup(html_content, "html.parser")
 cards = soup.find_all("a", class_="card-container")
 
 # Prepare the YAML structure
-databases_data = {"content": {"databases": []}}
+development_data = {"content": {"services": []}}
 
 # Process each card
 for card in cards:
@@ -32,7 +32,7 @@ for card in cards:
     image_url = card.select_one("img")["src"]
 
     # Construct URLs
-    new_link = f"/databases/specialized-database/{item_name}"
+    new_link = f"/development/no-code/{item_name}"
     external_link = f"https://elest.io{link}"
 
     # Download and save the image
@@ -42,11 +42,11 @@ for card in cards:
     with open(image_save_path, "wb") as image_file:
         image_file.write(image_data)
 
-    # Append to databases data
-    databases_data["content"]["databases"].append({
-        "category": "specialized-database",
+    # Append to development data
+    development_data["content"]["services"].append({
+        "category": "no-code",
         "description": description,
-        "image": f"/images/databases/specialized-database/{item_name}/logo.png",
+        "image": f"/images/development/no-code/{item_name}/logo.png",
         "title": title,
         "url": new_link,
         "external_link": external_link
@@ -55,6 +55,6 @@ for card in cards:
 # Save the YAML file
 os.makedirs(os.path.dirname(yaml_path), exist_ok=True)
 with open(yaml_path, "w") as yaml_file:
-    yaml.dump(databases_data, yaml_file, default_flow_style=False)
+    yaml.dump(development_data, yaml_file, default_flow_style=False)
 
 print("Data extraction and file creation completed successfully.")
