@@ -1,0 +1,184 @@
+content:
+  services:
+    - category: relational-database
+      description:
+        PostgreSQL is a powerful, open-source object-relational database
+        system, known for reliability, data integrity and performance.
+      external_link: https://elest.io/open-source/postgresql
+      image: /images/databases/relational-database/postgresql/logo.png
+      title: Postgresql
+      url: /databases/relational-database/postgresql
+    - category: relational-database
+      description:
+        MySQL is an Oracle-backed open-source RDBMS that runs on almost all
+        platforms.
+      external_link: https://elest.io/open-source/mysql
+      image: /images/databases/relational-database/mysql/logo.png
+      title: Mysql
+      url: /databases/relational-database/mysql
+    - category: relational-database
+      description: The open source relational database
+      external_link: https://elest.io/open-source/mariadb
+      image: /images/databases/relational-database/mariadb/logo.png
+      title: Mariadb
+      url: /databases/relational-database/mariadb
+    - category: relational-database
+      description:
+        MariaDB ColumnStore is a GPLv2 open-source columnar database built
+        on MariaDB Server.
+      external_link: https://elest.io/open-source/columnstore
+      image: /images/databases/relational-database/columnstore/logo.png
+      title: Columnstore
+      url: /databases/relational-database/columnstore
+    - category: relational-database specialized-database
+      description:
+        TimescaleDB is the leading open-source relational database with support
+        for time-series data.
+      external_link: https://elest.io/open-source/timescaledb
+      image: /images/databases/relational-database/timescaledb/logo.png
+      title: Timescaledb
+      url: /databases/relational-database/timescaledb
+    - category: relational-database specialized-database
+      description:
+        ClickHouse is an open-source, column-oriented DBMS for online analytical
+        processing.
+      external_link: https://elest.io/open-source/clickhouse
+      image: /images/databases/relational-database/clickhouse/logo.png
+      title: Clickhouse
+      url: /databases/relational-database/clickhouse
+    - category: relational-database specialized-database
+      description:
+        ClickHouse + S3 is an open-source, column-oriented DBMS for online
+        analytical processing.
+      external_link: https://elest.io/open-source/clickhouses3
+      image: /images/databases/relational-database/clickhouses3/logo.png
+      title: Clickhouses3
+      url: /databases/relational-database/clickhouses3
+    - category: relational-database
+      description:
+        SQL Server 2019 is a modern data platform designed to tackle the
+        challenges of today's data professional.
+      external_link: https://elest.io/open-source/mssql
+      image: /images/databases/relational-database/mssql/logo.png
+      title: Mssql
+      url: /databases/relational-database/mssql
+    - category: relational-database specialized-database
+      description:
+        Hydra is an open-source alternative to enterprise data warehouses
+        and it's simple, fast, and adaptable to your needs.
+      external_link: https://elest.io/open-source/hydra
+      image: /images/databases/relational-database/hydra/logo.png
+      title: Hydra
+      url: /databases/relational-database/hydra
+    - category: no-sql specialized-database
+      description:
+        A flexible distributed key-value datastore that supports both caching
+        and beyond caching workloads.
+      external_link: https://elest.io/open-source/valkey
+      image: /images/databases/no-sql/valkey/logo.png
+      title: Valkey
+      url: /databases/no-sql/valkey
+    - category: no-sql specialized-database
+      description: Redis is an open-source, in-memory database, cache and message broker.
+      external_link: https://elest.io/open-source/redis
+      image: /images/databases/no-sql/redis/logo.png
+      title: Redis
+      url: /databases/no-sql/redis
+    - category: no-sql
+      description: ScyllaDB is a true NoSQL database for the most demanding applications.
+      external_link: https://elest.io/open-source/scylladb
+      image: /images/databases/no-sql/scylladb/logo.png
+      title: Scylladb
+      url: /databases/no-sql/scylladb
+    - category: no-sql specialized-database
+      description: Open source distributed and RESTful search engine.
+      external_link: https://elest.io/open-source/opensearch
+      image: /images/databases/no-sql/opensearch/logo.png
+      title: Opensearch
+      url: /databases/no-sql/opensearch
+    - category: no-sql
+      description: Open Source NoSQL Database
+      external_link: https://elest.io/open-source/cassandra
+      image: /images/databases/no-sql/cassandra/logo.png
+      title: Cassandra
+      url: /databases/no-sql/cassandra
+    - category: no-sql
+      description:
+        Documents DB, built on Postgres. FerretDB allows you to use MongoDB
+        drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers,
+        UIs, and the same query language and stay open-source.
+      external_link: https://elest.io/open-source/ferretdb
+      image: /images/databases/no-sql/ferretdb/logo.png
+      title: Ferretdb
+      url: /databases/no-sql/ferretdb
+    - category: specialized-database
+      description: KeyDB is both your cache and database, for cloud-optimized solutions.
+      external_link: https://elest.io/open-source/keydb
+      image: /images/databases/specialized-database/keydb/logo.png
+      title: Keydb
+      url: /databases/specialized-database/keydb
+    - category: specialized-database
+      description:
+        InfluxDB is a scalable datastore that empowers developers to build
+        IoT, analytics and monitoring software.
+      external_link: https://elest.io/open-source/influxdb
+      image: /images/databases/specialized-database/influxdb/logo.png
+      title: Influxdb
+      url: /databases/specialized-database/influxdb
+    - category: specialized-database
+      description:
+        A scalable, distributed, collaborative, document-graph database,
+        for the realtime web.
+      external_link: https://elest.io/open-source/surrealdb
+      image: /images/databases/specialized-database/surrealdb/logo.png
+      title: Surrealdb
+      url: /databases/specialized-database/surrealdb
+    - category: specialized-database
+      description: The AI-native open-source embedding database
+      external_link: https://elest.io/open-source/chromadb
+      image: /images/databases/specialized-database/chromadb/logo.png
+      title: Chromadb
+      url: /databases/specialized-database/chromadb
+    - category: specialized-database
+      description: The High-Performance Vector Database Built for Scale
+      external_link: https://elest.io/open-source/milvus
+      image: /images/databases/specialized-database/milvus/logo.png
+      title: Milvus
+      url: /databases/specialized-database/milvus
+    - category: specialized-database
+      description: "Neo4j is the world\u2019s leading Graph Database"
+      external_link: https://elest.io/open-source/neo4j
+      image: /images/databases/specialized-database/neo4j/logo.png
+      title: Neo4j
+      url: /databases/specialized-database/neo4j
+    - category: specialized-database
+      description:
+        Apache Kafka is an open-source platform for high-performance data
+        pipelines, streaming analytics, data integration and mission-critical applications.
+      external_link: https://elest.io/open-source/kafka
+      image: /images/databases/specialized-database/kafka/logo.png
+      title: Kafka
+      url: /databases/specialized-database/kafka
+    - category: specialized-database
+      description: M3 is a Prometheus compatible, easy to adopt metrics engine
+      external_link: https://elest.io/open-source/m3db
+      image: /images/databases/specialized-database/m3db/logo.png
+      title: M3db
+      url: /databases/specialized-database/m3db
+    - category: specialized-database
+      description:
+        immutable ledger database based on zero trust, SQL and Key-Value,
+        tamperproof, data change history
+      external_link: https://elest.io/open-source/immudb
+      image: /images/databases/specialized-database/immudb/logo.png
+      title: Immudb
+      url: /databases/specialized-database/immudb
+    - category: specialized-database
+      description:
+        Weaviate is an open-source vector database. It allows you to store
+        data objects and vector embeddings from your favorite ML models, and scale seamlessly
+        into billions of data objects.
+      external_link: https://elest.io/open-source/weaviate
+      image: /images/databases/specialized-database/weaviate/logo.png
+      title: Weaviate
+      url: /databases/specialized-database/weaviate
