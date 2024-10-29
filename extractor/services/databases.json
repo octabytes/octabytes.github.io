@@ -1,959 +1,384 @@
 [
     {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql",
-                "specialized-databases"
-            ]
-        },
-        "id": "valkey",
-        "website": "https://valkey.io/",
-        "title": "Valkey",
-        "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
-        "long_description": "Valkey is an open source (BSD) high-performance key/value datastore that supports a variety of workloads such as caching, and message queues, and can act as a primary database. Valkey can run as a standalone daemon or in a cluster, with options for replication and high availability.  Valkey natively supports a rich collection of data types, including strings, numbers, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and more.",
-        "logo": "/images/databases/nosql/valkey/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/valkey/screenshot-1.jpg",
-            "./static/images/databases/nosql/valkey/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/valkey/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "In-memory store",
-                "description": "All data in Valkey is stored in RAM, delivering the fastest possible access times to the data for both read and write requests."
-            },
-            {
-                "title": "Optimized for speed",
-                "description": "Written in ANSI C, Valkey compiles extremely efficient machine code and requires little overhead. It uses a (mostly) single-threaded event loop model that optimally uses the CPU core it's running on. The data structures used internally are implemented for maximum performance."
-            },
-            {
-                "title": "Support for arbitrary data",
-                "description": "Data stored in Valkey can be in any form and size. Valkey is binary-safe so it can store any data, from human-readable text to encoded binaries. A single data element in Valkey can range in size from 0 bytes to 0.5GB, allowing it to cache almost any datum."
-            },
-            {
-                "title": "Key-based access",
-                "description": "Data is stored and fetched from Valkey by key. Keybased access allows for extremely efficient access times, and this model maps naturally to caching. Valkey provides the customary GET and SET semantics for interacting with the data."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql",
-                "specialized-databases"
-            ]
-        },
-        "id": "redis",
-        "website": "https://redis.io/",
-        "title": "Redis",
-        "description": "Redis is an open-source, in-memory database, cache and message broker.",
-        "long_description": "Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperlogs, geospatial indexes, and streams. It has built-in replication, Lua scripting, LRU eviction, transactions, etc. Different processes can query and modify the same data structures in a shared way. Redis delivers sub-millisecond response times, enabling millions of requests per second for real-time applications.",
-        "logo": "/images/databases/nosql/redis/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/redis/screenshot-1.jpg",
-            "./static/images/databases/nosql/redis/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/redis/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "In-memory store",
-                "description": "All data in Redis is stored in RAM, delivering the fastest possible access times to the data for both read and write requests."
-            },
-            {
-                "title": "Optimized for speed",
-                "description": "Written in ANSI C, Redis compiles into extremely efficient machine code and requires little overhead. It uses a (mostly) singlethreaded event loop model that optimally uses the CPU core it's running on. The data structures used internally are implemented for maximum performance."
-            },
-            {
-                "title": "Support for arbitrary data",
-                "description": "Data stored in Redis can be in any form and size. Redis is binary-safe so it can store any data, from human readable text to encoded binaries. A single data element in Redis can range in size from 0 bytes to 0.5GB, allowing it to cache almost any datum."
-            },
-            {
-                "title": "Key-based access",
-                "description": "Data is stored and fetched from Redis by key. Keybased access allows for extremely efficient access times, and this model maps naturally to caching. Redis provides the customary GET and SET semantics for interacting with the data."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql"
-            ]
-        },
-        "id": "scylladb",
-        "website": "https://www.scylladb.com/",
-        "title": "ScyllaDB",
-        "description": "ScyllaDB is a true NoSQL database for the most demanding applications.",
-        "long_description": "Scylla is a real-time big-data database that embraces a shared-nothing approach that increases throughput and storage capacity to realize order-of-magnitude performance improvements and reduce hardware costs. The NoSQL database uses modern multi-core servers and minimizes the overhead to DevOps.",
-        "logo": "/images/databases/nosql/scylladb/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/scylladb/screenshot-1.jpg",
-            "./static/images/databases/nosql/scylladb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/scylladb/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Low, consistent latency",
-                "description": "ScyllaDB provides near-millisecond average latency and predictably low-single-digit P99 response times."
-            },
-            {
-                "title": "Always-on availability",
-                "description": "Automatic failover and replication across multiple nodes and datacenters makes for reliable fault tolerance."
-            },
-            {
-                "title": "0x higher throughput",
-                "description": "ScyllaDB takes advantage of low-level Linux/C++ and modern async I/O methods to maximize IOPS."
-            },
-            {
-                "title": "Highly scalable",
-                "description": "ScyllaDBN automatically shards per core across multiple nodes and datacenters, ensuring linear scalability."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql",
-                "specialized-databases"
-            ]
-        },
-        "id": "opensearch",
-        "website": "https://opensearch.org/",
-        "title": "OpenSearch",
-        "description": "Open source distributed and RESTful search engine.",
-        "long_description": "OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana \n7.10.2. It consists of a search engine daemon, OpenSearch, and a \nvisualization and user interface, OpenSearch Dashboards.",
-        "logo": "/images/databases/nosql/opensearch/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/opensearch/screenshot-1.jpg",
-            "./static/images/databases/nosql/opensearch/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/opensearch/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "A level Playing Field",
-                "description": "We will not tweak the software so that it runs better for any vendor (including AWS) at the expense of others. If this happens, call it out and we will fix it as a community."
-            },
-            {
-                "title": "Used Everywhere",
-                "description": "Our goal is for as many people as possible to use it in their business, their software, and their projects."
-            },
-            {
-                "title": "Made with your input",
-                "description": "We will ask for public input on direction, requirements, and implementation for any feature we build."
-            },
-            {
-                "title": "Respectful, approachable, and friendly.",
-                "description": "This will be a community where you will be heard, accepted, and valued, whether you are a new or experienced user or contributor."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql"
-            ]
-        },
-        "id": "cassandra",
-        "website": "https://cassandra.apache.org/_/index.html",
-        "title": "Cassandra",
-        "description": "Open Source NoSQL Database",
-        "long_description": "Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.",
-        "logo": "/images/databases/nosql/cassandra/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/cassandra/screenshot-1.png",
-            "./static/images/databases/nosql/cassandra/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/cassandra/screenshot-1.png",
-        "features": [
-            {
-                "title": "Hybrid",
-                "description": "Masterless architecture and low latency mean Apache Cassandra will withstand an entire data center outage with no data loss\u2014across public or private clouds and on-premises."
-            },
-            {
-                "title": "Scalable",
-                "description": "Read and write throughput both increase linearly as new machines are added, with no downtime or interruption to applications."
-            },
-            {
-                "title": "Elastic",
-                "description": "Apache Cassandra streams data between nodes during scaling operations such as adding a new node or data center during peak traffic times. Zero Copy Streaming makes this up to 5x faster without vnodes for a more elastic architecture, particularly in cloud and Kubernetes environments."
-            },
-            {
-                "title": "High Availability and Fault Tolerance",
-                "description": "Another striking feature of Apache Cassandra is Data replication which makes Apache Cassandra highly available and fault-tolerant. Replication means each data is stored at more than one location. This is because, even if one node fails, the user should be able to retrieve the data with ease from another location. In an Apache Cassandra cluster, each row is replicated based on the row key. You can set the number of replicas you want to create. Just like scaling, data replication can also happen across multiple data centers. This further leads to high-level backup and recovery competencies in Cassandra."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "nosql",
-            "name": "NoSQL",
-            "ids": [
-                "nosql"
-            ]
-        },
-        "id": "ferretdb",
-        "website": "https://www.ferretdb.com/",
-        "title": "FerretDB",
-        "description": "Documents DB, built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.",
-        "long_description": "Documents DB built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.",
-        "logo": "/images/databases/nosql/ferretdb/logo.png",
-        "screenshots": [
-            "./static/images/databases/nosql/ferretdb/screenshot-1.png",
-            "./static/images/databases/nosql/ferretdb/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/nosql/ferretdb/screenshot-1.png",
-        "features": [
-            {
-                "title": "Solution",
-                "description": "The core of our solution is a stateless proxy, which converts MongoDB protocol queries to SQL, and uses PostgreSQL as a database engine. This will be compatible with MongoDB drivers and should work as a drop-in replacement to MongoDB in many cases."
-            },
-            {
-                "title": "CRUD operations",
-                "description": "CRUD (Create, Read, Update, and Delete) operations in FerretDB use the same protocol and drivers as MongoDB."
-            },
-            {
-                "title": "Operators",
-                "description": "It supports a complete list of operators, including query operators, update operators, aggregation operators, etc."
-            },
-            {
-                "title": "Query pushdown",
-                "description": "Initially, FerretDB retrieved all data related to queried collection, and applied filters on its own, making it possible to implement complex logic safely and quickly. and it minimizes the amount of incoming data, by applying the WHERE clause on SQL queries."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "keydb",
-        "website": "https://docs.keydb.dev/docs/cluster-tutorial/",
-        "title": "KeyDB",
-        "description": "KeyDB is both your cache and database, for cloud-optimized solutions.",
-        "long_description": "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis. KeyDB is meant to handle heavy workloads with a single node benchmarking at over 1 million ops/sec. KeyDB is a multithreaded database and will outperform Redis on a per-node basis. By keeping data in-memory, KeyDB can serve up data with submillisecond latencies.",
-        "logo": "/images/databases/specialized-databases/keydb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/keydb/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/keydb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/keydb/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Variety of data structures supported",
-                "description": "A good range of data structures are supported such as strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, geospatial indexes and streams."
-            },
-            {
-                "title": "Scalable",
-                "description": "With KeyDB, you can add more throughput with replica nodes and active-replica nodes, or partition the data in a sharded cluster."
-            },
-            {
-                "title": "High throughput",
-                "description": "KeyDB is meant to handle high work loads with an architecture that maximizes use of your systems resources. A single node benchmarks over 1 million ops/sec."
-            },
-            {
-                "title": "High availability",
-                "description": "Simplify your high-availability (HA) setup with active-replica nodes that do not require sentinel nodes for failover. HA setups are also available for sharded cluster mode configurations."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases",
-                "relational-databases"
-            ]
-        },
-        "id": "timescaledb",
-        "website": "https://www.timescale.com/",
-        "title": "TimescaleDB",
-        "description": "TimescaleDB is the leading open-source relational database with support for time-series data.",
-        "long_description": "TimescaleDB is  an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.",
-        "logo": "/images/databases/specialized-databases/timescaledb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/timescaledb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Supercharged PostgreSQL",
-                "description": "With TimescaleDB, you can rely on the same PostgreSQL you're familiar with, with full SQL, rock-solid reliability, and a massive ecosystem."
-            },
-            {
-                "title": "Accelerated performance",
-                "description": "You can achieve 10-100x faster queries than with PostgreSQL, InfluxDB and MongoDB, and benefit from native optimizations for time-series."
-            },
-            {
-                "title": "Massive scale",
-                "description": "TimescaleDB allows you to write millions of data points per second per node. You can horizontally scale to petabytes, and need not worry about cardinality."
-            },
-            {
-                "title": "Relational & time-series combined",
-                "description": "Since SQL JOINS are natively supported in TimescaleDB, data from different sources can be combined at query time (e.g. combining relational data stored in PostgreSQL tables with time-series data stored in TimescaleDB hypertables). This ability to store relational data alongside time-series data enables developers to simplify their stack, potentially reducing complex polyglot architectures to a single operational analytical database. This enables you to build more powerful applications."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases",
-                "relational-databases"
-            ]
-        },
-        "id": "clickhouse",
-        "website": "https://clickhouse.com/",
-        "title": "ClickHouse",
-        "description": "ClickHouse is an open-source, column-oriented DBMS for online analytical processing.",
-        "long_description": "ClickHouse is a high performance columnar OLAP database management system for real-time analytics using SQL. It enables you to analyze data that is updated in real time. ClickHouse's performance exceeds comparable column-oriented database management systems. It processes hundreds of millions to over a billion rows and tens of gigabytes of data per server per second.",
-        "logo": "/images/databases/specialized-databases/clickhouse/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/clickhouse/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Top performance",
-                "description": "ClickHouse supports \"best in the industry\" query performance, while reducing storage requirements through innovative use of columnar storage and compression."
-            },
-            {
-                "title": "Widely scalable",
-                "description": "ClickHouse was battle-tested in production, with linear horizontal scalability from single-server deployments to clusters with many thousands of nodes."
-            },
-            {
-                "title": "Highly reliable",
-                "description": "ClickHouse deployments feature best-in-class availability. There are no single points of failure. The architecture supports multi-master replication, performing effectively in multi-region configurations."
-            },
-            {
-                "title": "Secure",
-                "description": "ClickHouse comes with enterprise-grade security features and fail-safe mechanisms protecting against data corruption from application bugs and human error."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases",
-                "relational-databases"
-            ]
-        },
-        "id": "clickhouses3",
-        "website": "https://clickhouse.com/",
-        "title": "ClickHouseS3",
-        "description": "ClickHouse + S3  is an open-source, column-oriented DBMS for online analytical processing.",
-        "long_description": "ClickHouse + S3 is a high-performance columnar OLAP database management system for real-time analytics using SQL. It enables you to analyze data that is updated in real-time. ClickHouse's performance exceeds comparable column-oriented database management systems. It processes hundreds of millions to over a billion rows and tens of gigabytes of data per server per second.",
-        "logo": "/images/databases/specialized-databases/clickhouses3/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/clickhouses3/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Top performance",
-                "description": "ClickHouse supports \"best in the industry\" query performance, while reducing storage requirements through innovative use of columnar storage and compression."
-            },
-            {
-                "title": "Widely scalable",
-                "description": "ClickHouse was battle-tested in production, with linear horizontal scalability from single-server deployments to clusters with many thousands of nodes."
-            },
-            {
-                "title": "Highly reliable",
-                "description": "ClickHouse deployments feature best-in-class availability. There are no single points of failure. The architecture supports multi-master replication, performing effectively in multi-region configurations."
-            },
-            {
-                "title": "Secure",
-                "description": "ClickHouse comes with enterprise-grade security features and fail-safe mechanisms protecting against data corruption from application bugs and human error."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "influxdb",
-        "website": "https://www.influxdata.com/",
-        "title": "InfluxDB",
-        "description": "InfluxDB is a scalable datastore that empowers developers to build IoT, analytics and monitoring software.",
-        "long_description": "InfluxDB is a time series platform for building real-time applications for analytics, IoT and cloud-native services in less time and with less code, using InfluxDB. At its heart is a database purpose-built to handle the huge volumes and countless sources of time-stamped data produced by sensors, applications and infrastructure.",
-        "logo": "/images/databases/specialized-databases/influxdb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/influxdb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Everything you need",
-                "description": "InfluxDB has everything you need from a time series platform in a single binary \u2013 a multi-tenanted time series database, UI and dashboarding tools, background processing and monitoring agent. All this makes deployment and setup a breeze and easier to secure."
-            },
-            {
-                "title": "Optimized for developer productivity",
-                "description": "Everything in InfluxDB \u2014 ingest, query, storage and visualization \u2014 is accessible in a unified API. Everything in the platform can now be programmatically accessed and controlled. This is combined with a powerful set of client libraries across 10 languages (like Go, Java, PHP and Python). A set of InfluxDB command line tools helps developers develop in a way that is most familiar to them."
-            },
-            {
-                "title": "Why developers use InfluxDB",
-                "description": "You can choose your own path, starting from the UI or skipping right to the raw code and API. You can collaborate with your team to build and run time series data apps. InfluxDB is plug and play so you can spend more time building the features your users need. The documentation is written for and by engineers."
-            },
-            {
-                "title": "Keep your time series data close",
-                "description": "InfluxDB Cloud works where developers are already building, so you can avoid unnecessary latency and the cost of moving data by keeping your applications nearby. You can deploy with your preferred cloud vendor, anywhere in the world."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "surrealdb",
-        "website": "https://surrealdb.com/",
-        "title": "SurrealDB",
-        "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web.",
-        "long_description": "SurrealDB is an end-to-end cloud-native database designed for modern applications, including web, mobile, serverless, Jamstack, backend, and traditional applications. With SurrealDB, you can simplify your database and API infrastructure, reduce development time, and build secure, performant apps quickly and cost-effectively.",
-        "logo": "/images/databases/specialized-databases/surrealdb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/surrealdb/screenshot-1.png",
-            "./static/images/databases/specialized-databases/surrealdb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/surrealdb/screenshot-1.png",
-        "features": [
-            {
-                "title": "Architecture",
-                "description": "Single-node (in-memory), Web browser (IndexedDB), Single-node (RocksDB), Distributed (FoundationDB) and Distributed (TiKV)."
-            },
-            {
-                "title": "Data model",
-                "description": "Basic types, Empty values, Arrays, Objects, Durations, Datetimes, Datetimes, Futures, Casting, and Strict typing."
-            },
-            {
-                "title": "Functions",
-                "description": "Array, HTTP, Math, Parsing, Rand, Search, String, Type, Vector, Geo, Time, Count,  Validation and  Embedded JavaScript Functions"
-            },
-            {
-                "title": "Connectivity",
-                "description": "REST API, SurrealQL over WebSocket, and JSON-RPC over WebSocket."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "chromadb",
-        "website": "www.trychroma.com/",
-        "title": "Chromadb",
-        "description": "The AI-native open-source embedding database",
-        "long_description": "Chroma is the open-source AI application database. Batteries included.\nEmbeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.",
-        "logo": "/images/databases/specialized-databases/chromadb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/chromadb/screenshot-1.png",
-            "./static/images/databases/specialized-databases/chromadb/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/chromadb/screenshot-1.png",
-        "features": [
-            {
-                "title": "Simple and Powerful",
-                "description": "From notebook to production, prototype, iterate, and deploy your application with Chroma."
-            },
-            {
-                "title": "Full featured",
-                "description": "Everything you need for retrieval: \n- Vector search\n- Full-text search\n- Document storage\n- Metadata filtering\n- Multi-modal retrieval"
-            },
-            {
-                "title": "Speaks your language",
-                "description": "Clients for JS, Python, Ruby, PHP, Java and more"
-            },
-            {
-                "title": "Integrating",
-                "description": "Embedding models from HuggingFace, OpenAI, Google, and more, built in. Integrated with Langchain, LlamaIndex, with more tools and frameworks coming soon."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "milvus",
-        "website": "https://milvus.io/",
-        "title": "Milvus",
-        "description": "The High-Performance Vector Database Built for Scale",
-        "long_description": "Milvus is an open-source vector database built for GenAI applications. Install with pip, perform high-speed searches, and scale to tens of billions of vectors with minimal performance loss.",
-        "logo": "/images/databases/specialized-databases/milvus/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/milvus/screenshot-1.png",
-            "./static/images/databases/specialized-databases/milvus/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/milvus/screenshot-1.png",
-        "features": [
-            {
-                "title": "Scale as needed",
-                "description": "Elastic scaling to tens of billions of vectors with distributed architecture."
-            },
-            {
-                "title": "Blazing fast",
-                "description": "Retrieve data quickly and accurately with Global Index, regardless of scale."
-            },
-            {
-                "title": "Reusable Code",
-                "description": "Write once, and deploy with one line of code into the production environment."
-            },
-            {
-                "title": "Supportive Community",
-                "description": "Fan-favorite vector database with extensive resources and supportive contributors."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "neo4j",
-        "website": "https://neo4j.com/",
-        "title": "Neo4j",
-        "description": "Neo4j is the world\u2019s leading Graph Database",
-        "long_description": "It is a high performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.",
-        "logo": "/images/databases/specialized-databases/neo4j/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/neo4j/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Uncompromised Performance",
-                "description": "Neo4j continues to expand the limits of graph technology, helping empower the largest active community of 220,000 developers, data scientists, and architects who are working to solve the world's most complex and valuable data problems."
-            },
-            {
-                "title": "Drive Deeper Insights",
-                "description": "Neo4j is fueled by our vast, production-ready algorithm library and advanced, groundbreaking machine learning workflows not found anywhere else."
-            },
-            {
-                "title": "Trusted, Secure, Deployed",
-                "description": "Neo4j is the only enterprise-strength graph database that combines native graph storage, advanced security, scalable speed-optimized architecture, and ACID compliance to ensure predictability and integrity of relationship-based queries"
-            },
-            {
-                "title": "Native Graph Storage & Processing",
-                "description": "Index-free adjacency shortens read time and gets even better as data complexity grows. Get reliably fast transactions with ultra-high parallelized throughput even as your data grows."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "kafka",
-        "website": "https://kafka.apache.org/",
-        "title": "Kafka",
-        "description": "Apache Kafka is an open-source platform for high-performance data pipelines, streaming analytics, data integration and mission-critical applications.",
-        "long_description": "Apache Kafka is a framework implementation of a software bus using stream-processing. It's primarily used to build real-time streaming data pipelines and applications that adapt to the data streams. It combines messaging, storage and stream processing to allow storage and analysis of both historical and real-time data. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. More than 80% of all Fortune 100 companies use Kafka.",
-        "logo": "/images/databases/specialized-databases/kafka/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/kafka/screenshot-1.jpg",
-            "./static/images/databases/specialized-databases/kafka/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/kafka/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "High throughput, scalable",
-                "description": "Apache Kafka enables you to deliver messages at network-limited throughput using a cluster of machines with latencies as low as 2ms. Scale production clusters up to a thousand brokers, trillions of messages per day, petabytes of data, and hundreds of thousands of partitions. You can elastically expand and contract storage and processing."
-            },
-            {
-                "title": "Permanent storage, high availability",
-                "description": "With Apache Kafka, you can store streams of data safely in a distributed, durable, fault-tolerant cluster, and stretch clusters efficiently over availability zones or connect separate clusters across geographic regions."
-            },
-            {
-                "title": "Built-in stream processing",
-                "description": "You can process streams of events with joins, aggregations, filters, transformations, and more, using event-time and exactly-once processing. Apache Kafka's out-of-the-box Connect interface integrates with hundreds of event sources and event sinks including Postgres, JMS, Elasticsearch, and AWS S3."
-            },
-            {
-                "title": "Mission-critical, widely trusted",
-                "description": "Apache Kafka supports mission-critical use cases with guaranteed ordering, zero message loss, and efficient exactly-once processing. Thousands of organizations use Kafka, from internet giants and car manufacturers to stock exchanges. There have been 5m+ unique lifetime downloads."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "m3db",
-        "website": "https://m3db.io/",
-        "title": "M3DB",
-        "description": "M3 is a Prometheus compatible, easy to adopt metrics engine",
-        "long_description": "M3 is the obvious choice for Cloud Native companies looking to scale up their Prometheus based monitoring systems. M3 can be used as Prometheus Remote Storage and has 100% PromQL compatibility.",
-        "logo": "/images/databases/specialized-databases/m3db/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/m3db/screenshot-1.png",
-            "./static/images/databases/specialized-databases/m3db/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/m3db/screenshot-1.png",
-        "features": [
-            {
-                "title": "Global Scale",
-                "description": "Proven at the largest scales in the world by storing 10s of billions of active metric time series."
-            },
-            {
-                "title": "Highly Efficient",
-                "description": "Optimized compression algorithm resulting in 11X compression ratio."
-            },
-            {
-                "title": "Compatible",
-                "description": "Compatible with Prometheus, StatsD, and Carbon ingestion formats as well as PromQL and Graphite query languages."
-            },
-            {
-                "title": "Performant",
-                "description": "Proven in production to ingest more than one billion datapoints per second while serving more than two billion datapoint reads per second."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "immudb",
-        "website": "https://codenotary.com/technologies/immudb/",
-        "title": "ImmuDB",
-        "description": "immutable ledger database based on zero trust, SQL and Key-Value, tamperproof, data change history",
-        "long_description": "immudb is a immutable ledger database that has been developed with performance, scalability and versatility in mind. The user feedback has shown that they love the very high throughput and being able to store hashes as well as data. They see it as a great alternative to using a blockchain or ledger service.",
-        "logo": "/images/databases/specialized-databases/immudb/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/immudb/screenshot-1.png",
-            "./static/images/databases/specialized-databases/immudb/screenshot-2.jpeg"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/immudb/screenshot-1.png",
-        "features": [
-            {
-                "title": "Keep track of changes and audit them.",
-                "description": "Traditional database transactions and logs are hard to scale and are mutable, so there is no way to know for sure if your data has been compromised. immudb is immutable. You can add new versions of existing records, but never change or delete records. This lets you store critical data without fear of it being changed silently."
-            },
-            {
-                "title": "Verify your data without sacrificing performance",
-                "description": "Data stored in immudb is cryptographically coherent and verifiable, just like blockchains, but without all the complexity. Unlike blockchains, immudb can handle millions of transactions per second, and can be used both as a lightweight service or embedded in your application as a library."
-            },
-            {
-                "title": "Protect yourself from supply-chain attacks",
-                "description": "While Cyber Security is an important part of your organization\u2019s business plan, immudb provides another layer of security to ensure data integrity even in the event your perimeter is breached during an attack. Data cannot be deleted or modified once stored into immudb. Additions of new data are logged and auditable, enabling you to view any suspect additions made during the intrusion."
-            },
-            {
-                "title": "KEY VALUE AND SQL",
-                "description": "immudb can be used as a tamper-proof key value store or SQL database, with audit history capabilities. Within single immudb instance a user can have multiple databases of both types, it is even possible to have KV and SQL withing single database.Key value is a foundation layer for SQL, meaning that SQL is using key value store capabilities underneath."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases",
-                "relational-databases"
-            ]
-        },
-        "id": "hydra",
-        "website": "https://hydra.so/",
-        "title": "Hydra",
-        "description": "Hydra is an open-source alternative to enterprise data warehouses and it's simple, fast, and adaptable to your needs.",
-        "long_description": "Hydra is an open-source data warehouse built on Postgres. Hydra leverages columnar storage, vectorized execution, and query parallelization to efficiently serve online analytical processing of queries (OLAP). Unlike traditional warehouses, Hydra supports Postgres heap tables, indexing, and native partitioning to process high-throughput transactional writes, quick lookup and operational queries, and hybrid transactional / analytics processing workloads (HTAP).",
-        "logo": "/images/databases/specialized-databases/hydra/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/hydra/screenshot-1.webp",
-            "./static/images/databases/specialized-databases/hydra/screenshot-2.webp"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/hydra/screenshot-1.webp",
-        "features": [
-            {
-                "title": "Set up a modern data stack in minutes",
-                "description": "Hydra is built on Postgres, the open-source foundation that powers millions of projects worldwide."
-            },
-            {
-                "title": "Fastest Postgres for analytics",
-                "description": "Boost performance by 23X over standard Postgres. Hydra adds columnar storage, parallel query execution, and vectorization."
-            },
-            {
-                "title": "Defeat data silos",
-                "description": "Go from messy data silos to the unified, consistent data source your team needs to solve hard problems. Load data easily with Postgres COPY or ETL tools like Airbyte or Fivetran to ingest data in real time."
-            },
-            {
-                "title": "Query any source via Hydra",
-                "description": "Data outside a Hydra warehouse is still within reach. SELECT, JOIN, and UPDATE data sources instantly via Hydra External Tables."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "specialized-databases",
-            "name": "Specialized Databases",
-            "ids": [
-                "specialized-databases"
-            ]
-        },
-        "id": "weaviate",
-        "website": "https://weaviate.io/",
-        "title": "Weaviate",
-        "description": "Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.",
-        "long_description": "Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.",
-        "logo": "/images/databases/specialized-databases/weaviate/logo.png",
-        "screenshots": [
-            "./static/images/databases/specialized-databases/weaviate/screenshot-1.png",
-            "./static/images/databases/specialized-databases/weaviate/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/specialized-databases/weaviate/screenshot-1.png",
-        "features": [
-            {
-                "title": "Speed",
-                "description": "Weaviate typically performs a 10-NN neighbor search out of millions of objects in single-digit milliseconds. See benchmarks."
-            },
-            {
-                "title": "Flexibility",
-                "description": "You can use Weaviate to conveniently vectorize your data at import time, or alternatively, you can upload your own vectors."
-            },
-            {
-                "title": "Production-readiness",
-                "description": "Weaviate is designed to take you from rapid prototyping all the way to production at scale."
-            },
-            {
-                "title": "Beyond search",
-                "description": "Weaviate powers lightning-fast vector searches, but it is capable of much more. Some of its other superpowers include recommendation, summarization, and integrations with neural search frameworks."
-            }
-        ]
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases",
-            "ids": [
-                "relational-databases"
-            ]
-        },
         "id": "postgresql",
-        "website": "https://www.postgresql.org/",
+        "link": "/databases/relational-databases/postgresql",
+        "external_link": "https://elest.io/open-source/postgresql",
         "title": "PostgreSQL",
         "description": "PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.",
-        "long_description": "PostgreSQL is a powerful, open-source, object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. It has a strong reputation for its architecture, reliability, data integrity, robust feature set and extensibility. It runs on all major operating systems, is ACID-compliant, and has powerful add-ons such as the PostGIS geospatial database extender.",
         "logo": "/images/databases/relational-databases/postgresql/logo.png",
-        "screenshots": [
-            "./static/images/databases/relational-databases/postgresql/screenshot-1.jpg",
-            "./static/images/databases/relational-databases/postgresql/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/relational-databases/postgresql/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Wide range of data types",
-                "description": "PostgreSQL is one of the most advanced open-source databases, with numerous data types and functions added over the years. Data types include: Primitives: Integer, Numeric, String, Boolean. Structured: Date/Time, Array, Range / Multirange, UUID. Document: JSON/JSONB, XML, Key-value (Hstore). Geometry: Point, Line, Circle, Polygon. Customizations: Composite, Custom Types."
-            },
-            {
-                "title": "Data integrity",
-                "description": "PostgreSQL strives to conform to the ANSI-SQL:2008 standard, is fully ACID (Atomicity, Consistency, Isolation and Durability) compliant, and is well-known for its rock-solid referential and transactional integrity. Its data integrity features ensure only validated data is stored."
-            },
-            {
-                "title": "High security",
-                "description": "All files stored in the database are protected from reading by any account other than the superuser account. Authentication is ensured via: GSSAPI, SSPI, LDAP, SCRAM-SHA-256, Certificate, and more; a robust access-control system; column and row-level security; and multi-factor authentication with certificates."
-            },
-            {
-                "title": "Extensibility",
-                "description": "PostgreSQL is extensible because its operation is catalog-driven, with stored functions and procedures; Procedural Languages (PL/PGSQL, Perl, Python, etc);  SQL/JSON path expressions; foreign data wrappers; customizable storage interface for tables, and many extensions that provide additional functionality, including PostGIS."
-            }
-        ]
-    },
-    {
         "category": {
             "id": "relational-databases",
             "name": "Relational databases",
             "ids": [
                 "relational-databases"
             ]
-        },
+        }
+    },
+    {
         "id": "mysql",
-        "website": "https://www.mysql.com/",
+        "link": "/databases/relational-databases/mysql",
+        "external_link": "https://elest.io/open-source/mysql",
         "title": "MySQL",
         "description": "MySQL is an Oracle-backed open-source RDBMS that runs on almost all platforms.",
-        "long_description": "MySQL is an open-source relational database management system (RDBMS). Many of the world's largest organizations rely on it to power their high-volume websites, business-critical systems and packaged software. It runs on almost all platforms, including Linux, UNIX and Windows.",
         "logo": "/images/databases/relational-databases/mysql/logo.png",
-        "screenshots": [
-            "./static/images/databases/relational-databases/mysql/screenshot-1.jpg",
-            "./static/images/databases/relational-databases/mysql/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/relational-databases/mysql/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Fast and reliable",
-                "description": "MySQL was developed for speed, even if this may come at the expense of some additional features. It is also known for its reliability as a database administrator, backed by a large community of programmers that have put the code through tough testing. Another benefit is that it is relatively simple to learn and use. And as it has been around for nearly three decades, it\u2019s not hard to find experienced MySQL developers when you need them."
-            },
-            {
-                "title": "Availability",
-                "description": "Online businesses and web platforms need to be able to provide round-the-clock services for a global audience. This is why high availability is a core feature of MySQL. It uses a range of cluster servers and data replication configurations that ensure uninterrupted uptime even if there is a failure. MySQL also uses a variety of backup and recovery strategies to ensure data is not lost in the event of a system crash or unintentional delete."
-            },
-            {
-                "title": "Scalability",
-                "description": "As data volumes and user loads increase, the database store needs to be scaled-up. It must be able to cope with the additional workload without a drop in performance.  MySQL can be scaled in different ways, typically via replication, clustering or sharding (or a combination of them). It is able to support and process very large databases, though this is likely to have an impact on speed."
-            },
-            {
-                "title": "Security",
-                "description": "This is always an important consideration for businesses as they need to protect sensitive data and defend against cyberattacks. MySQL offers encryption using the Secure Sockets Layer (SSL) protocol, data masking, authentication plugins, and other layers of security to protect data integrity. The MySQL Enterprise package also includes firewall protection against cyberattacks."
-            }
-        ]
-    },
-    {
         "category": {
             "id": "relational-databases",
             "name": "Relational databases",
             "ids": [
                 "relational-databases"
             ]
-        },
+        }
+    },
+    {
         "id": "mariadb",
-        "website": "https://mariadb.org/",
+        "link": "/databases/relational-databases/mariadb",
+        "external_link": "https://elest.io/open-source/mariadb",
         "title": "MariaDB",
         "description": "The open source relational database",
-        "long_description": "MariaDB is built upon the values of performance, stability, and openness, and MariaDB Foundation ensures contributions will be accepted on technical merit. Recent new functionality includes advanced clustering with Galera Cluster 4, compatibility features with Oracle Database and Temporal Data Tables, allowing one to query the data as it stood at any point in the past.",
         "logo": "/images/databases/relational-databases/mariadb/logo.png",
-        "screenshots": [
-            "./static/images/databases/relational-databases/mariadb/screenshot-1.jpg",
-            "./static/images/databases/relational-databases/mariadb/screenshot-2.jpg"
-        ],
-        "dashboardImage": "./static/images/databases/relational-databases/mariadb/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Drop-in replacement of MySQL",
-                "description": "MariaDB was designed as a drop-in replacement of MySQL with more features, new storage engines, fewer bugs, and better performance. MariaDB is brought to you by the MariaDB Foundation and the MariaDB Corporation. MariaDB is developed by many of the original developers of MySQL who now work for the MariaDB Corporation, the MariaDB Foundation and by many people in the community."
-            },
-            {
-                "title": "Modern SQL",
-                "description": "Support for modern SQL features such as common table expressions (CTEs), Window functions, temporal data tables and JSON functions. MariaDB\u2019s SQL dialect is compatible with MySQL but extends it with columnar storage and other functionality."
-            },
-            {
-                "title": "Pluggable Storage Engines",
-                "description": "InnoDB, Aria, ColumnStore, MyRocks, and countless third-party engines allow the MariaDB frontend to extend beyond pure transaction processing."
-            },
-            {
-                "title": "Columnar Storage for Analytics",
-                "description": "MariaDB ColumnStore plugs into MariaDB Community Server for columnar analytics (MPP) or hybrid smart transactions (HTAP)."
-            }
-        ]
-    },
-    {
         "category": {
             "id": "relational-databases",
             "name": "Relational databases",
             "ids": [
                 "relational-databases"
             ]
-        },
+        }
+    },
+    {
         "id": "columnstore",
-        "website": "https://mariadb.org/",
+        "link": "/databases/relational-databases/columnstore",
+        "external_link": "https://elest.io/open-source/columnstore",
         "title": "ColumnStore",
         "description": "MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server.",
-        "long_description": "MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server. It is a fork and evolution of the former InfiniDB product. As a columnar database, MariaDB ColumnStore stores table data in columns rather than rows",
         "logo": "/images/databases/relational-databases/columnstore/logo.png",
-        "screenshots": [
-            "./static/images/databases/relational-databases/columnstore/screenshot-1.png",
-            "./static/images/databases/relational-databases/columnstore/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/relational-databases/columnstore/screenshot-1.png",
-        "features": [
-            {
-                "title": "Drop-in replacement of MySQL",
-                "description": "MariaDB was designed as a drop-in replacement of MySQL with more features, new storage engines, fewer bugs, and better performance. MariaDB is brought to you by the MariaDB Foundation and the MariaDB Corporation. MariaDB is developed by many of the original developers of MySQL who now work for the MariaDB Corporation, the MariaDB Foundation and by many people in the community."
-            },
-            {
-                "title": "Modern SQL",
-                "description": "Support for modern SQL features such as common table expressions (CTEs), Window functions, temporal data tables and JSON functions. MariaDB\u2019s SQL dialect is compatible with MySQL but extends it with columnar storage and other functionality."
-            },
-            {
-                "title": "Pluggable Storage Engines",
-                "description": "InnoDB, Aria, ColumnStore, MyRocks, and countless third-party engines allow the MariaDB frontend to extend beyond pure transaction processing."
-            },
-            {
-                "title": "Columnar Storage for Analytics",
-                "description": "MariaDB ColumnStore plugs into MariaDB Community Server for columnar analytics (MPP) or hybrid smart transactions (HTAP)."
-            }
-        ]
-    },
-    {
         "category": {
             "id": "relational-databases",
             "name": "Relational databases",
             "ids": [
                 "relational-databases"
             ]
-        },
+        }
+    },
+    {
+        "id": "timescaledb",
+        "link": "/databases/relational-databases/timescaledb",
+        "external_link": "https://elest.io/open-source/timescaledb",
+        "title": "TimescaleDB",
+        "description": "TimescaleDB is the leading open-source relational database with support for time-series data.",
+        "logo": "/images/databases/relational-databases/timescaledb/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "clickhouse",
+        "link": "/databases/relational-databases/clickhouse",
+        "external_link": "https://elest.io/open-source/clickhouse",
+        "title": "ClickHouse",
+        "description": "ClickHouse is an open-source, column-oriented DBMS for online analytical processing.",
+        "logo": "/images/databases/relational-databases/clickhouse/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "clickhouses3",
+        "link": "/databases/relational-databases/clickhouses3",
+        "external_link": "https://elest.io/open-source/clickhouses3",
+        "title": "ClickHouseS3",
+        "description": "ClickHouse + S3  is an open-source, column-oriented DBMS for online analytical processing.",
+        "logo": "/images/databases/relational-databases/clickhouses3/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
         "id": "mssql",
-        "website": "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
+        "link": "/databases/relational-databases/mssql",
+        "external_link": "https://elest.io/open-source/mssql",
         "title": "MSSQL",
         "description": "SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional.",
-        "long_description": "Microsoft SQL Server is a relational database management system developed by Microsoft. SQL Server 2019 brings innovative security and compliance features, mission-critical availability, and advanced analytics to data workloads, with support for big data built in.",
         "logo": "/images/databases/relational-databases/mssql/logo.png",
-        "screenshots": [
-            "./static/images/databases/relational-databases/mssql/screenshot-1.jpg",
-            "./static/images/databases/relational-databases/mssql/screenshot-2.png"
-        ],
-        "dashboardImage": "./static/images/databases/relational-databases/mssql/screenshot-1.jpg",
-        "features": [
-            {
-                "title": "Analyze every type of data",
-                "description": "MSSQL allows you to gain insights from all your data by querying across relational, non-relational, structured and unstructured data, for a complete picture of your business using SQL Server 2019 with Apache Spark built in."
-            },
-            {
-                "title": "Choose your language and platform",
-                "description": "You can use the language and platform of your choice, with open-source support. And you can run SQL Server on Linux containers with Kubernetes support or on Windows."
-            },
-            {
-                "title": "Rely on industry-leading performance",
-                "description": "With MSSQL, you can take advantage of breakthrough scalability and performance to improve the stability and response time of your database, without making app changes. Get high availability for mission-critical applications, data warehouses and data lakes."
-            },
-            {
-                "title": "Nine years of proven security leadership",
-                "description": "The database has been rated as 'least vulnerable' over the last nine years. It allows you to stay a step ahead using built-in features for data classification, data protection, and monitoring and alerts."
-            }
-        ]
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "hydra",
+        "link": "/databases/relational-databases/hydra",
+        "external_link": "https://elest.io/open-source/hydra",
+        "title": "Hydra",
+        "description": "Hydra is an open-source alternative to enterprise data warehouses and it's simple, fast, and adaptable to your needs.",
+        "logo": "/images/databases/relational-databases/hydra/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "valkey",
+        "link": "/databases/nosql/valkey",
+        "external_link": "https://elest.io/open-source/valkey",
+        "title": "Valkey",
+        "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
+        "logo": "/images/databases/nosql/valkey/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "redis",
+        "link": "/databases/nosql/redis",
+        "external_link": "https://elest.io/open-source/redis",
+        "title": "Redis",
+        "description": "Redis is an open-source, in-memory database, cache and message broker.",
+        "logo": "/images/databases/nosql/redis/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "scylladb",
+        "link": "/databases/nosql/scylladb",
+        "external_link": "https://elest.io/open-source/scylladb",
+        "title": "ScyllaDB",
+        "description": "ScyllaDB is a true NoSQL database for the most demanding applications.",
+        "logo": "/images/databases/nosql/scylladb/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "opensearch",
+        "link": "/databases/nosql/opensearch",
+        "external_link": "https://elest.io/open-source/opensearch",
+        "title": "OpenSearch",
+        "description": "Open source distributed and RESTful search engine.",
+        "logo": "/images/databases/nosql/opensearch/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "cassandra",
+        "link": "/databases/nosql/cassandra",
+        "external_link": "https://elest.io/open-source/cassandra",
+        "title": "Cassandra",
+        "description": "Open Source NoSQL Database",
+        "logo": "/images/databases/nosql/cassandra/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "ferretdb",
+        "link": "/databases/nosql/ferretdb",
+        "external_link": "https://elest.io/open-source/ferretdb",
+        "title": "FerretDB",
+        "description": "Documents DB, built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.",
+        "logo": "/images/databases/nosql/ferretdb/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "keydb",
+        "link": "/databases/specialized-databases/keydb",
+        "external_link": "https://elest.io/open-source/keydb",
+        "title": "KeyDB",
+        "description": "KeyDB is both your cache and database, for cloud-optimized solutions.",
+        "logo": "/images/databases/specialized-databases/keydb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "influxdb",
+        "link": "/databases/specialized-databases/influxdb",
+        "external_link": "https://elest.io/open-source/influxdb",
+        "title": "InfluxDB",
+        "description": "InfluxDB is a scalable datastore that empowers developers to build IoT, analytics and monitoring software.",
+        "logo": "/images/databases/specialized-databases/influxdb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "surrealdb",
+        "link": "/databases/specialized-databases/surrealdb",
+        "external_link": "https://elest.io/open-source/surrealdb",
+        "title": "SurrealDB",
+        "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web.",
+        "logo": "/images/databases/specialized-databases/surrealdb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "chromadb",
+        "link": "/databases/specialized-databases/chromadb",
+        "external_link": "https://elest.io/open-source/chromadb",
+        "title": "Chromadb",
+        "description": "The AI-native open-source embedding database",
+        "logo": "/images/databases/specialized-databases/chromadb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "milvus",
+        "link": "/databases/specialized-databases/milvus",
+        "external_link": "https://elest.io/open-source/milvus",
+        "title": "Milvus",
+        "description": "The High-Performance Vector Database Built for Scale",
+        "logo": "/images/databases/specialized-databases/milvus/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "neo4j",
+        "link": "/databases/specialized-databases/neo4j",
+        "external_link": "https://elest.io/open-source/neo4j",
+        "title": "Neo4j",
+        "description": "Neo4j is the world\u2019s leading Graph Database",
+        "logo": "/images/databases/specialized-databases/neo4j/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "kafka",
+        "link": "/databases/specialized-databases/kafka",
+        "external_link": "https://elest.io/open-source/kafka",
+        "title": "Kafka",
+        "description": "Apache Kafka is an open-source platform for high-performance data pipelines, streaming analytics, data integration and mission-critical applications.",
+        "logo": "/images/databases/specialized-databases/kafka/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "m3db",
+        "link": "/databases/specialized-databases/m3db",
+        "external_link": "https://elest.io/open-source/m3db",
+        "title": "M3DB",
+        "description": "M3 is a Prometheus compatible, easy to adopt metrics engine",
+        "logo": "/images/databases/specialized-databases/m3db/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "immudb",
+        "link": "/databases/specialized-databases/immudb",
+        "external_link": "https://elest.io/open-source/immudb",
+        "title": "ImmuDB",
+        "description": "immutable ledger database based on zero trust, SQL and Key-Value, tamperproof, data change history",
+        "logo": "/images/databases/specialized-databases/immudb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "weaviate",
+        "link": "/databases/specialized-databases/weaviate",
+        "external_link": "https://elest.io/open-source/weaviate",
+        "title": "Weaviate",
+        "description": "Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.",
+        "logo": "/images/databases/specialized-databases/weaviate/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
     }
 ]
