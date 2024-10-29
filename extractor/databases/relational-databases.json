@@ -1,101 +1,13 @@
 [
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/postgresql",
-        "external_link": "https://elest.io/open-source/postgresql",
-        "title": "PostgreSQL",
-        "description": "PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.",
-        "logo": "/images/databases/relational-databases/postgresql/logo.png"
+  {
+    "category": {
+      "id": "relational-databases",
+      "name": "Relational databases"
     },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/mysql",
-        "external_link": "https://elest.io/open-source/mysql",
-        "title": "MySQL",
-        "description": "MySQL is an Oracle-backed open-source RDBMS that runs on almost all platforms.",
-        "logo": "/images/databases/relational-databases/mysql/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/mariadb",
-        "external_link": "https://elest.io/open-source/mariadb",
-        "title": "MariaDB",
-        "description": "The open source relational database",
-        "logo": "/images/databases/relational-databases/mariadb/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/columnstore",
-        "external_link": "https://elest.io/open-source/columnstore",
-        "title": "ColumnStore",
-        "description": "MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server.",
-        "logo": "/images/databases/relational-databases/columnstore/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/timescaledb",
-        "external_link": "https://elest.io/open-source/timescaledb",
-        "title": "TimescaleDB",
-        "description": "TimescaleDB is the leading open-source relational database with support for time-series data.",
-        "logo": "/images/databases/relational-databases/timescaledb/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/clickhouse",
-        "external_link": "https://elest.io/open-source/clickhouse",
-        "title": "ClickHouse",
-        "description": "ClickHouse is an open-source, column-oriented DBMS for online analytical processing.",
-        "logo": "/images/databases/relational-databases/clickhouse/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/clickhouses3",
-        "external_link": "https://elest.io/open-source/clickhouses3",
-        "title": "ClickHouseS3",
-        "description": "ClickHouse + S3  is an open-source, column-oriented DBMS for online analytical processing.",
-        "logo": "/images/databases/relational-databases/clickhouses3/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/mssql",
-        "external_link": "https://elest.io/open-source/mssql",
-        "title": "MSSQL",
-        "description": "SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional.",
-        "logo": "/images/databases/relational-databases/mssql/logo.png"
-    },
-    {
-        "category": {
-            "id": "relational-databases",
-            "name": "Relational databases"
-        },
-        "link": "/databases/relational-databases/hydra",
-        "external_link": "https://elest.io/open-source/hydra",
-        "title": "Hydra",
-        "description": "Hydra is an open-source alternative to enterprise data warehouses and it's simple, fast, and adaptable to your needs.",
-        "logo": "/images/databases/relational-databases/hydra/logo.png"
-    }
+    "link": "/databases/relational-databases/postgresql",
+    "external_link": "https://elest.io/open-source/postgresql",
+    "title": "PostgreSQL",
+    "description": "PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.",
+    "logo": "/images/databases/relational-databases/postgresql/logo.png"
+  }
 ]
