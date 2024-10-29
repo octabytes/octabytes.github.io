@@ -1,0 +1,79 @@
+[
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/agencyos",
+        "external_link": "https://elest.io/open-source/agencyos",
+        "title": "AgencyOS",
+        "description": "Open source operating system for digital agencies. Built with Directus and Nuxt.",
+        "logo": "/images/development/backend-as-a-service/agencyos/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/directus",
+        "external_link": "https://elest.io/open-source/directus",
+        "title": "Directus",
+        "description": "Directus is an Open Data Platform for managing the content of any SQL database.",
+        "logo": "/images/development/backend-as-a-service/directus/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/strapi",
+        "external_link": "https://elest.io/open-source/strapi",
+        "title": "Strapi",
+        "description": "Strapi enables easy building of self-hosted, customizable, performant content API.",
+        "logo": "/images/development/backend-as-a-service/strapi/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/appwrite",
+        "external_link": "https://elest.io/open-source/appwrite",
+        "title": "Appwrite",
+        "description": "Appwrite provides developers with a set of REST APIs to manage their core backend needs.",
+        "logo": "/images/development/backend-as-a-service/appwrite/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/parse",
+        "external_link": "https://elest.io/open-source/parse",
+        "title": "Parse",
+        "description": "Parse Server is an open-source backend that can be deployed to any infrastructure that can run Node.js.",
+        "logo": "/images/development/backend-as-a-service/parse/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/supabase",
+        "external_link": "https://elest.io/open-source/supabase",
+        "title": "Supabase",
+        "description": "Supabase is an open source alternative to Firebase.",
+        "logo": "/images/development/backend-as-a-service/supabase/logo.png"
+    },
+    {
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service"
+        },
+        "link": "/development/backend-as-a-service/pocketbase",
+        "external_link": "https://elest.io/open-source/pocketbase",
+        "title": "PocketBase",
+        "description": "Open Source backend for your next\u00a0SaaS\u00a0and\u00a0Mobile app\u00a0in 1 file",
+        "logo": "/images/development/backend-as-a-service/pocketbase/logo.png"
+    }
+]

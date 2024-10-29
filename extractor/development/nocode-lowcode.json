@@ -1,0 +1,233 @@
+[
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/hop",
+        "external_link": "https://elest.io/open-source/hop",
+        "title": "Hop",
+        "description": "Apache Hop is a data orchestration and data engineering platform that aims to facilitate all aspects of data and metadata orchestration",
+        "logo": "/images/development/nocode-lowcode/hop/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/automatisch",
+        "external_link": "https://elest.io/open-source/automatisch",
+        "title": "Automatisch",
+        "description": "Automatisch helps you to automate your business processes without coding. Use our affordable cloud solution or self-host on your own servers.",
+        "logo": "/images/development/nocode-lowcode/automatisch/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/illa",
+        "external_link": "https://elest.io/open-source/illa",
+        "title": "ILLA",
+        "description": "ILLA Cloud is a low-code platform. Anyone can build internal tools with ILLA Cloud in minutes.",
+        "logo": "/images/development/nocode-lowcode/illa/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/totaljsflow",
+        "external_link": "https://elest.io/open-source/totaljsflow",
+        "title": "TotaljsFlow",
+        "description": "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time.",
+        "logo": "/images/development/nocode-lowcode/totaljsflow/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/agencyos",
+        "external_link": "https://elest.io/open-source/agencyos",
+        "title": "AgencyOS",
+        "description": "Open source operating system for digital agencies. Built with Directus and Nuxt.",
+        "logo": "/images/development/nocode-lowcode/agencyos/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/node-red",
+        "external_link": "https://elest.io/open-source/node-red",
+        "title": "Node-red",
+        "description": "Node-RED is a low-code programming environment for event-driven applications.",
+        "logo": "/images/development/nocode-lowcode/node-red/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/directus",
+        "external_link": "https://elest.io/open-source/directus",
+        "title": "Directus",
+        "description": "Directus is an Open Data Platform for managing the content of any SQL database.",
+        "logo": "/images/development/nocode-lowcode/directus/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/browserless",
+        "external_link": "https://elest.io/open-source/browserless",
+        "title": "Browserless",
+        "description": "Browserless provides fast, scalable, reliable web browser automation.",
+        "logo": "/images/development/nocode-lowcode/browserless/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/budibase",
+        "external_link": "https://elest.io/open-source/budibase",
+        "title": "Budibase",
+        "description": "Budibase is a quick way to build business apps that empower teams and improve productivity.",
+        "logo": "/images/development/nocode-lowcode/budibase/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/apitable",
+        "external_link": "https://elest.io/open-source/apitable",
+        "title": "APITable",
+        "description": "APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.",
+        "logo": "/images/development/nocode-lowcode/apitable/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/lowcoder",
+        "external_link": "https://elest.io/open-source/lowcoder",
+        "title": "Lowcoder",
+        "description": "Create software applications for your Company and your Customers with minimal coding experience. Lowcoder is the best Retool, Appsmith, or Tooljet Alternative.",
+        "logo": "/images/development/nocode-lowcode/lowcoder/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/dify",
+        "external_link": "https://elest.io/open-source/dify",
+        "title": "Dify",
+        "description": "LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.",
+        "logo": "/images/development/nocode-lowcode/dify/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/n8n",
+        "external_link": "https://elest.io/open-source/n8n",
+        "title": "N8N",
+        "description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "logo": "/images/development/nocode-lowcode/n8n/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/baserow",
+        "external_link": "https://elest.io/open-source/baserow",
+        "title": "Baserow",
+        "description": "Baserow is an open source no-code database tool and Airtable alternative.",
+        "logo": "/images/development/nocode-lowcode/baserow/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/nocodb",
+        "external_link": "https://elest.io/open-source/nocodb",
+        "title": "NocoDB",
+        "description": "NocoDB is an open-source #NoCode platform that turns any database into a smart spreadsheet.",
+        "logo": "/images/development/nocode-lowcode/nocodb/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/appsmith",
+        "external_link": "https://elest.io/open-source/appsmith",
+        "title": "Appsmith",
+        "description": "Appsmith is a powerful open-source framework to build internal tools.",
+        "logo": "/images/development/nocode-lowcode/appsmith/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/appwrite",
+        "external_link": "https://elest.io/open-source/appwrite",
+        "title": "Appwrite",
+        "description": "Appwrite provides developers with a set of REST APIs to manage their core backend needs.",
+        "logo": "/images/development/nocode-lowcode/appwrite/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/tooljet",
+        "external_link": "https://elest.io/open-source/tooljet",
+        "title": "ToolJet",
+        "description": "ToolJet is an open-source low-code framework to build and deploy custom internal tools",
+        "logo": "/images/development/nocode-lowcode/tooljet/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/nocobase",
+        "external_link": "https://elest.io/open-source/nocobase",
+        "title": "NocoBase",
+        "description": "Scalability-first open-source no-code platform. No programming required, build your own collaboration platform, management system with NocoBase in minutes.",
+        "logo": "/images/development/nocode-lowcode/nocobase/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/hasura",
+        "external_link": "https://elest.io/open-source/hasura",
+        "title": "Hasura",
+        "description": "Hasura\u00a0GraphQL Engine is an\u00a0open-source\u00a0product that connects to your databases & services and gives you a realtime GraphQL API, instantly.",
+        "logo": "/images/development/nocode-lowcode/hasura/logo.png"
+    },
+    {
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code"
+        },
+        "link": "/development/nocode-lowcode/openblocks",
+        "external_link": "https://elest.io/open-source/openblocks",
+        "title": "OpenBlocks",
+        "description": "Openblocks is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minutes.",
+        "logo": "/images/development/nocode-lowcode/openblocks/logo.png"
+    }
+]
