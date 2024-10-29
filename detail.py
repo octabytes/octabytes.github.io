@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 
 # Paths
-input_folder = "./extractor/databases"
-output_file = "./extractor/services/databases.json"
+input_folder = "./extractor/development"
+output_file = "./extractor/services/development.json"
 
 def download_image(url, save_path):
     """Download image from url and save to the specified path."""
@@ -47,12 +47,19 @@ def scrape_data(external_link, link_last_part, category_id):
         img_url = img['src']
         if img_url.startswith('//'):
             img_url = 'https:' + img_url
+        elif not img_url.startswith('http'):
+            print(f"Skipping invalid image URL: {img_url}")
+            continue  # Skip invalid URLs
+        
         ext = img_url.split('.')[-1]
         save_path = os.path.join(static_image_path, f"screenshot-{count}.{ext}")
         Path(os.path.dirname(save_path)).mkdir(parents=True, exist_ok=True)
-        saved_image = download_image(img_url, save_path)
-        if saved_image:
-            screenshots.append(saved_image)
+
+        # Download image only if the URL is valid
+        if img_url and img_url.lower() != 'screenshots_url':
+            saved_image = download_image(img_url, save_path)
+            if saved_image:
+                screenshots.append(saved_image)
 
     print(f"Downloaded {len(screenshots)} screenshots.")
 
