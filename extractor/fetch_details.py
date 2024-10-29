@@ -6,7 +6,7 @@ from pathlib import Path
 
 def extract_detail(service_name):
     # Paths
-    input_folder = f"./services/{service_name}.json"
+    input_file = f"./services/{service_name}.json"
     output_file = f"./details/{service_name}.json"
 
     def download_image(url, save_path):
@@ -44,16 +44,24 @@ def extract_detail(service_name):
         static_image_path = f"../static/images/{service_name}/{category_id}/{service_id}"
         screenshots = []
         screenshot_divs = soup.select("body > section:nth-child(4) > div > div div.browser-mockup img")[:2]
+        
         for count, img in enumerate(screenshot_divs, 1):
             img_url = img['src']
             if img_url.startswith('//'):
                 img_url = 'https:' + img_url
+            elif not img_url.startswith('http'):
+                print(f"Skipping invalid image URL: {img_url}")
+                continue  # Skip invalid URLs
+            
             ext = img_url.split('.')[-1]
             save_path = os.path.join(static_image_path, f"screenshot-{count}.{ext}")
             Path(os.path.dirname(save_path)).mkdir(parents=True, exist_ok=True)
-            saved_image = download_image(img_url, save_path)
-            if saved_image:
-                screenshots.append(saved_image)
+
+            # Download image only if the URL is valid
+            if img_url and img_url.lower() != 'screenshots_url':
+                saved_image = download_image(img_url, save_path)
+                if saved_image:
+                    screenshots.append(saved_image)
 
         print(f"Downloaded {len(screenshots)} screenshots.")
 
@@ -118,11 +126,8 @@ def extract_detail(service_name):
     # Initialize a list to hold all services
     all_services = []
 
-    # Process each JSON file in the input folder
-    for filename in os.listdir(input_folder):
-        if filename.endswith(".json"):
-            services_from_file = process_json_file(os.path.join(input_folder, filename))
-            all_services.extend(services_from_file)
+    services_from_file = process_json_file(input_file)
+    all_services.extend(services_from_file)
 
     # Save all services to a single JSON file
     Path(os.path.dirname(output_file)).mkdir(parents=True, exist_ok=True)
@@ -131,8 +136,7 @@ def extract_detail(service_name):
 
     print(f"Saved all services to {output_file}")
 
-# names = ["databases", "applications", "development", "hosting-and-infrastructure"]
-names = ["databases"]
+names = ["databases", "applications", "development", "hosting-and-infrastructure"]
 
 for name in names:
     print("===============================================")

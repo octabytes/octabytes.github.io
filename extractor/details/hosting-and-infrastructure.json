@@ -1,0 +1,1736 @@
+[
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "changedetection",
+        "website": "https://github.com/dgtlmoon/changedetection.io",
+        "title": "ChangeDetection",
+        "description": "Changedetection.io is an open source web page monitoring, notification and change detection.",
+        "long_description": "changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/changedetection/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/changedetection/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Backup and Updates",
+                "description": "Automatic Updates, Automatic Backups, No Heroku \"paused application\", don't miss a change!"
+            },
+            {
+                "title": "Unlimited checks and watches!",
+                "description": "Changedetection provides unlimited checks where user can access without limiting down to few."
+            },
+            {
+                "title": "Notifications",
+                "description": "ChangeDetection.io supports a massive amount of notifications (including email, office365, custom APIs, etc) when a web-page has a change detected thanks to the apprise library. Simply set one or more notification URL's in the tab of that watch."
+            },
+            {
+                "title": "Filters",
+                "description": "XPath, JSONPath and CSS support comes baked in! You can be as specific as you need, use XPath exported from various XPath element query creation tools."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "coroot",
+        "website": "https://coroot.com/",
+        "title": "Coroot",
+        "description": "Coroot is an APM & Observability tool, a DataDog and NewRelic alternative",
+        "long_description": "Collecting metrics, logs, and traces alone doesn't make your applications observable. Coroot turns that data into actionable insights for you!",
+        "logo": "/images/hosting-and-infrastructure/monitoring/coroot/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/coroot/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png",
+        "features": [
+            {
+                "title": "Zero-instrumentation observability",
+                "description": "Metrics, logs, traces, and profiles are gathered automatically by using eBPF\nCoroot provides you with a Service Map that covers 100% of your system with no blind spots\nPredefined inspections audit each application without any configuration"
+            },
+            {
+                "title": "Application Health Summary",
+                "description": "Easily understand the status of your services, even when dealing with hundreds of them\nGain insight into application logs without the need to manually inspect each one\nSLOs (Service Level Objectives) tracking"
+            },
+            {
+                "title": "Explore any outlier requests with distributed tracing",
+                "description": "Investigate any anomaly with just one click\nVendor-neutral instrumentation with OpenTelemetry\nAre you unable to instrument legacy or third-party services? Coroot's eBPF-based instrumentation can capture requests without requiring any code changes."
+            },
+            {
+                "title": "Grasp insights from logs with just a quick glance",
+                "description": "Log patterns: out-of-the-box event clustering\nSeamless logs-to-traces correlation\nLightning-fast search based on ClickHouse"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "grafana",
+        "website": "https://grafana.com/",
+        "title": "Grafana",
+        "description": "Grafana is a multi-platform, open-source analytics and interactive visualization web application.",
+        "long_description": "Grafana is an open and composable observability and data visualization platform that allows you to visualize metrics, logs and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres, etc. It provides charts, graphs and alerts for the web when connected to supported data sources.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/grafana/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/grafana/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Unify your data, not your database",
+                "description": "With Grafana, you don't have to ingest data to a backend store or vendor database. It unifies your data wherever it lives. You can take any of your data \u2013 from your Kubernetes cluster, Raspberry Pi, different cloud services, or even Google Sheets \u2013 and visualize it as you want, all from a single dashboard."
+            },
+            {
+                "title": "Data everyone can see",
+                "description": "Grafana 'democratizes' data: it's accessible to everyone in your organization. It thus helps to facilitate a culture where data can easily be used and accessed by the people that need it, helping to break down data silos and empower teams."
+            },
+            {
+                "title": "Dashboards that anyone can use",
+                "description": "Grafana dashboards not only provide insights into data collected from numerous sources; you can share the dashboards you create with other team members and explore the data together. With Grafana, anyone can create and share dynamic dashboards, which fosters collaboration and transparency."
+            },
+            {
+                "title": "Flexibility and versatility",
+                "description": "Grafana enables you to translate and transform any of your data into flexible and versatile dashboards. You can build dashboards specifically for you and your team. With advanced querying and transformation capabilities, you can customize your panels to create helpful visualizations."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "loki",
+        "website": "https://grafana.com/oss/loki/",
+        "title": "Loki",
+        "description": "Loki is a log aggregation system designed to store and query logs from all your applications and infrastructure.",
+        "long_description": "Loki is a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost-effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/loki/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/loki/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png",
+        "features": [
+            {
+                "title": "Pull in any logs with Promtail",
+                "description": "Promtail is a log collector built specifically for Loki. It uses the same service discovery as Prometheus and includes analogous features for labeling, transforming, and filtering logs before ingestion into Loki."
+            },
+            {
+                "title": "Store the logs in Loki",
+                "description": "Loki does not index the text of logs. Instead, entries are grouped into streams and indexed with labels. Not only does this reduce costs, but it also means log lines are available to query within milliseconds of being received by Loki."
+            },
+            {
+                "title": "Use LogQL to explore",
+                "description": "Use Loki\u2019s powerful query language, LogQL, to explore your logs. Run LogQL queries directly within Grafana to visualize your logs alongside other data sources, or with LogCLI, for those who prefer a command-line experience."
+            },
+            {
+                "title": "Alert on your logs",
+                "description": "Set up alerting rules for Loki to evaluate your incoming log data. Configure Loki to send the resulting alerts to a Prometheus Alert manager so they can then get routed to the right team."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "glitchtip",
+        "website": "https://glitchtip.com/",
+        "title": "GlitchTip",
+        "description": "Reimplementation of the Sentry error tracking platform, Track errors, uptime, and performance.",
+        "long_description": "GlitchTip makes monitoring software easy. Track errors, monitor performance, and check site uptime all in one place. Our app is compatible with Sentry client SDKs but is easier to run.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/glitchtip/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp",
+            "/images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-2.webp"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp",
+        "features": [
+            {
+                "title": "Error Tracking",
+                "description": "Report your website or application's exceptions, log messages, Content Security Policy violations, and more to one place to triage and resolve."
+            },
+            {
+                "title": "Application Performance Monitoring",
+                "description": "Find out where your app is slow. GlitchTip takes a simple, works-out-of-the-box approach. No dashboard building and metrics hunting. Just find your slowest web requests, database calls, and other transactions."
+            },
+            {
+                "title": "Uptime Monitoring",
+                "description": "GlitchTip can ping your site and warn you when it's not responding. Or reverse it and send GlitchTip a request on schedule. If GlitchTip doesn't receive your ping, it will send you an alert via email or webhook"
+            },
+            {
+                "title": "Have some bugs in your code?",
+                "description": "GlitchTip is the right choice if you value simplicity, affordability, and the freedom provided by open source."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "sensu",
+        "website": "https://sensu.io/",
+        "title": "Sensu",
+        "description": "Sensu is an open source monitoring tool for ephemeral infrastructure and distributed applications.",
+        "long_description": "Sensu\u00a0is a complete solution for monitoring and observability at scale. It is an\u00a0agent-based\u00a0observability tool that you install on your organization\u2019s infrastructure. The Sensu\u00a0backend\u00a0gives you a flexible, automated pipeline to filter, transform, and process alerts and metrics.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/sensu/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/sensu/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Observability Pipeline",
+                "description": "With Sensu Go, you can fill gaps in observability between metrics, logging, & tracing."
+            },
+            {
+                "title": "Monitoring as code",
+                "description": "Sensu Go codifies monitoring workflows into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+            },
+            {
+                "title": "Multi-cloud",
+                "description": "Embrace auto-scaling with confidence & real-time visibility. Sensu automates the registration and de-registration of servers, containers, services, apps, functions, and connected devices."
+            },
+            {
+                "title": "Monitoring workflows",
+                "description": "With Sensu, you can use the right interface and the right data format for each individual problem, configuring the corresponding workflow accordingly."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "signoz",
+        "website": "https://signoz.io/",
+        "title": "SigNoz",
+        "description": "SigNoz is an open-source APM solution for understanding issues in your applications and solving them quickly",
+        "long_description": "SigNoz is an application performance management (APM) solution with native support for OpenTelemetry, the emerging industry standard for instrumentation. You can monitor your usage and set your own retention period and sampling rate based on your needs. With industry-trusted Kafka & Druid to handle enterprise scale, you avoid scaling pains.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/signoz/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/signoz/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Your data in your boundary",
+                "description": "With SigNoz, there's no need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in your infra."
+            },
+            {
+                "title": "Forget huge SaaS bills",
+                "description": "You won't face any abrupt pricing changes or, with the transparent usage data, unexpected month-end bills."
+            },
+            {
+                "title": "Take control",
+                "description": "SigNoz means you won't have to spend weeks in vendor slack for that one small feature. You can extend SigNoz to suit your needs."
+            },
+            {
+                "title": "Monitor your usage",
+                "description": "SigNoz allows you to monitor your usage and set your own retention period and sampling rate based on your needs."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "uptime-kuma",
+        "website": "https://uptime.kuma.pet/",
+        "title": "Uptime-kuma",
+        "description": "Uptime Kuma is a self-hosted monitoring tool like Uptime Robot.",
+        "long_description": "Uptime Kuma is a self-hosted, open-source, fancy uptime monitoring and alerting system. It can monitor HTTP, HTTP with keyword, TCP, Ping and even DNS systems. Similar to Uptime Robot, it supports multiple notification systems.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/uptime-kuma/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Website & SSL monitoring",
+                "description": "Uptime Kuma ensures reliable monitoring so you can be warned before any significant trouble. It saves you money. You won't lose visitors because of an expired SSL certificate. And you'll get notified 30, 14 and 7 days before expiration so you have time to renew."
+            },
+            {
+                "title": "Ping monitoring",
+                "description": "With Uptime Kuma, you can leverage one of the tools that administrators most use to check the availability of network devices."
+            },
+            {
+                "title": "Port monitoring",
+                "description": "Is the email service still up? Or what about the critical database server? Uptime Kuma allows you to monitor any specific service running on any port."
+            },
+            {
+                "title": "Cron job monitoring",
+                "description": "Uptime Kuma includes cron or heartbeat monitoring of recurring background jobs or intranet devices connected to the internet."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "healthchecks",
+        "website": "https://healthchecks.io/",
+        "title": "Healthchecks",
+        "description": "Healthchecks is an online service for monitoring regularly running tasks such as cron jobs.",
+        "long_description": "Healthchecks, a cron job monitoring service, listens for HTTP requests and email messages (pings) from your cron jobs and scheduled tasks (checks). When a ping does not arrive on time, it sends out alerts. It comes with a web dashboard, API, 25+ integrations for delivering notifications, monthly email reports, WebAuthn 2FA support, and team management features: projects, team members, read-only access.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/healthchecks/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Live-updating dashboard",
+                "description": "Healthchecks provides you with a list of your checks, one for each cron job, daemon or scheduled task you want to monitor. You can give names and assign tags to your checks to easily recognize them later; tap on the integration icons to toggle them on and off, and adjust period and grace time to match the periodicity and duration of your tasks."
+            },
+            {
+                "title": "Reliable",
+                "description": "The hosted Healthchecks.io service runs on Hetzner bare metal servers, with healthy excess capacity to handle traffic spikes (which cron jobs with common schedules are prone to create). The app servers are load-balanced. The PostgreSQL database has a hot standby as well as daily encrypted backups to S3."
+            },
+            {
+                "title": "Self-hostable",
+                "description": "The Healthchecks.io code base is BSD-licensed and is developed in the open on GitHub. Self-hosting is a good option if you need to extend the project with proprietary features, must run everything in-house for compliance reasons, or want to learn about developing and deploying Django web applications."
+            },
+            {
+                "title": "Public status badges",
+                "description": "Healthchecks provides status badges for each of the tags you have used. Additionally, the Healthchecks.io badge shows the overall status of all checks in your account. The badges have public but hard-to-guess URLs. You can use them in your READMEs, dashboards or status pages."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "victoriametrics",
+        "website": "https://victoriametrics.com/",
+        "title": "VictoriaMetrics",
+        "description": "VictoriaMetrics is a fast, cost-effective monitoring solution and time series database",
+        "long_description": "VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database typically used for processing high volumes of data and long term storing. It lets users build a monitoring platform without operational burden or scalability issues",
+        "logo": "/images/hosting-and-infrastructure/monitoring/victoriametrics/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png",
+        "features": [
+            {
+                "title": "Lightweight",
+                "description": "Scales perfectly with the number of CPU cores, RAM and available storage space"
+            },
+            {
+                "title": "Scalable",
+                "description": "Provides horizontal scalability in cluster version"
+            },
+            {
+                "title": "Easy to Install",
+                "description": "Easy to configure and operate"
+            },
+            {
+                "title": "Compression",
+                "description": "Offers optimized compression algorithms"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "jitsu",
+        "website": "https://jitsu.com/",
+        "title": "Jitsu",
+        "description": "Jitsu is an open-source web and app-event collection platform.",
+        "long_description": "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/jitsu/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png",
+        "features": [
+            {
+                "title": "Send data from anywhere",
+                "description": "To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team."
+            },
+            {
+                "title": "Connect destination",
+                "description": "When you connect the data warehouse (Snowflake, Clickhouse, BigQuery, S3, Redshift or Postgres), you can query your data instantly. Jitsu can either stream data in real time or send it in micro-batches (up to once a minute). In addition to DWHs, Jitsu can push data to other services (Amplitude, Hubspot, Google Analytics, etc) or call any HTTP-api."
+            },
+            {
+                "title": "Transform the data",
+                "description": "You can apply any transformation with Jitsu. Just write JavaScript code right in the UI to do anything with incoming data. The code editor supports code completion, debugging, etc. It feels like a full-featured IDE\u2026"
+            },
+            {
+                "title": "Enrich the data",
+                "description": "Jitsu will automatically resolve user geo-location based on IP address, and will parse user agent to filter out bots and understand the device type. It can also pull data from 140+ external services to build a 100% accurate profile of your users."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "zabbix",
+        "website": "https://www.zabbix.com/",
+        "title": "Zabbix",
+        "description": "Zabbix is an enterprise-class open source distributed monitoring solution.",
+        "long_description": "Zabbix is a software that monitors numerous parameters of a network and the health and integrity of servers, virtual machines, applications, services, databases, websites, the cloud and more. Zabbix uses a flexible notification mechanism that allows users to configure e-mail based alerts for virtually any event. This allows a fast reaction to server problems. Zabbix offers excellent reporting and data visualization features based on the stored data.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/zabbix/logo.png",
+        "screenshots": [],
+        "dashboardImage": null,
+        "features": [
+            {
+                "title": "Detect problems instantly",
+                "description": "Forget about tracking your metrics manually. With Zabbix you can detect problem states within the incoming metric flow automatically: \nHigh performance problem detection in real-time,\nHighly flexible definition options,\nSeparate problem and problem resolution conditions,\nMultiple severity levels."
+            },
+            {
+                "title": "Get alerted on critical issues",
+                "description": "Use multiple messaging channels to notify the responsible person or people about the different kinds of events occurring in your environment: Email,\nSMS for reliable alerts using USB modems,\nOnline SMS gateways."
+            },
+            {
+                "title": "Gain additional insights by powerful data visualization",
+                "description": "Define widget-based dashboards displaying relevant information:\n\nLarge selection of many different widgets,\nSimple drag and drop placement and scaling of widgets,\nEach widget is highly customizable to fit your needs."
+            },
+            {
+                "title": "Create flexible widget based dashboards",
+                "description": "Zabbix web UI provides multiple ways of presenting a visual overview of your IT environment:\nWidget-based multi-page dashboards,\nEasy drag and drop widget placement,\nConfigure automatic dashboard refresh intervals."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "prometheus",
+        "website": "https://prometheus.io/",
+        "title": "Prometheus",
+        "description": "Power your metrics and alerting with the leading open-source monitoring solution",
+        "long_description": "Prometheus, a\u00a0Cloud Native Computing Foundation\u00a0project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/prometheus/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/prometheus/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png",
+        "features": [
+            {
+                "title": "Data model",
+                "description": "Prometheus fundamentally stores all data as time series: streams of timestamped values belonging to the same metric and the same set of labeled dimensions. Besides stored time series, Prometheus may generate temporary derived time series as the result of queries."
+            },
+            {
+                "title": "Querying prometheus",
+                "description": "Prometheus provides a functional query language called PromQL (Prometheus Query Language) that lets the user select and aggregate time series data in real time. The result of an expression can either be shown as a graph, viewed as tabular data in Prometheus's expression browser, or consumed by external systems via the HTTP API."
+            },
+            {
+                "title": "Grafana support for prometheus",
+                "description": "Grafana supports querying Prometheus. The Grafana data source for Prometheus is included since Grafana 2.5.0 (2015-10-28).\n\nThe following shows an example Grafana dashboard which queries Prometheus for data:"
+            },
+            {
+                "title": "Configuration",
+                "description": "Prometheus is configured via command-line flags and a configuration file. While the command-line flags configure immutable system parameters (such as storage locations, amount of data to keep on disk and in memory, etc.), the configuration file defines everything related to scraping jobs and their instances, as well as which rule files to load."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring",
+                "infrastructure"
+            ]
+        },
+        "id": "nagios",
+        "website": "https://www.nagios.org/",
+        "title": "Nagios",
+        "description": "The Industry Standard In IT Infrastructure Monitoring",
+        "long_description": "Nagios provides monitoring of all mission-critical infrastructure components including applications, services, operating systems, network protocols, systems metrics, and network infrastructure. Hundreds of third-party addons provide for monitoring of virtually all in-house and external applications, services, and systems.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/nagios/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/nagios/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png",
+        "features": [
+            {
+                "title": "Architectural Overview",
+                "description": "Nagios Core has been designed with a focused, extensible architecture that is designed for flexibility and scalability. It provides several APIs to allow its feature-set to be easily extended through additional addons. This architecture has proved to be successful and has spawned the creation of thousands of addon projects that extend its core feature set."
+            },
+            {
+                "title": "General Scope",
+                "description": "The scope of Nagios Core is primarily focused the duties of check scheduling, check execution, check processing, event handling, and alerting. Performing checks, sending notifications, processing performance data, and many other tasks are generally out-of-scope for Nagios Core and are handled by other Nagios projects."
+            },
+            {
+                "title": "Frontends",
+                "description": "Nagios Core has historically and still does ship with a default CGI interface. The CGIs provide Nagios users with the basic functionality required to view and manage elements that are monitored by Nagios Core. The CGIs have become the standard Nagios Core interface and are often used as an API by many Nagios extensions. Many users deploy additional frontends to customize the look, feel, and functionality of their Nagios UI. Nagios V-Shell is a new frontend that is currently being developed as the official PHP frontend to Nagios Core."
+            },
+            {
+                "title": "Extended Features",
+                "description": "There is a rich variety of addons that provide additional features that are out-of-scope for Nagios Core itself, including configuration frontends, performance graphing, auto-discovery, and distributed monitoring, among others. These features are implemented in different Nagios projects, which are developed independently and can be found at Nagios Exchange."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "id": "canopsis",
+        "website": "https://www.capensis.fr/canopsis/",
+        "title": "Canopsis",
+        "description": "The first open-source hypervision solution",
+        "long_description": "Mass centralization of multisource events. Automatic actions, semi-automatic\nand user interventions on the events. Customizable table tops real time dashboards.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/canopsis/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png",
+            "/images/hosting-and-infrastructure/monitoring/canopsis/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png",
+        "features": [
+            {
+                "title": "Collect",
+                "description": "Supervision solutions, logs, ticketing tools, referrals / CMDB, business applications\u2026"
+            },
+            {
+                "title": "Process",
+                "description": "Automatic actions, semi-automatic and user interventions on the events"
+            },
+            {
+                "title": "Dashboards",
+                "description": "Customizable table tops real time and different time (reporting). \nAlarms, service weather and monitoring tables are also available"
+            },
+            {
+                "title": "Unification of tools",
+                "description": "Canopsis streamlines the set of monitoring tools and other data sources in a single silo, a single interface"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "email",
+            "name": "Email",
+            "ids": [
+                "email"
+            ]
+        },
+        "id": "mailcow",
+        "website": "https://mailcow.email/",
+        "title": "MailCow",
+        "description": "Mailcow is a mail server suite with an elegant web interface for managing domains, mailboxes, etc.",
+        "long_description": "Mailcow is a Docker-based email server, based on Dovecot, Postfix and other open-source software, that provides a modern web UI for administration. The integrated UI allows administrative work on your mail server instance as well as separated domain administrator and mailbox user access. It's easy to provision and manage complex email applications.",
+        "logo": "/images/hosting-and-infrastructure/email/mailcow/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/email/mailcow/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Easy to install, setup and manage",
+                "description": "Easy to manage, MailCow supports all the latest releases of Ubuntu and Debian, provides IPv6 and IPv4 communication standards and a DKIM generator per each domain from the UI."
+            },
+            {
+                "title": "Fast mail client",
+                "description": "The mail client very easy to use, has API, and is fast."
+            },
+            {
+                "title": "Excellent support",
+                "description": "The excellent MailCow support is continuously developed and improved."
+            },
+            {
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "email",
+            "name": "Email",
+            "ids": [
+                "email"
+            ]
+        },
+        "id": "postal",
+        "website": "https://docs.postalserver.io/",
+        "title": "Postal",
+        "description": "Postal is a fully featured open-source mail delivery platform for incoming and outgoing email.",
+        "long_description": "Postal is a complete, fully featured mail server for use by websites and web servers. It's similar to Sendgrid, Mailgun or Postmark but open-source and ready for you to run on your own servers. It  was developed by Krystal to serve its own mail processing requirements but then released as an open-source project.",
+        "logo": "/images/hosting-and-infrastructure/email/postal/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/email/postal/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/email/postal/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/email/postal/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Click & open tracking",
+                "description": "Postal supports tracking opens and clicks from emails. This allows you to see when people open messages or they click links within them."
+            },
+            {
+                "title": "IP pools",
+                "description": "Postal supports sending messages from different IP addresses. This allows you to configure certain sets of IPs for different mail servers or send from different IPs based on the sender or recipient addresses."
+            },
+            {
+                "title": "Checking & monitoring",
+                "description": "Postal provides built-in DNS checking and monitoring to ensure that domains you send mail from are configured correctly for maximum deliverability."
+            },
+            {
+                "title": "Live information",
+                "description": "You can set up webhooks to receive live information about delivery information in real time. Full access to the last 7 days of webhook requests are stored for debugging purposes."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "email",
+            "name": "Email",
+            "ids": [
+                "email"
+            ]
+        },
+        "id": "mailu",
+        "website": "https://mailu.io",
+        "title": "Mailu",
+        "description": "Mailu is an insular email distribution - mail server as Docker images",
+        "long_description": "Mailu is a simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.",
+        "logo": "/images/hosting-and-infrastructure/email/mailu/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/email/mailu/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Standard email server",
+                "description": "IMAP and IMAP+, SMTP and Submission"
+            },
+            {
+                "title": "Advanced email features",
+                "description": "Advanced email features, aliases, domain aliases, custom routing"
+            },
+            {
+                "title": "Web Access",
+                "description": "Web access, multiple Webmails and administration interface"
+            },
+            {
+                "title": "Security",
+                "description": "Security, enforced TLS, Letsencrypt!, outgoing DKIM, anti-virus scanner"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "nextcloud",
+        "website": "https://nextcloud.com/",
+        "title": "Nextcloud",
+        "description": "Nextcloud provides an industry-leading, on-premises content collaboration platform.",
+        "long_description": "Nextcloud is a self-hosted productivity platform that combines the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy, and control that business needs.",
+        "logo": "/images/hosting-and-infrastructure/storage/nextcloud/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/nextcloud/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Access to files wherever you are",
+                "description": "With Nextcloud, you pick a server at home, in a data center, or at a provider, and your files will be there. With Nextcloud running on that server, your data is protected and you can access it from your desktop or mobile devices. You can also access, sync, and share your data on that FTP drive at school, on Dropbox, or on a NAS you have at home."
+            },
+            {
+                "title": "Protect, control and monitor",
+                "description": "With Nextcloud, you can protect, control and monitor data and communication across your company; ensure compliance with business and legal requirements, and keep your data on servers you own, at all times. Nothing leaks, not even metadata."
+            },
+            {
+                "title": "Multi-platform productivity",
+                "description": "You can enable productivity across any platform, whether in the office or on the road, to share, collaborate and communicate across organizational boundaries. Nextcloud provides transparent access to data on any storage."
+            },
+            {
+                "title": "Community",
+                "description": "A thriving, transparent, entirely open-source community development model ensures constant improvements, free of lock-ins or paywalls, and enterprise support when you need it."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "photoprism",
+        "website": "https://photoprism.app/",
+        "title": "PhotoPrism",
+        "description": "PhotoPrism is an AI-powered app for browsing, organizing & sharing your photo collection",
+        "long_description": "PhotoPrism is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud.",
+        "logo": "/images/hosting-and-infrastructure/storage/photoprism/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/photoprism/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Supports All Format",
+                "description": "Browse all your photos and videos without worrying about RAW conversion, duplicates or video formats"
+            },
+            {
+                "title": "Easy Search",
+                "description": "Easily find specific pictures using powerful search filters"
+            },
+            {
+                "title": "Face Recogonition",
+                "description": "Recognizes the faces of your family and friends"
+            },
+            {
+                "title": "Live Photos",
+                "description": "Play Live Photos by hovering over them in albums and search results"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "syncthing",
+        "website": "https://forum.syncthing.net/",
+        "title": "Syncthing",
+        "description": "Syncthing is a free, continuous, multiple-device file synchronization program.",
+        "long_description": "Syncthing is a free, open-source, peer-to-peer file synchronization application available for Windows, macOS, Linux, Android, Solaris, Darwin, and BSD. It can sync files between devices on a local network, or between remote devices over the Internet. Data security and data safety are built into the design of the software. It synchronizes files in real time, safely protected from prying eyes.",
+        "logo": "/images/hosting-and-infrastructure/storage/syncthing/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/syncthing/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Data secure",
+                "description": "Syncthing does not upload your data to the cloud but exchanges it across your machines as soon as they are online at the same time."
+            },
+            {
+                "title": "Transparent",
+                "description": "Syncthing uses an open and documented protocol. The security mechanisms in use are well defined and visible in the source code."
+            },
+            {
+                "title": "In control",
+                "description": "In Syncthing, you set up both sides to connect two devices. An attacker can\u2019t do much with a stolen device ID, because you have to add the device on the other side too. You have better control where your files are transferred."
+            },
+            {
+                "title": "Rapid synchronization",
+                "description": "Syncthing segments files into pieces, called blocks, to transfer data from one device to another. Therefore, multiple devices can share the synchronization load, in a similar way to the Torrent protocol. The more devices you have online, the faster an additional device will receive the data because small blocks will be fetched from all devices in parallel."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "filestash",
+        "website": "https://www.filestash.app/",
+        "title": "Filestash",
+        "description": "Filestash is a Dropbox-like file manager that lets you manage your data anywhere it is located.",
+        "long_description": "Filestash is a web app, with a free version, that connects to existing storage backend like FTP or S3. It can be self-hosted or on the cloud. It's best for companies that need tools to manage their back-office. Filestash aims to solve the Dropbox problem by abstracting the storage aspect. This makes it possible to bring your own backend or create your own by implementing a simple interface. If familiar with Dropbox, people can easily interact with complex systems without prior training.",
+        "logo": "/images/hosting-and-infrastructure/storage/filestash/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/filestash/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Simple data management",
+                "description": "Filestash lets you access and manage your data in a simple way \u2013 regardless of where that data is stored."
+            },
+            {
+                "title": "Easy collaboration",
+                "description": "With its flexible sharing mechanism, Filestash allows the creation of shared links that can be mounted as a network drive."
+            },
+            {
+                "title": "Open-source",
+                "description": "The entire source code of Filestash is available on GitHub."
+            },
+            {
+                "title": "Highly secure",
+                "description": "Filestash has passed an aggressive security audit to deploy in a F500 company."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "owncloud",
+        "website": "https://owncloud.com/",
+        "title": "ownCloud",
+        "description": "ownCloud is a suite of client-server software for creating and using file hosting services.",
+        "long_description": "ownCloud is a suite of client\u2013server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox. It enables you to share and sync data and keep it safe, on all platforms.",
+        "logo": "/images/hosting-and-infrastructure/storage/owncloud/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/owncloud/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Data storage control",
+                "description": "You can deploy ownCloud in your own datacenter on-premises, at a trusted service provider or choose ownCloud.online, the software-as-a-service collaboration platform hosted in Germany. You can increase security through measures like multi-factor authentication, encryption and file lifecycle management."
+            },
+            {
+                "title": "Control access to your data",
+                "description": "With ownCloud, you can give staff an easy, flexible and secure way to share files and folders; safely involve contacts outside your organization with select documents, and share public links shielded by passwords and expiration dates. You don't have to worry about slow VPN connections, unversioned documents attached to emails, and shadow IT in public clouds of questionable security"
+            },
+            {
+                "title": "Increase productivity",
+                "description": "ownCloud helps teams collaborate from anywhere and from any device. They can store, share and work on their data and documents through a single point of access, work simultaneously on documents, create presentations together in real time, annotate files, etc. This saves time on coordination and feedback processes."
+            },
+            {
+                "title": "Sync and share files",
+                "description": "With ownCloud, you can store your files, contacts, calendars, etc on a server of your choice; keep your files, contacts, calendars, etc synchronized among your devices; share your data and give access to your latest photo galleries, calendar and so on. ownCloud is expandable with dozens of apps. And you can encrypt data in transit with secure https connections, and also enable the encryption app to encrypt data on storage for improved security and privacy."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "paperless-ngx",
+        "website": "https://paperless-ngx.readthedocs.io/en/latest/",
+        "title": "Paperless-ngx",
+        "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.",
+        "long_description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents. Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.",
+        "logo": "/images/hosting-and-infrastructure/storage/paperless-ngx/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png",
+        "features": [
+            {
+                "title": "OCR",
+                "description": "Performs OCR on your documents, adds selectable text to image only documents and adds tags, correspondents and document types to your documents."
+            },
+            {
+                "title": "Storage",
+                "description": "Paperless stores your documents plain on disk. Filenames and folders are managed by paperless and their format can be configured freely."
+            },
+            {
+                "title": "Single Page Application Frontend",
+                "description": "Includes a dashboard that shows basic statistics and has document upload. Filtering by tags, correspondents, types, and more.\nCustomizable views can be saved and displayed on the dashboard."
+            },
+            {
+                "title": "Full Text Search",
+                "description": "Auto completion suggests relevant words from your documents. Results are sorted by relevance to your search query.\nHighlighting shows you which parts of the document matched the query. Searching for similar documents (\"More like this\")"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "archivebox",
+        "website": "https://archivebox.io/",
+        "title": "ArchiveBox",
+        "description": "ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.",
+        "long_description": "ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.",
+        "logo": "/images/hosting-and-infrastructure/storage/archivebox/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/archivebox/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png",
+        "features": [
+            {
+                "title": "Powerfull, intuitive command line interface",
+                "description": "ArchiveBox comes with a command-line app that works directly from your terminal, a web application that works seamlessly in all modern browsers, and a new released desktop app that works for Windows, Linux, and macOS."
+            },
+            {
+                "title": "Scheduled Archiving",
+                "description": "ArchiveBox contains a built-in scheduler that supports pulling in URLs regularly from the web or from the local filesystem.\nArchiveBox ignores links that are imported multiple times (keeping the earliest version that it's seen). This means you can add cron jobs that regularly poll the same file or URL for new links, adding only new ones as necessary, or you can pass --overwrite to save a fresh copy each time the scheduled task runs.Uses standard, durable, long-term formats"
+            },
+            {
+                "title": "Uses standard, durable, long-term formats",
+                "description": "ArchiveBox supports many input formats for URLs, including Pocket & Pinboard exports, Browser bookmarks, Browser history, plain text, HTML, markdown, and more!"
+            },
+            {
+                "title": "Archive Layout",
+                "description": "All of ArchiveBox's state (including the index, snapshot data, and config file) is stored in a single folder called the \"ArchiveBox data folder\". All archivebox CLI commands must be run from inside this folder, and you first create it by running archivebox init."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "docspell",
+        "website": "https://docspell.org/",
+        "title": "Docspell",
+        "description": "Simple document organizer",
+        "long_description": "Docspell assists in organizing your piles of digital documents, resulting from scanners, e-mails and other sources with miminal effort.",
+        "logo": "/images/hosting-and-infrastructure/storage/docspell/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/docspell/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/docspell/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/docspell/screenshot-1.png",
+        "features": [
+            {
+                "title": "Text Extraction with OCR",
+                "description": "Text is extracted from all files. For scanned documents/images, OCR is used by utilising tesseract. The text is analysed and is available for full-text search."
+            },
+            {
+                "title": "Text Analysis",
+                "description": "The extracted text is analyzed using ML algorithms to find properties that can be annotated to your documents automatically."
+            },
+            {
+                "title": "Support for many files",
+                "description": "Docspell can read many file types. ZIP and EML (e-mail file format) files are extracted and their contents imported."
+            },
+            {
+                "title": "Conversion to PDF",
+                "description": "All files are converted to PDF. Don't worry about the originals. Original files are stored, too and can be downloaded untouched. When creating PDFs from image data (often returned from scanners), the resulting PDF contains the extracted text and is searchable."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "immich",
+        "website": "https://immich.app/",
+        "title": "Immich",
+        "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+        "long_description": "Immich is a promising self-hosted alternative to Google Photos. Its UI and features are clearly heavily inspired by Google Photos, and like Photoprism, Immich uses Tensorflow-based machine learning to auto-tag your photos!",
+        "logo": "/images/hosting-and-infrastructure/storage/immich/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/immich/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/immich/screenshot-2.webp"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/immich/screenshot-1.png",
+        "features": [
+            {
+                "title": "Bulk Upload (Using the CLI)",
+                "description": "You can use the CLI to upload an existing gallery to the Immich server"
+            },
+            {
+                "title": "Reverse Geocoding",
+                "description": "Immich supports Reverse Geocoding using data from the GeoNames geographical database."
+            },
+            {
+                "title": "Search",
+                "description": "Immich uses Typesense as the primary search database to enable a high-performance search mechanism."
+            },
+            {
+                "title": "Mobile App & Backup",
+                "description": "It can be accessed through a mobile app with the server url on a supported device to upload backups, and it supports both foreground and background automatic backup."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "picoshare",
+        "website": "https://pico.rocks/",
+        "title": "Picoshare",
+        "description": "PicoShare is a service for sharing images, videos, and other files.",
+        "long_description": "On PicoShare, only you can upload files. You can share links to those files with anyone, and they never have to sign up for an account.",
+        "logo": "/images/hosting-and-infrastructure/storage/picoshare/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/picoshare/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/picoshare/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/picoshare/screenshot-1.png",
+        "features": [
+            {
+                "title": "Direct download links",
+                "description": "PicoShare gives you a direct download link you can share with anyone. They can view or download the file with no ads or signups."
+            },
+            {
+                "title": "No file restrictions",
+                "description": "Unlike sites like Imgur, Vimeo, or SoundCloud which only allow you to share specific types of files, PicoShare lets you share any file of any size."
+            },
+            {
+                "title": "o resizing/re-encoding",
+                "description": "If you upload media like images, video, or audio, PicoShare never forces you to wait on re-encoding. You get a direct download link as soon as you upload the file, and PicoShare never resizes or re-encodes your file."
+            },
+            {
+                "title": "Preservation",
+                "description": "PicoShare preserves the original filename and metadata for your files."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "minio",
+        "website": "https://min.io/",
+        "title": "MinIO",
+        "description": "MinIO is a leader in hybrid cloud and multi-cloud object storage.",
+        "long_description": "MinIO supports the widest range of use cases across the largest number of environments. Cloud native since inception, its software-defined suite runs seamlessly in the public cloud, private cloud and at the edge. With industry-leading performance and scalability, MinIO can deliver a range of use cases from AI/ML, analytics, backup/restore and modern web and mobile apps.",
+        "logo": "/images/hosting-and-infrastructure/storage/minio/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/storage/minio/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Hybrid and multi-cloud",
+                "description": "MinIO is a natural fit for enterprises looking for a consistent, performant and scalable object store for their hybrid cloud strategies. Kubernetes-native by design, S3 compatible from inception, MinIO has more than 7.7m instances running in AWS, Azure and GCP \u2013 more than the rest of the private cloud combined. When added to millions of private cloud instances and extensive edge deployments, MinIO is the hybrid cloud leader."
+            },
+            {
+                "title": "Cloud-native from the start",
+                "description": "MinIO, built from scratch in recent years, is native to the technologies and architectures that define the cloud, including containerization, orchestration with Kubernetes, microservices and multi-tenancy. No other object store is more Kubernetes-friendly."
+            },
+            {
+                "title": "High-performance object storage",
+                "description": "MinIO is the world's fastest object storage server. With read/write speeds of 183 GB/s and 171 GB/s on standard hardware, object storage can operate as the primary storage tier for a diverse set of workloads, including Spark, Presto, TensorFlow and H2O.ai, as well as a replacement for Hadoop HDFS."
+            },
+            {
+                "title": "Built on the principles of web scale",
+                "description": "MinIO leverages the hard-won knowledge of web scalers to bring a simple scaling model to object storage. Scaling starts with a single cluster that can be federated with other MinIO clusters to create a global namespace, spanning multiple datacenters if needed. It is one of the reasons that more than half the Fortune 500 run MinIO."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "id": "sftpgo",
+        "website": "https://github.com/drakkan/sftpgo",
+        "title": "SFTPGo",
+        "description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support",
+        "long_description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.",
+        "logo": "/images/hosting-and-infrastructure/storage/sftpgo/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png",
+            "/images/hosting-and-infrastructure/storage/sftpgo/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png",
+        "features": [
+            {
+                "title": "Web UI",
+                "description": "Web based administration interface to easily manage users, folders and connections.\nWeb client interface so that end users can change their credentials, manage and share their files in the browser. Web Client and Web Admin user interfaces support OpenID Connect authentication and so they can be integrated with identity providers such as Keycloak."
+            },
+            {
+                "title": "Versatile",
+                "description": "Support for serving local filesystem, encrypted local filesystem, S3 Compatible Object Storage, Google Cloud Storage, Azure Blob Storage or other SFTP accounts over SFTP/SCP/FTP/WebDAV."
+            },
+            {
+                "title": "REST API",
+                "description": "REST API for users and folders management, data retention, backup, restore and real time reports of the active connections with possibility of forcibly closing a connection."
+            },
+            {
+                "title": "Features",
+                "description": "Quota, Data transfer bandwidth limits, Geo-IP filtering, Virtual folders ... and hundreds of others options and features are available"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "nomad",
+        "website": "https://www.nomadproject.io/",
+        "title": "Nomad",
+        "description": "Nomad is a scheduler and workload orchestrator.",
+        "long_description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+        "logo": "/images/hosting-and-infrastructure/containers/nomad/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/containers/nomad/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Simple and Lightweight",
+                "description": "Single binary that integrates into existing infrastructure. Easy to operate on-prem or in the cloud with minimal overhead."
+            },
+            {
+                "title": "Flexible Workload Support",
+                "description": "Orchestrate applications of any type - not just containers. First class support for Docker, Windows, Java, VMs, and more."
+            },
+            {
+                "title": "Modernize Legacy Applications without Rewrite",
+                "description": "Bring orchestration benefits to existing services. Achieve zero downtime deployments, improved resilience, higher resource utilization, and more without containerization."
+            },
+            {
+                "title": "Easy Federation at Scale",
+                "description": "Single command for multi-region, multi-cloud federation. Deploy applications globally to any region using Nomad as a single unified control plane."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "portainer",
+        "website": "https://www.portainer.io/",
+        "title": "Portainer",
+        "description": "Portainer is a centralized service delivery platform for containerized apps.",
+        "long_description": "Portainer is a lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. Portainer is meant to be as simple to deploy as it is to use. It consists of a single container that can run on any Docker engine (Docker for Linux and Docker for Windows are supported).",
+        "logo": "/images/hosting-and-infrastructure/containers/portainer/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/containers/portainer/screenshot-1.png",
+            "/images/hosting-and-infrastructure/containers/portainer/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/containers/portainer/screenshot-1.png",
+        "features": [
+            {
+                "title": "Deploy containerized apps easily and securely",
+                "description": "Portainer allows you to get your app up and running in any container-based environment (Docker, Kubernetes. ACI) quickly, easily and securely without first having to learn the platform intricacies."
+            },
+            {
+                "title": "Easy automation",
+                "description": "Automation (CI/CD) is key to efficient software delivery, but it can be tricky to get going. Portainer's simple GitOps integration is the perfect place to start."
+            },
+            {
+                "title": "Simple-to-build container management system",
+                "description": "To succeed with containers, you need to give your internal users secure access to the tools they need. Portainer makes it easy to set up and configure a complete container service delivery engine."
+            },
+            {
+                "title": "Secure container environment",
+                "description": "Orchestrators like Kubernetes are not equipped with identity and access management by default. Portainer makes it easy to set up and manage centralized identity and access management (including RBAC)."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "dockerregistry",
+        "website": "https://docs.docker.com/registry/",
+        "title": "DockerRegistry",
+        "description": "Docker Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license.",
+        "long_description": "You should use the Registry if you want to:\ntightly control where your images are being stored\nfully own your images distribution pipeline\nintegrate image storage and distribution tightly into your in-house development workflow",
+        "logo": "/images/hosting-and-infrastructure/containers/dockerregistry/logo.png",
+        "screenshots": [],
+        "dashboardImage": null,
+        "features": [
+            {
+                "title": "",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "k3s",
+        "website": "https://k3s.io/",
+        "title": "K3S",
+        "description": "K3s is a fully compliant Kubernetes distribution",
+        "long_description": "k3s is a lightweight, easy to install Kubernetes distribution geared towards resource-constrained environments and low touch operations. Some use cases in which k3s really shines are edge, ARM, IoT, and CI.",
+        "logo": "/images/hosting-and-infrastructure/containers/k3s/logo.png",
+        "screenshots": [],
+        "dashboardImage": null,
+        "features": [
+            {
+                "title": "Perfect for Edge",
+                "description": "K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances."
+            },
+            {
+                "title": "Simplified & Secure",
+                "description": "K3s is packaged as a single <50MB binary that reduces the dependencies and steps needed to install, run and auto-update a production Kubernetes cluster."
+            },
+            {
+                "title": "Optimized for ARM",
+                "description": "Both ARM64 and ARMv7 are supported with binaries and multiarch images available for both. K3s works great from something as small as a Raspberry Pi to an AWS a1.4xlarge 32GiB server."
+            },
+            {
+                "title": "Batteries Included",
+                "description": "Simple but powerful \u201cbatteries-included\u201d features have been added, such as: a local storage provider, a service load balancer, a Helm controller, and the Traefik ingress controller."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "microk8s",
+        "website": "https://microk8s.io",
+        "title": "Microk8s",
+        "description": "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge",
+        "long_description": "MicroK8s is an open-source system for automating deployment, scaling, and management of containerised applications. It provides the functionality of core Kubernetes components, in a small footprint, scalable from a single node to a high-availability production cluster.",
+        "logo": "/images/hosting-and-infrastructure/containers/microk8s/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png",
+            "/images/hosting-and-infrastructure/containers/microk8s/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png",
+        "features": [
+            {
+                "title": "Small",
+                "description": "Developers want the smallest K8s for laptop and workstation development. MicroK8s provides a standalone K8s compatible with Azure AKS, Amazon EKS, Google GKE when you run it on Ubuntu."
+            },
+            {
+                "title": "Simple",
+                "description": "Minimize administration and operations with a single-package install that has no moving parts for simplicity and certainty. All dependencies and batteries included."
+            },
+            {
+                "title": "Secure",
+                "description": "Updates are available for all security issues and can be applied immediately or scheduled to suit your maintenance cycle."
+            },
+            {
+                "title": "Current",
+                "description": "MicroK8s tracks upstream and releases beta, RC and final bits the same day as upstream K8s. You can track latest K8s or stick to any release version from 1.10 onwards."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "k0s",
+        "website": "https://k0sproject.io/",
+        "title": "k0s",
+        "description": "The Simple, Solid & Certified Kubernetes Distribution.\u00a0Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.",
+        "long_description": "The Simple, Solid & Certified Kubernetes Distribution.\u00a0Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.",
+        "logo": "/images/hosting-and-infrastructure/containers/k0s/logo.png",
+        "screenshots": [],
+        "dashboardImage": null,
+        "features": [
+            {
+                "title": "Zero Friction",
+                "description": "k0s drastically reduces the complexity of installing and running a fully conformant Kubernetes distribution. New kube clusters can be bootstrapped in minutes. Developer friction is reduced to zero, allowing anyone, with no special skills or expertise in Kubernetes to easily get started."
+            },
+            {
+                "title": "Zero Deps",
+                "description": "k0s is distributed as a single binary with zero host OS dependencies besides the host OS kernel. It works with any operating system without additional software packages or configuration. Any security vulnerabilities or performance issues can be fixed directly in the k0s distribution."
+            },
+            {
+                "title": "Zero Cost",
+                "description": "k0s is completely free for personal or commercial use, and it always will be. The source code is available on Github under Apache 2 license. It's a no brainer foundation for any Kubernetes projects and easy build upon."
+            },
+            {
+                "title": "Control Plane Datastore",
+                "description": "In-Cluster Elastic Etcd with TLS (default)\nIn-Cluster SQLite (default for single node)\nExternal PostgreSQL\nExternal MySQL"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "nexus3",
+        "website": "https://www.sonatype.com/products/repository-oss",
+        "title": "Nexus3",
+        "description": "The free artifact repository with universal format support.",
+        "long_description": "World\u2019s #1 Repository Manager. Single source of truth for all of your components, binaries, and build artifacts.\nEfficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.",
+        "logo": "/images/hosting-and-infrastructure/containers/nexus3/logo.png",
+        "screenshots": [],
+        "dashboardImage": null,
+        "features": [
+            {
+                "title": "Universal Support for All Popular Build Tools",
+                "description": "Store and distribute Maven/Java, npm, NuGet, Helm, Docker, P2, OBR, APT, GO, R, Conan components and more.\nManage components from dev through delivery: binaries, containers, assemblies, and finished goods.\nAwesome support for the Java Virtual Machine (JVM) ecosystem, including Gradle, Ant, Maven, and Ivy.\nCompatible with popular tools like Eclipse, IntelliJ, Hudson, Jenkins, Puppet, Chef, Docker, and more."
+            },
+            {
+                "title": "Efficiency and Flexibility to Empower Development Teams",
+                "description": "Streamline productivity by sharing components internally.\nGain insight into component security, license and quality issues.\nBuild off-line with remote package availability.\nIntegrate with industry leading build tools."
+            },
+            {
+                "title": "World\u2019s #1 Repository Manager",
+                "description": "Single source of truth for all of your components, binaries, and build artifacts.\nEfficiently distribute parts and containers to developers.\nDeployed at more than 100,000 organizations globally."
+            },
+            {
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "containers",
+            "name": "Containers",
+            "ids": [
+                "containers"
+            ]
+        },
+        "id": "ci-cd-target",
+        "website": "https://elest.io/",
+        "title": "CI-CD-Target",
+        "description": "Deploy one or multiple CD/CD pipelines to a target node",
+        "long_description": "CI/CD target by Elestio is a fully managed service made to handle deployment, security, reverse proxy, ssl, smtp, logs, backups & monitoring of your own source code coming from Github, Gitlab or Docker registries",
+        "logo": "/images/hosting-and-infrastructure/containers/ci-cd-target/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-1.png",
+            "/images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-1.png",
+        "features": [
+            {
+                "title": "Deploy automaticaly from Github / Gitlab / Docker registries",
+                "description": "Go from source to production In 3 simple steps \n1) Select your source project from your account or from our samples\n2) Select an existing target or create a new one (where the pipeline will be deployed)\n3) Configure your pipeline (env vars, runtime, build/run command, lifecycle scripts, ...)"
+            },
+            {
+                "title": "Samples available for most popular frameworks",
+                "description": "We have created 52 sample repositories for all most popular frameworks & runtimes. Thanks to that you can quickstart with your favorite frontend / backend technology in few minutes."
+            },
+            {
+                "title": "Deploy multiple containers to a single target",
+                "description": "You can deploy multiple instances of the same software or various software to the same CI/CD target  (eg: 3 wordpress, 2 directus, 4 mysql, 1 uptime kuma ...)"
+            },
+            {
+                "title": "Move pipelines between nodes",
+                "description": "You can move a ci/cd pipeline from one vm to another vm in a click. Your data, dns, and all settings are moving along smoothly as well to their new home. Migrate any pipeline in minutes without stress."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "itop",
+        "website": "https://www.combodo.com/?lang=en",
+        "title": "iTop",
+        "description": "iTop adapts to the needs of digital businesses to manage multiple customers, contracts and SLAs",
+        "long_description": "Designed by experienced IT service professionals, iTop has been created to manage the complexity of shared infrastructures. iTop gives you the ability to analyze the impact of an incident or a change on the various services and contracts that you have to fulfil.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/itop/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/itop/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png",
+        "features": [
+            {
+                "title": "100% Customizable",
+                "description": "Ready to use, iTop adapts to your needs and processes without writing a single line of code"
+            },
+            {
+                "title": "An ERP for IT",
+                "description": "Shared referential + Industrialized services = Best Customer Satisfaction"
+            },
+            {
+                "title": "Problem Management",
+                "description": "To avoid repetition of incidents, the problem management module is the analysts' tool, contributing to the pool of knowledge for common mistakes"
+            },
+            {
+                "title": "Customizable Workflow",
+                "description": "The life cycle of the tickets or the list of tasks to perform for the achievement of a process can be set to fit each organization"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "centrifugo",
+        "website": "https://centrifugal.dev/",
+        "title": "Centrifugo",
+        "description": "Centrifugo is a scalable real-time, language-agnostic messaging server.",
+        "long_description": "Centrifugo, a scalable real-time messaging server, works in conjunction with whatever programming language your application uses on frontend or backend sides. Centrifugo broadcasts the event to all connected clients subscribed to the event channel. In brief, Centrifugo is a user-facing PUB/SUB server.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/centrifugo/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg",
+            "/images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Integrates with everything",
+                "description": "Centrifugo, a self-hosted service, can handle connections over a variety of real-time transports and provides a simple publish API. It integrates well with any application. There's no need to change an application architecture to introduce real-time features; you just let Centrifugo deal with persistent connections."
+            },
+            {
+                "title": "Great performance",
+                "description": "Centrifugo, built in Go language, has some smart optimizations inside. It performs very well; a test stand, with 1m WebSocket connections, showed that about 30m messages per minute (500k messages per second) would be delivered to connected clients and latency would not be greater than 200ms in 99 percentile."
+            },
+            {
+                "title": "Feature-rich",
+                "description": "Centrifugo's many built-in features can help you to build an attractive real-time application in a short time. Centrifugo provides different types of subscriptions, hot channel history, instant presence and RPC calls. There is also the option to proxy connection events to the application backend over HTTP or GRPC."
+            },
+            {
+                "title": "Out-of-the-box scalability",
+                "description": "Built-in Redis, KeyDB, Tarantool engines or Nats broker make it possible to scale connections over different machines. With consistent sharding of Redis, KeyDB and Tarantool, it's possible to handle millions of active connections with reasonable hardware requirements."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "powerdns",
+        "website": "https://www.powerdns.com/",
+        "title": "PowerDNS",
+        "description": "PowerDNS is a premier supplier of open-source DNS software, services and support.",
+        "long_description": "PowerDNS is a DNS server program, written in C++ and licensed under the GPL. It runs on most Unix derivatives. It features a large number of backends ranging from simple BIND style zonefiles to relational databases and load-balancing/failover algorithms.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/powerdns/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png",
+        "features": [
+            {
+                "title": "Complete suite of DNS-related software",
+                "description": "PowerDNS provides open-source (GPL) software to create authoritative DNS, recursive DNS, DNS loading balancer, debugging tools, and APIs to provision zones and records."
+            },
+            {
+                "title": "Authoritative Server",
+                "description": "PowerDNS enables the authoritative DNS service from all popular databases like MySql, Oracle, PostgreSQL, SQLite3, Microsoft SQL Server, LDAP, and text files. Authoritative Server works with many different scripts like Java, Python, C, C++, Perl, Lua. You can use it for dynamic redirection, spam filter, or real-time intervention."
+            },
+            {
+                "title": "High-performance recursive DNS server",
+                "description": "PowerDNS Recursor can use multiple processors. Like the Authoritative Server, it supports various scripts. It can be reconfigured without downtime."
+            },
+            {
+                "title": "Powerful load balancer",
+                "description": "Dnsdist (load balancer) can route traffic to optimal servers, delivering excellent performance. It also can block abusive traffic and provide DoS protection."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "rabbitmq",
+        "website": "https://www.rabbitmq.com/",
+        "title": "RabbitMQ",
+        "description": "RabbitMQ is the most widely deployed open source message broker",
+        "long_description": "RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supports multiple messaging protocols. RabbitMQ can be deployed in distributed and federated configurations to meet high-scale, high-availability requirements.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/rabbitmq/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg",
+            "/images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg",
+        "features": [
+            {
+                "title": "Asynchronous Messaging",
+                "description": "Supports multiple messaging protocols, message queuing, delivery acknowledgement, flexible routing to queues, multiple exchange type."
+            },
+            {
+                "title": "Distributed Deployment",
+                "description": "Deploy as clusters for high availability and throughput; federate across multiple availability zones and regions."
+            },
+            {
+                "title": "Tools & Plugins",
+                "description": "Diverse array of tools and plugins supporting continuous integration, operational metrics, and integration to other enterprise systems. Flexible plug-in approach for extending RabbitMQ functionality."
+            },
+            {
+                "title": "Management & Monitoring",
+                "description": "HTTP-API, command line tool, and UI for managing and monitoring RabbitMQ."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "haproxy",
+        "website": "https://www.haproxy.org/",
+        "title": "HAProxy",
+        "description": "The Reliable, High Performance TCP/HTTP Load Balancer",
+        "long_description": "HAProxy is a free, very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers a significant portion of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/haproxy/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png",
+        "features": [
+            {
+                "title": "Load Balancing",
+                "description": "Load balance your services at any scale and in any environment with our feature-rich application delivery controllers."
+            },
+            {
+                "title": "High Availability",
+                "description": "Deliver optimal user experiences regardless of volume of visitors, number of hits, or complexity of request."
+            },
+            {
+                "title": "Application Acceleration",
+                "description": "High performance SSL offloading, advanced timings, high performance lookup maps, HTTP compression, device detection and HTTP routing."
+            },
+            {
+                "title": "Administration",
+                "description": "Utilize HAProxy\u2019s RESTful Data Plane API and Runtime API to manipulate your load balancer\u2019s configuration or to drain traffic. Make changes dynamically without risking impact to other services."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "openresty",
+        "website": "https://openresty.org/",
+        "title": "OpenResty",
+        "description": "A Fast and Scalable Web Platform by Extending NGINX with LuaJIT",
+        "long_description": "OpenResty\u00a0is a full-fledged web platform that integrates our enhanced version of the Nginx core, our enhanced version of LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/openresty/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/openresty/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png",
+        "features": [
+            {
+                "title": "Powerful web app server",
+                "description": "By taking advantage of various well-designed Nginx modules (most of which are developed by the OpenResty team themselves), OpenResty effectively turns the nginx server into a powerful web app server, in which the web developers can use the Lua programming language to script various existing nginx C modules and Lua modules and construct extremely high-performance web applications that are capable to handle 1000K+ connections in a single box."
+            },
+            {
+                "title": "Automated SSL Termination",
+                "description": "OpenResty will automatically create and renew SSL certificates"
+            },
+            {
+                "title": "Extensible",
+                "description": "Leverage tons of LUA plugins available or write your own LUA code. It's easy and very fast."
+            },
+            {
+                "title": "Based on Nginx",
+                "description": "Switching from nginx to OpenResty is not such a paradigm shift as moving to, say, Apache or Microsoft IIS. The OpenResty web application platform is built around the standard nginx core, which offers some familiarity, as well as allowing the use of third-party nginx modules."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "squid",
+        "website": "http://www.squid-cache.org/",
+        "title": "Squid",
+        "description": "Fast & powerful proxy server",
+        "long_description": "Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. Squid has extensive access controls and makes a great server accelerator.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/squid/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/squid/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png",
+        "features": [
+            {
+                "title": "Simple & powerful",
+                "description": "Squid is one of the oldest content accelerators, used by thousands of websites around the world to ease the load on their servers. Setting up an accelerator in front of an existing website is almost always a quick and simple task with immediate benefits."
+            },
+            {
+                "title": "Improve user experience",
+                "description": "A well-tuned proxy server (even without caching!) can improve user speeds purely by optimising TCP flows. Its easy to tune servers to deal with the wide variety of latencies found on the internet - something that desktop environments just aren't tuned for."
+            },
+            {
+                "title": "Hundreds of features and options",
+                "description": "Advanced ACL to Allow/Block based on network, Caching, Content filtering, load balancing, Clustering, Traffic Interception and many more"
+            },
+            {
+                "title": "Advanced authentication systems",
+                "description": "Set authentication to get users to Authenticate (LDAP, Active Directory,RADIUS, POP3, DB, etc)"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "ids": [
+                "infrastructure"
+            ]
+        },
+        "id": "localstack",
+        "website": "https://localstack.cloud/",
+        "title": "LocalStack",
+        "description": "A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!",
+        "long_description": "LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/localstack/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png",
+            "/images/hosting-and-infrastructure/infrastructure/localstack/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png",
+        "features": [
+            {
+                "title": "Cloud Emulation",
+                "description": "LocalStack provides a fully functional local cloud stack - develop your cloud apps offline!\nProvides the same APIs as the real cloud, all on your local machine\nNo need to write hand-crafted mocks for your unit and integration tests"
+            },
+            {
+                "title": "Dev cycles in seconds",
+                "description": "Reduce deploy times from minutes to seconds. Instant feedback for any application changes - boosting your productivity. Avoid the slow and tedious deploy-test-redeploy cycles for your cloud apps. Hot deploy - instantly test changes in Lambda functions without redeploy."
+            },
+            {
+                "title": "Enhanced debuggability",
+                "description": "Easily reproducible environments from local dev, across CI/CD, into prod. Set breakpoints in your local execution and hook into the in-memory state. Spin up ephemeral environments to test or showcase your changes. Directly reproduce red CI runs and build failures on your machine"
+            },
+            {
+                "title": "Integrations",
+                "description": "LocalStack supports a wide range of tools from the cloud development ecosystem. \nAWS CLI, Serverless Framework, Spring Cloud Function framework, Terraform, AWS SAM, Pulumi ... and more"
+            }
+        ]
+    }
+]
