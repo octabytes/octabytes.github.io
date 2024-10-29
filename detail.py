@@ -2,12 +2,11 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
 from pathlib import Path
 
 # Paths
 input_folder = "./extractor/databases"
-output_folder = "./extractor/services/databases/"
+output_file = "./extractor/services/databases.json"
 
 def download_image(url, save_path):
     """Download image from url and save to the specified path."""
@@ -77,12 +76,15 @@ def scrape_data(external_link, link_last_part, category_id):
         "dashboard_image": screenshots[0] if screenshots else None
     }
 
-def process_json_file(file_path):
+def process_json_file(file_path, existing_ids):
     """Process each JSON file to extract and save the required data."""
     print(f"\nProcessing file: {file_path}")
     with open(file_path, 'r') as file:
         data = json.load(file)
     
+    # Initialize a list for the services in this file
+    services = []
+
     for item in data:
         category = item.get("category", {})
         category_id = category.get("id")
@@ -90,13 +92,25 @@ def process_json_file(file_path):
         external_link = item["external_link"]
         
         print(f"Processing service: {link_last_part}")
+
+        # Check if the service ID already exists
+        if link_last_part in existing_ids:
+            # If it exists, add the category ID to the existing category's ids
+            existing_ids[link_last_part].add(category_id)
+            print(f"Service {link_last_part} already exists, adding category_id {category_id}.")
+            continue
+        
         scraped_data = scrape_data(external_link, link_last_part, category_id)
         if not scraped_data:
             print(f"Skipping {link_last_part} due to scraping issues.")
             continue
-        
+
         output_data = {
-            "category": category,
+            "category": {
+                "id": category_id,
+                "name": category.get("name"),
+                "ids": [category_id]  # Start with the current category ID as a list
+            },
             "id": link_last_part,
             "website": scraped_data["website_url"],
             "title": item["title"],
@@ -108,14 +122,34 @@ def process_json_file(file_path):
             "features": scraped_data["features"]
         }
         
-        # Save JSON data
-        output_path = os.path.join(output_folder, category_id, "services.json")
-        Path(os.path.dirname(output_path)).mkdir(parents=True, exist_ok=True)
-        with open(output_path, 'w') as outfile:
-            json.dump(output_data, outfile, indent=4)
-        print(f"Saved data for {link_last_part} to {output_path}")
+        # Add the new service ID to the existing_ids dictionary with its category
+        existing_ids[link_last_part] = {category_id}  # Use a set to keep unique category IDs
+        services.append(output_data)
+
+    return services
+
+# Initialize a dictionary to hold existing service IDs
+existing_ids = {}
 
 # Process each JSON file in the input folder
+all_services = []
 for filename in os.listdir(input_folder):
     if filename.endswith(".json"):
-        process_json_file(os.path.join(input_folder, filename))
+        services_from_file = process_json_file(os.path.join(input_folder, filename), existing_ids)
+        all_services.extend(services_from_file)
+
+# Update the existing services to include all category IDs in the ids array
+for service in all_services:
+    service_id = service["id"]
+    if service_id in existing_ids:
+        # Assign all category IDs as a list to the ids key
+        service["category"]["ids"] = list(existing_ids[service_id])
+    else:
+        service["category"]["ids"] = []
+
+# Save all services to a single JSON file
+Path(os.path.dirname(output_file)).mkdir(parents=True, exist_ok=True)
+with open(output_file, 'w') as outfile:
+    json.dump(all_services, outfile, indent=4)
+
+print(f"Saved all services to {output_file}")
