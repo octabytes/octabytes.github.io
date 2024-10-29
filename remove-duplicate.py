@@ -1,29 +1,59 @@
-import yaml
+import os
+import json
 
-# Load YAML file
-file_path = "./data/tmp.yaml"
-with open(file_path, "r") as file:
-    data = yaml.safe_load(file)
+def extract_data_from_json_files(input_directory, output_file):
+    all_data = []
+    category_ids = {}
 
-# Process 'services' section
-titles_seen = {}
-unique_services = []
+    # Get a list of all JSON files in the input directory
+    json_files = [f for f in os.listdir(input_directory) if f.endswith('.json')]
+    total_files = len(json_files)
 
-for db in data["content"]["services"]:
-    title = db["title"]
-    if title in titles_seen:
-        # If title already seen, append the category to the first entry with this title
-        titles_seen[title]["category"] += " " + db["category"]
-    else:
-        # If title is new, add it to the list and store reference
-        titles_seen[title] = db
-        unique_services.append(db)
+    for index, json_file in enumerate(json_files):
+        file_path = os.path.join(input_directory, json_file)
+        
+        # Read the JSON file
+        with open(file_path, 'r') as file:
+            try:
+                data = json.load(file)
+            except json.JSONDecodeError:
+                print(f"Error decoding JSON from file: {file_path}")
+                continue
 
-# Update data with unique entries
-data["content"]["services"] = unique_services
+            # Process each item in the JSON data
+            for item in data:
+                item_id = item['link'].split('/')[-1]  # Extract id from link
+                item['id'] = item_id  # Add id field to item
+                
+                # Add category ids
+                category_id = item['category']['id']
+                if category_id not in category_ids:
+                    category_ids[category_id] = {'ids': [category_id]}
+                
+                # Check for duplicates before adding the id
+                if item_id not in category_ids[category_id]['ids']:
+                    category_ids[category_id]['ids'].append(item_id)
 
-# Save updated YAML file
-with open(file_path, "w") as file:
-    yaml.dump(data, file)
+                all_data.append(item)
 
-print("Duplicates processed, YAML file updated.")
+        # Show progress
+        print(f"Processed file {index + 1}/{total_files}: {json_file}")
+
+    # Combine category data with all data
+    for item in all_data:
+        category_id = item['category']['id']
+        if category_id in category_ids:
+            item['category']['ids'] = category_ids[category_id]['ids']
+
+    # Write the aggregated data to the output file
+    with open(output_file, 'w') as outfile:
+        json.dump(all_data, outfile, indent=4)
+
+    print(f"Data extraction complete. Output saved to: {output_file}")
+
+# Specify input and output directories
+input_directory = './extractor/databases'
+output_file = './extractor/services/databases.json'
+
+# Run the data extraction
+extract_data_from_json_files(input_directory, output_file)
