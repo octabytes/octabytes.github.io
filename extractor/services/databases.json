@@ -4,8 +4,8 @@
             "id": "nosql",
             "name": "NoSQL",
             "ids": [
-                "specialized-databases",
-                "nosql"
+                "nosql",
+                "specialized-databases"
             ]
         },
         "id": "valkey",
@@ -15,10 +15,10 @@
         "long_description": "Valkey is an open source (BSD) high-performance key/value datastore that supports a variety of workloads such as caching, and message queues, and can act as a primary database. Valkey can run as a standalone daemon or in a cluster, with options for replication and high availability.  Valkey natively supports a rich collection of data types, including strings, numbers, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and more.",
         "logo": "/images/databases/nosql/valkey/logo.png",
         "screenshots": [
-            "/images/databases/nosql/valkey/screenshot-1.jpg",
-            "/images/databases/nosql/valkey/screenshot-2.jpg"
+            "./static/images/databases/nosql/valkey/screenshot-1.jpg",
+            "./static/images/databases/nosql/valkey/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/nosql/valkey/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/nosql/valkey/screenshot-1.jpg",
         "features": [
             {
                 "title": "In-memory store",
@@ -43,8 +43,8 @@
             "id": "nosql",
             "name": "NoSQL",
             "ids": [
-                "specialized-databases",
-                "nosql"
+                "nosql",
+                "specialized-databases"
             ]
         },
         "id": "redis",
@@ -54,10 +54,10 @@
         "long_description": "Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperlogs, geospatial indexes, and streams. It has built-in replication, Lua scripting, LRU eviction, transactions, etc. Different processes can query and modify the same data structures in a shared way. Redis delivers sub-millisecond response times, enabling millions of requests per second for real-time applications.",
         "logo": "/images/databases/nosql/redis/logo.png",
         "screenshots": [
-            "/images/databases/nosql/redis/screenshot-1.jpg",
-            "/images/databases/nosql/redis/screenshot-2.jpg"
+            "./static/images/databases/nosql/redis/screenshot-1.jpg",
+            "./static/images/databases/nosql/redis/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/nosql/redis/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/nosql/redis/screenshot-1.jpg",
         "features": [
             {
                 "title": "In-memory store",
@@ -92,10 +92,10 @@
         "long_description": "Scylla is a real-time big-data database that embraces a shared-nothing approach that increases throughput and storage capacity to realize order-of-magnitude performance improvements and reduce hardware costs. The NoSQL database uses modern multi-core servers and minimizes the overhead to DevOps.",
         "logo": "/images/databases/nosql/scylladb/logo.png",
         "screenshots": [
-            "/images/databases/nosql/scylladb/screenshot-1.jpg",
-            "/images/databases/nosql/scylladb/screenshot-2.jpg"
+            "./static/images/databases/nosql/scylladb/screenshot-1.jpg",
+            "./static/images/databases/nosql/scylladb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/nosql/scylladb/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/nosql/scylladb/screenshot-1.jpg",
         "features": [
             {
                 "title": "Low, consistent latency",
@@ -120,8 +120,8 @@
             "id": "nosql",
             "name": "NoSQL",
             "ids": [
-                "specialized-databases",
-                "nosql"
+                "nosql",
+                "specialized-databases"
             ]
         },
         "id": "opensearch",
@@ -131,10 +131,10 @@
         "long_description": "OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana \n7.10.2. It consists of a search engine daemon, OpenSearch, and a \nvisualization and user interface, OpenSearch Dashboards.",
         "logo": "/images/databases/nosql/opensearch/logo.png",
         "screenshots": [
-            "/images/databases/nosql/opensearch/screenshot-1.jpg",
-            "/images/databases/nosql/opensearch/screenshot-2.jpg"
+            "./static/images/databases/nosql/opensearch/screenshot-1.jpg",
+            "./static/images/databases/nosql/opensearch/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/nosql/opensearch/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/nosql/opensearch/screenshot-1.jpg",
         "features": [
             {
                 "title": "A level Playing Field",
@@ -169,10 +169,10 @@
         "long_description": "Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.",
         "logo": "/images/databases/nosql/cassandra/logo.png",
         "screenshots": [
-            "/images/databases/nosql/cassandra/screenshot-1.png",
-            "/images/databases/nosql/cassandra/screenshot-2.jpg"
+            "./static/images/databases/nosql/cassandra/screenshot-1.png",
+            "./static/images/databases/nosql/cassandra/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/nosql/cassandra/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/nosql/cassandra/screenshot-1.png",
         "features": [
             {
                 "title": "Hybrid",
@@ -207,10 +207,10 @@
         "long_description": "Documents DB built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.",
         "logo": "/images/databases/nosql/ferretdb/logo.png",
         "screenshots": [
-            "/images/databases/nosql/ferretdb/screenshot-1.png",
-            "/images/databases/nosql/ferretdb/screenshot-2.png"
+            "./static/images/databases/nosql/ferretdb/screenshot-1.png",
+            "./static/images/databases/nosql/ferretdb/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/nosql/ferretdb/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/nosql/ferretdb/screenshot-1.png",
         "features": [
             {
                 "title": "Solution",
@@ -245,10 +245,10 @@
         "long_description": "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis. KeyDB is meant to handle heavy workloads with a single node benchmarking at over 1 million ops/sec. KeyDB is a multithreaded database and will outperform Redis on a per-node basis. By keeping data in-memory, KeyDB can serve up data with submillisecond latencies.",
         "logo": "/images/databases/specialized-databases/keydb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/keydb/screenshot-1.jpg",
-            "/images/databases/specialized-databases/keydb/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/keydb/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/keydb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/keydb/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/keydb/screenshot-1.jpg",
         "features": [
             {
                 "title": "Variety of data structures supported",
@@ -273,8 +273,8 @@
             "id": "specialized-databases",
             "name": "Specialized Databases",
             "ids": [
-                "relational-databases",
-                "specialized-databases"
+                "specialized-databases",
+                "relational-databases"
             ]
         },
         "id": "timescaledb",
@@ -284,10 +284,10 @@
         "long_description": "TimescaleDB is  an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.",
         "logo": "/images/databases/specialized-databases/timescaledb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
-            "/images/databases/specialized-databases/timescaledb/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/timescaledb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/timescaledb/screenshot-1.jpg",
         "features": [
             {
                 "title": "Supercharged PostgreSQL",
@@ -312,8 +312,8 @@
             "id": "specialized-databases",
             "name": "Specialized Databases",
             "ids": [
-                "relational-databases",
-                "specialized-databases"
+                "specialized-databases",
+                "relational-databases"
             ]
         },
         "id": "clickhouse",
@@ -323,10 +323,10 @@
         "long_description": "ClickHouse is a high performance columnar OLAP database management system for real-time analytics using SQL. It enables you to analyze data that is updated in real time. ClickHouse's performance exceeds comparable column-oriented database management systems. It processes hundreds of millions to over a billion rows and tens of gigabytes of data per server per second.",
         "logo": "/images/databases/specialized-databases/clickhouse/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
-            "/images/databases/specialized-databases/clickhouse/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/clickhouse/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/clickhouse/screenshot-1.jpg",
         "features": [
             {
                 "title": "Top performance",
@@ -351,8 +351,8 @@
             "id": "specialized-databases",
             "name": "Specialized Databases",
             "ids": [
-                "relational-databases",
-                "specialized-databases"
+                "specialized-databases",
+                "relational-databases"
             ]
         },
         "id": "clickhouses3",
@@ -362,10 +362,10 @@
         "long_description": "ClickHouse + S3 is a high-performance columnar OLAP database management system for real-time analytics using SQL. It enables you to analyze data that is updated in real-time. ClickHouse's performance exceeds comparable column-oriented database management systems. It processes hundreds of millions to over a billion rows and tens of gigabytes of data per server per second.",
         "logo": "/images/databases/specialized-databases/clickhouses3/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
-            "/images/databases/specialized-databases/clickhouses3/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/clickhouses3/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/clickhouses3/screenshot-1.jpg",
         "features": [
             {
                 "title": "Top performance",
@@ -400,10 +400,10 @@
         "long_description": "InfluxDB is a time series platform for building real-time applications for analytics, IoT and cloud-native services in less time and with less code, using InfluxDB. At its heart is a database purpose-built to handle the huge volumes and countless sources of time-stamped data produced by sensors, applications and infrastructure.",
         "logo": "/images/databases/specialized-databases/influxdb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
-            "/images/databases/specialized-databases/influxdb/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/influxdb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/influxdb/screenshot-1.jpg",
         "features": [
             {
                 "title": "Everything you need",
@@ -438,10 +438,10 @@
         "long_description": "SurrealDB is an end-to-end cloud-native database designed for modern applications, including web, mobile, serverless, Jamstack, backend, and traditional applications. With SurrealDB, you can simplify your database and API infrastructure, reduce development time, and build secure, performant apps quickly and cost-effectively.",
         "logo": "/images/databases/specialized-databases/surrealdb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/surrealdb/screenshot-1.png",
-            "/images/databases/specialized-databases/surrealdb/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/surrealdb/screenshot-1.png",
+            "./static/images/databases/specialized-databases/surrealdb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/surrealdb/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/surrealdb/screenshot-1.png",
         "features": [
             {
                 "title": "Architecture",
@@ -476,10 +476,10 @@
         "long_description": "Chroma is the open-source AI application database. Batteries included.\nEmbeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.",
         "logo": "/images/databases/specialized-databases/chromadb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/chromadb/screenshot-1.png",
-            "/images/databases/specialized-databases/chromadb/screenshot-2.png"
+            "./static/images/databases/specialized-databases/chromadb/screenshot-1.png",
+            "./static/images/databases/specialized-databases/chromadb/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/chromadb/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/chromadb/screenshot-1.png",
         "features": [
             {
                 "title": "Simple and Powerful",
@@ -514,10 +514,10 @@
         "long_description": "Milvus is an open-source vector database built for GenAI applications. Install with pip, perform high-speed searches, and scale to tens of billions of vectors with minimal performance loss.",
         "logo": "/images/databases/specialized-databases/milvus/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/milvus/screenshot-1.png",
-            "/images/databases/specialized-databases/milvus/screenshot-2.png"
+            "./static/images/databases/specialized-databases/milvus/screenshot-1.png",
+            "./static/images/databases/specialized-databases/milvus/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/milvus/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/milvus/screenshot-1.png",
         "features": [
             {
                 "title": "Scale as needed",
@@ -552,10 +552,10 @@
         "long_description": "It is a high performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.",
         "logo": "/images/databases/specialized-databases/neo4j/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
-            "/images/databases/specialized-databases/neo4j/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/neo4j/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/neo4j/screenshot-1.jpg",
         "features": [
             {
                 "title": "Uncompromised Performance",
@@ -590,10 +590,10 @@
         "long_description": "Apache Kafka is a framework implementation of a software bus using stream-processing. It's primarily used to build real-time streaming data pipelines and applications that adapt to the data streams. It combines messaging, storage and stream processing to allow storage and analysis of both historical and real-time data. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. More than 80% of all Fortune 100 companies use Kafka.",
         "logo": "/images/databases/specialized-databases/kafka/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/kafka/screenshot-1.jpg",
-            "/images/databases/specialized-databases/kafka/screenshot-2.jpg"
+            "./static/images/databases/specialized-databases/kafka/screenshot-1.jpg",
+            "./static/images/databases/specialized-databases/kafka/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/kafka/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/specialized-databases/kafka/screenshot-1.jpg",
         "features": [
             {
                 "title": "High throughput, scalable",
@@ -628,10 +628,10 @@
         "long_description": "M3 is the obvious choice for Cloud Native companies looking to scale up their Prometheus based monitoring systems. M3 can be used as Prometheus Remote Storage and has 100% PromQL compatibility.",
         "logo": "/images/databases/specialized-databases/m3db/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/m3db/screenshot-1.png",
-            "/images/databases/specialized-databases/m3db/screenshot-2.png"
+            "./static/images/databases/specialized-databases/m3db/screenshot-1.png",
+            "./static/images/databases/specialized-databases/m3db/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/m3db/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/m3db/screenshot-1.png",
         "features": [
             {
                 "title": "Global Scale",
@@ -666,10 +666,10 @@
         "long_description": "immudb is a immutable ledger database that has been developed with performance, scalability and versatility in mind. The user feedback has shown that they love the very high throughput and being able to store hashes as well as data. They see it as a great alternative to using a blockchain or ledger service.",
         "logo": "/images/databases/specialized-databases/immudb/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/immudb/screenshot-1.png",
-            "/images/databases/specialized-databases/immudb/screenshot-2.jpeg"
+            "./static/images/databases/specialized-databases/immudb/screenshot-1.png",
+            "./static/images/databases/specialized-databases/immudb/screenshot-2.jpeg"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/immudb/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/immudb/screenshot-1.png",
         "features": [
             {
                 "title": "Keep track of changes and audit them.",
@@ -694,8 +694,8 @@
             "id": "specialized-databases",
             "name": "Specialized Databases",
             "ids": [
-                "relational-databases",
-                "specialized-databases"
+                "specialized-databases",
+                "relational-databases"
             ]
         },
         "id": "hydra",
@@ -705,10 +705,10 @@
         "long_description": "Hydra is an open-source data warehouse built on Postgres. Hydra leverages columnar storage, vectorized execution, and query parallelization to efficiently serve online analytical processing of queries (OLAP). Unlike traditional warehouses, Hydra supports Postgres heap tables, indexing, and native partitioning to process high-throughput transactional writes, quick lookup and operational queries, and hybrid transactional / analytics processing workloads (HTAP).",
         "logo": "/images/databases/specialized-databases/hydra/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/hydra/screenshot-1.webp",
-            "/images/databases/specialized-databases/hydra/screenshot-2.webp"
+            "./static/images/databases/specialized-databases/hydra/screenshot-1.webp",
+            "./static/images/databases/specialized-databases/hydra/screenshot-2.webp"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/hydra/screenshot-1.webp",
+        "dashboardImage": "./static/images/databases/specialized-databases/hydra/screenshot-1.webp",
         "features": [
             {
                 "title": "Set up a modern data stack in minutes",
@@ -743,10 +743,10 @@
         "long_description": "Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.",
         "logo": "/images/databases/specialized-databases/weaviate/logo.png",
         "screenshots": [
-            "/images/databases/specialized-databases/weaviate/screenshot-1.png",
-            "/images/databases/specialized-databases/weaviate/screenshot-2.png"
+            "./static/images/databases/specialized-databases/weaviate/screenshot-1.png",
+            "./static/images/databases/specialized-databases/weaviate/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/specialized-databases/weaviate/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/specialized-databases/weaviate/screenshot-1.png",
         "features": [
             {
                 "title": "Speed",
@@ -781,10 +781,10 @@
         "long_description": "PostgreSQL is a powerful, open-source, object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. It has a strong reputation for its architecture, reliability, data integrity, robust feature set and extensibility. It runs on all major operating systems, is ACID-compliant, and has powerful add-ons such as the PostGIS geospatial database extender.",
         "logo": "/images/databases/relational-databases/postgresql/logo.png",
         "screenshots": [
-            "/images/databases/relational-databases/postgresql/screenshot-1.jpg",
-            "/images/databases/relational-databases/postgresql/screenshot-2.jpg"
+            "./static/images/databases/relational-databases/postgresql/screenshot-1.jpg",
+            "./static/images/databases/relational-databases/postgresql/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/relational-databases/postgresql/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/relational-databases/postgresql/screenshot-1.jpg",
         "features": [
             {
                 "title": "Wide range of data types",
@@ -819,10 +819,10 @@
         "long_description": "MySQL is an open-source relational database management system (RDBMS). Many of the world's largest organizations rely on it to power their high-volume websites, business-critical systems and packaged software. It runs on almost all platforms, including Linux, UNIX and Windows.",
         "logo": "/images/databases/relational-databases/mysql/logo.png",
         "screenshots": [
-            "/images/databases/relational-databases/mysql/screenshot-1.jpg",
-            "/images/databases/relational-databases/mysql/screenshot-2.jpg"
+            "./static/images/databases/relational-databases/mysql/screenshot-1.jpg",
+            "./static/images/databases/relational-databases/mysql/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/relational-databases/mysql/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/relational-databases/mysql/screenshot-1.jpg",
         "features": [
             {
                 "title": "Fast and reliable",
@@ -857,10 +857,10 @@
         "long_description": "MariaDB is built upon the values of performance, stability, and openness, and MariaDB Foundation ensures contributions will be accepted on technical merit. Recent new functionality includes advanced clustering with Galera Cluster 4, compatibility features with Oracle Database and Temporal Data Tables, allowing one to query the data as it stood at any point in the past.",
         "logo": "/images/databases/relational-databases/mariadb/logo.png",
         "screenshots": [
-            "/images/databases/relational-databases/mariadb/screenshot-1.jpg",
-            "/images/databases/relational-databases/mariadb/screenshot-2.jpg"
+            "./static/images/databases/relational-databases/mariadb/screenshot-1.jpg",
+            "./static/images/databases/relational-databases/mariadb/screenshot-2.jpg"
         ],
-        "dashboardImage": "/images/databases/relational-databases/mariadb/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/relational-databases/mariadb/screenshot-1.jpg",
         "features": [
             {
                 "title": "Drop-in replacement of MySQL",
@@ -895,10 +895,10 @@
         "long_description": "MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server. It is a fork and evolution of the former InfiniDB product. As a columnar database, MariaDB ColumnStore stores table data in columns rather than rows",
         "logo": "/images/databases/relational-databases/columnstore/logo.png",
         "screenshots": [
-            "/images/databases/relational-databases/columnstore/screenshot-1.png",
-            "/images/databases/relational-databases/columnstore/screenshot-2.png"
+            "./static/images/databases/relational-databases/columnstore/screenshot-1.png",
+            "./static/images/databases/relational-databases/columnstore/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/relational-databases/columnstore/screenshot-1.png",
+        "dashboardImage": "./static/images/databases/relational-databases/columnstore/screenshot-1.png",
         "features": [
             {
                 "title": "Drop-in replacement of MySQL",
@@ -933,10 +933,10 @@
         "long_description": "Microsoft SQL Server is a relational database management system developed by Microsoft. SQL Server 2019 brings innovative security and compliance features, mission-critical availability, and advanced analytics to data workloads, with support for big data built in.",
         "logo": "/images/databases/relational-databases/mssql/logo.png",
         "screenshots": [
-            "/images/databases/relational-databases/mssql/screenshot-1.jpg",
-            "/images/databases/relational-databases/mssql/screenshot-2.png"
+            "./static/images/databases/relational-databases/mssql/screenshot-1.jpg",
+            "./static/images/databases/relational-databases/mssql/screenshot-2.png"
         ],
-        "dashboardImage": "/images/databases/relational-databases/mssql/screenshot-1.jpg",
+        "dashboardImage": "./static/images/databases/relational-databases/mssql/screenshot-1.jpg",
         "features": [
             {
                 "title": "Analyze every type of data",
