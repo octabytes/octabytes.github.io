@@ -1,0 +1,101 @@
+[
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/plane",
+        "external_link": "https://elest.io/open-source/plane",
+        "title": "Plane",
+        "description": "An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind",
+        "logo": "/images/applications/project-management/plane/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/leantime",
+        "external_link": "https://elest.io/open-source/leantime",
+        "title": "Leantime",
+        "description": "Leantime is a strategic project management system for non-project managers.",
+        "logo": "/images/applications/project-management/leantime/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/openproject",
+        "external_link": "https://elest.io/open-source/openproject",
+        "title": "OpenProject",
+        "description": "OpenProject is a web-based project management system for location-independent team collaboration.",
+        "logo": "/images/applications/project-management/openproject/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/taiga",
+        "external_link": "https://elest.io/open-source/taiga",
+        "title": "Taiga",
+        "description": "Your Agile, Free and Open Source Project Management Tool",
+        "logo": "/images/applications/project-management/taiga/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/focalboard",
+        "external_link": "https://elest.io/open-source/focalboard",
+        "title": "FocalBoard",
+        "description": "Project & Task Management for Software Development Teams",
+        "logo": "/images/applications/project-management/focalboard/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/wekan",
+        "external_link": "https://elest.io/open-source/wekan",
+        "title": "Wekan",
+        "description": "Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.",
+        "logo": "/images/applications/project-management/wekan/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/siglens",
+        "external_link": "https://elest.io/open-source/siglens",
+        "title": "SigLens",
+        "description": "100x Efficient Log Management than Splunk \ud83d\ude80 Reduce your observability cost by 90%",
+        "logo": "/images/applications/project-management/siglens/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/kanboard",
+        "external_link": "https://elest.io/open-source/kanboard",
+        "title": "Kanboard",
+        "description": "Kanban project management software",
+        "logo": "/images/applications/project-management/kanboard/logo.png"
+    },
+    {
+        "category": {
+            "id": "project-management",
+            "name": "Project management"
+        },
+        "link": "/applications/project-management/huly",
+        "external_link": "https://elest.io/open-source/huly",
+        "title": "Huly",
+        "description": "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "logo": "/images/applications/project-management/huly/logo.png"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "category": {
+            "id": "email",
+            "name": "Email"
+        },
+        "link": "/hosting-and-infrastructure/email/mailcow",
+        "external_link": "https://elest.io/open-source/mailcow",
+        "title": "MailCow",
+        "description": "Mailcow is a mail server suite with an elegant web interface for managing domains, mailboxes, etc.",
+        "logo": "/images/hosting-and-infrastructure/email/mailcow/logo.png"
+    },
+    {
+        "category": {
+            "id": "email",
+            "name": "Email"
+        },
+        "link": "/hosting-and-infrastructure/email/postal",
+        "external_link": "https://elest.io/open-source/postal",
+        "title": "Postal",
+        "description": "Postal is a fully featured open-source mail delivery platform for incoming and outgoing email.",
+        "logo": "/images/hosting-and-infrastructure/email/postal/logo.png"
+    },
+    {
+        "category": {
+            "id": "email",
+            "name": "Email"
+        },
+        "link": "/hosting-and-infrastructure/email/mailu",
+        "external_link": "https://elest.io/open-source/mailu",
+        "title": "Mailu",
+        "description": "Mailu is an insular email distribution - mail server as Docker images",
+        "logo": "/images/hosting-and-infrastructure/email/mailu/logo.png"
+    }
+]

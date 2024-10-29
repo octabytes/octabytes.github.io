@@ -1,0 +1,167 @@
+[
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/changedetection",
+        "external_link": "https://elest.io/open-source/changedetection",
+        "title": "ChangeDetection",
+        "description": "Changedetection.io is an open source web page monitoring, notification and change detection.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/changedetection/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/coroot",
+        "external_link": "https://elest.io/open-source/coroot",
+        "title": "Coroot",
+        "description": "Coroot is an APM & Observability tool, a DataDog and NewRelic alternative",
+        "logo": "/images/hosting-and-infrastructure/monitoring/coroot/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/grafana",
+        "external_link": "https://elest.io/open-source/grafana",
+        "title": "Grafana",
+        "description": "Grafana is a multi-platform, open-source analytics and interactive visualization web application.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/grafana/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/loki",
+        "external_link": "https://elest.io/open-source/loki",
+        "title": "Loki",
+        "description": "Loki is a log aggregation system designed to store and query logs from all your applications and infrastructure.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/loki/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/glitchtip",
+        "external_link": "https://elest.io/open-source/glitchtip",
+        "title": "GlitchTip",
+        "description": "Reimplementation of the Sentry error tracking platform, Track errors, uptime, and performance.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/glitchtip/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/sensu",
+        "external_link": "https://elest.io/open-source/sensu",
+        "title": "Sensu",
+        "description": "Sensu is an open source monitoring tool for ephemeral infrastructure and distributed applications.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/sensu/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/signoz",
+        "external_link": "https://elest.io/open-source/signoz",
+        "title": "SigNoz",
+        "description": "SigNoz is an open-source APM solution for understanding issues in your applications and solving them quickly",
+        "logo": "/images/hosting-and-infrastructure/monitoring/signoz/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/uptime-kuma",
+        "external_link": "https://elest.io/open-source/uptime-kuma",
+        "title": "Uptime-kuma",
+        "description": "Uptime Kuma is a self-hosted monitoring tool like Uptime Robot.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/uptime-kuma/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/healthchecks",
+        "external_link": "https://elest.io/open-source/healthchecks",
+        "title": "Healthchecks",
+        "description": "Healthchecks is an online service for monitoring regularly running tasks such as cron jobs.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/healthchecks/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/victoriametrics",
+        "external_link": "https://elest.io/open-source/victoriametrics",
+        "title": "VictoriaMetrics",
+        "description": "VictoriaMetrics is a fast, cost-effective monitoring solution and time series database",
+        "logo": "/images/hosting-and-infrastructure/monitoring/victoriametrics/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/jitsu",
+        "external_link": "https://elest.io/open-source/jitsu",
+        "title": "Jitsu",
+        "description": "Jitsu is an open-source web and app-event collection platform.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/jitsu/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/zabbix",
+        "external_link": "https://elest.io/open-source/zabbix",
+        "title": "Zabbix",
+        "description": "Zabbix is an enterprise-class open source distributed monitoring solution.",
+        "logo": "/images/hosting-and-infrastructure/monitoring/zabbix/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/prometheus",
+        "external_link": "https://elest.io/open-source/prometheus",
+        "title": "Prometheus",
+        "description": "Power your metrics and alerting with the leading open-source monitoring solution",
+        "logo": "/images/hosting-and-infrastructure/monitoring/prometheus/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/nagios",
+        "external_link": "https://elest.io/open-source/nagios",
+        "title": "Nagios",
+        "description": "The Industry Standard In IT Infrastructure Monitoring",
+        "logo": "/images/hosting-and-infrastructure/monitoring/nagios/logo.png"
+    },
+    {
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring"
+        },
+        "link": "/hosting-and-infrastructure/monitoring/canopsis",
+        "external_link": "https://elest.io/open-source/canopsis",
+        "title": "Canopsis",
+        "description": "The first open-source hypervision solution",
+        "logo": "/images/hosting-and-infrastructure/monitoring/canopsis/logo.png"
+    }
+]

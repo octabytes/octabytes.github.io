@@ -1,0 +1,68 @@
+[
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/prestashop",
+        "external_link": "https://elest.io/open-source/prestashop",
+        "title": "Prestashop",
+        "description": "The PrestaShop project is a universal open-source software platform to build your e-commerce solution.",
+        "logo": "/images/applications/e-commerce/prestashop/logo.png"
+    },
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/magento",
+        "external_link": "https://elest.io/open-source/magento",
+        "title": "Magento",
+        "description": "Magento open-source software delivers basic e-commerce capabilities that allow you to build a unique online store from the ground up.",
+        "logo": "/images/applications/e-commerce/magento/logo.png"
+    },
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/nopcommerce",
+        "external_link": "https://elest.io/open-source/nopcommerce",
+        "title": "nopCommerce",
+        "description": "nopCommerce is the most popular ASP.NET shopping cart in the world based on Microsoft technologies. Free and open-source eCommerce platform.",
+        "logo": "/images/applications/e-commerce/nopcommerce/logo.png"
+    },
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/btcpay",
+        "external_link": "https://elest.io/open-source/btcpay",
+        "title": "BTCPay",
+        "description": "Start Accepting Bitcoin Payments With 0% Fees & No Third-party",
+        "logo": "/images/applications/e-commerce/btcpay/logo.png"
+    },
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/shopware",
+        "external_link": "https://elest.io/open-source/shopware",
+        "title": "Shopware",
+        "description": "Shopware is\u00a0a modern eCommerce platform connecting enterprise-level capabilities with flexibility",
+        "logo": "/images/applications/e-commerce/shopware/logo.png"
+    },
+    {
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce"
+        },
+        "link": "/applications/e-commerce/woocommerce",
+        "external_link": "https://elest.io/open-source/woocommerce",
+        "title": "WooCommerce",
+        "description": "WooCommerce is a customizable, open-source eCommerce platform built on WordPress.",
+        "logo": "/images/applications/e-commerce/woocommerce/logo.png"
+    }
+]

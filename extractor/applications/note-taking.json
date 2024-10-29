@@ -1,0 +1,123 @@
+[
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/joplin",
+        "external_link": "https://elest.io/open-source/joplin",
+        "title": "Joplin",
+        "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS",
+        "logo": "/images/applications/note-taking/joplin/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/vikunja",
+        "external_link": "https://elest.io/open-source/vikunja",
+        "title": "Vikunja",
+        "description": "The\u00a0open-source\u00a0to-do app. Organize everything, on all platforms.",
+        "logo": "/images/applications/note-taking/vikunja/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/cryptgeon",
+        "external_link": "https://elest.io/open-source/cryptgeon",
+        "title": "Cryptgeon",
+        "description": "Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte.",
+        "logo": "/images/applications/note-taking/cryptgeon/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/docmost",
+        "external_link": "https://elest.io/open-source/docmost",
+        "title": "Docmost",
+        "description": "Docmost is a collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+        "logo": "/images/applications/note-taking/docmost/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/hedgedoc",
+        "external_link": "https://elest.io/open-source/hedgedoc",
+        "title": "HedgeDoc",
+        "description": "HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor",
+        "logo": "/images/applications/note-taking/hedgedoc/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/etherpad",
+        "external_link": "https://elest.io/open-source/etherpad",
+        "title": "Etherpad",
+        "description": "Etherpad is a highly customizable open source online editor providing collaborative editing in really real-time.",
+        "logo": "/images/applications/note-taking/etherpad/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/trilium",
+        "external_link": "https://elest.io/open-source/trilium",
+        "title": "Trilium",
+        "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.",
+        "logo": "/images/applications/note-taking/trilium/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/affine",
+        "external_link": "https://elest.io/open-source/affine",
+        "title": "Affine",
+        "description": "More than Notion and Miro's next-generation knowledge base, AFFiNE unifies planning, sorting, and creation.",
+        "logo": "/images/applications/note-taking/affine/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/memos",
+        "external_link": "https://elest.io/open-source/memos",
+        "title": "Memos",
+        "description": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
+        "logo": "/images/applications/note-taking/memos/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/flatnotes",
+        "external_link": "https://elest.io/open-source/flatnotes",
+        "title": "Flatnotes",
+        "description": "A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage.",
+        "logo": "/images/applications/note-taking/flatnotes/logo.png"
+    },
+    {
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking"
+        },
+        "link": "/applications/note-taking/huly",
+        "external_link": "https://elest.io/open-source/huly",
+        "title": "Huly",
+        "description": "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "logo": "/images/applications/note-taking/huly/logo.png"
+    }
+]

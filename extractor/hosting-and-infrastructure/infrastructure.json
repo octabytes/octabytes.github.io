@@ -1,0 +1,101 @@
+[
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/itop",
+        "external_link": "https://elest.io/open-source/itop",
+        "title": "iTop",
+        "description": "iTop adapts to the needs of digital businesses to manage multiple customers, contracts and SLAs",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/itop/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/centrifugo",
+        "external_link": "https://elest.io/open-source/centrifugo",
+        "title": "Centrifugo",
+        "description": "Centrifugo is a scalable real-time, language-agnostic messaging server.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/centrifugo/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/powerdns",
+        "external_link": "https://elest.io/open-source/powerdns",
+        "title": "PowerDNS",
+        "description": "PowerDNS is a premier supplier of open-source DNS software, services and support.",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/powerdns/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/rabbitmq",
+        "external_link": "https://elest.io/open-source/rabbitmq",
+        "title": "RabbitMQ",
+        "description": "RabbitMQ is the most widely deployed open source message broker",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/rabbitmq/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/haproxy",
+        "external_link": "https://elest.io/open-source/haproxy",
+        "title": "HAProxy",
+        "description": "The Reliable, High Performance TCP/HTTP Load Balancer",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/haproxy/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/openresty",
+        "external_link": "https://elest.io/open-source/openresty",
+        "title": "OpenResty",
+        "description": "A Fast and Scalable Web Platform by Extending NGINX with LuaJIT",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/openresty/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/nagios",
+        "external_link": "https://elest.io/open-source/nagios",
+        "title": "Nagios",
+        "description": "The Industry Standard In IT Infrastructure Monitoring",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/nagios/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/squid",
+        "external_link": "https://elest.io/open-source/squid",
+        "title": "Squid",
+        "description": "Fast & powerful proxy server",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/squid/logo.png"
+    },
+    {
+        "category": {
+            "id": "infrastructure",
+            "name": "Infrastructure"
+        },
+        "link": "/hosting-and-infrastructure/infrastructure/localstack",
+        "external_link": "https://elest.io/open-source/localstack",
+        "title": "LocalStack",
+        "description": "A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!",
+        "logo": "/images/hosting-and-infrastructure/infrastructure/localstack/logo.png"
+    }
+]

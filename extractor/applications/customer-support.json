@@ -1,0 +1,134 @@
+[
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/freescout",
+        "external_link": "https://elest.io/open-source/freescout",
+        "title": "FreeScout",
+        "description": "FreeScout is a free self-hosted help desk & shared mailbox.",
+        "logo": "/images/applications/customer-support/freescout/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/papercups",
+        "external_link": "https://elest.io/open-source/papercups",
+        "title": "Papercups",
+        "description": "Papercups is a open-source live customer chat",
+        "logo": "/images/applications/customer-support/papercups/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/formbricks",
+        "external_link": "https://elest.io/open-source/formbricks",
+        "title": "Formbricks",
+        "description": "Formbricks is your go-to solution for in-product micro-surveys that will supercharge your product experience.",
+        "logo": "/images/applications/customer-support/formbricks/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/dittofeed",
+        "external_link": "https://elest.io/open-source/dittofeed",
+        "title": "Dittofeed",
+        "description": "Automate communications with customers. Give data control to your growth engineers.",
+        "logo": "/images/applications/customer-support/dittofeed/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/glpi",
+        "external_link": "https://elest.io/open-source/glpi",
+        "title": "GLPI",
+        "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+        "logo": "/images/applications/customer-support/glpi/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/zammad",
+        "external_link": "https://elest.io/open-source/zammad",
+        "title": "Zammad",
+        "description": "Zammad is a web-based, open-source helpdesk/customer support system.",
+        "logo": "/images/applications/customer-support/zammad/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/fider",
+        "external_link": "https://elest.io/open-source/fider",
+        "title": "Fider",
+        "description": "Customer Feedback Made Easy",
+        "logo": "/images/applications/customer-support/fider/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/trudesk",
+        "external_link": "https://elest.io/open-source/trudesk",
+        "title": "Trudesk",
+        "description": "Trudesk is an open-source help desk/ticketing solution.",
+        "logo": "/images/applications/customer-support/trudesk/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/mantisbt",
+        "external_link": "https://elest.io/open-source/mantisbt",
+        "title": "MantisBT",
+        "description": "MantisBT makes collaboration with team members & clients easy, fast, and professional",
+        "logo": "/images/applications/customer-support/mantisbt/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/typebot",
+        "external_link": "https://elest.io/open-source/typebot",
+        "title": "Typebot",
+        "description": "Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic",
+        "logo": "/images/applications/customer-support/typebot/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/tracardi",
+        "external_link": "https://elest.io/open-source/tracardi",
+        "title": "Tracardi",
+        "description": "TRACARDI is a new HOME for your customer data. TRACARDI is an API-first solution, a low-code / no-code platform aimed at any e-commerce business that wants to start using user data for marketing purposes.",
+        "logo": "/images/applications/customer-support/tracardi/logo.png"
+    },
+    {
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support"
+        },
+        "link": "/applications/customer-support/botpress",
+        "external_link": "https://elest.io/open-source/botpress",
+        "title": "Botpress",
+        "description": "The first next-generation chatbot builder powered by\u00a0OpenAI. Build\u00a0ChatGPT-like bots for your project or business to get things done.",
+        "logo": "/images/applications/customer-support/botpress/logo.png"
+    }
+]

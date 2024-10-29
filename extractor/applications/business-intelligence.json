@@ -1,0 +1,57 @@
+[
+    {
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence"
+        },
+        "link": "/applications/business-intelligence/countly",
+        "external_link": "https://elest.io/open-source/countly",
+        "title": "Countly",
+        "description": "Countly is a product analytics platform that helps teams track, analyze, and act on their user actions and behavior on mobile, web, and desktop applications.",
+        "logo": "/images/applications/business-intelligence/countly/logo.png"
+    },
+    {
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence"
+        },
+        "link": "/applications/business-intelligence/metabase",
+        "external_link": "https://elest.io/open-source/metabase",
+        "title": "Metabase",
+        "description": "Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.",
+        "logo": "/images/applications/business-intelligence/metabase/logo.png"
+    },
+    {
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence"
+        },
+        "link": "/applications/business-intelligence/metabasepostgres",
+        "external_link": "https://elest.io/open-source/metabasepostgres",
+        "title": "MetabasePostgres",
+        "description": "Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.",
+        "logo": "/images/applications/business-intelligence/metabasepostgres/logo.png"
+    },
+    {
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence"
+        },
+        "link": "/applications/business-intelligence/lightdash",
+        "external_link": "https://elest.io/open-source/lightdash",
+        "title": "Lightdash",
+        "description": "Lighdash an open source alternative to Looker built using dbt.",
+        "logo": "/images/applications/business-intelligence/lightdash/logo.png"
+    },
+    {
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence"
+        },
+        "link": "/applications/business-intelligence/superset",
+        "external_link": "https://elest.io/open-source/superset",
+        "title": "Superset",
+        "description": "Apache Superset is a data visualization and data exploration platform.",
+        "logo": "/images/applications/business-intelligence/superset/logo.png"
+    }
+]

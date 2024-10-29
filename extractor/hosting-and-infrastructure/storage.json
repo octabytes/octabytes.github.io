@@ -1,0 +1,134 @@
+[
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/nextcloud",
+        "external_link": "https://elest.io/open-source/nextcloud",
+        "title": "Nextcloud",
+        "description": "Nextcloud provides an industry-leading, on-premises content collaboration platform.",
+        "logo": "/images/hosting-and-infrastructure/storage/nextcloud/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/photoprism",
+        "external_link": "https://elest.io/open-source/photoprism",
+        "title": "PhotoPrism",
+        "description": "PhotoPrism is an AI-powered app for browsing, organizing & sharing your photo collection",
+        "logo": "/images/hosting-and-infrastructure/storage/photoprism/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/syncthing",
+        "external_link": "https://elest.io/open-source/syncthing",
+        "title": "Syncthing",
+        "description": "Syncthing is a free, continuous, multiple-device file synchronization program.",
+        "logo": "/images/hosting-and-infrastructure/storage/syncthing/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/filestash",
+        "external_link": "https://elest.io/open-source/filestash",
+        "title": "Filestash",
+        "description": "Filestash is a Dropbox-like file manager that lets you manage your data anywhere it is located.",
+        "logo": "/images/hosting-and-infrastructure/storage/filestash/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/owncloud",
+        "external_link": "https://elest.io/open-source/owncloud",
+        "title": "ownCloud",
+        "description": "ownCloud is a suite of client-server software for creating and using file hosting services.",
+        "logo": "/images/hosting-and-infrastructure/storage/owncloud/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/paperless-ngx",
+        "external_link": "https://elest.io/open-source/paperless-ngx",
+        "title": "Paperless-ngx",
+        "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.",
+        "logo": "/images/hosting-and-infrastructure/storage/paperless-ngx/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/archivebox",
+        "external_link": "https://elest.io/open-source/archivebox",
+        "title": "ArchiveBox",
+        "description": "ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.",
+        "logo": "/images/hosting-and-infrastructure/storage/archivebox/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/docspell",
+        "external_link": "https://elest.io/open-source/docspell",
+        "title": "Docspell",
+        "description": "Simple document organizer",
+        "logo": "/images/hosting-and-infrastructure/storage/docspell/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/immich",
+        "external_link": "https://elest.io/open-source/immich",
+        "title": "Immich",
+        "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+        "logo": "/images/hosting-and-infrastructure/storage/immich/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/picoshare",
+        "external_link": "https://elest.io/open-source/picoshare",
+        "title": "Picoshare",
+        "description": "PicoShare is a service for sharing images, videos, and other files.",
+        "logo": "/images/hosting-and-infrastructure/storage/picoshare/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/minio",
+        "external_link": "https://elest.io/open-source/minio",
+        "title": "MinIO",
+        "description": "MinIO is a leader in hybrid cloud and multi-cloud object storage.",
+        "logo": "/images/hosting-and-infrastructure/storage/minio/logo.png"
+    },
+    {
+        "category": {
+            "id": "storage",
+            "name": "Storage"
+        },
+        "link": "/hosting-and-infrastructure/storage/sftpgo",
+        "external_link": "https://elest.io/open-source/sftpgo",
+        "title": "SFTPGo",
+        "description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support",
+        "logo": "/images/hosting-and-infrastructure/storage/sftpgo/logo.png"
+    }
+]

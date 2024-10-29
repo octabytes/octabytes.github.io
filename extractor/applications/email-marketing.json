@@ -1,0 +1,24 @@
+[
+    {
+        "category": {
+            "id": "email-marketing",
+            "name": "Email marketing"
+        },
+        "link": "/applications/email-marketing/mautic",
+        "external_link": "https://elest.io/open-source/mautic",
+        "title": "Mautic",
+        "description": "Mautic is a open source marketing automation software.",
+        "logo": "/images/applications/email-marketing/mautic/logo.png"
+    },
+    {
+        "category": {
+            "id": "email-marketing",
+            "name": "Email marketing"
+        },
+        "link": "/applications/email-marketing/listmonk",
+        "external_link": "https://elest.io/open-source/listmonk",
+        "title": "Listmonk",
+        "description": "Listmonk is a self-hosted, high performance mailing list and newsletter manager",
+        "logo": "/images/applications/email-marketing/listmonk/logo.png"
+    }
+]

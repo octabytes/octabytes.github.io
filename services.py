@@ -6,9 +6,9 @@ from tqdm import tqdm
 from urllib.parse import urljoin, urlparse
 
 # Paths
-json_input_path = "./extractor/categories/development.json"
-output_dir = "./extractor/development"
-images_dir = "./static/images/development"
+json_input_path = "./extractor/categories/applications.json"
+output_dir = "./extractor/applications"
+images_dir = "./static/images/applications"
 
 # Ensure directories exist
 os.makedirs(output_dir, exist_ok=True)
@@ -42,7 +42,7 @@ for category in tqdm(categories, desc="Processing categories"):
     links_data = []
     for a_tag in cards_container.find_all("a", href=True, class_="card-container"):
         href = a_tag["href"].strip("/")
-        link = f"/development/{category_id}/{href.split('/')[-1]}"
+        link = f"/applications/{category_id}/{href.split('/')[-1]}"
         ext_link = urljoin("https://elest.io/", href)
         title = a_tag.select_one(".template__header > .template__label").text.strip()
         description = a_tag.select_one(".template__description").text.strip()

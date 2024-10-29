@@ -1,0 +1,123 @@
+[
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/wordpress-multisites",
+        "external_link": "https://elest.io/open-source/wordpress-multisites",
+        "title": "Wordpress-Multisites",
+        "description": "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress.",
+        "logo": "/images/applications/cms/wordpress-multisites/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/wordpress",
+        "external_link": "https://elest.io/open-source/wordpress",
+        "title": "Wordpress",
+        "description": "WordPress is open-source software you can use to create a beautiful website, blog or app.",
+        "logo": "/images/applications/cms/wordpress/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/ghost",
+        "external_link": "https://elest.io/open-source/ghost",
+        "title": "Ghost",
+        "description": "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content.",
+        "logo": "/images/applications/cms/ghost/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/drupal",
+        "external_link": "https://elest.io/open-source/drupal",
+        "title": "Drupal",
+        "description": "Drupal is an open-source content management platform that supports a wide variety of websites.",
+        "logo": "/images/applications/cms/drupal/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/joomla",
+        "external_link": "https://elest.io/open-source/joomla",
+        "title": "Joomla",
+        "description": "Joomla is an award-winning content management system for building websites and powerful online applications.",
+        "logo": "/images/applications/cms/joomla/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/firefish",
+        "external_link": "https://elest.io/open-source/firefish",
+        "title": "Firefish",
+        "description": "Firefish is based off of Misskey, a powerful\u00a0microblogging social media platform in the fediverse.",
+        "logo": "/images/applications/cms/firefish/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/cells",
+        "external_link": "https://elest.io/open-source/cells",
+        "title": "Cells",
+        "description": "Pydio Cells is the\u00a0Document Sharing, Management, and Collaboration platform.",
+        "logo": "/images/applications/cms/cells/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/mediacms",
+        "external_link": "https://elest.io/open-source/mediacms",
+        "title": "MediaCMS",
+        "description": "MediaCMS is a fully featured open-source video and media CMS.",
+        "logo": "/images/applications/cms/mediacms/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/agencyos",
+        "external_link": "https://elest.io/open-source/agencyos",
+        "title": "AgencyOS",
+        "description": "Open source operating system for digital agencies. Built with Directus and Nuxt.",
+        "logo": "/images/applications/cms/agencyos/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/directus",
+        "external_link": "https://elest.io/open-source/directus",
+        "title": "Directus",
+        "description": "Directus is an Open Data Platform for managing the content of any SQL database.",
+        "logo": "/images/applications/cms/directus/logo.png"
+    },
+    {
+        "category": {
+            "id": "cms",
+            "name": "CMS"
+        },
+        "link": "/applications/cms/strapi",
+        "external_link": "https://elest.io/open-source/strapi",
+        "title": "Strapi",
+        "description": "Strapi enables easy building of self-hosted, customizable, performant content API.",
+        "logo": "/images/applications/cms/strapi/logo.png"
+    }
+]

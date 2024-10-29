@@ -1,0 +1,101 @@
+[
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/cells",
+        "external_link": "https://elest.io/open-source/cells",
+        "title": "Cells",
+        "description": "Pydio Cells is the\u00a0Document Sharing, Management, and Collaboration platform.",
+        "logo": "/images/applications/documentation/cells/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/papermerge",
+        "external_link": "https://elest.io/open-source/papermerge",
+        "title": "Papermerge",
+        "description": "Open Source Document Management System for Digital Archives (Scanned Documents)",
+        "logo": "/images/applications/documentation/papermerge/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/wikijs",
+        "external_link": "https://elest.io/open-source/wikijs",
+        "title": "Wikijs",
+        "description": "Wikijs is a powerful open-source wiki app built on Node.js, Git and Markdown.",
+        "logo": "/images/applications/documentation/wikijs/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/outline",
+        "external_link": "https://elest.io/open-source/outline",
+        "title": "Outline",
+        "description": "Outline is a fast wiki and knowledge base for growing teams - an alternative to Google Docs.",
+        "logo": "/images/applications/documentation/outline/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/bookstack",
+        "external_link": "https://elest.io/open-source/bookstack",
+        "title": "BookStack",
+        "description": "BookStack is a platform to create documentation/wiki content built with PHP & Laravel.",
+        "logo": "/images/applications/documentation/bookstack/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/documize",
+        "external_link": "https://elest.io/open-source/documize",
+        "title": "Documize",
+        "description": "Free Knowledge Management Software",
+        "logo": "/images/applications/documentation/documize/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/docuseal",
+        "external_link": "https://elest.io/open-source/docuseal",
+        "title": "DocuSeal",
+        "description": "Open source, tool to streamline document filling and signing. Create custom PDF forms to complete and sign with an easy-to-use online tool.",
+        "logo": "/images/applications/documentation/docuseal/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/documenso",
+        "external_link": "https://elest.io/open-source/documenso",
+        "title": "Documenso",
+        "description": "The Open Source DocuSign Alternative,\u00a0Document signing.",
+        "logo": "/images/applications/documentation/documenso/logo.png"
+    },
+    {
+        "category": {
+            "id": "documentation",
+            "name": "Documentation"
+        },
+        "link": "/applications/documentation/answer",
+        "external_link": "https://elest.io/open-source/answer",
+        "title": "Answer",
+        "description": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",
+        "logo": "/images/applications/documentation/answer/logo.png"
+    }
+]

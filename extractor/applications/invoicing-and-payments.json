@@ -1,0 +1,68 @@
+[
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/bigcapital",
+        "external_link": "https://elest.io/open-source/bigcapital",
+        "title": "Bigcapital",
+        "description": "Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.",
+        "logo": "/images/applications/invoicing-and-payments/bigcapital/logo.png"
+    },
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/lago",
+        "external_link": "https://elest.io/open-source/lago",
+        "title": "Lago",
+        "description": "Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.",
+        "logo": "/images/applications/invoicing-and-payments/lago/logo.png"
+    },
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/crater",
+        "external_link": "https://elest.io/open-source/crater",
+        "title": "Crater",
+        "description": "Crater\u00a0helps you track expenses, and payments & create professional invoices & estimates.",
+        "logo": "/images/applications/invoicing-and-payments/crater/logo.png"
+    },
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/invoiceninja",
+        "external_link": "https://elest.io/open-source/invoiceninja",
+        "title": "InvoiceNinja",
+        "description": "Invoice Ninja is the leading free, open-source online invoicing app for freelancers and businesses.",
+        "logo": "/images/applications/invoicing-and-payments/invoiceninja/logo.png"
+    },
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/btcpay",
+        "external_link": "https://elest.io/open-source/btcpay",
+        "title": "BTCPay",
+        "description": "Start Accepting Bitcoin Payments With 0% Fees & No Third-party",
+        "logo": "/images/applications/invoicing-and-payments/btcpay/logo.png"
+    },
+    {
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments"
+        },
+        "link": "/applications/invoicing-and-payments/hyperswitch",
+        "external_link": "https://elest.io/open-source/hyperswitch",
+        "title": "Hyperswitch",
+        "description": "An open-source payments switch written in Rust to make payments fast, reliable, and affordable.",
+        "logo": "/images/applications/invoicing-and-payments/hyperswitch/logo.png"
+    }
+]

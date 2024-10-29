@@ -1,0 +1,90 @@
+[
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/ollama",
+        "external_link": "https://elest.io/open-source/ollama",
+        "title": "Ollama",
+        "description": "ChatGPT-Style Open Web UI Client\u00a0for LLMs (Formerly Ollama WebUI) to\u00a0Get up and running with Llama 2, Mistral, and other large language models.",
+        "logo": "/images/applications/search/ollama/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/searxng",
+        "external_link": "https://elest.io/open-source/searxng",
+        "title": "SearXNG",
+        "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+        "logo": "/images/applications/search/searxng/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/serpbear",
+        "external_link": "https://elest.io/open-source/serpbear",
+        "title": "SerpBear",
+        "description": "SerpBear\u00a0is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their\u00a0positions.",
+        "logo": "/images/applications/search/serpbear/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/meilisearch",
+        "external_link": "https://elest.io/open-source/meilisearch",
+        "title": "Meilisearch",
+        "description": "Meilisearch is a next-generation search API.",
+        "logo": "/images/applications/search/meilisearch/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/typesense",
+        "external_link": "https://elest.io/open-source/typesense",
+        "title": "Typesense",
+        "description": "Typesense is a fast, typo-tolerant, fuzzy search engine for building great search experiences.",
+        "logo": "/images/applications/search/typesense/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/solr",
+        "external_link": "https://elest.io/open-source/solr",
+        "title": "Solr",
+        "description": "Apache Solr is the popular, blazing fast open source search platform for all your enterprise, e-commerce, and analytics needs, built on\u00a0Apache Lucene.",
+        "logo": "/images/applications/search/solr/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/manticoresearch",
+        "external_link": "https://elest.io/open-source/manticoresearch",
+        "title": "ManticoreSearch",
+        "description": "Manticore Search\u00a0is an easy to use\u00a0open source\u00a0fast database for search. Modern, fast, light-weight, outstanding full-text search capabilities.",
+        "logo": "/images/applications/search/manticoresearch/logo.png"
+    },
+    {
+        "category": {
+            "id": "search",
+            "name": "Search"
+        },
+        "link": "/applications/search/zincsearch",
+        "external_link": "https://elest.io/open-source/zincsearch",
+        "title": "ZincSearch",
+        "description": "ZincSearch is a search engine that does full text indexing. It is a lightweight alternative to Elasticsearch and runs using a fraction of the resources.",
+        "logo": "/images/applications/search/zincsearch/logo.png"
+    }
+]
