@@ -40,21 +40,12 @@
                 Start Free Trial
               </a>
 
-              {{ if .Params.content.webarchive }}
-                <a
-                  href="#webarchive"
-                  class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                  {{ .Params.content.name }} detail
-                </a>
-              {{ else }}
-                <a
-                  href="{{ .Params.content.website }}"
-                  target="_blank"
-                  class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                  {{ .Params.content.name }} website
-                </a>
-              {{ end }}
-
+              <a
+                href="{{ .Params.content.iframe_website }}"
+                target="_blank"
+                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                {{ .Params.content.name }} website
+              </a>
             </div>
           </div>
         </div>
@@ -85,18 +76,12 @@
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
           Deploy a fully managed instance of
-          {{ if .Params.content.webarchive }}
-            <a class="font-extrabold" href="#webarchive">
-              {{ .Params.content.name }}
-            </a>
-          {{ else }}
-            <a
-              class="font-extrabold"
-              href="{{ .Params.content.website }}"
-              target="_blank">
-              {{ .Params.content.name }}
-            </a>
-          {{ end }}
+          <a
+            class="font-extrabold"
+            href="{{ .Params.content.iframe_website }}"
+            target="_blank">
+            {{ .Params.content.name }}
+          </a>
 
           in just
           <span class="font-extrabold">$22.</span>
@@ -175,34 +160,6 @@
       </div>
     </div>
   </section>
-
-  {{ if .Params.content.webarchive }}
-    <section id="webarchive" class="bg-white pb-12 sm:pb-16">
-      <iframe
-        title="{{ .Params.content.title }}"
-        id="web-frame"
-        class="w-full h-screen"
-        src="https://webarchive.octabyte.io/{{ .Params.content.webarchive }}"></iframe>
-    </section>
-    <script>
-      window.addEventListener(
-        "message",
-        function (event) {
-          const allowedOrigins = ["https://webarchive.octabyte.io"];
-
-          if (!allowedOrigins.includes(event.origin)) return;
-
-          const iframe = document.getElementById("web-frame");
-          const height = parseInt(event.data);
-          if (!isNaN(height)) {
-            iframe.style.height = height + "px";
-          }
-        },
-        false,
-      );
-    </script>
-  {{ end }}
-
 
   <section class="relative isolate overflow-hidden bg-gray-900">
     <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
