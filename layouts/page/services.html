@@ -87,6 +87,19 @@
             </div>
           </button>
         {{ end }}
+
+        {{ range .service_categories }}
+          {{ range .categories }}
+            <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
+              <div class="-m-1 flex flex-wrap items-center">
+                <span
+                  class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
+                  <span>{{ .name }}</span>
+                </span>
+              </div>
+            </button>
+          {{ end }}
+        {{ end }}
       </div>
       <div class="isolate mx-10 mt-10">
         <div class="mt-1 flex rounded-md shadow-sm border border-gray-300">

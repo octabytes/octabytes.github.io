@@ -822,7 +822,7 @@ content:
       image: /images/applications/password-manager/infisical/logo.png
       url: /applications/password-manager/infisical
       category: password-manager
-      description: Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.
+      description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
     - id: vault
       title: Vault
       image: /images/applications/password-manager/vault/logo.png
@@ -1242,7 +1242,7 @@ content:
       image: /images/development/dev-tools/infisical/logo.png
       url: /development/dev-tools/infisical
       category: dev-tools
-      description: Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.
+      description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
     - id: quickchart
       title: QuickChart
       image: /images/development/dev-tools/quickchart/logo.png

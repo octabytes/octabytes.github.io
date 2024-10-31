@@ -8,6 +8,8 @@ content:
   title: "'Applications'"
   description: Unleash the potential of open-source applications with our managed services. Whether you need content management, communication tools, or e-commerce platforms, our services ensure smooth operations, timely updates, and expert support, so you can deliver an exceptional user experience.
   categories:
+    - id: all
+      name: All
     - id: crm-erp
       name: CRM / ERP
     - id: note-taking
@@ -634,7 +636,7 @@ content:
       image: /images/applications/password-manager/infisical/logo.png
       url: /applications/password-manager/infisical
       category: password-manager
-      description: Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.
+      description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
     - id: vault
       title: Vault
       image: /images/applications/password-manager/vault/logo.png

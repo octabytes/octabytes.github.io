@@ -8,6 +8,8 @@ content:
   title: "'Hosting and Infrastructure'"
   description: Take the hassle out of infrastructure management with our hosting and infrastructure services. We offer scalable and secure hosting solutions on any cloud or on-premise, providing a reliable foundation for your applications to thrive.
   categories:
+    - id: all
+      name: All
     - id: monitoring
       name: Monitoring
     - id: email

@@ -8,6 +8,8 @@ content:
   title: "'Development'"
   description: Our development services cater to developers' needs, providing tools, libraries, and resources to streamline the development process. From DevOps to API gateways, we have you covered to build and deploy applications efficiently.
   categories:
+    - id: all
+      name: All
     - id: identity-and-access-management
       name: Identity and access management
     - id: backend-as-a-service
@@ -152,7 +154,7 @@ content:
       image: /images/development/dev-tools/infisical/logo.png
       url: /development/dev-tools/infisical
       category: dev-tools
-      description: Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.
+      description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
     - id: quickchart
       title: QuickChart
       image: /images/development/dev-tools/quickchart/logo.png

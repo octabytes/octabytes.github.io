@@ -8,6 +8,8 @@ content:
   title: "'Databases'"
   description: Explore a comprehensive list of open source database software solutions. Discover reliable, community-driven database management tools for various applications and use cases. From relational databases to NoSQL options, find the right open source database software to suit your project's requirements.
   categories:
+    - id: all
+      name: All
     - id: relational-databases
       name: Relational databases
     - id: nosql
