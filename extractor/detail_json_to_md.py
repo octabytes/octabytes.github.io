@@ -9,20 +9,23 @@ output_dir = '../content/hosting-and-infrastructure/'
 with open(input_file, 'r', encoding='utf-8') as f:
     hosting_and_infrastructure = json.load(f)
 
-# Helper function to wrap text with double quotes if it contains a colon
-def wrap_if_colon(text):
-    return f'"{text}"' if ':' in text else text
+# Helper function to properly escape YAML strings
+def yaml_escape(text):
+    line_text = " ".join(text.splitlines()).strip()
+    line_text = line_text.replace('"', "'")
 
+    return f'"{line_text}"' if ':' in line_text or "'" in line_text else line_text
+    
 # Process each entry and save as Markdown
 for db in hosting_and_infrastructure:
     category_id = db['category']['id']
     db_id = db['id']
-    title = db['title']
+    title = yaml_escape(db['title'])
     logo = db['logo']
     website = db['website']
     dashboard_image = db['screenshots'][0] if db['screenshots'] else ""
-    long_description = wrap_if_colon(db['long_description'])
-    short_description = wrap_if_colon(db['description'])
+    long_description = yaml_escape(db['long_description'])
+    short_description = yaml_escape(db['description'])
     features = db['features']
     screenshots = db['screenshots']
 
@@ -48,8 +51,8 @@ content:
 
     # Add features to markdown content
     for feature in features:
-        feature_title = feature['title']
-        feature_description = wrap_if_colon(feature['description'])
+        feature_title = yaml_escape(feature['title'])
+        feature_description = yaml_escape(feature['description'])
         md_content += f"    - title: {feature_title}\n      description: {feature_description}\n"
 
     # Add screenshots

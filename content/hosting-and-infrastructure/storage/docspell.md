@@ -18,7 +18,7 @@ content:
     - title: Support for many files
       description: Docspell can read many file types. ZIP and EML (e-mail file format) files are extracted and their contents imported.
     - title: Conversion to PDF
-      description: All files are converted to PDF. Don't worry about the originals. Original files are stored, too and can be downloaded untouched. When creating PDFs from image data (often returned from scanners), the resulting PDF contains the extracted text and is searchable.
+      description: "All files are converted to PDF. Don't worry about the originals. Original files are stored, too and can be downloaded untouched. When creating PDFs from image data (often returned from scanners), the resulting PDF contains the extracted text and is searchable."
   screenshots:
     - /images/hosting-and-infrastructure/storage/docspell/screenshot-1.png
     - /images/hosting-and-infrastructure/storage/docspell/screenshot-2.png

@@ -14,7 +14,7 @@ content:
     - title: DBT
       description: Connect your dbt project to Lightdash. Add metrics directly in your transformation layer.
     - title: Affordable analytics
-      description: Lightdash offers a free self-hosted service , or an affordable cloud-service option if you're looking for an easy analytics set up.
+      description: "Lightdash offers a free self-hosted service , or an affordable cloud-service option if you're looking for an easy analytics set up."
     - title: Building blocks to answer their own data
       description: Lightdash gives your data team the tools they need to build metrics and dimensions that everyone else can use.
     - title: Business logic in one place

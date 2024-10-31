@@ -12,7 +12,7 @@ content:
   description: Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.
   features:
     - title: Usage metering
-      description: Lago's event-based architecture provides a solid foundation for building a fair pricing model that scales with your business.
+      description: "Lago's event-based architecture provides a solid foundation for building a fair pricing model that scales with your business."
     - title: Coupons
       description: Create engaging marketing campaigns and increase conversion with coupons that customers can redeem to get a discount.
     - title: Add-ons

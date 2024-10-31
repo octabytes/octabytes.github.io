@@ -12,7 +12,7 @@ content:
   description: TimescaleDB is  an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.
   features:
     - title: Supercharged PostgreSQL
-      description: With TimescaleDB, you can rely on the same PostgreSQL you're familiar with, with full SQL, rock-solid reliability, and a massive ecosystem.
+      description: "With TimescaleDB, you can rely on the same PostgreSQL you're familiar with, with full SQL, rock-solid reliability, and a massive ecosystem."
     - title: Accelerated performance
       description: You can achieve 10-100x faster queries than with PostgreSQL, InfluxDB and MongoDB, and benefit from native optimizations for time-series.
     - title: Massive scale

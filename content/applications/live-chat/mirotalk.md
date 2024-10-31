@@ -18,7 +18,7 @@ content:
     - title: Interactive Whiteboard & File Sharing
       description: Advanced collaborative whiteboard to draw and explain your concepts to the other participants in the meeting. Share any types of files to all participants in the meeting, in total security, thanks to Datagram Transport Layer Security (DTLS).
     - title: Total Privacy & Maximum Security
-      description: Data stays between you and your participants. MiroTalk doesn't collect or share personal information. It's built for privacy first. End-to-end state-of-the-art encryption means your participants are exactly that. Your calls.
+      description: "Data stays between you and your participants. MiroTalk doesn't collect or share personal information. It's built for privacy first. End-to-end state-of-the-art encryption means your participants are exactly that. Your calls."
   screenshots:
     - /images/applications/live-chat/mirotalk/screenshot-1.png
     - /images/applications/live-chat/mirotalk/screenshot-2.png

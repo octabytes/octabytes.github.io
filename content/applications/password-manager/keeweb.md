@@ -14,7 +14,7 @@ content:
     - title: Desktop apps for all platforms
       description: "KeeWeb's Desktop apps look great on each platform: macOS, Windows and Linux. You can open local files in Desktop apps."
     - title: Offline web app
-      description: The web version has almost all features available in the Desktop apps. It doesn't require any installation and works in all modern browsers.
+      description: "The web version has almost all features available in the Desktop apps. It doesn't require any installation and works in all modern browsers."
     - title: Cloud sync
       description: With KeeWeb, you can open files from Dropbox, Google Drive, OneDrive or your own server, and sync changes across devices automatically.
     - title: Offline access

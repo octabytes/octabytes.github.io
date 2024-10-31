@@ -12,11 +12,11 @@ content:
   description: GlitchTip makes monitoring software easy. Track errors, monitor performance, and check site uptime all in one place. Our app is compatible with Sentry client SDKs but is easier to run.
   features:
     - title: Error Tracking
-      description: Report your website or application's exceptions, log messages, Content Security Policy violations, and more to one place to triage and resolve.
+      description: "Report your website or application's exceptions, log messages, Content Security Policy violations, and more to one place to triage and resolve."
     - title: Application Performance Monitoring
       description: Find out where your app is slow. GlitchTip takes a simple, works-out-of-the-box approach. No dashboard building and metrics hunting. Just find your slowest web requests, database calls, and other transactions.
     - title: Uptime Monitoring
-      description: GlitchTip can ping your site and warn you when it's not responding. Or reverse it and send GlitchTip a request on schedule. If GlitchTip doesn't receive your ping, it will send you an alert via email or webhook
+      description: "GlitchTip can ping your site and warn you when it's not responding. Or reverse it and send GlitchTip a request on schedule. If GlitchTip doesn't receive your ping, it will send you an alert via email or webhook"
     - title: Have some bugs in your code?
       description: GlitchTip is the right choice if you value simplicity, affordability, and the freedom provided by open source.
   screenshots:

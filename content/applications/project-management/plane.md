@@ -18,7 +18,7 @@ content:
     - title: Layouts
       description: Customize your project view with your preferred layout - choose from List, Kanban, or Calendar to visualize your project in a way that makes sense to you.
     - title: Cycles
-      description: Plan sprints with Cycles to keep your team on track and productive. Gain insights into your project's progress with burn-down charts and other useful features.
+      description: "Plan sprints with Cycles to keep your team on track and productive. Gain insights into your project's progress with burn-down charts and other useful features."
   screenshots:
     - /images/applications/project-management/plane/screenshot-1.webp
     - /images/applications/project-management/plane/screenshot-2.webp

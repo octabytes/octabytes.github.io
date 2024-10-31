@@ -11,7 +11,7 @@ content:
   short_description: A self-hosted web radio management suite
   description: AzuraCast is a self-hosted, all-in-one web radio management suite. Using its easy installer and powerful but intuitive web interface, you can start up a fully working web radio station in a few quick minutes. AzuraCast works for web radio stations of all types and sizes, and is built to run on even the most affordable VPS web hosts.
   features:
-    - title: Everything's Included
+    - title: "Everything's Included"
       description: AzuraCast installs everything you need to get a web radio station up and running in minutes.
     - title: Web-Based Station Management
       description: Upload media, manage playlists, create local mount points and remote relays, view analytics and reports and much more, all from the convenience of your web browser.

@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/live-chat/chatwoot
   dashboardImage: /images/applications/live-chat/chatwoot/screenshot-1.jpg
   short_description: Chatwoot is an open-source, alternative customer engagement suite.
-  description: Chatwoot is an alternative to Intercom, Zendesk and Salesforce Service Cloud. As well as helping to ensure a great customer experience, it increases your support team's productivity and provides them with actionable data. It integrates with multiple conversation channels like website live-chat, email, Facebook pages, Twitter handles, WhatsApp, etc. It displays conversation from different channels, thereby building a single view of the customer, with no need to switch between tools. Mobile apps for Chatwoot (available for Android and iOS) enable you to browse conversations, reply to messages and collaborate with the team.
+  description: "Chatwoot is an alternative to Intercom, Zendesk and Salesforce Service Cloud. As well as helping to ensure a great customer experience, it increases your support team's productivity and provides them with actionable data. It integrates with multiple conversation channels like website live-chat, email, Facebook pages, Twitter handles, WhatsApp, etc. It displays conversation from different channels, thereby building a single view of the customer, with no need to switch between tools. Mobile apps for Chatwoot (available for Android and iOS) enable you to browse conversations, reply to messages and collaborate with the team."
   features:
     - title: Shared inbox for your team
       description: Talk to your customers and your team from one place. Communicate internally and resolve customer queries efficiently.

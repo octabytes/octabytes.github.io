@@ -16,7 +16,7 @@ content:
     - title: Payments
       description: Simplified onboarding, ACH & card acceptance.
     - title: Lending
-      description: AP & AR tools to solve your customer's cashflow needs.
+      description: "AP & AR tools to solve your customer's cashflow needs."
     - title: Accounting Automation
       description: Enable seamless data integration with your platform.
   screenshots:

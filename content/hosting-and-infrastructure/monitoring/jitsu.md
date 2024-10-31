@@ -9,10 +9,10 @@ content:
   iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/jitsu
   dashboardImage: /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
   short_description: Jitsu is an open-source web and app-event collection platform.
-  description: Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days.
+  description: "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days."
   features:
     - title: Send data from anywhere
-      description: To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team.
+      description: "To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team."
     - title: Connect destination
       description: When you connect the data warehouse (Snowflake, Clickhouse, BigQuery, S3, Redshift or Postgres), you can query your data instantly. Jitsu can either stream data in real time or send it in micro-batches (up to once a minute). In addition to DWHs, Jitsu can push data to other services (Amplitude, Hubspot, Google Analytics, etc) or call any HTTP-api.
     - title: Transform the data

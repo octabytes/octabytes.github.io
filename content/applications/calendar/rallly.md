@@ -12,7 +12,7 @@ content:
   description: Rallly is the Doodle alternative scheduling and collaboration tool designed to make organizing events and meetings easier.
   features:
     - title: Create Meeting polls
-      description: Create meeting polls to find the best date and time to organize an event based on your participants' availability. Save time and avoid back-and-forth emails.
+      description: "Create meeting polls to find the best date and time to organize an event based on your participants' availability. Save time and avoid back-and-forth emails."
     - title: Scheduling poll
       description: Rallly lets you create beautiful and easy-to-use scheduling polls so you can find the best time for your next event.
     - title: Find a Time to Meet

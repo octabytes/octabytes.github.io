@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/search/solr
   dashboardImage: /images/applications/search/solr/screenshot-1.png
   short_description: Apache Solr is the popular, blazing fast open source search platform for all your enterprise, e-commerce, and analytics needs, built on Apache Lucene.
-  description: Apache Solr is a standalone enterprise search server with a REST-like API. You put documents in it (called "indexing") via JSON, XML, CSV or binary over HTTP. You query it via HTTP GET and receive JSON, XML, CSV or binary results.
+  description: "Apache Solr is a standalone enterprise search server with a REST-like API. You put documents in it (called 'indexing') via JSON, XML, CSV or binary over HTTP. You query it via HTTP GET and receive JSON, XML, CSV or binary results."
   features:
     - title: Advanced Full-Text Search Capabilities
       description: Apache Solr enables powerful matching capabilities including phrases, wildcards, joins, grouping and much more across any data type

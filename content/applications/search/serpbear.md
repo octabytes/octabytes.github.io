@@ -8,8 +8,8 @@ content:
   website: https://serpbear.com/
   iframe_website: /website-iframe/applications/search/serpbear
   dashboardImage: /images/applications/search/serpbear/screenshot-1.png
-  short_description: SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
-  description: SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
+  short_description: "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
+  description: "SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions."
   features:
     - title: Unlimited Keywords
       description: Add unlimited domains and unlimited keywords to track their SERP.

@@ -9,13 +9,10 @@ content:
   iframe_website: /website-iframe/applications/email-marketing/listmonk
   dashboardImage: /images/applications/email-marketing/listmonk/screenshot-1.png
   short_description: Listmonk is a self-hosted, high performance mailing list and newsletter manager
-  description: Self-hosted newsletter and mailing list manager. Performance and features packed into a single binary.
-Free and open source.
+  description: Self-hosted newsletter and mailing list manager. Performance and features packed into a single binary. Free and open source.
   features:
     - title: Mailing lists
-      description: Manage millions of subscribers across many single and double opt-in lists with custom JSON attributes for each subscriber. Query and segment subscribers with SQL expressions.
-
-Use the super fast bulk importer (10k records per second) or use HTTP/JSON APIs or interact with the simple table schema to integrate external CRMs and subscriber databases.
+      description: Manage millions of subscribers across many single and double opt-in lists with custom JSON attributes for each subscriber. Query and segment subscribers with SQL expressions.  Use the super fast bulk importer (10k records per second) or use HTTP/JSON APIs or interact with the simple table schema to integrate external CRMs and subscriber databases.
     - title: Analytics
       description: Visualize and compare campaign performance. Connect external visualization programs to the database easily with the simple table structure.
     - title: Templating

@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/development/nocode-lowcode/hop
   dashboardImage: /images/development/nocode-lowcode/hop/screenshot-1.jpeg
   short_description: Apache Hop is a data orchestration and data engineering platform that aims to facilitate all aspects of data and metadata orchestration
-  description: Apache Hop is a data orchestration and data engineering platform that aims to facilitate all aspects of data and metadata orchestration. Apache Hop lets you focus on the problem you're trying to solve without technology getting in the way.
+  description: "Apache Hop is a data orchestration and data engineering platform that aims to facilitate all aspects of data and metadata orchestration. Apache Hop lets you focus on the problem you're trying to solve without technology getting in the way."
   features:
     - title: Metadata Driven
       description: Apache Hop is entirely metadata-driven. Every object type in Hop describes how data is read, manipulated or written, or how workflows and pipelines need to be orchestrated.

@@ -14,11 +14,11 @@ content:
     - title: Stay organized
       description: Organize all of your tasks in projects. Create subprojects organize everything hierarchical and keep related stuff grouped.
     - title: Collaborate with peers
-      description: Vikunja lets you easily share a project with another user or a whole team! Assignments show who's working on what.
+      description: "Vikunja lets you easily share a project with another user or a whole team! Assignments show who's working on what."
     - title: Use it how you need it
       description: You can view your tasks in the classic list view - or a Gantt Chart, or Table view, or Kanban Board. Whatever you need!
     - title: Tasks
-      description: Tasks are not only simple tasks. You can let Vikunja remind you of tasks when they're due. Never miss an important deadline again!
+      description: "Tasks are not only simple tasks. You can let Vikunja remind you of tasks when they're due. Never miss an important deadline again!"
   screenshots:
     - /images/applications/note-taking/vikunja/screenshot-1.webp
     - /images/applications/note-taking/vikunja/screenshot-2.webp

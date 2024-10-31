@@ -12,11 +12,9 @@ content:
   description: "Ubuntu Virtual Desktop by Elestio comes with several softwares pre-installed: Chrome, Firefox, VS Code, Telegram, Thunderbird, Wine (Windows compatibility, you can install/run any windows program)."
   features:
     - title: Desktop Experience in your browser
-      description: Get a full desktop experience with various tools pre-installed like Chrome & Telegram.
-You can also install Windows programs thanks to Wine compatibility layer
+      description: Get a full desktop experience with various tools pre-installed like Chrome & Telegram. You can also install Windows programs thanks to Wine compatibility layer
     - title: Audio support
-      description: You can play youtube videos & listen music through your virtual desktop
-Any apps that produce sounds will also work out of the box
+      description: You can play youtube videos & listen music through your virtual desktop Any apps that produce sounds will also work out of the box
     - title: Secure
       description: By default the Virtual desktop is protected with strong credentials, you can also limit access only to one or multiple IP addresses
     - title: Instant & Collaborative

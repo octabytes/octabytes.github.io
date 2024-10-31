@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/databases/relational-databases/mysql
   dashboardImage: /images/databases/relational-databases/mysql/screenshot-1.jpg
   short_description: MySQL is an Oracle-backed open-source RDBMS that runs on almost all platforms.
-  description: MySQL is an open-source relational database management system (RDBMS). Many of the world's largest organizations rely on it to power their high-volume websites, business-critical systems and packaged software. It runs on almost all platforms, including Linux, UNIX and Windows.
+  description: "MySQL is an open-source relational database management system (RDBMS). Many of the world's largest organizations rely on it to power their high-volume websites, business-critical systems and packaged software. It runs on almost all platforms, including Linux, UNIX and Windows."
   features:
     - title: Fast and reliable
       description: MySQL was developed for speed, even if this may come at the expense of some additional features. It is also known for its reliability as a database administrator, backed by a large community of programmers that have put the code through tough testing. Another benefit is that it is relatively simple to learn and use. And as it has been around for nearly three decades, it’s not hard to find experienced MySQL developers when you need them.

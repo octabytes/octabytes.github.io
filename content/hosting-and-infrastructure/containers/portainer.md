@@ -14,7 +14,7 @@ content:
     - title: Deploy containerized apps easily and securely
       description: Portainer allows you to get your app up and running in any container-based environment (Docker, Kubernetes. ACI) quickly, easily and securely without first having to learn the platform intricacies.
     - title: Easy automation
-      description: Automation (CI/CD) is key to efficient software delivery, but it can be tricky to get going. Portainer's simple GitOps integration is the perfect place to start.
+      description: "Automation (CI/CD) is key to efficient software delivery, but it can be tricky to get going. Portainer's simple GitOps integration is the perfect place to start."
     - title: Simple-to-build container management system
       description: To succeed with containers, you need to give your internal users secure access to the tools they need. Portainer makes it easy to set up and configure a complete container service delivery engine.
     - title: Secure container environment

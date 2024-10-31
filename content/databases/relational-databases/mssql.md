@@ -8,7 +8,7 @@ content:
   website: https://www.microsoft.com/en-us/sql-server/sql-server-2019
   iframe_website: /website-iframe/databases/relational-databases/mssql
   dashboardImage: /images/databases/relational-databases/mssql/screenshot-1.jpg
-  short_description: SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional.
+  short_description: "SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional."
   description: Microsoft SQL Server is a relational database management system developed by Microsoft. SQL Server 2019 brings innovative security and compliance features, mission-critical availability, and advanced analytics to data workloads, with support for big data built in.
   features:
     - title: Analyze every type of data
@@ -18,7 +18,7 @@ content:
     - title: Rely on industry-leading performance
       description: With MSSQL, you can take advantage of breakthrough scalability and performance to improve the stability and response time of your database, without making app changes. Get high availability for mission-critical applications, data warehouses and data lakes.
     - title: Nine years of proven security leadership
-      description: The database has been rated as 'least vulnerable' over the last nine years. It allows you to stay a step ahead using built-in features for data classification, data protection, and monitoring and alerts.
+      description: "The database has been rated as 'least vulnerable' over the last nine years. It allows you to stay a step ahead using built-in features for data classification, data protection, and monitoring and alerts."
   screenshots:
     - /images/databases/relational-databases/mssql/screenshot-1.jpg
     - /images/databases/relational-databases/mssql/screenshot-2.png

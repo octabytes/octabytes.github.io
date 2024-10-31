@@ -16,7 +16,7 @@ content:
     - title: Automated SSL Termination
       description: OpenResty will automatically create and renew SSL certificates
     - title: Extensible
-      description: Leverage tons of LUA plugins available or write your own LUA code. It's easy and very fast.
+      description: "Leverage tons of LUA plugins available or write your own LUA code. It's easy and very fast."
     - title: Based on Nginx
       description: Switching from nginx to OpenResty is not such a paradigm shift as moving to, say, Apache or Microsoft IIS. The OpenResty web application platform is built around the standard nginx core, which offers some familiarity, as well as allowing the use of third-party nginx modules.
   screenshots:

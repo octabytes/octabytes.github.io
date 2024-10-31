@@ -14,7 +14,7 @@ content:
     - title: Data storage control
       description: You can deploy ownCloud in your own datacenter on-premises, at a trusted service provider or choose ownCloud.online, the software-as-a-service collaboration platform hosted in Germany. You can increase security through measures like multi-factor authentication, encryption and file lifecycle management.
     - title: Control access to your data
-      description: With ownCloud, you can give staff an easy, flexible and secure way to share files and folders; safely involve contacts outside your organization with select documents, and share public links shielded by passwords and expiration dates. You don't have to worry about slow VPN connections, unversioned documents attached to emails, and shadow IT in public clouds of questionable security
+      description: "With ownCloud, you can give staff an easy, flexible and secure way to share files and folders; safely involve contacts outside your organization with select documents, and share public links shielded by passwords and expiration dates. You don't have to worry about slow VPN connections, unversioned documents attached to emails, and shadow IT in public clouds of questionable security"
     - title: Increase productivity
       description: ownCloud helps teams collaborate from anywhere and from any device. They can store, share and work on their data and documents through a single point of access, work simultaneously on documents, create presentations together in real time, annotate files, etc. This saves time on coordination and feedback processes.
     - title: Sync and share files

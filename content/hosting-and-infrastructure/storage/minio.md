@@ -16,7 +16,7 @@ content:
     - title: Cloud-native from the start
       description: MinIO, built from scratch in recent years, is native to the technologies and architectures that define the cloud, including containerization, orchestration with Kubernetes, microservices and multi-tenancy. No other object store is more Kubernetes-friendly.
     - title: High-performance object storage
-      description: MinIO is the world's fastest object storage server. With read/write speeds of 183 GB/s and 171 GB/s on standard hardware, object storage can operate as the primary storage tier for a diverse set of workloads, including Spark, Presto, TensorFlow and H2O.ai, as well as a replacement for Hadoop HDFS.
+      description: "MinIO is the world's fastest object storage server. With read/write speeds of 183 GB/s and 171 GB/s on standard hardware, object storage can operate as the primary storage tier for a diverse set of workloads, including Spark, Presto, TensorFlow and H2O.ai, as well as a replacement for Hadoop HDFS."
     - title: Built on the principles of web scale
       description: MinIO leverages the hard-won knowledge of web scalers to bring a simple scaling model to object storage. Scaling starts with a single cluster that can be federated with other MinIO clusters to create a global namespace, spanning multiple datacenters if needed. It is one of the reasons that more than half the Fortune 500 run MinIO.
   screenshots:

@@ -16,7 +16,7 @@ content:
     - title: An ERP for IT
       description: Shared referential + Industrialized services = Best Customer Satisfaction
     - title: Problem Management
-      description: To avoid repetition of incidents, the problem management module is the analysts' tool, contributing to the pool of knowledge for common mistakes
+      description: "To avoid repetition of incidents, the problem management module is the analysts' tool, contributing to the pool of knowledge for common mistakes"
     - title: Customizable Workflow
       description: The life cycle of the tickets or the list of tasks to perform for the achievement of a process can be set to fit each organization
   screenshots:

@@ -18,7 +18,7 @@ content:
     - title: Talk without anyone else listening in.
       description: Revolt will not sell your data or leak it to advertisers. Our code is open source and can be audited by anyone willing. Based in Europe and bound to the GDPR, we take your privacy very seriously. And with end-to-end encryption coming to DMs and group chats soon, you can be absolutely sure of it.
     - title: Make it yours in minutes.
-      description: Revolt's open architecture makes it easier than ever to build custom bots and clients for anything your heart desires. You can even make your own Revolt app if you want to. And with every single color customizable, you don't need to know how to program to make it feel like you want to.
+      description: "Revolt's open architecture makes it easier than ever to build custom bots and clients for anything your heart desires. You can even make your own Revolt app if you want to. And with every single color customizable, you don't need to know how to program to make it feel like you want to."
   screenshots:
     - /images/applications/live-chat/revolt/screenshot-1.png
     - /images/applications/live-chat/revolt/screenshot-2.png

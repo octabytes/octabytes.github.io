@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/project-management/leantime
   dashboardImage: /images/applications/project-management/leantime/screenshot-1.png
   short_description: Leantime is a strategic project management system for non-project managers.
-  description: Leantime is a strategic project management system for non-project managers. It's an alternative to ClickUp, Monday, or Asana. As simple as Trello but as feature-rich as Jira.
+  description: "Leantime is a strategic project management system for non-project managers. It's an alternative to ClickUp, Monday, or Asana. As simple as Trello but as feature-rich as Jira."
   features:
     - title: Task Management
       description: kanban boards, Gantt, table, list, and calendar views, Unlimited subtasks and dependencies, Milestone management, Sprint Management, Time tracking & timesheets.

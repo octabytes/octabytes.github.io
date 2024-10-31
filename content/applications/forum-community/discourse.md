@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/forum-community/discourse
   dashboardImage: /images/applications/forum-community/discourse/screenshot-1.jpg
   short_description: Discourse is an open-source discussion platform built for the next decade of the Internet.
-  description: Discourse is an open-source Internet forum and mailing-list management software application. It's an attempt to reimagine what a modern Internet discussion forum should be in a world of ubiquitous smartphones, tablets, Facebook and Twitter. You can use it as a mailing list, discussion forum, long-form chatroom, and more. It can be self-hosted.
+  description: "Discourse is an open-source Internet forum and mailing-list management software application. It's an attempt to reimagine what a modern Internet discussion forum should be in a world of ubiquitous smartphones, tablets, Facebook and Twitter. You can use it as a mailing list, discussion forum, long-form chatroom, and more. It can be self-hosted."
   features:
     - title: Conversations, not pages
       description: Why break conversations into awkward and arbitrary pages, where you have to constantly find the Next Page button? We’ve replaced all that with the power of just-in-time loading. Want to read more? Keep scrolling down.

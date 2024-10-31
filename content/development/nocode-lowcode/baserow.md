@@ -14,16 +14,9 @@ content:
     - title: No-code platform that grows
       description: Are your projects, ideas or business processes unorganized or unclear? Do you have many tools for one job? With Baserow you decide how you want to structure everything. Whether you’re managing customers, products, airplanes or all of them. If you know how a spreadsheet works, you know how Baserow works.
     - title: Flexible software
-      description: Software tailored to your needs instead of the other way around. Clear and accessible data by all your team members. Never unorganized projects, ideas and notes anymore.
-- One interface for everything.
-- Easily integrate with other software.
-- Collaborate in realtime.
-- Unlimited rows.
+      description: Software tailored to your needs instead of the other way around. Clear and accessible data by all your team members. Never unorganized projects, ideas and notes anymore. - One interface for everything. - Easily integrate with other software. - Collaborate in realtime. - Unlimited rows.
     - title: Developer friendly
-      description: Easily create custom plugins with our boilerplate or use third party ones. Because Baserow is built with modern and proven frameworks it feels like a breeze for developers.
-Headless and API first.
-Works with PostgreSQL.
-Supports custom and third party plugins.
+      description: Easily create custom plugins with our boilerplate or use third party ones. Because Baserow is built with modern and proven frameworks it feels like a breeze for developers. Headless and API first. Works with PostgreSQL. Supports custom and third party plugins.
     - title: Make your business future proof
       description: Spend time on running and innovating your business without worrying about software or lost data. Because of our open source nature and dedicated development team you decide it all.
   screenshots:

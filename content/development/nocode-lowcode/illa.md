@@ -16,7 +16,7 @@ content:
     - title: Real-time collaboration
       description: Collaborate with your team members simultaneously, working together on the same application, regardless of geographical location
     - title: Connect to any data source
-      description: With ILLA's GUI connector, you can quickly connect to all data sources
+      description: "With ILLA's GUI connector, you can quickly connect to all data sources"
     - title: ILLA Drive
       description: File storage and Easy to use
   screenshots:

@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/business-intelligence/superset
   dashboardImage: /images/applications/business-intelligence/superset/screenshot-1.jpg
   short_description: Apache Superset is a data visualization and data exploration platform.
-  description: Apache Superset is an open-source software, cloud-native application for data exploration and data visualization able to handle data at petabyte scale. It's fast, lightweight, intuitive and loaded with options that make it easy for users of all skillsets to explore and visualize their data, from simple line charts to highly detailed geospatial charts.
+  description: "Apache Superset is an open-source software, cloud-native application for data exploration and data visualization able to handle data at petabyte scale. It's fast, lightweight, intuitive and loaded with options that make it easy for users of all skillsets to explore and visualize their data, from simple line charts to highly detailed geospatial charts."
   features:
     - title: Powerful yet easy to use
       description: With Apache Superset, you can quickly and easily integrate and explore your data, using either the simple no-code viz builder or the state-of-the-art SQL IDE.

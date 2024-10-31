@@ -12,7 +12,7 @@ content:
   description: Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.
   features:
     - title: Secure Secret Storage
-      description: Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets.
+      description: "Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets."
     - title: Dynamic Secrets
       description: Vault can generate secrets on-demand for some systems, such as AWS or SQL databases
     - title: Data Encryption

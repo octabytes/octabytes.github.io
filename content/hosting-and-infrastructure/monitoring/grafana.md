@@ -12,7 +12,7 @@ content:
   description: Grafana is an open and composable observability and data visualization platform that allows you to visualize metrics, logs and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres, etc. It provides charts, graphs and alerts for the web when connected to supported data sources.
   features:
     - title: Unify your data, not your database
-      description: With Grafana, you don't have to ingest data to a backend store or vendor database. It unifies your data wherever it lives. You can take any of your data – from your Kubernetes cluster, Raspberry Pi, different cloud services, or even Google Sheets – and visualize it as you want, all from a single dashboard.
+      description: "With Grafana, you don't have to ingest data to a backend store or vendor database. It unifies your data wherever it lives. You can take any of your data – from your Kubernetes cluster, Raspberry Pi, different cloud services, or even Google Sheets – and visualize it as you want, all from a single dashboard."
     - title: Data everyone can see
       description: "Grafana 'democratizes' data: it's accessible to everyone in your organization. It thus helps to facilitate a culture where data can easily be used and accessed by the people that need it, helping to break down data silos and empower teams."
     - title: Dashboards that anyone can use

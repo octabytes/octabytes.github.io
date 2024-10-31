@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/forum-community/nodebb
   dashboardImage: /images/applications/forum-community/nodebb/screenshot-1.jpg
   short_description: NodeBB is next-generation forum software - powerful, mobile-ready and easy to use.
-  description: NodeBB's high-performance community discussion platform offers fast and dependable performance that supports even the biggest and most active community. NodeBB forums look great on all devices – phone, tablet, or desktop. You can customize colors, icons, layout, and more with a few clicks.
+  description: "NodeBB's high-performance community discussion platform offers fast and dependable performance that supports even the biggest and most active community. NodeBB forums look great on all devices – phone, tablet, or desktop. You can customize colors, icons, layout, and more with a few clicks."
   features:
     - title: Mobile-first responsive
       description: NodeBB is mobile-first, allowing for a perfect experience on every device and screen.

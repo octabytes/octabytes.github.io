@@ -12,7 +12,7 @@ content:
   description: Uptime Kuma is a self-hosted, open-source, fancy uptime monitoring and alerting system. It can monitor HTTP, HTTP with keyword, TCP, Ping and even DNS systems. Similar to Uptime Robot, it supports multiple notification systems.
   features:
     - title: Website & SSL monitoring
-      description: Uptime Kuma ensures reliable monitoring so you can be warned before any significant trouble. It saves you money. You won't lose visitors because of an expired SSL certificate. And you'll get notified 30, 14 and 7 days before expiration so you have time to renew.
+      description: "Uptime Kuma ensures reliable monitoring so you can be warned before any significant trouble. It saves you money. You won't lose visitors because of an expired SSL certificate. And you'll get notified 30, 14 and 7 days before expiration so you have time to renew."
     - title: Ping monitoring
       description: With Uptime Kuma, you can leverage one of the tools that administrators most use to check the availability of network devices.
     - title: Port monitoring

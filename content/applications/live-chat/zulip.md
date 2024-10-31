@@ -18,13 +18,7 @@ content:
     - title: Powerful Full-Text Search
       description: Search is both snappy and smart, helping you look for text, people, and threads of conversation, with advanced search operators for fine-grained control.
     - title: Highly Configurable Notifications.
-      description: @-mentions,
-Stream-wide announcements,
-Desktop notifications,
-Audible notifications,
-Emails for important missed messages.
-Alert words,
-Optional weekly digest emails,
+      description: "@-mentions, Stream-wide announcements, Desktop notifications, Audible notifications, Emails for important missed messages. Alert words, Optional weekly digest emails"
   screenshots:
     - /images/applications/live-chat/zulip/screenshot-1.png
     - /images/applications/live-chat/zulip/screenshot-2.png

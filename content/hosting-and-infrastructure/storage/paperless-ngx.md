@@ -16,11 +16,9 @@ content:
     - title: Storage
       description: Paperless stores your documents plain on disk. Filenames and folders are managed by paperless and their format can be configured freely.
     - title: Single Page Application Frontend
-      description: Includes a dashboard that shows basic statistics and has document upload. Filtering by tags, correspondents, types, and more.
-Customizable views can be saved and displayed on the dashboard.
+      description: Includes a dashboard that shows basic statistics and has document upload. Filtering by tags, correspondents, types, and more. Customizable views can be saved and displayed on the dashboard.
     - title: Full Text Search
-      description: Auto completion suggests relevant words from your documents. Results are sorted by relevance to your search query.
-Highlighting shows you which parts of the document matched the query. Searching for similar documents ("More like this")
+      description: "Auto completion suggests relevant words from your documents. Results are sorted by relevance to your search query. Highlighting shows you which parts of the document matched the query. Searching for similar documents ('More like this')"
   screenshots:
     - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png
     - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-2.png

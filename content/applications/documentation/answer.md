@@ -18,7 +18,7 @@ content:
     - title: Integrations
       description: Configure your community with plugins and your favorite services. So that you can improve your workflow, grow your community, or make your other tools better.
     - title: Gamification
-      description: We've gamified the Q&A platform with reputation and badges. So the community members and teams have fun collaborating and getting work done.
+      description: "We've gamified the Q&A platform with reputation and badges. So the community members and teams have fun collaborating and getting work done."
   screenshots:
     - /images/applications/documentation/answer/screenshot-1.png
     - /images/applications/documentation/answer/screenshot-2.png

@@ -14,7 +14,7 @@ content:
     - title: Scalability
       description: Scales well in both usability and performance upwards of 100 000 notes
     - title: Sketching
-      description: Sketching diagrams with built-in Excalidraw (note type "canvas")
+      description: "Sketching diagrams with built-in Excalidraw (note type 'canvas')"
     - title: Scripting
       description: Trilium supports creating code notes, i.e. notes which allow you to store some programming code and highlight it. Special case is JavaScript code notes which can also be executed inside Trilium which can in conjunction with Script API provide extra functionality.
     - title: Security

@@ -14,7 +14,7 @@ content:
     - title: Task & Project Management
       description: Spend less time managing and more time delivering with tools designed for efficiency. Empower your teams with data-driven insights and streamlined sprint planning. Prioritize and track your backlog with a full view of your project landscape.
     - title: Unified Communication Hub
-      description: Navigate through updates and collaborate with ease. Huly's Inbox & Chat streamlines notifications, messages, and tasks, ensuring you're always in the loop and ready to act.
+      description: "Navigate through updates and collaborate with ease. Huly's Inbox & Chat streamlines notifications, messages, and tasks, ensuring you're always in the loop and ready to act."
     - title: Comprehensive Time Planning
       description: Integrate personal diligence and team dynamics with advanced planning tools. Balance work and well-being by aligning individual tasks with team goals.
     - title: Others

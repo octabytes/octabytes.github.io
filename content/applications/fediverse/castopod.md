@@ -18,7 +18,7 @@ content:
     - title: Your podcast, everywhere
       description: Manage your podcast in one place, broadcast it everywhere using RSS. Castopod allows you to have your podcast show up on Apple Podcasts, Spotify, Deezer, Podcast Addict, Podfriend, …
     - title: Built-in analytics
-      description: Get all the insights of your podcasts and episodes following the market standard with IABv2 guidelines. All of the gathered data is anonymized, with respect for your listeners' rights and in conformity with GDPR, CCPA and LGPD laws.
+      description: "Get all the insights of your podcasts and episodes following the market standard with IABv2 guidelines. All of the gathered data is anonymized, with respect for your listeners' rights and in conformity with GDPR, CCPA and LGPD laws."
   screenshots:
     - /images/applications/fediverse/castopod/screenshot-1.webp
     - /images/applications/fediverse/castopod/screenshot-2.png

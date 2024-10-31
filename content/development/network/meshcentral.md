@@ -14,8 +14,7 @@ content:
     - title: Remote Desktop & Terminal
       description: Possibly the most used feature, MeshCentral offers web based remote desktop and terminal. You can take control of any computer in the world from any web browser.
     - title: Remote File Access
-      description: Fully access files on any system remotely including download, upload, rename, creating new folders and
-more. The storage of your own devices accessible from anywhere.
+      description: Fully access files on any system remotely including download, upload, rename, creating new folders and more. The storage of your own devices accessible from anywhere.
     - title: Real time
       description: Real Time User Interface. The MeshCentral web interface is fully real-time so users never have to hit “refresh”. This makes it easy to see device connections to and activities has they happen.
     - title: Multi-User

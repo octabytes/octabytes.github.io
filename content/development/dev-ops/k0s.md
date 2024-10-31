@@ -16,11 +16,8 @@ content:
     - title: Zero Deps
       description: k0s is distributed as a single binary with zero host OS dependencies besides the host OS kernel. It works with any operating system without additional software packages or configuration. Any security vulnerabilities or performance issues can be fixed directly in the k0s distribution.
     - title: Zero Cost
-      description: k0s is completely free for personal or commercial use, and it always will be. The source code is available on Github under Apache 2 license. It's a no brainer foundation for any Kubernetes projects and easy build upon.
+      description: "k0s is completely free for personal or commercial use, and it always will be. The source code is available on Github under Apache 2 license. It's a no brainer foundation for any Kubernetes projects and easy build upon."
     - title: Control Plane Datastore
-      description: In-Cluster Elastic Etcd with TLS (default)
-In-Cluster SQLite (default for single node)
-External PostgreSQL
-External MySQL
+      description: In-Cluster Elastic Etcd with TLS (default) In-Cluster SQLite (default for single node) External PostgreSQL External MySQL
   screenshots:
 ---

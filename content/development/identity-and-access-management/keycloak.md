@@ -9,10 +9,10 @@ content:
   iframe_website: /website-iframe/development/identity-and-access-management/keycloak
   dashboardImage: /images/development/identity-and-access-management/keycloak/screenshot-1.jpg
   short_description: Keycloak is an open-source identity and access management solution aimed at modern applications and services.
-  description: Keycloak allows single sign-on with identity and access management. You can add authentication to applications and secure services with minimum fuss. There's no need to deal with storing or authenticating users. It's all available out of the box. You also get advanced features such as user federation, identity brokering and social login.
+  description: "Keycloak allows single sign-on with identity and access management. You can add authentication to applications and secure services with minimum fuss. There's no need to deal with storing or authenticating users. It's all available out of the box. You also get advanced features such as user federation, identity brokering and social login."
   features:
     - title: Single sign-on/out
-      description: Users authenticate with Keycloak rather than individual applications. This means that your applications don't have to deal with login forms, authenticating users, and storing users. Once logged in to Keycloak, users don't have to log in again to access a different application. This also applies to logging out. The single sign-out means users only have to log out once to be logged out of all applications that use Keycloak.
+      description: "Users authenticate with Keycloak rather than individual applications. This means that your applications don't have to deal with login forms, authenticating users, and storing users. Once logged in to Keycloak, users don't have to log in again to access a different application. This also applies to logging out. The single sign-out means users only have to log out once to be logged out of all applications that use Keycloak."
     - title: Identity brokering and social login
       description: With Keycloak, enabling login with social networks is easy to add through the admin console – just select the social network you want to add. No code or changes to your application are required. Keycloak can also authenticate users with OpenID Connect or SAML 2.0 identity providers. Again, this is just a matter of configuring the identity provider through the admin console.
     - title: User federation

@@ -14,7 +14,7 @@ content:
     - title: Open-source
       description: Developers can fork, extend and use ToolJet. ToolJet is built using JavaScript ( NestJS + ReactJS ). Found a bug? Create an issue on GitHub or send a pull request.
     - title: Write custom JS code
-      description: JS code can be used almost anywhere in the editor. ToolJet's code suggestions dropdown will help you include dynamic variables in your code as you type.
+      description: "JS code can be used almost anywhere in the editor. ToolJet's code suggestions dropdown will help you include dynamic variables in your code as you type."
     - title: Preview queries
       description: You can run the queries from the editor, preview the query results and the depended components will automatically refresh the data shown.
     - title: State inspector

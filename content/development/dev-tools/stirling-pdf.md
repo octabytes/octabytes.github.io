@@ -12,9 +12,7 @@ content:
   description: This is a robust, locally hosted web-based PDF manipulation tool using Docker. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more. Originally developed entirely by ChatGPT, this locally hosted web application has evolved to encompass a comprehensive set of features, addressing all your PDF requirements.
   features:
     - title: Page Operations
-      description: View and modify PDFs,  Full interactive GUI for merging/splitting/rotating/moving PDFs and their pages,
-Merge multiple PDFs into a single resultant file, Split PDFs into multiple files at specified page numbers or extract all pages as individual files, Reorganize PDF pages into different orders, and Rotate PDFs in 90-degree increments, Remove pages, Multi-page layout (Format PDFs into a multi-paged page).
-Scale page contents size by set %, Adjust Contrast, Crop PDF, Auto Split PDF (With physically scanned page dividers), Extract page(s), and Convert PDF to a single page.
+      description: View and modify PDFs,  Full interactive GUI for merging/splitting/rotating/moving PDFs and their pages, Merge multiple PDFs into a single resultant file, Split PDFs into multiple files at specified page numbers or extract all pages as individual files, Reorganize PDF pages into different orders, and Rotate PDFs in 90-degree increments, Remove pages, Multi-page layout (Format PDFs into a multi-paged page). Scale page contents size by set %, Adjust Contrast, Crop PDF, Auto Split PDF (With physically scanned page dividers), Extract page(s), and Convert PDF to a single page.
     - title: Conversion Operations
       description: Convert PDFs to and from images, Convert any common file to PDF (using LibreOffice), Convert PDF to Word/Powerpoint/Others (using LibreOffice), Convert HTML to PDF, and URL / Markdown to PDF.
     - title: Security & Permissions

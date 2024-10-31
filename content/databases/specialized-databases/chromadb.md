@@ -9,18 +9,12 @@ content:
   iframe_website: /website-iframe/databases/specialized-databases/chromadb
   dashboardImage: /images/databases/specialized-databases/chromadb/screenshot-1.png
   short_description: The AI-native open-source embedding database
-  description: Chroma is the open-source AI application database. Batteries included.
-Embeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.
+  description: Chroma is the open-source AI application database. Batteries included. Embeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.
   features:
     - title: Simple and Powerful
       description: From notebook to production, prototype, iterate, and deploy your application with Chroma.
     - title: Full featured
-      description: "Everything you need for retrieval: 
-- Vector search
-- Full-text search
-- Document storage
-- Metadata filtering
-- Multi-modal retrieval"
+      description: "Everything you need for retrieval:  - Vector search - Full-text search - Document storage - Metadata filtering - Multi-modal retrieval"
     - title: Speaks your language
       description: Clients for JS, Python, Ruby, PHP, Java and more
     - title: Integrating

@@ -12,7 +12,7 @@ content:
   description: PostHog provides engineers with everything they need to make sure they are building something that people want. This means - product analytics, video replays, feedback tools, feature flags, and experimentation. With PostHog you can automate the collection of every event on your website or app, with no need to send data to third parties, and deploy on your own infrastructure. PostHog plays nicely with data warehouses through plugins for import, transformation, and export.
   features:
     - title: Keep data on your infrastructure
-      description: Customer data stays on your servers. You're in total control of your PostHog instance. With self-hosting, you can also circumvent ad blockers and browser privacy features.
+      description: "Customer data stays on your servers. You're in total control of your PostHog instance. With self-hosting, you can also circumvent ad blockers and browser privacy features."
     - title: Private cloud deployment
       description: You can run PostHog on your own private cloud with one of its install scripts, or get running on Heroku with a one-click install.
     - title: Compliance made easy

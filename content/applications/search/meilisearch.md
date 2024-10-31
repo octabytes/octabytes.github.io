@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/search/meilisearch
   dashboardImage: /images/applications/search/meilisearch/screenshot-1.jpg
   short_description: Meilisearch is a next-generation search API.
-  description: Meilisearch is an open-source, blazingly fast, hyper-relevant search engine. For developers, it's scalable, maintainable and customizable. It provides an extensive toolset for (optional) customization. It's easily installed, but very open to customization.
+  description: "Meilisearch is an open-source, blazingly fast, hyper-relevant search engine. For developers, it's scalable, maintainable and customizable. It provides an extensive toolset for (optional) customization. It's easily installed, but very open to customization."
   features:
     - title: Search as you type
       description: Designed to answer in less than 50ms, Meilisearch allows users to respond to the search in real time, narrowing their search terms or stopping early if they’ve found what they’re looking for.

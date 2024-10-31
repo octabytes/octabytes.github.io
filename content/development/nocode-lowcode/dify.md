@@ -8,8 +8,8 @@ content:
   website: https://dify.ai/
   iframe_website: /website-iframe/development/nocode-lowcode/dify
   dashboardImage: /images/development/nocode-lowcode/dify/screenshot-1.webp
-  short_description: LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.
-  description: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.
+  short_description: "LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production."
+  description: "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production."
   features:
     - title: Chatbots and AI assistants for Specific Industries
       description: Deploy customized chatbots or AI assistants embedded with domain knowledge in 5 minutes, pioneering human-AI collaboration.

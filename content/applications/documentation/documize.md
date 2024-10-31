@@ -16,7 +16,7 @@ content:
     - title: Team, Project, Company-wide
       description: Mix-and-match content organization any which you like. Make it by team, by project or product lines — evolve your strategy over time.
     - title: Two-tier Templates
-      description: Put in place reusable templates and snippets catalogue to establish your best practices library. It's dead simple to roll out standards
+      description: "Put in place reusable templates and snippets catalogue to establish your best practices library. It's dead simple to roll out standards"
     - title: Approvals, Revisions & Lifecycle
       description: Define change control workflows to request, approve and publish changes. Archive the old stuff and keep new content in draft till ready for publication. Leverage version management to support different versions of the same content.
   screenshots:

@@ -14,7 +14,7 @@ content:
     - title: Any kind of workflow
       description: Workflows can start simple and progress to more complex systems with branching, parallel, dynamic tasks, flow dependencies
     - title: Easy to learn
-      description: Flows are in simple, descriptive language defined in YAML;u don't need to be a developer to create a new flow.
+      description: "Flows are in simple, descriptive language defined in YAML;u don't need to be a developer to create a new flow."
     - title: Any triggers
       description: Kestra is event-based at heart—you can trigger an execution from API, schedule, detection, events
     - title: A rich user interface

@@ -14,7 +14,7 @@ content:
     - title: Messages and managing
       description: With Gotify you can send messages via a REST-API, subscribe/receive messages via a web socket connection, and manage users, clients and applications.
     - title: Simple & self-hosted
-      description: Both Gotify's API and user interface are designed to be as simple as possible – and you control your data.
+      description: "Both Gotify's API and user interface are designed to be as simple as possible – and you control your data."
     - title: Cross-platform
       description: Gotify is written in Go and can be easily compiled for different platforms.
     - title: Docker & code quality test

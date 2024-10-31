@@ -18,7 +18,7 @@ content:
     - title: Extensible through plugins
       description: Gerrit Code Review can be extended and further customized by installing server-side plugins. Source code for additional plugins can be found through the project listing
     - title: Used at scale
-      description: Gerrit is heavily used by some of the world's biggest Open Source software projects (e.g. Android, Chromium, OpenDev including OpenStack), and by some of the world's biggest tech companies, including Google (who maintain Gerrit and invest heavily in it), SAP, Ericsson, Qualcomm, and others.
+      description: "Gerrit is heavily used by some of the world's biggest Open Source software projects (e.g. Android, Chromium, OpenDev including OpenStack), and by some of the world's biggest tech companies, including Google (who maintain Gerrit and invest heavily in it), SAP, Ericsson, Qualcomm, and others."
   screenshots:
     - /images/development/dev-tools/gerrit/screenshot-1.png
     - /images/development/dev-tools/gerrit/screenshot-2.png

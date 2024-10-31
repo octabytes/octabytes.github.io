@@ -8,10 +8,10 @@ content:
   website: https://www.totaljs.com/flow/
   iframe_website: /website-iframe/development/nocode-lowcode/totaljsflow
   dashboardImage: /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
-  short_description: It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time.
-  description: It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time.
+  short_description: "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time."
+  description: "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time."
   features:
-    - title: Component's editor
+    - title: "Component's editor"
       description: You can create and modify Total.js Flow components in real-time directly in the Flow. Also, Total.js Flow allows you to edit imported components as well.
     - title: Worker-Thread
       description: By default, each Total.js Flow is running as an independent Child Process/Worker-Thread (outside of the main thread). Each worker thread takes around 5-15 MB of RAM.

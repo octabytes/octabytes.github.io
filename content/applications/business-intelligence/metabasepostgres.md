@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/applications/business-intelligence/metabasepostgres
   dashboardImage: /images/applications/business-intelligence/metabasepostgres/screenshot-1.png
   short_description: Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.
-  description: Metabase lets you ask questions about your data, and displays answers in clear formats such as a bar graph or detailed table. You can save your questions for later, or group them into great-looking dashboards. It's easy to share questions and dashboards with the rest of your team.
+  description: "Metabase lets you ask questions about your data, and displays answers in clear formats such as a bar graph or detailed table. You can save your questions for later, or group them into great-looking dashboards. It's easy to share questions and dashboards with the rest of your team."
   features:
     - title: Exploration without the SQL barrier
       description: Anyone on your team, whether the CEO or customer support, can get answers to questions about your data with just a few clicks. When the questions get more complicated, SQL and the Metabase notebook editor can be used by the data-savvy.

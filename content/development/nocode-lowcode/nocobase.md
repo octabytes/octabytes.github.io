@@ -12,7 +12,7 @@ content:
   description: Scalability-first open-source no-code platform. No programming is required, build your own collaboration platform, and management system with NocoBase in minutes. No-code can not solve all problems, NocoBase has a very simple and easy architecture to extend
   features:
     - title: Role-based access control
-      description: Role-based control of user's system configuration rights, data action rights, and menu access rights.
+      description: "Role-based control of user's system configuration rights, data action rights, and menu access rights."
     - title: Workflow & automation
       description: Repetitive tasks are replaced by automation to increase efficiency. Manual approval is required for important matters.
     - title: Unlimited level menu

@@ -18,7 +18,7 @@ content:
     - title: API
       description: It provides Restful API.
     - title: Other
-      description: Provides Note "tagging" functionality, Raw/WYSIWYG markdown editor modes and others
+      description: "Provides Note 'tagging' functionality, Raw/WYSIWYG markdown editor modes and others"
   screenshots:
     - /images/applications/note-taking/flatnotes/screenshot-1.png
     - /images/applications/note-taking/flatnotes/screenshot-2.png

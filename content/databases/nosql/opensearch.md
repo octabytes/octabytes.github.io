@@ -9,9 +9,7 @@ content:
   iframe_website: /website-iframe/databases/nosql/opensearch
   dashboardImage: /images/databases/nosql/opensearch/screenshot-1.jpg
   short_description: Open source distributed and RESTful search engine.
-  description: OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 
-7.10.2. It consists of a search engine daemon, OpenSearch, and a 
-visualization and user interface, OpenSearch Dashboards.
+  description: OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana  7.10.2. It consists of a search engine daemon, OpenSearch, and a  visualization and user interface, OpenSearch Dashboards.
   features:
     - title: A level Playing Field
       description: We will not tweak the software so that it runs better for any vendor (including AWS) at the expense of others. If this happens, call it out and we will fix it as a community.

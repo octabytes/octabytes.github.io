@@ -16,9 +16,7 @@ content:
     - title: Moderation abilities
       description: Public Moderation Logs. Can sticky posts to the top of communities. Both site admins, and community moderators, who can appoint other moderators. Can lock, remove, and restore posts and comments. Can ban and unban users from communities and the site. Can transfer site and communities to others.
     - title: Full of features
-      description: User avatar support. Live-updating Comment threads. Full vote scores (+/-) like old Reddit. Themes, including light, dark, and solarized. Integrated image uploading in both posts and comments.
-Notifications can be sent via email. Private messaging support. i18n / internationalization support.
-RSS / Atom feeds for All, Subscribed, Inbox, User, and Community.
+      description: User avatar support. Live-updating Comment threads. Full vote scores (+/-) like old Reddit. Themes, including light, dark, and solarized. Integrated image uploading in both posts and comments. Notifications can be sent via email. Private messaging support. i18n / internationalization support. RSS / Atom feeds for All, Subscribed, Inbox, User, and Community.
     - title: High performance
       description: Server is written in rust. Front end is ~80kB gzipped. Supports arm64.
   screenshots:

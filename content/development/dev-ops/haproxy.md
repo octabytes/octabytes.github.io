@@ -9,7 +9,7 @@ content:
   iframe_website: /website-iframe/development/dev-ops/haproxy
   dashboardImage: /images/development/dev-ops/haproxy/screenshot-1.png
   short_description: The Reliable, High Performance TCP/HTTP Load Balancer
-  description: HAProxy is a free, very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers a significant portion of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer.
+  description: "HAProxy is a free, very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers a significant portion of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer."
   features:
     - title: Load Balancing
       description: Load balance your services at any scale and in any environment with our feature-rich application delivery controllers.

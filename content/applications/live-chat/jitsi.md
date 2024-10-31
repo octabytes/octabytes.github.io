@@ -14,7 +14,7 @@ content:
     - title: Multiple features
       description: Jitsi Meet allows you to share your desktop, presentations and more; invite users to a conference via a simple, custom URL; edit documents together using Etherpad; pick fun meeting URLs for every meeting; trade messages and emojis while you video conference, with integrated chat.
     - title: High quality, low latency
-      description: Jitsi provides better quality and lower latency – and, if you are running your own service, a much more scalable and inexpensive solution. It's compatible with WebRTC, the open standard for Web communication. There's advanced video routing support for simulcast, bandwidth estimations, scalable video coding and many others, and Ubuntu and Debian packages for easy installation.
+      description: "Jitsi provides better quality and lower latency – and, if you are running your own service, a much more scalable and inexpensive solution. It's compatible with WebRTC, the open standard for Web communication. There's advanced video routing support for simulcast, bandwidth estimations, scalable video coding and many others, and Ubuntu and Debian packages for easy installation."
     - title: Easy upgrading
       description: Jitsi is a continuously developed project that regularly releases new versions with optimizations, fixes, security updates, etc. If you want to benefit from the latest features, you can painlessly upgrade your Jitsi environment at Jelastic PaaS.
     - title: Highly available cluster

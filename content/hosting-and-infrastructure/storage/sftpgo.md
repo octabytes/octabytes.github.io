@@ -12,8 +12,7 @@ content:
   description: "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP."
   features:
     - title: Web UI
-      description: Web based administration interface to easily manage users, folders and connections.
-Web client interface so that end users can change their credentials, manage and share their files in the browser. Web Client and Web Admin user interfaces support OpenID Connect authentication and so they can be integrated with identity providers such as Keycloak.
+      description: Web based administration interface to easily manage users, folders and connections. Web client interface so that end users can change their credentials, manage and share their files in the browser. Web Client and Web Admin user interfaces support OpenID Connect authentication and so they can be integrated with identity providers such as Keycloak.
     - title: Versatile
       description: Support for serving local filesystem, encrypted local filesystem, S3 Compatible Object Storage, Google Cloud Storage, Azure Blob Storage or other SFTP accounts over SFTP/SCP/FTP/WebDAV.
     - title: REST API

@@ -14,7 +14,7 @@ content:
     - title: Simple & powerful
       description: Squid is one of the oldest content accelerators, used by thousands of websites around the world to ease the load on their servers. Setting up an accelerator in front of an existing website is almost always a quick and simple task with immediate benefits.
     - title: Improve user experience
-      description: A well-tuned proxy server (even without caching!) can improve user speeds purely by optimising TCP flows. Its easy to tune servers to deal with the wide variety of latencies found on the internet - something that desktop environments just aren't tuned for.
+      description: "A well-tuned proxy server (even without caching!) can improve user speeds purely by optimising TCP flows. Its easy to tune servers to deal with the wide variety of latencies found on the internet - something that desktop environments just aren't tuned for."
     - title: Hundreds of features and options
       description: Advanced ACL to Allow/Block based on network, Caching, Content filtering, load balancing, Clustering, Traffic Interception and many more
     - title: Advanced authentication systems

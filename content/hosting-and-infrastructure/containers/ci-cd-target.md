@@ -12,10 +12,7 @@ content:
   description: CI/CD target by Elestio is a fully managed service made to handle deployment, security, reverse proxy, ssl, smtp, logs, backups & monitoring of your own source code coming from Github, Gitlab or Docker registries
   features:
     - title: Deploy automaticaly from Github / Gitlab / Docker registries
-      description: Go from source to production In 3 simple steps 
-1) Select your source project from your account or from our samples
-2) Select an existing target or create a new one (where the pipeline will be deployed)
-3) Configure your pipeline (env vars, runtime, build/run command, lifecycle scripts, ...)
+      description: Go from source to production In 3 simple steps  1) Select your source project from your account or from our samples 2) Select an existing target or create a new one (where the pipeline will be deployed) 3) Configure your pipeline (env vars, runtime, build/run command, lifecycle scripts, ...)
     - title: Samples available for most popular frameworks
       description: We have created 52 sample repositories for all most popular frameworks & runtimes. Thanks to that you can quickstart with your favorite frontend / backend technology in few minutes.
     - title: Deploy multiple containers to a single target

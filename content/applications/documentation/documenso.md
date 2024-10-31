@@ -9,8 +9,7 @@ content:
   iframe_website: /website-iframe/applications/documentation/documenso
   dashboardImage: /images/applications/documentation/documenso/screenshot-1.webp
   short_description: The Open Source DocuSign Alternative, Document signing.
-  description: The Open Source DocuSign Alternative, Document signing. A 10x better signing experience.
-Faster, smarter, and more beautiful.
+  description: The Open Source DocuSign Alternative, Document signing. A 10x better signing experience. Faster, smarter, and more beautiful.
   features:
     - title: Fast
       description: When it comes to sending or receiving a contract, you can count on lightning-fast speeds.

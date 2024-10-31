@@ -12,11 +12,11 @@ content:
   description: SigNoz is an application performance management (APM) solution with native support for OpenTelemetry, the emerging industry standard for instrumentation. You can monitor your usage and set your own retention period and sampling rate based on your needs. With industry-trusted Kafka & Druid to handle enterprise scale, you avoid scaling pains.
   features:
     - title: Your data in your boundary
-      description: With SigNoz, there's no need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in your infra.
+      description: "With SigNoz, there's no need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in your infra."
     - title: Forget huge SaaS bills
-      description: You won't face any abrupt pricing changes or, with the transparent usage data, unexpected month-end bills.
+      description: "You won't face any abrupt pricing changes or, with the transparent usage data, unexpected month-end bills."
     - title: Take control
-      description: SigNoz means you won't have to spend weeks in vendor slack for that one small feature. You can extend SigNoz to suit your needs.
+      description: "SigNoz means you won't have to spend weeks in vendor slack for that one small feature. You can extend SigNoz to suit your needs."
     - title: Monitor your usage
       description: SigNoz allows you to monitor your usage and set your own retention period and sampling rate based on your needs.
   screenshots:

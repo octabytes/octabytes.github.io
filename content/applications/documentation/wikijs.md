@@ -16,7 +16,7 @@ content:
     - title: Social authentication
       description: Wikijs uses third-party authentication services like Google, Facebook, Microsoft, GitHub, Discord, Slack and more.
     - title: Enterprise authentication
-      description: Wikijs allows you to integrate with your company's authentication using LDAP, SAML, CAS, Auth0, Okta, Azure AD and more. Generic OAuth2 and OpenID Connect modules are also included.
+      description: "Wikijs allows you to integrate with your company's authentication using LDAP, SAML, CAS, Auth0, Okta, Azure AD and more. Generic OAuth2 and OpenID Connect modules are also included."
     - title: Extra 2FA security
       description: You can add an extra layer of security using two-factor authentication for supported authentication modules.
   screenshots:
