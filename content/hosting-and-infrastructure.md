@@ -1,6 +1,6 @@
 ---
-title: "Hosting and Infrastructure"
 draft: false
+title: "Hosting and Infrastructure"
 layout: "services"
 
 content:

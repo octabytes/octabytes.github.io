@@ -1,6 +1,6 @@
 ---
-title: "All Services"
 draft: false
+title: "All Services"
 layout: "services"
 
 content:

@@ -15,8 +15,8 @@ with open(services_file, "r") as f:
 # Convert category and service data into Markdown format
 def json_to_markdown(categories, services):
     md_content = """---
-title: "Databases"
 draft: false
+title: "Databases"
 layout: "services"
 
 content:

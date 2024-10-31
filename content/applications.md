@@ -1,6 +1,6 @@
 ---
-title: "Applications"
 draft: false
+title: "Applications"
 layout: "services"
 
 content:
