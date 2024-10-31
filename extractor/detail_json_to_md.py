@@ -2,19 +2,19 @@ import os
 import json
 
 # Load JSON data
-input_file = './details/databases.json'
-output_dir = '../content/databases/'
+input_file = './details/hosting-and-infrastructure.json'
+output_dir = '../content/hosting-and-infrastructure/'
 
 # Load JSON data
 with open(input_file, 'r', encoding='utf-8') as f:
-    databases = json.load(f)
+    hosting_and_infrastructure = json.load(f)
 
 # Helper function to wrap text with double quotes if it contains a colon
 def wrap_if_colon(text):
     return f'"{text}"' if ':' in text else text
 
 # Process each entry and save as Markdown
-for db in databases:
+for db in hosting_and_infrastructure:
     category_id = db['category']['id']
     db_id = db['id']
     title = db['title']
@@ -39,7 +39,7 @@ content:
   name: {title}
   logo: {logo}
   website: {website}
-  iframe_website: /website-iframe/databases/{category_id}/{db_id}
+  iframe_website: /website-iframe/hosting-and-infrastructure/{category_id}/{db_id}
   dashboardImage: {dashboard_image}
   short_description: {short_description}
   description: {long_description}
