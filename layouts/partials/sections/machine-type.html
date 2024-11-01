@@ -13,7 +13,9 @@
     );
 
     radioButtons.forEach((radio) => {
-      radio.addEventListener("change", function () {
+      radio.addEventListener("change", function (e) {
+        __plan_name = e.target.value;
+
         // Remove the active styles from all labels
         document.querySelectorAll("label").forEach((label) => {
           label.classList.remove(

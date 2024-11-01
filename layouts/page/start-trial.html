@@ -1,4 +1,7 @@
 {{ define "main" }}
+  <script>
+    var __plan_name = "Professional";
+  </script>
   <div class="isolate px-6 py-24 sm:py-32 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
       <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
@@ -40,8 +43,9 @@
 
         function onFormSubmit() {
           if (start_trial_form_submitted) {
+            console.log(__plan_name)
             localStorage.removeItem("referral-code");
-            window.location = "{{ .Params.content.paymentLink }}"
+            {{/*  window.location = "{{ .Params.content.paymentLink }}"  */}}
           }
         }
       </script>
@@ -53,7 +57,7 @@
       onload="onFormSubmit()"></iframe>
 
     <form
-      action="https://docs.google.com/forms/d/e/1FAIpQLSeaxk4nWWZZw6LvQPPS80PuSOfEC3rmAWPtzOYapioaYguzqQ/formResponse"
+      {{/* action="https://docs.google.com/forms/d/e/1FAIpQLSeaxk4nWWZZw6LvQPPS80PuSOfEC3rmAWPtzOYapioaYguzqQ/formResponse" */}}
       method="post"
       target="hidden_iframe"
       onsubmit="start_trial_form_submitted = true; loading()"
