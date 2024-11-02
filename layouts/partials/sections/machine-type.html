@@ -9,7 +9,7 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const radioButtons = document.querySelectorAll(
-      "input[type='radio'][name='server-size']",
+      "input[type='radio'][name='entry.1848613537']",
     );
 
     radioButtons.forEach((radio) => {
@@ -62,7 +62,7 @@
         {{ end }}">
         <input
           type="radio"
-          name="server-size"
+          name="entry.1848613537"
           value="{{ $option.label }}"
           class="sr-only"
           {{ if eq $index 1 }}checked{{ end }}

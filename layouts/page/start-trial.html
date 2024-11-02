@@ -1,6 +1,6 @@
 {{ define "main" }}
   <script>
-    var __plan_name = "Professional";
+    let __plan_name = "Professional";
   </script>
   <div class="isolate px-6 py-24 sm:py-32 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
@@ -12,43 +12,53 @@
       </p>
     </div>
 
-      <script>
-        let start_trial_form_submitted = false;
-        window.onload = function () {
-          let referralCode = localStorage.getItem("referral-code");
+    <script>
+      let start_trial_form_submitted = false;
+      window.onload = function () {
+        let referralCode = localStorage.getItem("referral-code");
 
-          if (!referralCode) {
-            referralCode = getQueryParam("ref");
-          }
-
-          if (referralCode) {
-            document.getElementById("referral-code").value = referralCode;
-          }
-
-          const serviceName = getQueryParam("service");
-
-          if(serviceName){
-            document.getElementById("service-name").value = serviceName;
-          }else{
-            window.location = "/"
-          }
-        };
-
-        function loading() {
-          const btn = document.getElementById("submit-btn");
-
-          btn.disabled = true;
-          btn.textContent = "Submitting...";
+        if (!referralCode) {
+          referralCode = getQueryParam("ref");
         }
 
-        function onFormSubmit() {
-          if (start_trial_form_submitted) {
-            console.log(__plan_name)
-            localStorage.removeItem("referral-code");
-            {{/*  window.location = "{{ .Params.content.paymentLink }}"  */}}
-          }
+        if (referralCode) {
+          document.getElementById("referral-code").value = referralCode;
         }
-      </script>
+
+        const serviceName = getQueryParam("service");
+
+        if (serviceName) {
+          document.getElementById("service-name").value = serviceName;
+        } else {
+          window.location = "/";
+        }
+      };
+
+      function loading() {
+        const btn = document.getElementById("submit-btn");
+
+        btn.disabled = true;
+        btn.textContent = "Submitting...";
+      }
+
+      function onFormSubmit() {
+        if (start_trial_form_submitted) {
+          const plans = {
+            startup: "https://buy.stripe.com/4gwaF0bWd3nh2AwaEF",
+            professional: "https://buy.stripe.com/00gaF0gct9LF6QM6oq",
+            business: "https://buy.stripe.com/cN29AW4tL9LFeje7sv",
+            enterprise: "https://buy.stripe.com/dR614q2lD9LF0so6os",
+          };
+
+          __plan_name = __plan_name.toLowerCase();
+
+          const paymentLink = plans[__plan_name] || plans.professional;
+
+          localStorage.removeItem("referral-code");
+          window.location = paymentLink;
+        }
+      }
+    </script>
 
     <iframe
       name="hidden_iframe"
@@ -57,7 +67,7 @@
       onload="onFormSubmit()"></iframe>
 
     <form
-      {{/* action="https://docs.google.com/forms/d/e/1FAIpQLSeaxk4nWWZZw6LvQPPS80PuSOfEC3rmAWPtzOYapioaYguzqQ/formResponse" */}}
+      action="https://docs.google.com/forms/d/e/1FAIpQLSeaxk4nWWZZw6LvQPPS80PuSOfEC3rmAWPtzOYapioaYguzqQ/formResponse"
       method="post"
       target="hidden_iframe"
       onsubmit="start_trial_form_submitted = true; loading()"
