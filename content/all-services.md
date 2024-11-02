@@ -10,6 +10,8 @@ content:
   service_categories:
     - name: Databases
       categories:
+        - id: all
+          name: All
         - id: relational-databases
           name: Relational databases
         - id: nosql

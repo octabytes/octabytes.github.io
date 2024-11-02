@@ -26,35 +26,55 @@ params:
 
 menus:
   main:
-    - name: "100+ softwares"
-      url: "/applications"
+    - name: "350+ softwares"
+      url: "/all-services"
       weight: 1
 
-    - name: "Top Applications"
-      url: "/#top-applications"
+    - name: "Applications"
+      url: "/applications"
       weight: 2
 
-    - name: "How it works"
-      url: "/how-it-works"
+    - name: "Databases"
+      url: "/databases"
       weight: 3
+
+    - name: "Development"
+      url: "/development"
+      weight: 4
+
+    - name: "Hosting and Infrastructure"
+      url: "/hosting-and-infrastructure"
+      weight: 5
 
   buttons:
     - name: "Start free Trial"
-      url: "/applications"
+      url: "/all-services"
 
   footer:
-    - name: "100+ softwares"
-      url: "/applications"
+    - name: "350+ softwares"
+      url: "/all-services"
       weight: 1
 
-    - name: "Top Applications"
-      url: "/#top-applications"
+    - name: "Applications"
+      url: "/applications"
       weight: 2
+
+    - name: "Databases"
+      url: "/databases"
+      weight: 3
+
+    - name: "Development"
+      url: "/development"
+      weight: 4
+
+    - name: "Hosting and Infrastructure"
+      url: "/hosting-and-infrastructure"
+      weight: 5
 
     - name: "How it works"
       url: "/how-it-works"
-      weight: 3
+      weight: 6
 
     - name: "Terms and Conditions"
       url: "/terms-and-conditions"
-      weight: 5
+      weight: 7

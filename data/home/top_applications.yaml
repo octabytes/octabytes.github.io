@@ -3,11 +3,11 @@ id: top-applications
 
 content:
   title: "'Top' softwares"
-  description: "Deploy any one of over 100+ supported softwares in less than 3 minutes. You can relax knowing that we are taking care of installation, configuration, encryption, backups, software & OS updates, live monitoring…and more!"
+  description: "Deploy any one of over 350+ supported softwares in less than 3 minutes. You can relax knowing that we are taking care of installation, configuration, encryption, backups, software & OS updates, live monitoring…and more!"
 
   button:
-    label: "View all 100+ softwares"
-    link: "/applications"
+    label: "View all 350+ softwares"
+    link: "/all-services"
 
   logos:
     - image: "/images/applications/live-chat/chatwoot/logo.png"
