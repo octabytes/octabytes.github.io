@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Hosting and Infrastructure"
+title: "Hosting - Fully managed open-source catalog | OctaByte.io"
 layout: "services"
 
 content:

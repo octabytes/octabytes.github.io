@@ -1,10 +1,10 @@
 {{ $title := .Site.Title }}
 {{ if .IsHome }}
-  {{ $title = printf "%s | %s" $title .Site.Params.description }}
-{{ else if strings.Contains .Permalink "applications/" }}
+  {{ $title = .Site.Params.title }}
+{{ else if or (strings.Contains .Permalink "applications/") (strings.Contains .Permalink "databases/") (strings.Contains .Permalink "development") (strings.Contains .Permalink "hosting-and-infrastructure") }}
   {{ $title = printf "%s fully managed open source service | OctaByte.io" .Title }}
 {{ else if .Title }}
-  {{ $title = printf "%s | %s" $title .Title }}
+  {{ $title = .Title }}
 {{ end }}
 
 

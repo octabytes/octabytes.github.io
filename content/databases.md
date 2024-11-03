@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Databases"
+title: "Databases - Fully managed open-source catalog | OctaByte.io"
 layout: "services"
 
 content:

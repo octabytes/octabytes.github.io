@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Applications"
+title: "Applications - Fully managed open-source catalog | OctaByte.io"
 layout: "services"
 
 content:
