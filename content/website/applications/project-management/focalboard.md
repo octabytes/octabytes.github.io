@@ -5,5 +5,5 @@ content:
   id: focalboard
   name: FocalBoard
   website: https://www.focalboard.com/
-  short_description: Project & Task Management for Software Development Teams
+  description: Project & Task Management for Software Development Teams
 ---

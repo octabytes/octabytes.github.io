@@ -5,5 +5,5 @@ content:
   id: centrifugo
   name: Centrifugo
   website: https://centrifugal.dev/
-  short_description: Centrifugo is a scalable real-time, language-agnostic messaging server.
+  description: Centrifugo is a scalable real-time, language-agnostic messaging server.
 ---

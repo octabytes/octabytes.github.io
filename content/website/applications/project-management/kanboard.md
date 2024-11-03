@@ -5,5 +5,5 @@ content:
   id: kanboard
   name: Kanboard
   website: https://kanboard.org/
-  short_description: Kanban project management software
+  description: Kanban project management software
 ---

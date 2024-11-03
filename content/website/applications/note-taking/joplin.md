@@ -5,5 +5,5 @@ content:
   id: joplin
   name: Joplin
   website: https://joplinapp.org/
-  short_description: Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
+  description: Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
 ---

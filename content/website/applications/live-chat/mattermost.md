@@ -5,5 +5,5 @@ content:
   id: mattermost
   name: Mattermost Team Edition
   website: https://mattermost.com/pricing-self-managed/
-  short_description: Mattermost is an open-source platform for secure collaboration across the entire software development lifecycle.
+  description: Mattermost is an open-source platform for secure collaboration across the entire software development lifecycle.
 ---

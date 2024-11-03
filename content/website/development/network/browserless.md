@@ -5,5 +5,5 @@ content:
   id: browserless
   name: Browserless
   website: https://www.browserless.io/
-  short_description: Browserless provides fast, scalable, reliable web browser automation.
+  description: Browserless provides fast, scalable, reliable web browser automation.
 ---

@@ -5,5 +5,5 @@ content:
   id: localstack
   name: LocalStack
   website: https://localstack.cloud/
-  short_description: A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!
+  description: A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!
 ---

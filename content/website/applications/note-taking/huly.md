@@ -5,5 +5,5 @@ content:
   id: huly
   name: Huly
   website: https://huly.io/
-  short_description: All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+  description: All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 ---

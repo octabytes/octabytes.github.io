@@ -5,5 +5,5 @@ content:
   id: discourse
   name: Discourse
   website: https://www.discourse.org/plugins/github.html
-  short_description: Discourse is an open-source discussion platform built for the next decade of the Internet.
+  description: Discourse is an open-source discussion platform built for the next decade of the Internet.
 ---

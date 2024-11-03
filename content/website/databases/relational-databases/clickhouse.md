@@ -5,5 +5,5 @@ content:
   id: clickhouse
   name: ClickHouse
   website: https://clickhouse.com/
-  short_description: ClickHouse is an open-source, column-oriented DBMS for online analytical processing.
+  description: ClickHouse is an open-source, column-oriented DBMS for online analytical processing.
 ---

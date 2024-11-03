@@ -5,5 +5,5 @@ content:
   id: gophish
   name: Gophish
   website: https://getgophish.com/
-  short_description: "A powerful phishing framework that makes it easy to test your organization's exposure to phishing."
+  description: "A powerful phishing framework that makes it easy to test your organization's exposure to phishing."
 ---

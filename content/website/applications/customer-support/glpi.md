@@ -5,5 +5,5 @@ content:
   id: glpi
   name: GLPI
   website: https://glpi-project.org/
-  short_description: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+  description: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 ---

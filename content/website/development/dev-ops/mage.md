@@ -5,5 +5,5 @@ content:
   id: mage
   name: Mage AI
   website: https://www.mage.ai/
-  short_description: The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+  description: The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 ---

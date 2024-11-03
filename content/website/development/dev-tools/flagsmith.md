@@ -5,5 +5,5 @@ content:
   id: flagsmith
   name: Flagsmith
   website: https://www.flagsmith.com/
-  short_description: Flagsmith is an, fully featured, Feature Flag and Remote Config service.
+  description: Flagsmith is an, fully featured, Feature Flag and Remote Config service.
 ---

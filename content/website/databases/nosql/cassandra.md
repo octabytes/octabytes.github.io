@@ -5,5 +5,5 @@ content:
   id: cassandra
   name: Cassandra
   website: https://cassandra.apache.org/_/index.html
-  short_description: Open Source NoSQL Database
+  description: Open Source NoSQL Database
 ---

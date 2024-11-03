@@ -5,5 +5,5 @@ content:
   id: minthcm
   name: MintHCM
   website: https://minthcm.org/
-  short_description: Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches.
+  description: Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches.
 ---

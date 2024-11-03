@@ -5,5 +5,5 @@ content:
   id: postgresql
   name: PostgreSQL
   website: https://www.postgresql.org/
-  short_description: PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.
+  description: PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.
 ---

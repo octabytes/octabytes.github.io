@@ -5,5 +5,5 @@ content:
   id: keydb
   name: KeyDB
   website: https://docs.keydb.dev/docs/cluster-tutorial/
-  short_description: KeyDB is both your cache and database, for cloud-optimized solutions.
+  description: KeyDB is both your cache and database, for cloud-optimized solutions.
 ---

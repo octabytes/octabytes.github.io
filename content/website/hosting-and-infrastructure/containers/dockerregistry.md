@@ -5,5 +5,5 @@ content:
   id: dockerregistry
   name: DockerRegistry
   website: https://docs.docker.com/registry/
-  short_description: Docker Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license.
+  description: Docker Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license.
 ---

@@ -5,5 +5,5 @@ content:
   id: jellyfin
   name: Jellyfin
   website: https://jellyfin.org/
-  short_description: Free Software Media System that puts you in control of managing and streaming your media alternative to the proprietary Emby and Plex.
+  description: Free Software Media System that puts you in control of managing and streaming your media alternative to the proprietary Emby and Plex.
 ---

@@ -5,5 +5,5 @@ content:
   id: lemmy
   name: Lemmy
   website: https://join-lemmy.org/
-  short_description: Open-source Reddit alternative. Create your own discussion platform with Lemmy
+  description: Open-source Reddit alternative. Create your own discussion platform with Lemmy
 ---

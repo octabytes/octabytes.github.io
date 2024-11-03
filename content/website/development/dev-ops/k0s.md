@@ -5,5 +5,5 @@ content:
   id: k0s
   name: k0s
   website: https://k0sproject.io/
-  short_description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
+  description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
 ---

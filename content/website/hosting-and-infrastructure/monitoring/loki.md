@@ -5,5 +5,5 @@ content:
   id: loki
   name: Loki
   website: https://grafana.com/oss/loki/
-  short_description: Loki is a log aggregation system designed to store and query logs from all your applications and infrastructure.
+  description: Loki is a log aggregation system designed to store and query logs from all your applications and infrastructure.
 ---
