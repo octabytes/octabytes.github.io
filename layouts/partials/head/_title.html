@@ -1,7 +1,12 @@
 {{ $title := .Site.Title }}
 {{ if .IsHome }}
   {{ $title = .Site.Params.title }}
-{{ else if or (strings.Contains .Permalink "applications/") (strings.Contains .Permalink "databases/") (strings.Contains .Permalink "development") (strings.Contains .Permalink "hosting-and-infrastructure") }}
+{{ else if or
+  (and (strings.Contains .Permalink "applications/") (gt (len (findRE "applications/.+" .Permalink)) 0))
+  (and (strings.Contains .Permalink "databases/") (gt (len (findRE "databases/.+" .Permalink)) 0))
+  (and (strings.Contains .Permalink "development/") (gt (len (findRE "development/.+" .Permalink)) 0))
+  (and (strings.Contains .Permalink "hosting-and-infrastructure/") (gt (len (findRE "hosting-and-infrastructure/.+" .Permalink)) 0))
+}}
   {{ $title = printf "%s fully managed open source service | OctaByte.io" .Title }}
 {{ else if .Title }}
   {{ $title = .Title }}
