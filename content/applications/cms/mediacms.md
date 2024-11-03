@@ -6,7 +6,7 @@ content:
   name: MediaCMS
   logo: /images/applications/cms/mediacms/logo.png
   website: https://mediacms.io/
-  iframe_website: /website-iframe/applications/cms/mediacms
+  iframe_website: /website/applications/cms/mediacms
   dashboardImage: /images/applications/cms/mediacms/screenshot-1.jpg
   short_description: MediaCMS is a fully featured open-source video and media CMS.
   description: "MediaCMS is an open-source content management system (CMS) for modern web platforms to enable viewing and sharing media. It supports multiple media types, and media classification and media sharing options; enables easy media searching, complete data control (you can host it yourself), support for multiple publishing workflows, advanced users management, extensive configuration options, and responsive design and  It's ideal if you want to build an online community around media file sharing for informational, educational or entertainment purposes."

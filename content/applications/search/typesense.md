@@ -6,7 +6,7 @@ content:
   name: Typesense
   logo: /images/applications/search/typesense/logo.png
   website: https://typesense.org/
-  iframe_website: /website-iframe/applications/search/typesense
+  iframe_website: /website/applications/search/typesense
   dashboardImage: /images/applications/search/typesense/screenshot-1.png
   short_description: Typesense is a fast, typo-tolerant, fuzzy search engine for building great search experiences.
   description: "Typesense is a modern, privacy-friendly, open source search engine built from the ground up, using cutting-edge search algorithms that take advantage of the latest advances in hardware capabilities. It's typo-tolerant and optimized for instant sub-50ms searches, while providing an intuitive developer experience. The aim of the Typesense team is to reduce the time-to-market for developers to build a blazing-fast search experience that provides relevant results out-of-the-box, without breaking the bank and without operational overhead."

@@ -6,7 +6,7 @@ content:
   name: Pretix
   logo: /images/applications/crm-erp/pretix/logo.png
   website: https://pretix.eu/about/en/
-  iframe_website: /website-iframe/applications/crm-erp/pretix
+  iframe_website: /website/applications/crm-erp/pretix
   dashboardImage: /images/applications/crm-erp/pretix/screenshot-1.png
   short_description: Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, bar camps, etc.
   description: Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, bar camps, etc.

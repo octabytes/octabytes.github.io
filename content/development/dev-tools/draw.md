@@ -6,7 +6,7 @@ content:
   name: draw
   logo: /images/development/dev-tools/draw/logo.png
   website: https://www.drawio.com/
-  iframe_website: /website-iframe/development/dev-tools/draw
+  iframe_website: /website/development/dev-tools/draw
   dashboardImage: /images/development/dev-tools/draw/screenshot-1.png
   short_description: draw.io is a JavaScript, client-side editor for general diagramming.
   description: draw.io is a JavaScript, client-side editor for general diagramming. this project is a configurable diagramming/whiteboarding visualization application.

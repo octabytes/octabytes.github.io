@@ -6,7 +6,7 @@ content:
   name: Logto
   logo: /images/development/identity-and-access-management/logto/logo.png
   website: https://logto.io/
-  iframe_website: /website-iframe/development/identity-and-access-management/logto
+  iframe_website: /website/development/identity-and-access-management/logto
   dashboardImage: /images/development/identity-and-access-management/logto/screenshot-1.png
   short_description: Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.
   description: Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.

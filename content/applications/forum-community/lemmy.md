@@ -6,7 +6,7 @@ content:
   name: Lemmy
   logo: /images/applications/forum-community/lemmy/logo.png
   website: https://join-lemmy.org/
-  iframe_website: /website-iframe/applications/forum-community/lemmy
+  iframe_website: /website/applications/forum-community/lemmy
   dashboardImage: /images/applications/forum-community/lemmy/screenshot-1.jpg
   short_description: Open-source Reddit alternative. Create your own discussion platform with Lemmy
   description: With Lemmy, you can easily host your own server, and all these servers are federated, and connected to the same universe, called the Fediverse. For a link aggregator, this means that someone registered on one server can subscribe to communities elsewhere, and can have discussions with people on a completely different server.

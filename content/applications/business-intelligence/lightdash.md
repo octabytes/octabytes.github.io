@@ -6,7 +6,7 @@ content:
   name: Lightdash
   logo: /images/applications/business-intelligence/lightdash/logo.png
   website: https://www.lightdash.com/
-  iframe_website: /website-iframe/applications/business-intelligence/lightdash
+  iframe_website: /website/applications/business-intelligence/lightdash
   dashboardImage: /images/applications/business-intelligence/lightdash/screenshot-1.jpg
   short_description: Lighdash an open source alternative to Looker built using dbt.
   description: Lightdash brings your visual layer together with your data modelling and transformation layer, creating a single source of truth for data metrics for teams.

@@ -6,7 +6,7 @@ content:
   name: Squid
   logo: /images/hosting-and-infrastructure/infrastructure/squid/logo.png
   website: http://www.squid-cache.org/
-  iframe_website: /website-iframe/hosting-and-infrastructure/infrastructure/squid
+  iframe_website: /website/hosting-and-infrastructure/infrastructure/squid
   dashboardImage: /images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png
   short_description: Fast & powerful proxy server
   description: Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. Squid has extensive access controls and makes a great server accelerator.

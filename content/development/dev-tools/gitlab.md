@@ -6,7 +6,7 @@ content:
   name: Gitlab
   logo: /images/development/dev-tools/gitlab/logo.png
   website: https://about.gitlab.com/
-  iframe_website: /website-iframe/development/dev-tools/gitlab
+  iframe_website: /website/development/dev-tools/gitlab
   dashboardImage: /images/development/dev-tools/gitlab/screenshot-1.jpg
   short_description: GitLab enables you to deliver software faster with better security and collaboration in a single platform.
   description: GitLab is the DevOps platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in an organization can collaboratively plan, build, secure and deploy software to drive business outcomes faster, with transparency, consistency and traceability.

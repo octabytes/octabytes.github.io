@@ -6,7 +6,7 @@ content:
   name: ColumnStore
   logo: /images/databases/relational-databases/columnstore/logo.png
   website: https://mariadb.org/
-  iframe_website: /website-iframe/databases/relational-databases/columnstore
+  iframe_website: /website/databases/relational-databases/columnstore
   dashboardImage: /images/databases/relational-databases/columnstore/screenshot-1.png
   short_description: MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server.
   description: MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server. It is a fork and evolution of the former InfiniDB product. As a columnar database, MariaDB ColumnStore stores table data in columns rather than rows

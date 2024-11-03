@@ -6,7 +6,7 @@ content:
   name: Corteza
   logo: /images/development/dev-tools/corteza/logo.png
   website: https://cortezaproject.org/
-  iframe_website: /website-iframe/development/dev-tools/corteza
+  iframe_website: /website/development/dev-tools/corteza
   dashboardImage: /images/development/dev-tools/corteza/screenshot-1.webp
   short_description: A low-code platform alternative to Salesforce lets you build and iterate CRM, business processes and other structured data apps fast, create intelligent business process workflows, and connect with almost any data source.
   description: A low-code platform alternative to Salesforce lets you build and iterate CRM, business processes and other structured data apps fast, create intelligent business process workflows, and connect with almost any data source.

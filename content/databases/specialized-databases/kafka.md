@@ -6,7 +6,7 @@ content:
   name: Kafka
   logo: /images/databases/specialized-databases/kafka/logo.png
   website: https://kafka.apache.org/
-  iframe_website: /website-iframe/databases/specialized-databases/kafka
+  iframe_website: /website/databases/specialized-databases/kafka
   dashboardImage: /images/databases/specialized-databases/kafka/screenshot-1.jpg
   short_description: Apache Kafka is an open-source platform for high-performance data pipelines, streaming analytics, data integration and mission-critical applications.
   description: "Apache Kafka is a framework implementation of a software bus using stream-processing. It's primarily used to build real-time streaming data pipelines and applications that adapt to the data streams. It combines messaging, storage and stream processing to allow storage and analysis of both historical and real-time data. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. More than 80% of all Fortune 100 companies use Kafka."

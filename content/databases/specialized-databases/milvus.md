@@ -6,7 +6,7 @@ content:
   name: Milvus
   logo: /images/databases/specialized-databases/milvus/logo.png
   website: https://milvus.io/
-  iframe_website: /website-iframe/databases/specialized-databases/milvus
+  iframe_website: /website/databases/specialized-databases/milvus
   dashboardImage: /images/databases/specialized-databases/milvus/screenshot-1.png
   short_description: The High-Performance Vector Database Built for Scale
   description: Milvus is an open-source vector database built for GenAI applications. Install with pip, perform high-speed searches, and scale to tens of billions of vectors with minimal performance loss.

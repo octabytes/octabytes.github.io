@@ -6,7 +6,7 @@ content:
   name: Joomla
   logo: /images/applications/cms/joomla/logo.png
   website: https://www.joomla.org/
-  iframe_website: /website-iframe/applications/cms/joomla
+  iframe_website: /website/applications/cms/joomla
   dashboardImage: /images/applications/cms/joomla/screenshot-1.jpg
   short_description: Joomla is an award-winning content management system for building websites and powerful online applications.
   description: Joomla, also spelled Joomla! and sometimes abbreviated as J!, is a free, open-source content management system for publishing web content on websites. Web content applications include discussion forums, photo galleries, e-commerce and user communities, and numerous other web-based applications.

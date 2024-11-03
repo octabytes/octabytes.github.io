@@ -6,7 +6,7 @@ content:
   name: Supabase
   logo: /images/development/backend-as-a-service/supabase/logo.png
   website: https://supabase.com/
-  iframe_website: /website-iframe/development/backend-as-a-service/supabase
+  iframe_website: /website/development/backend-as-a-service/supabase
   dashboardImage: /images/development/backend-as-a-service/supabase/screenshot-1.jpg
   short_description: Supabase is an open source alternative to Firebase.
   description: Start your project with a Postgres database, Authentication, instant APIs, Realtime subscriptions, and Storage. Build faster and focus on your products

@@ -6,7 +6,7 @@ content:
   name: Gotenberg
   logo: /images/development/dev-tools/gotenberg/logo.png
   website: https://gotenberg.dev/
-  iframe_website: /website-iframe/development/dev-tools/gotenberg
+  iframe_website: /website/development/dev-tools/gotenberg
   dashboardImage: /images/development/dev-tools/gotenberg/screenshot-1.png
   short_description: A Docker-powered stateless API for PDF files
   description: Gotenberg provides a developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more!

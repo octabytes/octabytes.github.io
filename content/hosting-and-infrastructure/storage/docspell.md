@@ -6,7 +6,7 @@ content:
   name: Docspell
   logo: /images/hosting-and-infrastructure/storage/docspell/logo.png
   website: https://docspell.org/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/docspell
+  iframe_website: /website/hosting-and-infrastructure/storage/docspell
   dashboardImage: /images/hosting-and-infrastructure/storage/docspell/screenshot-1.png
   short_description: Simple document organizer
   description: Docspell assists in organizing your piles of digital documents, resulting from scanners, e-mails and other sources with miminal effort.

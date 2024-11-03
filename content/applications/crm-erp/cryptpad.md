@@ -6,7 +6,7 @@ content:
   name: CryptPad
   logo: /images/applications/crm-erp/cryptpad/logo.png
   website: https://cryptpad.fr/
-  iframe_website: /website-iframe/applications/crm-erp/cryptpad
+  iframe_website: /website/applications/crm-erp/cryptpad
   dashboardImage: /images/applications/crm-erp/cryptpad/screenshot-1.jpg
   short_description: CryptPad is a collaboration suite, encrypted and open-source.
   description: CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. Because all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.

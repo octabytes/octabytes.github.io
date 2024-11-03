@@ -6,7 +6,7 @@ content:
   name: Cells
   logo: /images/applications/documentation/cells/logo.png
   website: https://pydio.com/en
-  iframe_website: /website-iframe/applications/documentation/cells
+  iframe_website: /website/applications/documentation/cells
   dashboardImage: /images/applications/documentation/cells/screenshot-1.png
   short_description: Pydio Cells is the Document Sharing, Management, and Collaboration platform.
   description: Pydio Cells is the Document Sharing, Management, and Collaboration platform. it gives you full control of your documents and files – combining fast performance, huge file transfer sizes, granular security, and advanced workflow automation in a single, powerful platform.

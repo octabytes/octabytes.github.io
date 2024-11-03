@@ -6,7 +6,7 @@ content:
   name: MSSQL
   logo: /images/databases/relational-databases/mssql/logo.png
   website: https://www.microsoft.com/en-us/sql-server/sql-server-2019
-  iframe_website: /website-iframe/databases/relational-databases/mssql
+  iframe_website: /website/databases/relational-databases/mssql
   dashboardImage: /images/databases/relational-databases/mssql/screenshot-1.jpg
   short_description: "SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional."
   description: Microsoft SQL Server is a relational database management system developed by Microsoft. SQL Server 2019 brings innovative security and compliance features, mission-critical availability, and advanced analytics to data workloads, with support for big data built in.

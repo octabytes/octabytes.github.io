@@ -6,7 +6,7 @@ content:
   name: GlitchTip
   logo: /images/hosting-and-infrastructure/monitoring/glitchtip/logo.png
   website: https://glitchtip.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/glitchtip
+  iframe_website: /website/hosting-and-infrastructure/monitoring/glitchtip
   dashboardImage: /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp
   short_description: Reimplementation of the Sentry error tracking platform, Track errors, uptime, and performance.
   description: GlitchTip makes monitoring software easy. Track errors, monitor performance, and check site uptime all in one place. Our app is compatible with Sentry client SDKs but is easier to run.

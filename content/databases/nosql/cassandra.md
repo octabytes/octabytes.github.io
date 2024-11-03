@@ -6,7 +6,7 @@ content:
   name: Cassandra
   logo: /images/databases/nosql/cassandra/logo.png
   website: https://cassandra.apache.org/_/index.html
-  iframe_website: /website-iframe/databases/nosql/cassandra
+  iframe_website: /website/databases/nosql/cassandra
   dashboardImage: /images/databases/nosql/cassandra/screenshot-1.png
   short_description: Open Source NoSQL Database
   description: Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.

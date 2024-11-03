@@ -6,7 +6,7 @@ content:
   name: M3DB
   logo: /images/databases/specialized-databases/m3db/logo.png
   website: https://m3db.io/
-  iframe_website: /website-iframe/databases/specialized-databases/m3db
+  iframe_website: /website/databases/specialized-databases/m3db
   dashboardImage: /images/databases/specialized-databases/m3db/screenshot-1.png
   short_description: M3 is a Prometheus compatible, easy to adopt metrics engine
   description: M3 is the obvious choice for Cloud Native companies looking to scale up their Prometheus based monitoring systems. M3 can be used as Prometheus Remote Storage and has 100% PromQL compatibility.

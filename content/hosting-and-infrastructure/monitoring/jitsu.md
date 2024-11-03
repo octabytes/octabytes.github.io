@@ -6,7 +6,7 @@ content:
   name: Jitsu
   logo: /images/hosting-and-infrastructure/monitoring/jitsu/logo.png
   website: https://jitsu.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/jitsu
+  iframe_website: /website/hosting-and-infrastructure/monitoring/jitsu
   dashboardImage: /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
   short_description: Jitsu is an open-source web and app-event collection platform.
   description: "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days."

@@ -6,7 +6,7 @@ content:
   name: Guacamole
   logo: /images/development/dev-ops/guacamole/logo.png
   website: http://guacamole.apache.org/
-  iframe_website: /website-iframe/development/dev-ops/guacamole
+  iframe_website: /website/development/dev-ops/guacamole
   dashboardImage: /images/development/dev-ops/guacamole/screenshot-1.jpg
   short_description: Apache Guacamole is a clientless remote desktop gateway.
   description: "Apache Guacamole, a clientless remote desktop gateway, supports standard protocols like VNC, RDP, and SSH. It's called clientless because no plugins or client software are required. Thanks to HTML5, once  Apache Guacamole is installed on a server, all you need to access your desktops is a web browser."

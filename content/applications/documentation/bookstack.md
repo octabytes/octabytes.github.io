@@ -6,7 +6,7 @@ content:
   name: BookStack
   logo: /images/applications/documentation/bookstack/logo.png
   website: https://www.bookstackapp.com/
-  iframe_website: /website-iframe/applications/documentation/bookstack
+  iframe_website: /website/applications/documentation/bookstack
   dashboardImage: /images/applications/documentation/bookstack/screenshot-1.jpg
   short_description: BookStack is a platform to create documentation/wiki content built with PHP & Laravel.
   description: BookStack is a free, open-source, opinionated wiki system that provides a pleasant, simple, out-of-the-box experience. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organize pages and store information. New users should find the experience intuitive. Only basic word-processing skills should be required to get involved in creating content on BookStack.

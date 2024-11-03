@@ -6,7 +6,7 @@ content:
   name: Weaviate
   logo: /images/databases/specialized-databases/weaviate/logo.png
   website: https://weaviate.io/
-  iframe_website: /website-iframe/databases/specialized-databases/weaviate
+  iframe_website: /website/databases/specialized-databases/weaviate
   dashboardImage: /images/databases/specialized-databases/weaviate/screenshot-1.png
   short_description: Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.
   description: Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.

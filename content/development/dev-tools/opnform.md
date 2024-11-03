@@ -6,7 +6,7 @@ content:
   name: OpnForm
   logo: /images/development/dev-tools/opnform/logo.png
   website: https://opnform.com/
-  iframe_website: /website-iframe/development/dev-tools/opnform
+  iframe_website: /website/development/dev-tools/opnform
   dashboardImage: /images/development/dev-tools/opnform/screenshot-1.png
   short_description: "Form Builder, Create beautiful forms and share them anywhere. It is super fast, you don't need to know how to code. It's an alternative to products like Typeform, JotForm, Tally, etc"
   description: "An open-source form builder. alternative to products like Typeform, JotForm, Tally, etc. Create beautiful forms and share them anywhere. It is super fast, you don't need to know how to code."

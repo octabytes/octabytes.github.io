@@ -6,8 +6,8 @@ content:
   name: K3S
   logo: /images/development/dev-ops/k3s/logo.png
   website: https://k3s.io/
-  iframe_website: /website-iframe/development/dev-ops/k3s
-  dashboardImage: 
+  iframe_website: /website/development/dev-ops/k3s
+  dashboardImage:
   short_description: K3s is a fully compliant Kubernetes distribution
   description: k3s is a lightweight, easy to install Kubernetes distribution geared towards resource-constrained environments and low touch operations. Some use cases in which k3s really shines are edge, ARM, IoT, and CI.
   features:

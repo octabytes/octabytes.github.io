@@ -6,7 +6,7 @@ content:
   name: NocoBase
   logo: /images/development/nocode-lowcode/nocobase/logo.png
   website: https://www.nocobase.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/nocobase
+  iframe_website: /website/development/nocode-lowcode/nocobase
   dashboardImage: /images/development/nocode-lowcode/nocobase/screenshot-1.png
   short_description: Scalability-first open-source no-code platform. No programming required, build your own collaboration platform, management system with NocoBase in minutes.
   description: Scalability-first open-source no-code platform. No programming is required, build your own collaboration platform, and management system with NocoBase in minutes. No-code can not solve all problems, NocoBase has a very simple and easy architecture to extend

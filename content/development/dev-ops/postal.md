@@ -6,7 +6,7 @@ content:
   name: Postal
   logo: /images/development/dev-ops/postal/logo.png
   website: https://docs.postalserver.io/
-  iframe_website: /website-iframe/development/dev-ops/postal
+  iframe_website: /website/development/dev-ops/postal
   dashboardImage: /images/development/dev-ops/postal/screenshot-1.jpg
   short_description: Postal is a fully featured open-source mail delivery platform for incoming and outgoing email.
   description: "Postal is a complete, fully featured mail server for use by websites and web servers. It's similar to Sendgrid, Mailgun or Postmark but open-source and ready for you to run on your own servers. It  was developed by Krystal to serve its own mail processing requirements but then released as an open-source project."

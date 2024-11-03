@@ -6,7 +6,7 @@ content:
   name: Passit
   logo: /images/applications/password-manager/passit/logo.png
   website: https://passit.io/
-  iframe_website: /website-iframe/applications/password-manager/passit
+  iframe_website: /website/applications/password-manager/passit
   dashboardImage: /images/applications/password-manager/passit/screenshot-1.png
   short_description: Password manager to use on any device with a web browser to secure your digital life.
   description: Peace of mind for passwords Use as a password manager on any device with a web browser to secure your digital life.

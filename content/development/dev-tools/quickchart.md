@@ -6,7 +6,7 @@ content:
   name: QuickChart
   logo: /images/development/dev-tools/quickchart/logo.png
   website: https://quickchart.io/
-  iframe_website: /website-iframe/development/dev-tools/quickchart
+  iframe_website: /website/development/dev-tools/quickchart
   dashboardImage: /images/development/dev-tools/quickchart/screenshot-1.png
   short_description: QuickChart allows you to generates chart images of charts from a URL.
   description: "QuickChart is an API for generating chart images, PDFs, and QR codes. Built on Chart.js, it's the most popular open-source charting library. The charts are easy to embed in non-dynamic environments such as email, SMS, chatrooms, etc."

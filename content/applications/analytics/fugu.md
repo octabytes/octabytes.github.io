@@ -6,7 +6,7 @@ content:
   name: Fugu
   logo: /images/applications/analytics/fugu/logo.png
   website: https://fugu.lol/
-  iframe_website: /website-iframe/applications/analytics/fugu
+  iframe_website: /website/applications/analytics/fugu
   dashboardImage: /images/applications/analytics/fugu/screenshot-1.jpg
   short_description: Fugu is a product analytics software with a strong focus on simplicity and privacy-friendliness.
   description: "Fugu is a simple, privacy-friendly, open source and self-hostable product analytics. The focus on privacy-friendliness and simplicity translates to a few things: First, Fugu never tracks any personally identifiable information such as IP addresses. Second, Fugu is made for people who don't need fancy product analytics tools but prefer a set of easy-to-use features over a complex user experience."

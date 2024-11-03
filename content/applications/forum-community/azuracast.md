@@ -6,7 +6,7 @@ content:
   name: AzuraCast
   logo: /images/applications/forum-community/azuracast/logo.png
   website: https://www.azuracast.com/
-  iframe_website: /website-iframe/applications/forum-community/azuracast
+  iframe_website: /website/applications/forum-community/azuracast
   dashboardImage: /images/applications/forum-community/azuracast/screenshot-1.jpg
   short_description: A self-hosted web radio management suite
   description: AzuraCast is a self-hosted, all-in-one web radio management suite. Using its easy installer and powerful but intuitive web interface, you can start up a fully working web radio station in a few quick minutes. AzuraCast works for web radio stations of all types and sizes, and is built to run on even the most affordable VPS web hosts.

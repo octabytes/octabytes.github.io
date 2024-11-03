@@ -6,7 +6,7 @@ content:
   name: Lago
   logo: /images/applications/invoicing-and-payments/lago/logo.png
   website: https://www.getlago.com/
-  iframe_website: /website-iframe/applications/invoicing-and-payments/lago
+  iframe_website: /website/applications/invoicing-and-payments/lago
   dashboardImage: /images/applications/invoicing-and-payments/lago/screenshot-1.jpg
   short_description: Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.
   description: Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.

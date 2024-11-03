@@ -6,7 +6,7 @@ content:
   name: Gogs
   logo: /images/development/dev-tools/gogs/logo.png
   website: https://gogs.io/
-  iframe_website: /website-iframe/development/dev-tools/gogs
+  iframe_website: /website/development/dev-tools/gogs
   dashboardImage: /images/development/dev-tools/gogs/screenshot-1.jpg
   short_description: Gogs is a lightweight self-hosted Git server that can be run on just about anything.
   description: Gogs aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way. With Go, this can be done with an independent binary distribution across ALL platforms that Go supports, including Linux, macOS, Windows and ARM.

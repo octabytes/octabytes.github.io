@@ -6,7 +6,7 @@ content:
   name: Umami
   logo: /images/applications/analytics/umami/logo.png
   website: https://umami.is/
-  iframe_website: /website-iframe/applications/analytics/umami
+  iframe_website: /website/applications/analytics/umami
   dashboardImage: /images/applications/analytics/umami/screenshot-1.jpg
   short_description: Umami is a simple, fast, website analytics alternative to Google Analytics.
   description: Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. Umami collects only the metrics you care about and everything fits on a single page

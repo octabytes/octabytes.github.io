@@ -6,7 +6,7 @@ content:
   name: Lobsters
   logo: /images/applications/forum-community/lobsters/logo.png
   website: https://lobste.rs/
-  iframe_website: /website-iframe/applications/forum-community/lobsters
+  iframe_website: /website/applications/forum-community/lobsters
   dashboardImage: /images/applications/forum-community/lobsters/screenshot-1.png
   short_description: Lobsters is a community dedicated to computing, where members gather to share links and engage in discussions.
   description: Lobsters is a community dedicated to computing, where members gather to share links and engage in discussions.

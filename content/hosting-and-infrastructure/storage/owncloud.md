@@ -6,7 +6,7 @@ content:
   name: ownCloud
   logo: /images/hosting-and-infrastructure/storage/owncloud/logo.png
   website: https://owncloud.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/owncloud
+  iframe_website: /website/hosting-and-infrastructure/storage/owncloud
   dashboardImage: /images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg
   short_description: ownCloud is a suite of client-server software for creating and using file hosting services.
   description: ownCloud is a suite of client–server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox. It enables you to share and sync data and keep it safe, on all platforms.

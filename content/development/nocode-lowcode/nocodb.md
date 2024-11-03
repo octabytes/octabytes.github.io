@@ -6,7 +6,7 @@ content:
   name: NocoDB
   logo: /images/development/nocode-lowcode/nocodb/logo.png
   website: https://www.nocodb.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/nocodb
+  iframe_website: /website/development/nocode-lowcode/nocodb
   dashboardImage: /images/development/nocode-lowcode/nocodb/screenshot-1.png
   short_description: NocoDB is an open-source #NoCode platform that turns any database into a smart spreadsheet.
   description: NocoDB, an open-source Airtable alternative, works by connecting to any relational database and transforming it into a smart spreadsheet interface. This allows you to build no-code applications collaboratively with teams.

@@ -6,7 +6,7 @@ content:
   name: Drupal
   logo: /images/applications/cms/drupal/logo.png
   website: https://www.drupal.org/project/drupal
-  iframe_website: /website-iframe/applications/cms/drupal
+  iframe_website: /website/applications/cms/drupal
   dashboardImage: /images/applications/cms/drupal/screenshot-1.jpg
   short_description: Drupal is an open-source content management platform that supports a wide variety of websites.
   description: "Drupal, a content management software, was used to make many of the websites and applications you use every day. It has great standard features, but stands out for its flexibility. Its tools help you build the versatile, structured content for a dynamic web experience. It's also a great choice for creating integrated digital frameworks. Drupal provides a back-end framework for at least 13% of the top 10,000 websites worldwide, from personal blogs to corporate, political and government sites."

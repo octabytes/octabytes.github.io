@@ -6,7 +6,7 @@ content:
   name: Bytebase
   logo: /images/development/dev-tools/bytebase/logo.png
   website: https://www.bytebase.com/
-  iframe_website: /website-iframe/development/dev-tools/bytebase
+  iframe_website: /website/development/dev-tools/bytebase
   dashboardImage: /images/development/dev-tools/bytebase/screenshot-1.webp
   short_description: Bytebase is an open-source database CI/CD tool for developers and DBAs.
   description: Bytebase is an open-source database CI/CD tool for developers and DBAs. It covers the entire database development lifecycle including database change and query, SQL review, version control, and rollback. Bytebase supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake.

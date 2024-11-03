@@ -6,7 +6,7 @@ content:
   name: DbGate
   logo: /images/development/dev-ops/dbgate/logo.png
   website: https://dbgate.org/
-  iframe_website: /website-iframe/development/dev-ops/dbgate
+  iframe_website: /website/development/dev-ops/dbgate
   dashboardImage: /images/development/dev-ops/dbgate/screenshot-1.png
   short_description: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and others. Runs under Windows, Linux, Mac, or as a web application
   description: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and others. Runs under Windows, Linux, Mac, or as a web application

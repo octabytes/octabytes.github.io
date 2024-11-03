@@ -6,7 +6,7 @@ content:
   name: Gitlab-runner
   logo: /images/development/dev-ops/gitlab-runner/logo.png
   website: https://gitlab.com/
-  iframe_website: /website-iframe/development/dev-ops/gitlab-runner
+  iframe_website: /website/development/dev-ops/gitlab-runner
   dashboardImage: /images/development/dev-ops/gitlab-runner/screenshot-1.png
   short_description: GitLab Runner is an application that works with GitLab CI/CD to run jobs in a pipeline.
   description: GitLab Runner is an application that works with GitLab CI/CD to run jobs in a pipeline.

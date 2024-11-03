@@ -6,7 +6,7 @@ content:
   name: PocketBase
   logo: /images/development/backend-as-a-service/pocketbase/logo.png
   website: https://pocketbase.io/
-  iframe_website: /website-iframe/development/backend-as-a-service/pocketbase
+  iframe_website: /website/development/backend-as-a-service/pocketbase
   dashboardImage: /images/development/backend-as-a-service/pocketbase/screenshot-1.png
   short_description: Open Source backend for your next SaaS and Mobile app in 1 file
   description: Pocket Base is an open source backend consisting of embedded database (SQLite) with real-time subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.

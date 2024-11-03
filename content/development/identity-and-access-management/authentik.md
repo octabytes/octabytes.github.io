@@ -6,7 +6,7 @@ content:
   name: Authentik
   logo: /images/development/identity-and-access-management/authentik/logo.png
   website: https://goauthentik.io/
-  iframe_website: /website-iframe/development/identity-and-access-management/authentik
+  iframe_website: /website/development/identity-and-access-management/authentik
   dashboardImage: /images/development/identity-and-access-management/authentik/screenshot-1.jpg
   short_description: authentik is a flexible, versatile open-source identity provider.
   description: "An open-source identity provider, authentik can be used in an existing environment to add support for new protocols, implement sign-up, recovery, etc. in your application so you don't have to deal with that, and many other things. It has great flexibility. Whatever your requirements, you can adopt authentik to your environment."

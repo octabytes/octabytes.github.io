@@ -6,7 +6,7 @@ content:
   name: Sharkey
   logo: /images/applications/fediverse/sharkey/logo.png
   website: https://docs.joinsharkey.org/docs/getting-started/overview/
-  iframe_website: /website-iframe/applications/fediverse/sharkey
+  iframe_website: /website/applications/fediverse/sharkey
   dashboardImage: /images/applications/fediverse/sharkey/screenshot-1.png
   short_description: "Sharkey is an open source, decentralized social media platform that's free forever!"
   description: Sharkey is a Misskey fork following upstream changes when possible, with added features. Like any other ActivityPub software Sharkey can interface with the thousands of servers that form the fediverse, an interconnected social network, working in tandem with software such as Akkoma, Mastodon, Pixelfed and many more.

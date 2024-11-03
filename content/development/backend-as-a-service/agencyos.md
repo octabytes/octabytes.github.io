@@ -6,7 +6,7 @@ content:
   name: AgencyOS
   logo: /images/development/backend-as-a-service/agencyos/logo.png
   website: https://www.agencyos.dev/
-  iframe_website: /website-iframe/development/backend-as-a-service/agencyos
+  iframe_website: /website/development/backend-as-a-service/agencyos
   dashboardImage: /images/development/backend-as-a-service/agencyos/screenshot-1.png
   short_description: Open source operating system for digital agencies. Built with Directus and Nuxt.
   description: AgencyOS is everything you need to get your agency off the ground or improve tooling for your existing company. Nuxt 3 Website / Application + Directus Backend.

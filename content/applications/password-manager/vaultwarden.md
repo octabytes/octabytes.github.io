@@ -6,7 +6,7 @@ content:
   name: Vaultwarden
   logo: /images/applications/password-manager/vaultwarden/logo.png
   website: https://github.com/dani-garcia/vaultwarden
-  iframe_website: /website-iframe/applications/password-manager/vaultwarden
+  iframe_website: /website/applications/password-manager/vaultwarden
   dashboardImage: /images/applications/password-manager/vaultwarden/screenshot-1.jpg
   short_description: Vaultwarden is an open-source password management application that can be self-hosted and run on your infrastructure.
   description: "Vaultwarden is an unofficial Bitwarden server implementation written in Rust. It's compatible with the official Bitwarden clients, and is ideal for self-hosted deployments where running the official resource-heavy service is undesirable. Development of features that are mainly useful to larger organizations (e.g. single sign-on, directory syncing, etc) is not a priority."

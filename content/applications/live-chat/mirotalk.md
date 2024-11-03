@@ -6,7 +6,7 @@ content:
   name: MiroTalk
   logo: /images/applications/live-chat/mirotalk/logo.png
   website: https://p2p.mirotalk.com/
-  iframe_website: /website-iframe/applications/live-chat/mirotalk
+  iframe_website: /website/applications/live-chat/mirotalk
   dashboardImage: /images/applications/live-chat/mirotalk/screenshot-1.png
   short_description: WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
   description: WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.

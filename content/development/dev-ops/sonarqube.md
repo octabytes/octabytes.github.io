@@ -6,7 +6,7 @@ content:
   name: SonarQube
   logo: /images/development/dev-ops/sonarqube/logo.png
   website: https://www.sonarqube.org/
-  iframe_website: /website-iframe/development/dev-ops/sonarqube
+  iframe_website: /website/development/dev-ops/sonarqube
   dashboardImage: /images/development/dev-ops/sonarqube/screenshot-1.jpg
   short_description: SonarQube is an open-source platform that reveals the health of an application and highlights new issues.
   description: SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality. It can perform automatic reviews with static analysis of code to detect bugs, code smells and security vulnerabilities on 20+ programming languages.

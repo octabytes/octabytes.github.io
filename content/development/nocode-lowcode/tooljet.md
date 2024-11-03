@@ -6,7 +6,7 @@ content:
   name: ToolJet
   logo: /images/development/nocode-lowcode/tooljet/logo.png
   website: https://tooljet.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/tooljet
+  iframe_website: /website/development/nocode-lowcode/tooljet
   dashboardImage: /images/development/nocode-lowcode/tooljet/screenshot-1.jpg
   short_description: ToolJet is an open-source low-code framework to build and deploy custom internal tools
   description: Tooljet connects to databases, services, cloud storages and custom API endpoints to fetch data and take actions.  Build internal tools in minutes using our pre-built components like Tables, Charts, Maps, Buttons and more. ToolJet comes with the convenience of a visual builder but supports writing JavaScript code almost anywhere in the builder

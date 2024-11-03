@@ -6,7 +6,7 @@ content:
   name: Ollama
   logo: /images/applications/search/ollama/logo.png
   website: https://openwebui.com/
-  iframe_website: /website-iframe/applications/search/ollama
+  iframe_website: /website/applications/search/ollama
   dashboardImage: /images/applications/search/ollama/screenshot-1.png
   short_description: ChatGPT-Style Open Web UI Client for LLMs (Formerly Ollama WebUI) to Get up and running with Llama 2, Mistral, and other large language models.
   description: ChatGPT-Style Open Web UI Client for LLMs (Formerly Ollama WebUI) to Get up and running with Llama 2, Mistral, and other large language models.

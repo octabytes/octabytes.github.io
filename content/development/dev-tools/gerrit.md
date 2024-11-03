@@ -6,7 +6,7 @@ content:
   name: Gerrit
   logo: /images/development/dev-tools/gerrit/logo.png
   website: https://www.gerritcodereview.com/
-  iframe_website: /website-iframe/development/dev-tools/gerrit
+  iframe_website: /website/development/dev-tools/gerrit
   dashboardImage: /images/development/dev-tools/gerrit/screenshot-1.png
   short_description: Gerrit is a code review and project management tool for Git based projects.
   description: Gerrit makes reviews easier by showing changes in a side-by-side display, and allowing inline comments to be added by any reviewer. Gerrit simplifies Git based project maintainership by permitting any authorized user to submit changes to the master Git repository, rather than requiring all approved changes to be merged in by hand by the project maintainer.

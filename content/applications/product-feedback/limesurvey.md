@@ -6,7 +6,7 @@ content:
   name: LimeSurvey
   logo: /images/applications/product-feedback/limesurvey/logo.png
   website: https://www.limesurvey.org/
-  iframe_website: /website-iframe/applications/product-feedback/limesurvey
+  iframe_website: /website/applications/product-feedback/limesurvey
   dashboardImage: /images/applications/product-feedback/limesurvey/screenshot-1.jpg
   short_description: LimeSurvey is the most popular FOSS online survey tool on the web.
   description: LimeSurvey is a free, open-source, online statistical survey web app written in PHP, based on a MySQL, SQLite, PostgreSQL or MSSQL database, and distributed under the GNU General Public License. A very versatile survey tool, it helps you to find out more about opinions, interests and the reasons behind decisions without much labour thanks to its intuitive solutions.

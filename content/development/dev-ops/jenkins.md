@@ -6,7 +6,7 @@ content:
   name: Jenkins
   logo: /images/development/dev-ops/jenkins/logo.png
   website: https://www.jenkins.io/
-  iframe_website: /website-iframe/development/dev-ops/jenkins
+  iframe_website: /website/development/dev-ops/jenkins
   dashboardImage: /images/development/dev-ops/jenkins/screenshot-1.jpg
   short_description: Jenkins is the leading open-source automation server.
   description: An open-source automation server, Jenkins provides hundreds of plugins to help automate the parts of software development related to building, testing and deploying – facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.

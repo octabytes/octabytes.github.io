@@ -6,7 +6,7 @@ content:
   name: Tika
   logo: /images/applications/analytics/tika/logo.png
   website: https://tika.apache.org/
-  iframe_website: /website-iframe/applications/analytics/tika
+  iframe_website: /website/applications/analytics/tika
   dashboardImage: /images/applications/analytics/tika/screenshot-1.png
   short_description: Apache Tika a content analysis toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
   description: Apache Tika a content analysis toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). All of these file types can be parsed through a single interface, making Apache Tika useful for search engine indexing, content analysis, translation, and much more.

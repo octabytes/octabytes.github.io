@@ -6,7 +6,7 @@ content:
   name: PeerTube
   logo: /images/applications/fediverse/peertube/logo.png
   website: https://joinpeertube.org/
-  iframe_website: /website-iframe/applications/fediverse/peertube
+  iframe_website: /website/applications/fediverse/peertube
   dashboardImage: /images/applications/fediverse/peertube/screenshot-1.png
   short_description: Free software to take back control of your videos for the Fediverse
   description: PeerTube is the free and decentralized alternative to video platforms, providing you over 600,000 videos published by 150,000 users and viewed over 70 million times.

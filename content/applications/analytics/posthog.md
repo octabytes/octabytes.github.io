@@ -6,7 +6,7 @@ content:
   name: PostHog
   logo: /images/applications/analytics/posthog/logo.png
   website: https://posthog.com/
-  iframe_website: /website-iframe/applications/analytics/posthog
+  iframe_website: /website/applications/analytics/posthog
   dashboardImage: /images/applications/analytics/posthog/screenshot-1.jpg
   short_description: PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
   description: PostHog provides engineers with everything they need to make sure they are building something that people want. This means - product analytics, video replays, feedback tools, feature flags, and experimentation. With PostHog you can automate the collection of every event on your website or app, with no need to send data to third parties, and deploy on your own infrastructure. PostHog plays nicely with data warehouses through plugins for import, transformation, and export.

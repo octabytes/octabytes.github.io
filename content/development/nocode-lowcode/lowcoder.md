@@ -6,7 +6,7 @@ content:
   name: Lowcoder
   logo: /images/development/nocode-lowcode/lowcoder/logo.png
   website: https://lowcoder.cloud/
-  iframe_website: /website-iframe/development/nocode-lowcode/lowcoder
+  iframe_website: /website/development/nocode-lowcode/lowcoder
   dashboardImage: /images/development/nocode-lowcode/lowcoder/screenshot-1.png
   short_description: Create software applications for your Company and your Customers with minimal coding experience. Lowcoder is the best Retool, Appsmith, or Tooljet Alternative.
   description: Create software applications for your Company and your Customers with minimal coding experience. Lowcoder is the best Retool, Appsmith, or Tooljet Alternative.

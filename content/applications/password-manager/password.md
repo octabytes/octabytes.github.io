@@ -6,7 +6,7 @@ content:
   name: Password Pusher
   logo: /images/applications/password-manager/password/logo.png
   website: https://pwpush.com/
-  iframe_website: /website-iframe/applications/password-manager/password
+  iframe_website: /website/applications/password-manager/password
   dashboardImage: /images/applications/password-manager/password/screenshot-1.png
   short_description: An application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.
   description: Password Pusher is an application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.  With Password Pusher, you can create a unique, one-time URL that will expire after a certain amount of time or after it has been accessed a certain number of times, ensuring that your information remains private and secure. It is often used by individuals and organizations to share login credentials or other sensitive data with colleagues, clients, or partners.

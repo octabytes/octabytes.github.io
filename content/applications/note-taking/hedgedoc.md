@@ -6,7 +6,7 @@ content:
   name: HedgeDoc
   logo: /images/applications/note-taking/hedgedoc/logo.png
   website: https://hedgedoc.org/
-  iframe_website: /website-iframe/applications/note-taking/hedgedoc
+  iframe_website: /website/applications/note-taking/hedgedoc
   dashboardImage: /images/applications/note-taking/hedgedoc/screenshot-1.png
   short_description: HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor
   description: HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor. You can use it to easily collaborate on notes, graphs and even presentations in real-time. All you need to do is to share your note-link to your co-workers and they’re ready to go.

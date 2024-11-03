@@ -6,7 +6,7 @@ content:
   name: SuiteCRM
   logo: /images/applications/crm-erp/suitecrm/logo.png
   website: https://suitecrm.com/
-  iframe_website: /website-iframe/applications/crm-erp/suitecrm
+  iframe_website: /website/applications/crm-erp/suitecrm
   dashboardImage: /images/applications/crm-erp/suitecrm/screenshot-1.png
   short_description: SuiteCRM is an open source Customer Relationship Management (CRM) software solution that provides a 360-degree view of your customers and business.
   description: SuiteCRM is the award winning Customer Relationship Management application. Making it easy for your Sales, Marketing and Customer Service departments to discover key information that will help you grow, retain and delight your customers.

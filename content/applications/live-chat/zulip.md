@@ -6,7 +6,7 @@ content:
   name: Zulip
   logo: /images/applications/live-chat/zulip/logo.png
   website: https://zulip.com/
-  iframe_website: /website-iframe/applications/live-chat/zulip
+  iframe_website: /website/applications/live-chat/zulip
   dashboardImage: /images/applications/live-chat/zulip/screenshot-1.png
   short_description: Zulip is a team collaboration tool with unique topic-based threading that combines the best of email and chat to make remote work productive and delightful.
   description: Zulip is an open-source team collaboration tool with unique topic-based threading that combines the best of email and chat to make remote work productive and delightful. Zulip features a unique threading model, in which each message also has a topic, along with the content.

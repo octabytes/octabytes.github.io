@@ -6,7 +6,7 @@ content:
   name: Appsmith
   logo: /images/development/nocode-lowcode/appsmith/logo.png
   website: https://www.appsmith.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/appsmith
+  iframe_website: /website/development/nocode-lowcode/appsmith
   dashboardImage: /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
   short_description: Appsmith is a powerful open-source framework to build internal tools.
   description: Appsmith is a low-code, open-source framework to build internal applications. With the JavaScript-based visual development platform, you can rapidly build CRUD apps, dashboards, admin panels, etc. You can use the pre-built UI widgets, and connect them to your APIs and databases to build dynamic apps and complex workflows – and then deploy these apps on the technology you prefer.

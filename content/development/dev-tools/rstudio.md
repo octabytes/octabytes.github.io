@@ -6,7 +6,7 @@ content:
   name: Rstudio
   logo: /images/development/dev-tools/rstudio/logo.png
   website: https://www.rstudio.com/
-  iframe_website: /website-iframe/development/dev-tools/rstudio
+  iframe_website: /website/development/dev-tools/rstudio
   dashboardImage: /images/development/dev-tools/rstudio/screenshot-1.png
   short_description: Publish your R and Python content with RStudio Connect
   description: RStudio is a powerful and easy way to interact with R programming, considered as Integrated Development Environment (IDE) that provides a one-stop solution for all the statistical computing and graphics. The RStudio is a more advanced version of R that comes with a multi-pane window setup that provides access to all primary things on a single screen (such as source, console, environment & history, files, photos, graphs, etc).

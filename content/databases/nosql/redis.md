@@ -6,7 +6,7 @@ content:
   name: Redis
   logo: /images/databases/nosql/redis/logo.png
   website: https://redis.io/
-  iframe_website: /website-iframe/databases/nosql/redis
+  iframe_website: /website/databases/nosql/redis
   dashboardImage: /images/databases/nosql/redis/screenshot-1.jpg
   short_description: Redis is an open-source, in-memory database, cache and message broker.
   description: Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperlogs, geospatial indexes, and streams. It has built-in replication, Lua scripting, LRU eviction, transactions, etc. Different processes can query and modify the same data structures in a shared way. Redis delivers sub-millisecond response times, enabling millions of requests per second for real-time applications.

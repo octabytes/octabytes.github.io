@@ -6,7 +6,7 @@ content:
   name: Chromadb
   logo: /images/databases/specialized-databases/chromadb/logo.png
   website: www.trychroma.com/
-  iframe_website: /website-iframe/databases/specialized-databases/chromadb
+  iframe_website: /website/databases/specialized-databases/chromadb
   dashboardImage: /images/databases/specialized-databases/chromadb/screenshot-1.png
   short_description: The AI-native open-source embedding database
   description: Chroma is the open-source AI application database. Batteries included. Embeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.

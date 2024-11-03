@@ -6,7 +6,7 @@ content:
   name: Documenso
   logo: /images/applications/documentation/documenso/logo.png
   website: https://documenso.com/
-  iframe_website: /website-iframe/applications/documentation/documenso
+  iframe_website: /website/applications/documentation/documenso
   dashboardImage: /images/applications/documentation/documenso/screenshot-1.webp
   short_description: The Open Source DocuSign Alternative, Document signing.
   description: The Open Source DocuSign Alternative, Document signing. A 10x better signing experience. Faster, smarter, and more beautiful.

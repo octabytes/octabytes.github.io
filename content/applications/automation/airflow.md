@@ -6,7 +6,7 @@ content:
   name: Airflow
   logo: /images/applications/automation/airflow/logo.png
   website: https://airflow.apache.org/
-  iframe_website: /website-iframe/applications/automation/airflow
+  iframe_website: /website/applications/automation/airflow
   dashboardImage: /images/applications/automation/airflow/screenshot-1.png
   short_description: Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
   description: When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative. Use Apache Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Apache Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.

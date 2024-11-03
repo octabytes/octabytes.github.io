@@ -6,7 +6,7 @@ content:
   name: ChiefOnboarding
   logo: /images/applications/crm-erp/chiefonboarding/logo.png
   website: https://chiefonboarding.com/
-  iframe_website: /website-iframe/applications/crm-erp/chiefonboarding
+  iframe_website: /website/applications/crm-erp/chiefonboarding
   dashboardImage: /images/applications/crm-erp/chiefonboarding/screenshot-1.png
   short_description: Create entire blueprints of what your new hire will go through within minutes. Simply drag and drop items into the timeline.
   description: Streamline employee onboarding  a new hire is often complicated and chaotic, especially in remote teams. We will help you structure your onboarding process for IT, HR, managers, buddies, and, of course, your new hires.

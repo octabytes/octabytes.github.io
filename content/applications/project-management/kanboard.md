@@ -6,7 +6,7 @@ content:
   name: Kanboard
   logo: /images/applications/project-management/kanboard/logo.png
   website: https://kanboard.org/
-  iframe_website: /website-iframe/applications/project-management/kanboard
+  iframe_website: /website/applications/project-management/kanboard
   dashboardImage: /images/applications/project-management/kanboard/screenshot-1.png
   short_description: Kanban project management software
   description: Kanban project management software

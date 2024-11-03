@@ -6,7 +6,7 @@ content:
   name: Twenty
   logo: /images/applications/crm-erp/twenty/logo.png
   website: https://twenty.com/
-  iframe_website: /website-iframe/applications/crm-erp/twenty
+  iframe_website: /website/applications/crm-erp/twenty
   dashboardImage: /images/applications/crm-erp/twenty/screenshot-1.webp
   short_description: Open-source CRM, Building a modern alternative to Salesforce, powered by the community.
   description: Open-source CRM, Building a modern alternative to Salesforce, powered by the community.

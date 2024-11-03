@@ -6,7 +6,7 @@ content:
   name: EasyAppointments
   logo: /images/applications/calendar/easyappointments/logo.png
   website: https://easyappointments.org/
-  iframe_website: /website-iframe/applications/calendar/easyappointments
+  iframe_website: /website/applications/calendar/easyappointments
   dashboardImage: /images/applications/calendar/easyappointments/screenshot-1.webp
   short_description: Open Source Appointment Scheduler that allows customers to book appointments with you
   description: Easy! Appointments is a highly customizable web application that allows customers to book appointments with you via a sophisticated web interface. Moreover, it provides the ability to sync your data with Google Calendar so you can use it with other services.  Easy! Appointments will run smoothly with your existing website as it can be installed in a single folder of the server and of course, share an existing database.

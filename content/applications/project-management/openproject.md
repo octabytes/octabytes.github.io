@@ -6,7 +6,7 @@ content:
   name: OpenProject
   logo: /images/applications/project-management/openproject/logo.png
   website: https://www.openproject.org/
-  iframe_website: /website-iframe/applications/project-management/openproject
+  iframe_website: /website/applications/project-management/openproject
   dashboardImage: /images/applications/project-management/openproject/screenshot-1.jpg
   short_description: OpenProject is a web-based project management system for location-independent team collaboration.
   description: OpenProject is open-source project management software for efficient classic, agile or hybrid project management in a secure environment. It can be installed on-premises in your own infrastructure, so you have full control and 100% data ownership. You know where your data is stored and what happens to it, without external influence.

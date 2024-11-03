@@ -6,8 +6,8 @@ content:
   name: Nebula
   logo: /images/development/network/nebula/logo.png
   website: https://github.com/slackhq/nebula
-  iframe_website: /website-iframe/development/network/nebula
-  dashboardImage: 
+  iframe_website: /website/development/network/nebula
+  dashboardImage:
   short_description: Nebula is a scalable overlay networking tool with a focus on performance, simplicity and security
   description: "Nebula, an open-source overlay networking tool, lets you seamlessly connect computers anywhere in the world. It's portable, and runs on Linux, OSX, Windows, iOS and  Android. It includes encryption, security groups, certificates and tunneling, but what makes Nebula different is that it brings all of these ideas together, resulting in a sum greater than its individual parts. It can be used to connect a small number or tens of thousands of computers as required."
   features:

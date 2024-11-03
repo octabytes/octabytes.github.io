@@ -6,7 +6,7 @@ content:
   name: Papercups
   logo: /images/applications/live-chat/papercups/logo.png
   website: https://papercups.io/
-  iframe_website: /website-iframe/applications/live-chat/papercups
+  iframe_website: /website/applications/live-chat/papercups
   dashboardImage: /images/applications/live-chat/papercups/screenshot-1.jpg
   short_description: Papercups is a open-source live customer chat
   description: Coordinate and reply to messages over chat, email, Slack, and SMS. A privacy-focused, open-source alternative to Intercom, Drift, and Zendesk.

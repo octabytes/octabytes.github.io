@@ -6,7 +6,7 @@ content:
   name: Cal
   logo: /images/applications/calendar/cal/logo.png
   website: https://cal.com/
-  iframe_website: /website-iframe/applications/calendar/cal
+  iframe_website: /website/applications/calendar/cal
   dashboardImage: /images/applications/calendar/cal/screenshot-1.png
   short_description: Calendly alternative Cal.com, is the event-juggling scheduler for everyone. Focus on meetings, not making meetings. Free for individuals.
   description: Calendly alternative Cal.com, is the event-juggling scheduler for everyone. Focus on meetings, not making meetings. Free for individuals.

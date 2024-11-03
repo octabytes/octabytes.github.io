@@ -6,7 +6,7 @@ content:
   name: ManticoreSearch
   logo: /images/applications/search/manticoresearch/logo.png
   website: https://manticoresearch.com/
-  iframe_website: /website-iframe/applications/search/manticoresearch
+  iframe_website: /website/applications/search/manticoresearch
   dashboardImage: /images/applications/search/manticoresearch/screenshot-1.png
   short_description: Manticore Search is an easy to use open source fast database for search. Modern, fast, light-weight, outstanding full-text search capabilities.
   description: Manticore Search is an open-source database that was created in 2017 as a continuation of Sphinx Search engine. it took all the best from it, significantly improved its functionality, fixed hundreds of bugs, rewrote the code almost completely and kept it open-source! That all has made Manticore Search a modern, fast, light-weight and full-featured database with outstanding full-text search capabilities.

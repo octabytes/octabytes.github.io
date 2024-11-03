@@ -6,7 +6,7 @@ content:
   name: Flarum
   logo: /images/applications/forum-community/flarum/logo.png
   website: https://flarum.org/
-  iframe_website: /website-iframe/applications/forum-community/flarum
+  iframe_website: /website/applications/forum-community/flarum
   dashboardImage: /images/applications/forum-community/flarum/screenshot-1.png
   short_description: Flarum is a delightfully simple discussion platform for your website
   description: "Flarum is a delightfully simple discussion platform for your website. It's fast, free, and easy to use, with all the features you need to run a successful community. It's also extremely extensible, allowing for ultimate customizability."

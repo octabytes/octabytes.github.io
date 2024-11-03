@@ -6,7 +6,7 @@ content:
   name: Friendica
   logo: /images/applications/forum-community/friendica/logo.png
   website: https://friendi.ca/
-  iframe_website: /website-iframe/applications/forum-community/friendica
+  iframe_website: /website/applications/forum-community/friendica
   dashboardImage: /images/applications/forum-community/friendica/screenshot-1.png
   short_description: A Decentralized Social Network, you can use to host your own social media server that forms one part of the fediverse, an interconnected and decentralized network of independently operated servers
   description: A Decentralized Social Network, you can use to host your own social media server that forms one part of the fediverse, an interconnected and decentralized network of independently operated servers

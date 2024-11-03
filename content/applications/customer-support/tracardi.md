@@ -6,7 +6,7 @@ content:
   name: Tracardi
   logo: /images/applications/customer-support/tracardi/logo.png
   website: https://tracardi.com/
-  iframe_website: /website-iframe/applications/customer-support/tracardi
+  iframe_website: /website/applications/customer-support/tracardi
   dashboardImage: /images/applications/customer-support/tracardi/screenshot-1.png
   short_description: TRACARDI is a new HOME for your customer data. TRACARDI is an API-first solution, a low-code / no-code platform aimed at any e-commerce business that wants to start using user data for marketing purposes.
   description: TRACARDI is a new HOME for your customer data. TRACARDI is an API-first solution, a low-code / no-code platform aimed at any e-commerce business that wants to start using user data for marketing purposes.

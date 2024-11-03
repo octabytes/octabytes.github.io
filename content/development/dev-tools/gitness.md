@@ -6,7 +6,7 @@ content:
   name: Gitness
   logo: /images/development/dev-tools/gitness/logo.png
   website: https://gitness.com/
-  iframe_website: /website-iframe/development/dev-tools/gitness
+  iframe_website: /website/development/dev-tools/gitness
   dashboardImage: /images/development/dev-tools/gitness/screenshot-1.png
   short_description: Gitness is an Open Source developer platform with Source Control Management, Continuous Integration, and Continuous Delivery.
   description: Gitness is an Open Source developer platform with Source Control Management, Continuous Integration, and Continuous Delivery.

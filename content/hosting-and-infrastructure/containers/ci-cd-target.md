@@ -6,7 +6,7 @@ content:
   name: CI-CD-Target
   logo: /images/hosting-and-infrastructure/containers/ci-cd-target/logo.png
   website: https://elest.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/containers/ci-cd-target
+  iframe_website: /website/hosting-and-infrastructure/containers/ci-cd-target
   dashboardImage: /images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-1.png
   short_description: Deploy one or multiple CD/CD pipelines to a target node
   description: CI/CD target by Elestio is a fully managed service made to handle deployment, security, reverse proxy, ssl, smtp, logs, backups & monitoring of your own source code coming from Github, Gitlab or Docker registries

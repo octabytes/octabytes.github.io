@@ -6,7 +6,7 @@ content:
   name: VictoriaMetrics
   logo: /images/hosting-and-infrastructure/monitoring/victoriametrics/logo.png
   website: https://victoriametrics.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/victoriametrics
+  iframe_website: /website/hosting-and-infrastructure/monitoring/victoriametrics
   dashboardImage: /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png
   short_description: VictoriaMetrics is a fast, cost-effective monitoring solution and time series database
   description: VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database typically used for processing high volumes of data and long term storing. It lets users build a monitoring platform without operational burden or scalability issues

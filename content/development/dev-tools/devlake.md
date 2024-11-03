@@ -6,7 +6,7 @@ content:
   name: DevLake
   logo: /images/development/dev-tools/devlake/logo.png
   website: https://devlake.apache.org/
-  iframe_website: /website-iframe/development/dev-tools/devlake
+  iframe_website: /website/development/dev-tools/devlake
   dashboardImage: /images/development/dev-tools/devlake/screenshot-1.png
   short_description: A dev data platform that ingests, analyzes, and visualizes the fragmented data from DevOps tools to extract insights for engineering excellence, developer experience, and community growth
   description: Apache DevLake is an open-source dev data platform that ingests, analyzes, and visualizes the fragmented data from DevOps tools to extract insights for engineering excellence, developer experience, and community growth. it is designed for developer teams looking to make better sense of their development process and to bring a more data-driven approach to their practices.

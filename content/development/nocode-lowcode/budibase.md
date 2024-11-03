@@ -6,7 +6,7 @@ content:
   name: Budibase
   logo: /images/development/nocode-lowcode/budibase/logo.png
   website: https://budibase.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/budibase
+  iframe_website: /website/development/nocode-lowcode/budibase
   dashboardImage: /images/development/nocode-lowcode/budibase/screenshot-1.jpg
   short_description: Budibase is a quick way to build business apps that empower teams and improve productivity.
   description: Budibase is an open-source, low-code platform that helps developers and IT professionals to build, automate and ship internal tools on their own infrastructure in minutes.

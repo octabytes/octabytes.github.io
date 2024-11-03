@@ -6,7 +6,7 @@ content:
   name: OpenBlocks
   logo: /images/development/nocode-lowcode/openblocks/logo.png
   website: https://openblocks.dev/
-  iframe_website: /website-iframe/development/nocode-lowcode/openblocks
+  iframe_website: /website/development/nocode-lowcode/openblocks
   dashboardImage: /images/development/nocode-lowcode/openblocks/screenshot-1.png
   short_description: Openblocks is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minutes.
   description: Openblocks is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minutes.

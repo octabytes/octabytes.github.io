@@ -6,7 +6,7 @@ content:
   name: Hydra
   logo: /images/databases/relational-databases/hydra/logo.png
   website: https://hydra.so/
-  iframe_website: /website-iframe/databases/relational-databases/hydra
+  iframe_website: /website/databases/relational-databases/hydra
   dashboardImage: /images/databases/relational-databases/hydra/screenshot-1.webp
   short_description: "Hydra is an open-source alternative to enterprise data warehouses and it's simple, fast, and adaptable to your needs."
   description: Hydra is an open-source data warehouse built on Postgres. Hydra leverages columnar storage, vectorized execution, and query parallelization to efficiently serve online analytical processing of queries (OLAP). Unlike traditional warehouses, Hydra supports Postgres heap tables, indexing, and native partitioning to process high-throughput transactional writes, quick lookup and operational queries, and hybrid transactional / analytics processing workloads (HTAP).

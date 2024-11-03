@@ -6,7 +6,7 @@ content:
   name: Grafana
   logo: /images/hosting-and-infrastructure/monitoring/grafana/logo.png
   website: https://grafana.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/grafana
+  iframe_website: /website/hosting-and-infrastructure/monitoring/grafana
   dashboardImage: /images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg
   short_description: Grafana is a multi-platform, open-source analytics and interactive visualization web application.
   description: Grafana is an open and composable observability and data visualization platform that allows you to visualize metrics, logs and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres, etc. It provides charts, graphs and alerts for the web when connected to supported data sources.

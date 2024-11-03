@@ -6,7 +6,7 @@ content:
   name: Coroot
   logo: /images/hosting-and-infrastructure/monitoring/coroot/logo.png
   website: https://coroot.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/coroot
+  iframe_website: /website/hosting-and-infrastructure/monitoring/coroot
   dashboardImage: /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png
   short_description: Coroot is an APM & Observability tool, a DataDog and NewRelic alternative
   description: "Collecting metrics, logs, and traces alone doesn't make your applications observable. Coroot turns that data into actionable insights for you!"

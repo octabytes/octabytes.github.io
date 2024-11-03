@@ -6,7 +6,7 @@ content:
   name: Uptime-kuma
   logo: /images/hosting-and-infrastructure/monitoring/uptime-kuma/logo.png
   website: https://uptime.kuma.pet/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/uptime-kuma
+  iframe_website: /website/hosting-and-infrastructure/monitoring/uptime-kuma
   dashboardImage: /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg
   short_description: Uptime Kuma is a self-hosted monitoring tool like Uptime Robot.
   description: Uptime Kuma is a self-hosted, open-source, fancy uptime monitoring and alerting system. It can monitor HTTP, HTTP with keyword, TCP, Ping and even DNS systems. Similar to Uptime Robot, it supports multiple notification systems.

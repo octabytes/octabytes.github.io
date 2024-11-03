@@ -6,7 +6,7 @@ content:
   name: Bigcapital
   logo: /images/applications/invoicing-and-payments/bigcapital/logo.png
   website: https://bigcapital.ly/
-  iframe_website: /website-iframe/applications/invoicing-and-payments/bigcapital
+  iframe_website: /website/applications/invoicing-and-payments/bigcapital
   dashboardImage: /images/applications/invoicing-and-payments/bigcapital/screenshot-1.png
   short_description: Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
   description: Online accounting software, built to automate business financial processes. Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.

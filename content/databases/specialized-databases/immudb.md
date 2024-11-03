@@ -6,7 +6,7 @@ content:
   name: ImmuDB
   logo: /images/databases/specialized-databases/immudb/logo.png
   website: https://codenotary.com/technologies/immudb/
-  iframe_website: /website-iframe/databases/specialized-databases/immudb
+  iframe_website: /website/databases/specialized-databases/immudb
   dashboardImage: /images/databases/specialized-databases/immudb/screenshot-1.png
   short_description: immutable ledger database based on zero trust, SQL and Key-Value, tamperproof, data change history
   description: immudb is a immutable ledger database that has been developed with performance, scalability and versatility in mind. The user feedback has shown that they love the very high throughput and being able to store hashes as well as data. They see it as a great alternative to using a blockchain or ledger service.

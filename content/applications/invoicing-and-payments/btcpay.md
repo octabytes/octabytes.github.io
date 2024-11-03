@@ -6,7 +6,7 @@ content:
   name: BTCPay
   logo: /images/applications/invoicing-and-payments/btcpay/logo.png
   website: https://btcpayserver.org/
-  iframe_website: /website-iframe/applications/invoicing-and-payments/btcpay
+  iframe_website: /website/applications/invoicing-and-payments/btcpay
   dashboardImage: /images/applications/invoicing-and-payments/btcpay/screenshot-1.png
   short_description: Start Accepting Bitcoin Payments With 0% Fees & No Third-party
   description: "BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free."

@@ -6,7 +6,7 @@ content:
   name: Magento
   logo: /images/applications/e-commerce/magento/logo.png
   website: https://magento.com/
-  iframe_website: /website-iframe/applications/e-commerce/magento
+  iframe_website: /website/applications/e-commerce/magento
   dashboardImage: /images/applications/e-commerce/magento/screenshot-1.jpg
   short_description: Magento open-source software delivers basic e-commerce capabilities that allow you to build a unique online store from the ground up.
   description: Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony. Every year, Magento handles over $100 billion in gross merchandise volume.

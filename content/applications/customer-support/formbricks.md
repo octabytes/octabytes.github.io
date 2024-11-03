@@ -6,7 +6,7 @@ content:
   name: Formbricks
   logo: /images/applications/customer-support/formbricks/logo.png
   website: https://formbricks.com/
-  iframe_website: /website-iframe/applications/customer-support/formbricks
+  iframe_website: /website/applications/customer-support/formbricks
   dashboardImage: /images/applications/customer-support/formbricks/screenshot-1.png
   short_description: Formbricks is your go-to solution for in-product micro-surveys that will supercharge your product experience.
   description: Formbricks is your go-to solution for in-product micro-surveys that will supercharge your product experience. Use micro-surveys to target the right users at the right time without making surveys annoying.

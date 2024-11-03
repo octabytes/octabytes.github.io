@@ -6,7 +6,7 @@ content:
   name: PowerDNS
   logo: /images/hosting-and-infrastructure/infrastructure/powerdns/logo.png
   website: https://www.powerdns.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/infrastructure/powerdns
+  iframe_website: /website/hosting-and-infrastructure/infrastructure/powerdns
   dashboardImage: /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
   short_description: PowerDNS is a premier supplier of open-source DNS software, services and support.
   description: PowerDNS is a DNS server program, written in C++ and licensed under the GPL. It runs on most Unix derivatives. It features a large number of backends ranging from simple BIND style zonefiles to relational databases and load-balancing/failover algorithms.

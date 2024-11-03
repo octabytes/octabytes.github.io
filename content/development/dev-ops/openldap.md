@@ -6,7 +6,7 @@ content:
   name: OpenLDAP
   logo: /images/development/dev-ops/openldap/logo.png
   website: https://www.openldap.org/
-  iframe_website: /website-iframe/development/dev-ops/openldap
+  iframe_website: /website/development/dev-ops/openldap
   dashboardImage: /images/development/dev-ops/openldap/screenshot-1.png
   short_description: OpenLDAP is a free, open-source implementation of the Lightweight Directory Access Protocol (LDAP)
   description: OpenLDAP has been one of the most popular choices for implementing the LDAP protocol since its inception in 1998. OpenLDAP often wins out over its competitors for its cost, flexibility, and OS-agnosticism
@@ -17,8 +17,8 @@ content:
       description: "phpLDAPadmin is a web based LDAP data management tool for system administrators. It is commonly known and referred by many as 'PLA'. A primary goal of PLA is to be as intuitive as possible - so it is certainly possible for end users to use it as well, for example, to manage their data in an LDAP server."
     - title: SSL/TLS support
       description: Can serve LDAP request with or without SSL/TSL, IPV6 is also supported
-    - title: 
-      description: 
+    - title:
+      description:
   screenshots:
     - /images/development/dev-ops/openldap/screenshot-1.png
     - /images/development/dev-ops/openldap/screenshot-2.jpg

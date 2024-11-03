@@ -6,7 +6,7 @@ content:
   name: Revolt
   logo: /images/applications/live-chat/revolt/logo.png
   website: https://revolt.chat/
-  iframe_website: /website-iframe/applications/live-chat/revolt
+  iframe_website: /website/applications/live-chat/revolt
   dashboardImage: /images/applications/live-chat/revolt/screenshot-1.png
   short_description: The Open Source Discord Alternative. Find your community, connect with the world
   description: Revolt is one of the best ways to stay connected with your friends and community without sacrificing any usability. We focus only on the user, and you can be sure that your conversations are confidential and your data is secure.

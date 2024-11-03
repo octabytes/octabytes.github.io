@@ -6,7 +6,7 @@ content:
   name: Cryptgeon
   logo: /images/applications/note-taking/cryptgeon/logo.png
   website: https://cryptgeon.org/
-  iframe_website: /website-iframe/applications/note-taking/cryptgeon
+  iframe_website: /website/applications/note-taking/cryptgeon
   dashboardImage: /images/applications/note-taking/cryptgeon/screenshot-1.png
   short_description: Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte.
   description: Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte.

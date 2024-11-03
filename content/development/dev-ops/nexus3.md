@@ -6,8 +6,8 @@ content:
   name: Nexus3
   logo: /images/development/dev-ops/nexus3/logo.png
   website: https://www.sonatype.com/products/repository-oss
-  iframe_website: /website-iframe/development/dev-ops/nexus3
-  dashboardImage: 
+  iframe_website: /website/development/dev-ops/nexus3
+  dashboardImage:
   short_description: The free artifact repository with universal format support.
   description: World’s #1 Repository Manager. Single source of truth for all of your components, binaries, and build artifacts. Efficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.
   features:
@@ -17,7 +17,7 @@ content:
       description: Streamline productivity by sharing components internally. Gain insight into component security, license and quality issues. Build off-line with remote package availability. Integrate with industry leading build tools.
     - title: World’s #1 Repository Manager
       description: Single source of truth for all of your components, binaries, and build artifacts. Efficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.
-    - title: 
-      description: 
+    - title:
+      description:
   screenshots:
 ---

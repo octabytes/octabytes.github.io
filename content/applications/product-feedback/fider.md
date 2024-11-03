@@ -6,7 +6,7 @@ content:
   name: Fider
   logo: /images/applications/product-feedback/fider/logo.png
   website: https://fider.io/
-  iframe_website: /website-iframe/applications/product-feedback/fider
+  iframe_website: /website/applications/product-feedback/fider
   dashboardImage: /images/applications/product-feedback/fider/screenshot-1.png
   short_description: Customer Feedback Made Easy
   description: Fider is a feedback portal that helps teams collect and prioritize customer feedback in one place, based on votes and ideas submitted. Share ideas, vote and discuss.

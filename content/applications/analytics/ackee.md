@@ -6,7 +6,7 @@ content:
   name: Ackee
   logo: /images/applications/analytics/ackee/logo.png
   website: https://ackee.electerious.com/
-  iframe_website: /website-iframe/applications/analytics/ackee
+  iframe_website: /website/applications/analytics/ackee
   dashboardImage: /images/applications/analytics/ackee/screenshot-1.jpg
   short_description: Ackee is a self-hosted, Node.js-based analytics tool for ensuring privacy.
   description: Ackee analyzes the traffic of your websites. It combines privacy-focused analytics and first-class insights in a minimal interface. The minimal UI allows you to analyze your data without losing focus. The multi-step anonymization process ensures that your users stay anonymous. Ackee is 100% open-source and self-hosted, to ensure complete transparency.

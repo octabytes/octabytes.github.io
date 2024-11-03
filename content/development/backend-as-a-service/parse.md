@@ -6,7 +6,7 @@ content:
   name: Parse
   logo: /images/development/backend-as-a-service/parse/logo.png
   website: https://parseplatform.org/
-  iframe_website: /website-iframe/development/backend-as-a-service/parse
+  iframe_website: /website/development/backend-as-a-service/parse
   dashboardImage: /images/development/backend-as-a-service/parse/screenshot-1.png
   short_description: Parse Server is an open-source backend that can be deployed to any infrastructure that can run Node.js.
   description: An open-source backend, Parse Server enables you to build applications faster with object and file storage, user authentication, push notifications, dashboard and more out of the box. It that can be deployed to any infrastructure that can run Node.js. It uses MongoDB or PostgreSQL as a database. You can deploy and run Parse Server on your own infrastructure, and develop and test your app locally using Node.

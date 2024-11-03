@@ -6,7 +6,7 @@ content:
   name: TotaljsFlow
   logo: /images/development/nocode-lowcode/totaljsflow/logo.png
   website: https://www.totaljs.com/flow/
-  iframe_website: /website-iframe/development/nocode-lowcode/totaljsflow
+  iframe_website: /website/development/nocode-lowcode/totaljsflow
   dashboardImage: /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
   short_description: "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time."
   description: "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time."

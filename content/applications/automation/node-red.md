@@ -6,7 +6,7 @@ content:
   name: Node-red
   logo: /images/applications/automation/node-red/logo.png
   website: https://nodered.org/
-  iframe_website: /website-iframe/applications/automation/node-red
+  iframe_website: /website/applications/automation/node-red
   dashboardImage: /images/applications/automation/node-red/screenshot-1.jpg
   short_description: Node-RED is a low-code programming environment for event-driven applications.
   description: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. Its browser-based editor makes it easy to wire together flows. It lets you draw a visual representation of how messages should flow through the application.

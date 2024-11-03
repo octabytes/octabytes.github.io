@@ -6,7 +6,7 @@ content:
   name: Discourse
   logo: /images/applications/forum-community/discourse/logo.png
   website: https://www.discourse.org/plugins/github.html
-  iframe_website: /website-iframe/applications/forum-community/discourse
+  iframe_website: /website/applications/forum-community/discourse
   dashboardImage: /images/applications/forum-community/discourse/screenshot-1.jpg
   short_description: Discourse is an open-source discussion platform built for the next decade of the Internet.
   description: "Discourse is an open-source Internet forum and mailing-list management software application. It's an attempt to reimagine what a modern Internet discussion forum should be in a world of ubiquitous smartphones, tablets, Facebook and Twitter. You can use it as a mailing list, discussion forum, long-form chatroom, and more. It can be self-hosted."

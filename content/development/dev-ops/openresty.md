@@ -6,7 +6,7 @@ content:
   name: OpenResty
   logo: /images/development/dev-ops/openresty/logo.png
   website: https://openresty.org/
-  iframe_website: /website-iframe/development/dev-ops/openresty
+  iframe_website: /website/development/dev-ops/openresty
   dashboardImage: /images/development/dev-ops/openresty/screenshot-1.png
   short_description: A Fast and Scalable Web Platform by Extending NGINX with LuaJIT
   description: OpenResty is a full-fledged web platform that integrates our enhanced version of the Nginx core, our enhanced version of LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.

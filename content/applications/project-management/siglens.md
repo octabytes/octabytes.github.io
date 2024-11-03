@@ -6,7 +6,7 @@ content:
   name: SigLens
   logo: /images/applications/project-management/siglens/logo.png
   website: https://www.siglens.com/index.html
-  iframe_website: /website-iframe/applications/project-management/siglens
+  iframe_website: /website/applications/project-management/siglens
   dashboardImage: /images/applications/project-management/siglens/screenshot-1.png
   short_description: 100x Efficient Log Management than Splunk 🚀 Reduce your observability cost by 90%
   description: 100x Efficient Log Management than Splunk 🚀 Reduce your observability cost by 90% and Single Pane of Glass ( One UI, One database for logs, metrics, and traces.)

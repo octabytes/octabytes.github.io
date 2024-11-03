@@ -6,7 +6,7 @@ content:
   name: Rallly
   logo: /images/applications/calendar/rallly/logo.png
   website: https://rallly.co/
-  iframe_website: /website-iframe/applications/calendar/rallly
+  iframe_website: /website/applications/calendar/rallly
   dashboardImage: /images/applications/calendar/rallly/screenshot-1.webp
   short_description: Rallly is the Doodle alternative scheduling and collaboration tool designed to make organizing events and meetings easier.
   description: Rallly is the Doodle alternative scheduling and collaboration tool designed to make organizing events and meetings easier.

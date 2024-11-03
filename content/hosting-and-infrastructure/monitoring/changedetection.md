@@ -6,7 +6,7 @@ content:
   name: ChangeDetection
   logo: /images/hosting-and-infrastructure/monitoring/changedetection/logo.png
   website: https://github.com/dgtlmoon/changedetection.io
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/changedetection
+  iframe_website: /website/hosting-and-infrastructure/monitoring/changedetection
   dashboardImage: /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg
   short_description: Changedetection.io is an open source web page monitoring, notification and change detection.
   description: changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change.

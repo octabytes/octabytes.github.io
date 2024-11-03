@@ -6,7 +6,7 @@ content:
   name: Picoshare
   logo: /images/applications/forum-community/picoshare/logo.png
   website: https://pico.rocks/
-  iframe_website: /website-iframe/applications/forum-community/picoshare
+  iframe_website: /website/applications/forum-community/picoshare
   dashboardImage: /images/applications/forum-community/picoshare/screenshot-1.png
   short_description: PicoShare is a service for sharing images, videos, and other files.
   description: On PicoShare, only you can upload files. You can share links to those files with anyone, and they never have to sign up for an account.

@@ -6,7 +6,7 @@ content:
   name: Prestashop
   logo: /images/applications/e-commerce/prestashop/logo.png
   website: https://www.prestashop-project.org/
-  iframe_website: /website-iframe/applications/e-commerce/prestashop
+  iframe_website: /website/applications/e-commerce/prestashop
   dashboardImage: /images/applications/e-commerce/prestashop/screenshot-1.jpg
   short_description: The PrestaShop project is a universal open-source software platform to build your e-commerce solution.
   description: PrestaShop is a freemium, open source e-commerce platform. The software is published under the Open Software License. It is written in the PHP programming language with support for the MySQL database management system. It has a software dependency on the Symfony PHP framework.

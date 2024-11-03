@@ -6,7 +6,7 @@ content:
   name: Kellnr
   logo: /images/development/dev-ops/kellnr/logo.png
   website: https://kellnr.io/
-  iframe_website: /website-iframe/development/dev-ops/kellnr
+  iframe_website: /website/development/dev-ops/kellnr
   dashboardImage: /images/development/dev-ops/kellnr/screenshot-1.png
   short_description: Kellnr allows you to host private Rust crates on your hardware. You can also keep full control of your code at any time.
   description: Kellnr allows you to host private Rust crates on your hardware. You can also keep full control of your code at any time.

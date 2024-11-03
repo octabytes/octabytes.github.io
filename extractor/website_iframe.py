@@ -3,7 +3,7 @@ import json
 
 # Load JSON data
 input_file = './details/hosting-and-infrastructure.json'
-output_dir = '../content/website-iframe/hosting-and-infrastructure/'
+output_dir = '../content/website/hosting-and-infrastructure/'
 
 # Load JSON data
 with open(input_file, 'r', encoding='utf-8') as f:

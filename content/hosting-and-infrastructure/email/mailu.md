@@ -6,7 +6,7 @@ content:
   name: Mailu
   logo: /images/hosting-and-infrastructure/email/mailu/logo.png
   website: https://mailu.io
-  iframe_website: /website-iframe/hosting-and-infrastructure/email/mailu
+  iframe_website: /website/hosting-and-infrastructure/email/mailu
   dashboardImage: /images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg
   short_description: Mailu is an insular email distribution - mail server as Docker images
   description: Mailu is a simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.

@@ -6,7 +6,7 @@ content:
   name: Mastodon
   logo: /images/applications/forum-community/mastodon/logo.png
   website: https://mastodon.social
-  iframe_website: /website-iframe/applications/forum-community/mastodon
+  iframe_website: /website/applications/forum-community/mastodon
   dashboardImage: /images/applications/forum-community/mastodon/screenshot-1.jpg
   short_description: Mastodon is a free fediverse, open-source social network server with OpenSearch for indexing.
   description: "Mastodon is a free, open-source social network server where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. It comes with OpenSearch for indexing."

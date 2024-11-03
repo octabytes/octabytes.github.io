@@ -6,7 +6,7 @@ content:
   name: FrappeHR
   logo: /images/applications/crm-erp/frappehr/logo.png
   website: https://frappehr.com/
-  iframe_website: /website-iframe/applications/crm-erp/frappehr
+  iframe_website: /website/applications/crm-erp/frappehr
   dashboardImage: /images/applications/crm-erp/frappehr/screenshot-1.png
   short_description: Frappe HR (ERPNext HRMS) is a user-friendly solution designed to streamline HR and payroll operations, driving excellence within your team.
   description: Frappe HR (ERPNext HRMS) is a 100% open-source, modern, user-friendly solution to drive excellence within your team. Simplify your HR and Payroll operations with a product crafted as per your needs.

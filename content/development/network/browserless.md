@@ -6,7 +6,7 @@ content:
   name: Browserless
   logo: /images/development/network/browserless/logo.png
   website: https://www.browserless.io/
-  iframe_website: /website-iframe/development/network/browserless
+  iframe_website: /website/development/network/browserless
   dashboardImage: /images/development/network/browserless/screenshot-1.jpg
   short_description: Browserless provides fast, scalable, reliable web browser automation.
   description: Web browser automation built for everyone, and loved by developers. Fast, scalable, and reliable web browser automation. Make web automation your competitive advantage, not a liability.

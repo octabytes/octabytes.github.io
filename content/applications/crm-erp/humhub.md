@@ -6,7 +6,7 @@ content:
   name: HumHub
   logo: /images/applications/crm-erp/humhub/logo.png
   website: https://www.humhub.com/en/
-  iframe_website: /website-iframe/applications/crm-erp/humhub
+  iframe_website: /website/applications/crm-erp/humhub
   dashboardImage: /images/applications/crm-erp/humhub/screenshot-1.png
   short_description: HumHub to communicate and collaborate, share information, interact with all people in your organization, and personalize the software to fit your individual needs.
   description: HumHub enables organizations to connect, communicate, and collaborate. it is intuitive to use, can be extended individually with numerous modules, and is an irreplaceable tool for many use cases. Users of it include companies and corporations, cities and municipalities, social and charitable institutions, foundations and clubs, associations, political parties, and educational institutions such as schools and universities.

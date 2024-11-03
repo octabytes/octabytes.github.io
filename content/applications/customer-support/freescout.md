@@ -6,7 +6,7 @@ content:
   name: FreeScout
   logo: /images/applications/customer-support/freescout/logo.png
   website: https://freescout.net/
-  iframe_website: /website-iframe/applications/customer-support/freescout
+  iframe_website: /website/applications/customer-support/freescout
   dashboardImage: /images/applications/customer-support/freescout/screenshot-1.jpg
   short_description: FreeScout is a free self-hosted help desk & shared mailbox.
   description: "FreeScout is the super lightweight and powerful free open source help desk and shared inbox written in PHP (Laravel framework). It is a self hosted clone of HelpScout. Now you can enjoy free Zendesk & Help Scout without giving up privacy or locking you into a service you don't control."

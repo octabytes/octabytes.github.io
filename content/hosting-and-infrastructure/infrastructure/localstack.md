@@ -6,7 +6,7 @@ content:
   name: LocalStack
   logo: /images/hosting-and-infrastructure/infrastructure/localstack/logo.png
   website: https://localstack.cloud/
-  iframe_website: /website-iframe/hosting-and-infrastructure/infrastructure/localstack
+  iframe_website: /website/hosting-and-infrastructure/infrastructure/localstack
   dashboardImage: /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
   short_description: A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!
   description: LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment.

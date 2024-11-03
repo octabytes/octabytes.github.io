@@ -6,7 +6,7 @@ content:
   name: Crater
   logo: /images/applications/invoicing-and-payments/crater/logo.png
   website: https://crater.financial/
-  iframe_website: /website-iframe/applications/invoicing-and-payments/crater
+  iframe_website: /website/applications/invoicing-and-payments/crater
   dashboardImage: /images/applications/invoicing-and-payments/crater/screenshot-1.png
   short_description: Crater helps you track expenses, and payments & create professional invoices & estimates.
   description: Crater helps you track expenses, and payments & create professional invoices & estimates.

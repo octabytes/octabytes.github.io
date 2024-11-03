@@ -6,7 +6,7 @@ content:
   name: Matomo
   logo: /images/applications/analytics/matomo/logo.png
   website: https://matomo.org/
-  iframe_website: /website-iframe/applications/analytics/matomo
+  iframe_website: /website/applications/analytics/matomo
   dashboardImage: /images/applications/analytics/matomo/screenshot-1.jpg
   short_description: Matomo is a full-featured PHP MySQL software program that you download and install on your own webserver
   description: Matomo is a full-featured PHP MySQL software program that you download and install on your own webserver. At the end of the five-minute installation process, you will be given a JavaScript code. Simply copy and paste this tag on websites you wish to track and access your analytics reports in real-time.

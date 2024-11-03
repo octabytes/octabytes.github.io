@@ -6,7 +6,7 @@ content:
   name: SFTPGo
   logo: /images/hosting-and-infrastructure/storage/sftpgo/logo.png
   website: https://github.com/drakkan/sftpgo
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/sftpgo
+  iframe_website: /website/hosting-and-infrastructure/storage/sftpgo
   dashboardImage: /images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png
   short_description: Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support
   description: "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP."

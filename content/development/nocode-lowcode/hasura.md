@@ -6,7 +6,7 @@ content:
   name: Hasura
   logo: /images/development/nocode-lowcode/hasura/logo.png
   website: https://hasura.io/
-  iframe_website: /website-iframe/development/nocode-lowcode/hasura
+  iframe_website: /website/development/nocode-lowcode/hasura
   dashboardImage: /images/development/nocode-lowcode/hasura/screenshot-1.jpg
   short_description: Hasura GraphQL Engine is an open-source product that connects to your databases & services and gives you a realtime GraphQL API, instantly.
   description: Hasura GraphQL Engine is an open-source product that connects to your databases & services and gives you a real-time GraphQL API, instantly.

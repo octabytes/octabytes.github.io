@@ -6,7 +6,7 @@ content:
   name: Vikunja
   logo: /images/applications/note-taking/vikunja/logo.png
   website: https://vikunja.io/
-  iframe_website: /website-iframe/applications/note-taking/vikunja
+  iframe_website: /website/applications/note-taking/vikunja
   dashboardImage: /images/applications/note-taking/vikunja/screenshot-1.webp
   short_description: The open-source to-do app. Organize everything, on all platforms.
   description: The open-source to-do app. Organize everything, on all platforms.

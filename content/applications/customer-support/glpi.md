@@ -6,7 +6,7 @@ content:
   name: GLPI
   logo: /images/applications/customer-support/glpi/logo.png
   website: https://glpi-project.org/
-  iframe_website: /website-iframe/applications/customer-support/glpi
+  iframe_website: /website/applications/customer-support/glpi
   dashboardImage: /images/applications/customer-support/glpi/screenshot-1.png
   short_description: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
   description: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking, and software auditing.

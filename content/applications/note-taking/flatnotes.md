@@ -6,7 +6,7 @@ content:
   name: Flatnotes
   logo: /images/applications/note-taking/flatnotes/logo.png
   website: https://github.com/dullage/flatnotes
-  iframe_website: /website-iframe/applications/note-taking/flatnotes
+  iframe_website: /website/applications/note-taking/flatnotes
   dashboardImage: /images/applications/note-taking/flatnotes/screenshot-1.png
   short_description: A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage.
   description: A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage.

@@ -6,7 +6,7 @@ content:
   name: Nomad
   logo: /images/hosting-and-infrastructure/containers/nomad/logo.png
   website: https://www.nomadproject.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/containers/nomad
+  iframe_website: /website/hosting-and-infrastructure/containers/nomad
   dashboardImage: /images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg
   short_description: Nomad is a scheduler and workload orchestrator.
   description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.

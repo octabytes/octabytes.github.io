@@ -6,7 +6,7 @@ content:
   name: Immich
   logo: /images/hosting-and-infrastructure/storage/immich/logo.png
   website: https://immich.app/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/immich
+  iframe_website: /website/hosting-and-infrastructure/storage/immich
   dashboardImage: /images/hosting-and-infrastructure/storage/immich/screenshot-1.png
   short_description: Self-hosted photo and video backup solution directly from your mobile phone.
   description: Immich is a promising self-hosted alternative to Google Photos. Its UI and features are clearly heavily inspired by Google Photos, and like Photoprism, Immich uses Tensorflow-based machine learning to auto-tag your photos!

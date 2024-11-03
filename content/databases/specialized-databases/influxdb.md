@@ -6,7 +6,7 @@ content:
   name: InfluxDB
   logo: /images/databases/specialized-databases/influxdb/logo.png
   website: https://www.influxdata.com/
-  iframe_website: /website-iframe/databases/specialized-databases/influxdb
+  iframe_website: /website/databases/specialized-databases/influxdb
   dashboardImage: /images/databases/specialized-databases/influxdb/screenshot-1.jpg
   short_description: InfluxDB is a scalable datastore that empowers developers to build IoT, analytics and monitoring software.
   description: InfluxDB is a time series platform for building real-time applications for analytics, IoT and cloud-native services in less time and with less code, using InfluxDB. At its heart is a database purpose-built to handle the huge volumes and countless sources of time-stamped data produced by sensors, applications and infrastructure.

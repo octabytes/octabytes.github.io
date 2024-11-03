@@ -6,7 +6,7 @@ content:
   name: Mage AI
   logo: /images/development/dev-ops/mage/logo.png
   website: https://www.mage.ai/
-  iframe_website: /website-iframe/development/dev-ops/mage
+  iframe_website: /website/development/dev-ops/mage
   dashboardImage: /images/development/dev-ops/mage/screenshot-1.jpg
   short_description: The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
   description: The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.

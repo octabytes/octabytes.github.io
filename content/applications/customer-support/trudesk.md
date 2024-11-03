@@ -6,7 +6,7 @@ content:
   name: Trudesk
   logo: /images/applications/customer-support/trudesk/logo.png
   website: https://trudesk.io/
-  iframe_website: /website-iframe/applications/customer-support/trudesk
+  iframe_website: /website/applications/customer-support/trudesk
   dashboardImage: /images/applications/customer-support/trudesk/screenshot-1.png
   short_description: Trudesk is an open-source help desk/ticketing solution.
   description: Quickly resolve issues & task with an easy-to-use solution. Built with one goal in mind, to keep work loads organized and simple. This is the source for Trudesk Community Edition.

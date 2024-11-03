@@ -6,7 +6,7 @@ content:
   name: Wekan
   logo: /images/applications/project-management/wekan/logo.png
   website: https://wekan.github.io/
-  iframe_website: /website-iframe/applications/project-management/wekan
+  iframe_website: /website/applications/project-management/wekan
   dashboardImage: /images/applications/project-management/wekan/screenshot-1.png
   short_description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.
   description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.

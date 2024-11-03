@@ -6,7 +6,7 @@ content:
   name: MantisBT
   logo: /images/applications/customer-support/mantisbt/logo.png
   website: https://www.mantisbt.org/
-  iframe_website: /website-iframe/applications/customer-support/mantisbt
+  iframe_website: /website/applications/customer-support/mantisbt
   dashboardImage: /images/applications/customer-support/mantisbt/screenshot-1.png
   short_description: MantisBT makes collaboration with team members & clients easy, fast, and professional
   description: MantisBT is an open source issue tracker that provides a delicate balance between simplicity and power. Users are able to get started in minutes and start managing their projects while collaborating with their teammates and clients effectively. Once you start using it, you will never go back!

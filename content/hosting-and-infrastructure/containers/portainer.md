@@ -6,7 +6,7 @@ content:
   name: Portainer
   logo: /images/hosting-and-infrastructure/containers/portainer/logo.png
   website: https://www.portainer.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/containers/portainer
+  iframe_website: /website/hosting-and-infrastructure/containers/portainer
   dashboardImage: /images/hosting-and-infrastructure/containers/portainer/screenshot-1.png
   short_description: Portainer is a centralized service delivery platform for containerized apps.
   description: Portainer is a lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. Portainer is meant to be as simple to deploy as it is to use. It consists of a single container that can run on any Docker engine (Docker for Linux and Docker for Windows are supported).

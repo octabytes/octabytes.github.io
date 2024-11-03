@@ -6,7 +6,7 @@ content:
   name: HAProxy
   logo: /images/hosting-and-infrastructure/infrastructure/haproxy/logo.png
   website: https://www.haproxy.org/
-  iframe_website: /website-iframe/hosting-and-infrastructure/infrastructure/haproxy
+  iframe_website: /website/hosting-and-infrastructure/infrastructure/haproxy
   dashboardImage: /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png
   short_description: The Reliable, High Performance TCP/HTTP Load Balancer
   description: "HAProxy is a free, very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers a significant portion of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer."

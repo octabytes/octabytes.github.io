@@ -6,7 +6,7 @@ content:
   name: Ubuntu-Desktop
   logo: /images/development/dev-ops/ubuntu-desktop/logo.png
   website: https://ubuntu.com/download/desktop
-  iframe_website: /website-iframe/development/dev-ops/ubuntu-desktop
+  iframe_website: /website/development/dev-ops/ubuntu-desktop
   dashboardImage: /images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg
   short_description: Ubuntu Virtual Desktop experience in your browser
   description: "Ubuntu Virtual Desktop by Elestio comes with several softwares pre-installed: Chrome, Firefox, VS Code, Telegram, Thunderbird, Wine (Windows compatibility, you can install/run any windows program)."

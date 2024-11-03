@@ -6,7 +6,7 @@ content:
   name: Kestra
   logo: /images/development/dev-ops/kestra/logo.png
   website: https://kestra.io/
-  iframe_website: /website-iframe/development/dev-ops/kestra
+  iframe_website: /website/development/dev-ops/kestra
   dashboardImage: /images/development/dev-ops/kestra/screenshot-1.jpg
   short_description: The open source data orchestration and scheduling platform.
   description: Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. The open source data orchestration and scheduling platform.

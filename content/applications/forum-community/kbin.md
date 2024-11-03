@@ -6,7 +6,7 @@ content:
   name: KBIN
   logo: /images/applications/forum-community/kbin/logo.png
   website: https://kbin.pub
-  iframe_website: /website-iframe/applications/forum-community/kbin
+  iframe_website: /website/applications/forum-community/kbin
   dashboardImage: /images/applications/forum-community/kbin/screenshot-1.jpeg
   short_description: A reddit-like content aggregator and micro-blogging platform for the fediverse.
   description: Kbin is a decentralized content aggregator and microblogging platform running on the Fediverse network. It can communicate with many other ActivityPub services, including Mastodon, Lemmy, Pleroma, Peertube. Create and moderate communities, meet people with similar interests, and develop your passions.

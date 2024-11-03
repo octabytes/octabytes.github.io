@@ -6,7 +6,7 @@ content:
   name: ILLA
   logo: /images/development/nocode-lowcode/illa/logo.png
   website: https://www.illacloud.com/
-  iframe_website: /website-iframe/development/nocode-lowcode/illa
+  iframe_website: /website/development/nocode-lowcode/illa
   dashboardImage: /images/development/nocode-lowcode/illa/screenshot-1.png
   short_description: ILLA Cloud is a low-code platform. Anyone can build internal tools with ILLA Cloud in minutes.
   description: ILLA Cloud is a low-code platform. Anyone can build internal tools with ILLA Cloud in minutes.

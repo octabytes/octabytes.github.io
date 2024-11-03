@@ -6,7 +6,7 @@ content:
   name: Knime
   logo: /images/applications/analytics/knime/logo.png
   website: https://github.com/elestio/docker-desktop-vnc-knime
-  iframe_website: /website-iframe/applications/analytics/knime
+  iframe_website: /website/applications/analytics/knime
   dashboardImage: /images/applications/analytics/knime/screenshot-1.jpg
   short_description: KNIME Analytics Platform
   description: KNIME Analytics Platform is the open source software for creating data science. Intuitive, open, and continuously integrating new developments, KNIME makes understanding data and designing data science workflows and reusable components accessible to everyone.

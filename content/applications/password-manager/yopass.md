@@ -6,7 +6,7 @@ content:
   name: Yopass
   logo: /images/applications/password-manager/yopass/logo.png
   website: https://yopass.se/
-  iframe_website: /website-iframe/applications/password-manager/yopass
+  iframe_website: /website/applications/password-manager/yopass
   dashboardImage: /images/applications/password-manager/yopass/screenshot-1.png
   short_description: Yopass encryption mechanisms are built on open-source software meaning full transparency with the possibility to audit and submit features.
   description: Yopass encryption mechanisms are built on open-source software meaning full transparency with the possibility to audit and submit features.

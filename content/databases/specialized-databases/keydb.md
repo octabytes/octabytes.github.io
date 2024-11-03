@@ -6,7 +6,7 @@ content:
   name: KeyDB
   logo: /images/databases/specialized-databases/keydb/logo.png
   website: https://docs.keydb.dev/docs/cluster-tutorial/
-  iframe_website: /website-iframe/databases/specialized-databases/keydb
+  iframe_website: /website/databases/specialized-databases/keydb
   dashboardImage: /images/databases/specialized-databases/keydb/screenshot-1.jpg
   short_description: KeyDB is both your cache and database, for cloud-optimized solutions.
   description: KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis. KeyDB is meant to handle heavy workloads with a single node benchmarking at over 1 million ops/sec. KeyDB is a multithreaded database and will outperform Redis on a per-node basis. By keeping data in-memory, KeyDB can serve up data with submillisecond latencies.

@@ -6,7 +6,7 @@ content:
   name: Huginn
   logo: /images/applications/automation/huginn/logo.png
   website: https://github.com/huginn/huginn
-  iframe_website: /website-iframe/applications/automation/huginn
+  iframe_website: /website/applications/automation/huginn
   dashboardImage: /images/applications/automation/huginn/screenshot-1.jpg
   short_description: Huginn is a tool in the Web Service Automation category of a tech stack.
   description: "Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph. Think of it as a hackable version of IFTTT or Zapier on your own server. You always know who has your data. You do."

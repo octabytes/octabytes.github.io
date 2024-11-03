@@ -6,7 +6,7 @@ content:
   name: KeeWeb
   logo: /images/applications/password-manager/keeweb/logo.png
   website: https://keeweb.info/
-  iframe_website: /website-iframe/applications/password-manager/keeweb
+  iframe_website: /website/applications/password-manager/keeweb
   dashboardImage: /images/applications/password-manager/keeweb/screenshot-1.jpg
   short_description: KeeWeb is a free, open-source password manager, available as a web version and as a desktop app.
   description: KeeWeb is a free and open-source password manager compatible with KeePass, available as a web version and desktop apps. The underlying file format is KDBX

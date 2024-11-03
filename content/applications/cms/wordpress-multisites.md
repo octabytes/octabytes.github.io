@@ -6,7 +6,7 @@ content:
   name: Wordpress-Multisites
   logo: /images/applications/cms/wordpress-multisites/logo.png
   website: https://wordpress.org
-  iframe_website: /website-iframe/applications/cms/wordpress-multisites
+  iframe_website: /website/applications/cms/wordpress-multisites
   dashboardImage: /images/applications/cms/wordpress-multisites/screenshot-1.png
   short_description: WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress.
   description: WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Multisite is a type of WordPress installation that allows you to create and manage a network of multiple websites from a single WordPress dashboard. This lets you easily make changes and keep your websites updated from one place. You can create a multisite network alone or add other users who can create their own sites inside your network, limiting them from accessing more powerful WordPress features.

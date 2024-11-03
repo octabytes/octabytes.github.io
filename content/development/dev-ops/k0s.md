@@ -6,8 +6,8 @@ content:
   name: k0s
   logo: /images/development/dev-ops/k0s/logo.png
   website: https://k0sproject.io/
-  iframe_website: /website-iframe/development/dev-ops/k0s
-  dashboardImage: 
+  iframe_website: /website/development/dev-ops/k0s
+  dashboardImage:
   short_description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
   description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
   features:

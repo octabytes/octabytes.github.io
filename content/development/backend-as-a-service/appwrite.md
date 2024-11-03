@@ -6,7 +6,7 @@ content:
   name: Appwrite
   logo: /images/development/backend-as-a-service/appwrite/logo.png
   website: https://appwrite.io/
-  iframe_website: /website-iframe/development/backend-as-a-service/appwrite
+  iframe_website: /website/development/backend-as-a-service/appwrite
   dashboardImage: /images/development/backend-as-a-service/appwrite/screenshot-1.png
   short_description: Appwrite provides developers with a set of REST APIs to manage their core backend needs.
   description: Appwrite is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs. You can easily integrate your app with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, Cloud Functions, and more services.

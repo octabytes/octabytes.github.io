@@ -6,7 +6,7 @@ content:
   name: MinIO
   logo: /images/hosting-and-infrastructure/storage/minio/logo.png
   website: https://min.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/minio
+  iframe_website: /website/hosting-and-infrastructure/storage/minio
   dashboardImage: /images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg
   short_description: MinIO is a leader in hybrid cloud and multi-cloud object storage.
   description: MinIO supports the widest range of use cases across the largest number of environments. Cloud native since inception, its software-defined suite runs seamlessly in the public cloud, private cloud and at the edge. With industry-leading performance and scalability, MinIO can deliver a range of use cases from AI/ML, analytics, backup/restore and modern web and mobile apps.

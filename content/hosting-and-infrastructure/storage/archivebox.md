@@ -6,7 +6,7 @@ content:
   name: ArchiveBox
   logo: /images/hosting-and-infrastructure/storage/archivebox/logo.png
   website: https://archivebox.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/archivebox
+  iframe_website: /website/hosting-and-infrastructure/storage/archivebox
   dashboardImage: /images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png
   short_description: ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
   description: ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.

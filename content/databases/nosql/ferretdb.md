@@ -6,7 +6,7 @@ content:
   name: FerretDB
   logo: /images/databases/nosql/ferretdb/logo.png
   website: https://www.ferretdb.com/
-  iframe_website: /website-iframe/databases/nosql/ferretdb
+  iframe_website: /website/databases/nosql/ferretdb
   dashboardImage: /images/databases/nosql/ferretdb/screenshot-1.png
   short_description: Documents DB, built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.
   description: Documents DB built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.

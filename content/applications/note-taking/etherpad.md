@@ -6,7 +6,7 @@ content:
   name: Etherpad
   logo: /images/applications/note-taking/etherpad/logo.png
   website: https://etherpad.org/
-  iframe_website: /website-iframe/applications/note-taking/etherpad
+  iframe_website: /website/applications/note-taking/etherpad
   dashboardImage: /images/applications/note-taking/etherpad/screenshot-1.png
   short_description: Etherpad is a highly customizable open source online editor providing collaborative editing in really real-time.
   description: Etherpad allows you to edit documents collaboratively in real-time, much like a live multi-player editor that runs in your browser. Write articles, press releases, to-do lists, etc. together with your friends, fellow students or colleagues, all working on the same document at the same time.

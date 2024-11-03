@@ -6,7 +6,7 @@ content:
   name: Wikijs
   logo: /images/applications/documentation/wikijs/logo.png
   website: https://js.wiki/
-  iframe_website: /website-iframe/applications/documentation/wikijs
+  iframe_website: /website/applications/documentation/wikijs
   dashboardImage: /images/applications/documentation/wikijs/screenshot-1.jpg
   short_description: Wikijs is a powerful open-source wiki app built on Node.js, Git and Markdown.
   description: Wiki.js, a wiki engine running on Node.js and written in JavaScript, is free software released under the Affero GNU General Public License. It is available as a self-hosted solution or using single-click install on the DigitalOcean and AWS marketplace

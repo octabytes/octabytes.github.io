@@ -6,7 +6,7 @@ content:
   name: Pritunl
   logo: /images/development/network/pritunl/logo.png
   website: https://pritunl.com/
-  iframe_website: /website-iframe/development/network/pritunl
+  iframe_website: /website/development/network/pritunl
   dashboardImage: /images/development/network/pritunl/screenshot-1.png
   short_description: Best open-source alternative to proprietary commercial VPN products such as Aviatrix and Pulse Secure.
   description: Pritunl is the best open-source alternative to proprietary commercial VPN products such as Aviatrix and Pulse Secure. It is an Enterprise Distributed OpenVPN, IPsec, and WireGuard Server that Virtualizes your private networks across data centers and provides simple remote access in minutes.

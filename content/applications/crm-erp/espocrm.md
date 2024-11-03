@@ -6,7 +6,7 @@ content:
   name: EspoCRM
   logo: /images/applications/crm-erp/espocrm/logo.png
   website: https://www.espocrm.com/
-  iframe_website: /website-iframe/applications/crm-erp/espocrm
+  iframe_website: /website/applications/crm-erp/espocrm
   dashboardImage: /images/applications/crm-erp/espocrm/screenshot-1.png
   short_description: EspoCRM is a web application that allows users to see, enter and evaluate all your company relationships regardless of the type.
   description: EspoCRM is a web application that allows users to see, enter and evaluate all your company relationships regardless of the type. People, companies, projects or opportunities — all in an easy and intuitive interface.

@@ -6,7 +6,7 @@ content:
   name: Taiga
   logo: /images/applications/project-management/taiga/logo.png
   website: https://www.taiga.io/
-  iframe_website: /website-iframe/applications/project-management/taiga
+  iframe_website: /website/applications/project-management/taiga
   dashboardImage: /images/applications/project-management/taiga/screenshot-1.jpg
   short_description: Your Agile, Free and Open Source Project Management Tool
   description: Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.

@@ -6,7 +6,7 @@ content:
   name: Shopware
   logo: /images/applications/e-commerce/shopware/logo.png
   website: https://www.shopware.com/
-  iframe_website: /website-iframe/applications/e-commerce/shopware
+  iframe_website: /website/applications/e-commerce/shopware
   dashboardImage: /images/applications/e-commerce/shopware/screenshot-1.png
   short_description: Shopware is a modern eCommerce platform connecting enterprise-level capabilities with flexibility
   description: Comprehensive ecommerce solutions for all your B2C and B2B needs. Powered by the leading open commerce platform. Elevate your business with maximum flexibility, full scalability, and expert support every step of the way

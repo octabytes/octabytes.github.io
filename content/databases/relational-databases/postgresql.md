@@ -6,7 +6,7 @@ content:
   name: PostgreSQL
   logo: /images/databases/relational-databases/postgresql/logo.png
   website: https://www.postgresql.org/
-  iframe_website: /website-iframe/databases/relational-databases/postgresql
+  iframe_website: /website/databases/relational-databases/postgresql
   dashboardImage: /images/databases/relational-databases/postgresql/screenshot-1.jpg
   short_description: PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.
   description: PostgreSQL is a powerful, open-source, object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. It has a strong reputation for its architecture, reliability, data integrity, robust feature set and extensibility. It runs on all major operating systems, is ACID-compliant, and has powerful add-ons such as the PostGIS geospatial database extender.

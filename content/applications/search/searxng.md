@@ -6,7 +6,7 @@ content:
   name: SearXNG
   logo: /images/applications/search/searxng/logo.png
   website: https://docs.searxng.org/index.html#
-  iframe_website: /website-iframe/applications/search/searxng
+  iframe_website: /website/applications/search/searxng
   dashboardImage: /images/applications/search/searxng/screenshot-1.png
   short_description: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
   description: SearXNG is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, SearXNG can be used over Tor for online anonymity.

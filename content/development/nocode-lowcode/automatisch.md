@@ -6,7 +6,7 @@ content:
   name: Automatisch
   logo: /images/development/nocode-lowcode/automatisch/logo.png
   website: https://automatisch.io/
-  iframe_website: /website-iframe/development/nocode-lowcode/automatisch
+  iframe_website: /website/development/nocode-lowcode/automatisch
   dashboardImage: /images/development/nocode-lowcode/automatisch/screenshot-1.png
   short_description: Automatisch helps you to automate your business processes without coding. Use our affordable cloud solution or self-host on your own servers.
   description: Automatisch helps you to automate your business processes without coding. Use our affordable cloud solution or self-host on your own servers and the best open-source Zapier alternative. Build workflow automation without spending time and money.

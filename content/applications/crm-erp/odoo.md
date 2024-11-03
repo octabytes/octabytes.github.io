@@ -6,7 +6,7 @@ content:
   name: Odoo ERP & CRM
   logo: /images/applications/crm-erp/odoo/logo.png
   website: https://www.odoo.com/
-  iframe_website: /website-iframe/applications/crm-erp/odoo
+  iframe_website: /website/applications/crm-erp/odoo
   dashboardImage: /images/applications/crm-erp/odoo/screenshot-1.jpg
   short_description: Odoo is a suite of web-based, open-source business apps.
   description: "Odoo's suite of open-source business apps covers a wide range of needs, including CRM, e-commerce, accounting, inventory, billing, point of sale and project management. It is very easy to use and fully integrated."

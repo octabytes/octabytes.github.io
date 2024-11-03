@@ -6,7 +6,7 @@ content:
   name: Dittofeed
   logo: /images/applications/customer-support/dittofeed/logo.png
   website: https://dittofeed.com/
-  iframe_website: /website-iframe/applications/customer-support/dittofeed
+  iframe_website: /website/applications/customer-support/dittofeed
   dashboardImage: /images/applications/customer-support/dittofeed/screenshot-1.png
   short_description: Automate communications with customers. Give data control to your growth engineers.
   description: Automate communications with customers. Give data control to your growth engineers. Simplify workflows for your entire growth team.

@@ -6,7 +6,7 @@ content:
   name: Zitadel
   logo: /images/development/identity-and-access-management/zitadel/logo.png
   website: https://zitadel.com/
-  iframe_website: /website-iframe/development/identity-and-access-management/zitadel
+  iframe_website: /website/development/identity-and-access-management/zitadel
   dashboardImage: /images/development/identity-and-access-management/zitadel/screenshot-1.png
   short_description: Zitadel is a cloud-native Identity & Access Management platform built for the cloud era.
   description: ZITADEL gives developers all they need to integrate identity management. Easy as pie. Ready when you are — because serverless. At yours or ours — because of the open source.

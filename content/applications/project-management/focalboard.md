@@ -6,7 +6,7 @@ content:
   name: FocalBoard
   logo: /images/applications/project-management/focalboard/logo.png
   website: https://www.focalboard.com/
-  iframe_website: /website-iframe/applications/project-management/focalboard
+  iframe_website: /website/applications/project-management/focalboard
   dashboardImage: /images/applications/project-management/focalboard/screenshot-1.jpeg
   short_description: Project & Task Management for Software Development Teams
   description: Focalboard is an open source alternative to tools like Asana, Trello, and Notion. Available as a stand-alone application or integrated into the Mattermost platform, Focalboard helps developers stay aligned to complete tasks, reach milestones, and achieve their goals.

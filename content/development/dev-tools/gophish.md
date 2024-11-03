@@ -6,7 +6,7 @@ content:
   name: Gophish
   logo: /images/development/dev-tools/gophish/logo.png
   website: https://getgophish.com/
-  iframe_website: /website-iframe/development/dev-tools/gophish
+  iframe_website: /website/development/dev-tools/gophish
   dashboardImage: /images/development/dev-tools/gophish/screenshot-1.png
   short_description: "A powerful phishing framework that makes it easy to test your organization's exposure to phishing."
   description: "Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing."

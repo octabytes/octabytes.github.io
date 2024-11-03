@@ -6,7 +6,7 @@ content:
   name: Gotify
   logo: /images/development/network/gotify/logo.png
   website: https://gotify.net/
-  iframe_website: /website-iframe/development/network/gotify
+  iframe_website: /website/development/network/gotify
   dashboardImage: /images/development/network/gotify/screenshot-1.jpg
   short_description: Gotify is a free and simple server for sending and receiving messages.
   description: Gotify is a server for sending and receiving messages in real time per web socket. This app subscribes to the web socket and creates push notifications on new messages. The heart of Gotify, gotify/server, features a WebUI and functionality for sending messages via a REST-API, subscribing/receiving messages via a web socket connection, and managing users, clients and applications.

@@ -6,7 +6,7 @@ content:
   name: Listmonk
   logo: /images/applications/email-marketing/listmonk/logo.png
   website: https://listmonk.app/
-  iframe_website: /website-iframe/applications/email-marketing/listmonk
+  iframe_website: /website/applications/email-marketing/listmonk
   dashboardImage: /images/applications/email-marketing/listmonk/screenshot-1.png
   short_description: Listmonk is a self-hosted, high performance mailing list and newsletter manager
   description: Self-hosted newsletter and mailing list manager. Performance and features packed into a single binary. Free and open source.

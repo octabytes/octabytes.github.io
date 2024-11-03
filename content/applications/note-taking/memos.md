@@ -6,7 +6,7 @@ content:
   name: Memos
   logo: /images/applications/note-taking/memos/logo.png
   website: https://usememos.com/
-  iframe_website: /website-iframe/applications/note-taking/memos
+  iframe_website: /website/applications/note-taking/memos
   dashboardImage: /images/applications/note-taking/memos/screenshot-1.webp
   short_description: A lightweight, self-hosted memo hub. Open Source and Free forever.
   description: A lightweight, self-hosted memo hub. Open Source and Free forever. It provides the privacy, security, and reliability that innovators need in their moments of inspiration.

@@ -6,7 +6,7 @@ content:
   name: Ghost
   logo: /images/applications/cms/ghost/logo.png
   website: https://ghost.org/
-  iframe_website: /website-iframe/applications/cms/ghost
+  iframe_website: /website/applications/cms/ghost
   dashboardImage: /images/applications/cms/ghost/screenshot-1.jpg
   short_description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content.
   description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members. Publish by web & email newsletter.

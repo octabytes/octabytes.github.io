@@ -6,7 +6,7 @@ content:
   name: Nextcloud
   logo: /images/hosting-and-infrastructure/storage/nextcloud/logo.png
   website: https://nextcloud.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/nextcloud
+  iframe_website: /website/hosting-and-infrastructure/storage/nextcloud
   dashboardImage: /images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg
   short_description: Nextcloud provides an industry-leading, on-premises content collaboration platform.
   description: Nextcloud is a self-hosted productivity platform that combines the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy, and control that business needs.

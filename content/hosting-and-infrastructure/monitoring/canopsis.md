@@ -6,7 +6,7 @@ content:
   name: Canopsis
   logo: /images/hosting-and-infrastructure/monitoring/canopsis/logo.png
   website: https://www.capensis.fr/canopsis/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/canopsis
+  iframe_website: /website/hosting-and-infrastructure/monitoring/canopsis
   dashboardImage: /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png
   short_description: The first open-source hypervision solution
   description: Mass centralization of multisource events. Automatic actions, semi-automatic and user interventions on the events. Customizable table tops real time dashboards.

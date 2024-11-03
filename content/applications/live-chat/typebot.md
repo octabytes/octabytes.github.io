@@ -6,7 +6,7 @@ content:
   name: Typebot
   logo: /images/applications/live-chat/typebot/logo.png
   website: https://www.typebot.io/
-  iframe_website: /website-iframe/applications/live-chat/typebot
+  iframe_website: /website/applications/live-chat/typebot
   dashboardImage: /images/applications/live-chat/typebot/screenshot-1.png
   short_description: Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic
   description: Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic

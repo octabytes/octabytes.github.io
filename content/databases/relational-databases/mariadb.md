@@ -6,7 +6,7 @@ content:
   name: MariaDB
   logo: /images/databases/relational-databases/mariadb/logo.png
   website: https://mariadb.org/
-  iframe_website: /website-iframe/databases/relational-databases/mariadb
+  iframe_website: /website/databases/relational-databases/mariadb
   dashboardImage: /images/databases/relational-databases/mariadb/screenshot-1.jpg
   short_description: The open source relational database
   description: MariaDB is built upon the values of performance, stability, and openness, and MariaDB Foundation ensures contributions will be accepted on technical merit. Recent new functionality includes advanced clustering with Galera Cluster 4, compatibility features with Oracle Database and Temporal Data Tables, allowing one to query the data as it stood at any point in the past.

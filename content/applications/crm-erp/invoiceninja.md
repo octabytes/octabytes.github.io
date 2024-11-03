@@ -6,7 +6,7 @@ content:
   name: InvoiceNinja
   logo: /images/applications/crm-erp/invoiceninja/logo.png
   website: https://invoiceninja.com/
-  iframe_website: /website-iframe/applications/crm-erp/invoiceninja
+  iframe_website: /website/applications/crm-erp/invoiceninja
   dashboardImage: /images/applications/crm-erp/invoiceninja/screenshot-1.jpg
   short_description: Invoice Ninja is the leading free, open-source online invoicing app for freelancers and businesses.
   description: Invoice Ninja provides freelancers and business owners with a complete suite of invoicing and payment tools. You can invoice, accept payments, track expenses, create proposals and time-tasks.

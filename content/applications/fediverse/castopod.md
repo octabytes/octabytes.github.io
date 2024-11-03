@@ -6,7 +6,7 @@ content:
   name: Castopod
   logo: /images/applications/fediverse/castopod/logo.png
   website: https://castopod.org/
-  iframe_website: /website-iframe/applications/fediverse/castopod
+  iframe_website: /website/applications/fediverse/castopod
   dashboardImage: /images/applications/fediverse/castopod/screenshot-1.webp
   short_description: Self-host your podcasts with ease, keep control over what you create, and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.
   description: Castopod is an open-source podcast hosting solution for everyone, that can connect to the Fediverse through the W3C Activity Pub standard (Pixel fed, Mastodon, Pleroma…). Castopod is user friendly, and allows for easy discovery everywhere

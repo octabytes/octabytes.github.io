@@ -6,7 +6,7 @@ content:
   name: Loki
   logo: /images/hosting-and-infrastructure/monitoring/loki/logo.png
   website: https://grafana.com/oss/loki/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/loki
+  iframe_website: /website/hosting-and-infrastructure/monitoring/loki
   dashboardImage: /images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png
   short_description: Loki is a log aggregation system designed to store and query logs from all your applications and infrastructure.
   description: Loki is a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost-effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.

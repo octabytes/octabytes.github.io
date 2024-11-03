@@ -6,7 +6,7 @@ content:
   name: Rocket.Chat
   logo: /images/applications/live-chat/rocket.chat/logo.png
   website: https://rocket.chat/
-  iframe_website: /website-iframe/applications/live-chat/rocket.chat
+  iframe_website: /website/applications/live-chat/rocket.chat
   dashboardImage: /images/applications/live-chat/rocket.chat/screenshot-1.jpg
   short_description: Rocket.Chat is an open-source communications platform for organizations with high standards of data protection.
   description: Rocket.Chat is a fully customizable communications platform developed in JavaScript, with a focus on data protection. A MERN-based application, it enables real-time conversations with colleagues, other companies or customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates. Organizations such as Deutsche Bahn, the US Navy and Credit Suisse trust Rocket.Chat to keep their communications private and secure.

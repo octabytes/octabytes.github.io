@@ -42,7 +42,7 @@ content:
   name: {title}
   logo: {logo}
   website: {website}
-  iframe_website: /website-iframe/hosting-and-infrastructure/{category_id}/{db_id}
+  iframe_website: /website/hosting-and-infrastructure/{category_id}/{db_id}
   dashboardImage: {dashboard_image}
   short_description: {short_description}
   description: {long_description}

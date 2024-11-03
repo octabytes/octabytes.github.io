@@ -6,7 +6,7 @@ content:
   name: Huly
   logo: /images/applications/note-taking/huly/logo.png
   website: https://huly.io/
-  iframe_website: /website-iframe/applications/note-taking/huly
+  iframe_website: /website/applications/note-taking/huly
   dashboardImage: /images/applications/note-taking/huly/screenshot-1.webp
   short_description: All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
   description: The Huly All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, and Motion) is a robust framework designed to accelerate the development of business applications, such as CRM systems. This repository includes several applications, such as Chat, Project Management, CRM, HRM, and ATS. Various teams are building products on top of the Platform, including Huly and TraceX.

@@ -6,7 +6,7 @@ content:
   name: Meilisearch
   logo: /images/applications/search/meilisearch/logo.png
   website: https://www.meilisearch.com/
-  iframe_website: /website-iframe/applications/search/meilisearch
+  iframe_website: /website/applications/search/meilisearch
   dashboardImage: /images/applications/search/meilisearch/screenshot-1.jpg
   short_description: Meilisearch is a next-generation search API.
   description: "Meilisearch is an open-source, blazingly fast, hyper-relevant search engine. For developers, it's scalable, maintainable and customizable. It provides an extensive toolset for (optional) customization. It's easily installed, but very open to customization."

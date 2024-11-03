@@ -6,7 +6,7 @@ content:
   name: Infisical
   logo: /images/applications/password-manager/infisical/logo.png
   website: https://infisical.com/
-  iframe_website: /website-iframe/applications/password-manager/infisical
+  iframe_website: /website/applications/password-manager/infisical
   dashboardImage: /images/applications/password-manager/infisical/screenshot-1.png
   short_description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
   description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."

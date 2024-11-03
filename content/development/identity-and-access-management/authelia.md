@@ -6,7 +6,7 @@ content:
   name: Authelia
   logo: /images/development/identity-and-access-management/authelia/logo.png
   website: https://www.authelia.com/
-  iframe_website: /website-iframe/development/identity-and-access-management/authelia
+  iframe_website: /website/development/identity-and-access-management/authelia
   dashboardImage: /images/development/identity-and-access-management/authelia/screenshot-1.png
   short_description: Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It
   description: Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for common reverse proxies.

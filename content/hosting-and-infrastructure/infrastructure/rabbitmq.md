@@ -6,7 +6,7 @@ content:
   name: RabbitMQ
   logo: /images/hosting-and-infrastructure/infrastructure/rabbitmq/logo.png
   website: https://www.rabbitmq.com/
-  iframe_website: /website-iframe/hosting-and-infrastructure/infrastructure/rabbitmq
+  iframe_website: /website/hosting-and-infrastructure/infrastructure/rabbitmq
   dashboardImage: /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg
   short_description: RabbitMQ is the most widely deployed open source message broker
   description: RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supports multiple messaging protocols. RabbitMQ can be deployed in distributed and federated configurations to meet high-scale, high-availability requirements.

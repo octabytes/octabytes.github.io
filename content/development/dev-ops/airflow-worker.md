@@ -6,7 +6,7 @@ content:
   name: Airflow-worker
   logo: /images/development/dev-ops/airflow-worker/logo.png
   website: https://airflow.apache.org/
-  iframe_website: /website-iframe/development/dev-ops/airflow-worker
+  iframe_website: /website/development/dev-ops/airflow-worker
   dashboardImage: /images/development/dev-ops/airflow-worker/screenshot-1.jpg
   short_description: Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
   description: This is a Worker instance for Apache Airflow. Can be connected to any Apache Airflow master instance.

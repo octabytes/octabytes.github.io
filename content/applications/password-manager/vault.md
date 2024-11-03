@@ -6,7 +6,7 @@ content:
   name: Vault
   logo: /images/applications/password-manager/vault/logo.png
   website: https://www.vaultproject.io/
-  iframe_website: /website-iframe/applications/password-manager/vault
+  iframe_website: /website/applications/password-manager/vault
   dashboardImage: /images/applications/password-manager/vault/screenshot-1.png
   short_description: Vault is a tool for secrets management, encryption as a service, and privileged access management
   description: Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.

@@ -6,7 +6,7 @@ content:
   name: Docmost
   logo: /images/applications/note-taking/docmost/logo.png
   website: https://docmost.com/
-  iframe_website: /website-iframe/applications/note-taking/docmost
+  iframe_website: /website/applications/note-taking/docmost
   dashboardImage: /images/applications/note-taking/docmost/screenshot-1.png
   short_description: Docmost is a collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   description: Open-source collaborative wiki and documentation software. you can Create, collaborate, and share knowledge seamlessly with Docmost. Ideal for managing your wiki, knowledge base, documentation, and a lot more.

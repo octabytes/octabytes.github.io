@@ -6,7 +6,7 @@ content:
   name: Plane
   logo: /images/applications/project-management/plane/logo.png
   website: https://plane.so/
-  iframe_website: /website-iframe/applications/project-management/plane
+  iframe_website: /website/applications/project-management/plane
   dashboardImage: /images/applications/project-management/plane/screenshot-1.webp
   short_description: An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind
   description: Plane is a simple, extensible, open-source project and product management tool. It allows users to start with a basic task-tracking tool and gradually adopt various project management frameworks like Agile, Waterfall, and many more.

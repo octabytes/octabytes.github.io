@@ -6,7 +6,7 @@ content:
   name: Valkey
   logo: /images/databases/nosql/valkey/logo.png
   website: https://valkey.io/
-  iframe_website: /website-iframe/databases/nosql/valkey
+  iframe_website: /website/databases/nosql/valkey
   dashboardImage: /images/databases/nosql/valkey/screenshot-1.jpg
   short_description: A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
   description: Valkey is an open source (BSD) high-performance key/value datastore that supports a variety of workloads such as caching, and message queues, and can act as a primary database. Valkey can run as a standalone daemon or in a cluster, with options for replication and high availability.  Valkey natively supports a rich collection of data types, including strings, numbers, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and more.

@@ -6,7 +6,7 @@ content:
   name: Affine
   logo: /images/applications/note-taking/affine/logo.png
   website: https://affine.pro/
-  iframe_website: /website-iframe/applications/note-taking/affine
+  iframe_website: /website/applications/note-taking/affine
   dashboardImage: /images/applications/note-taking/affine/screenshot-1.jpeg
   short_description: "More than Notion and Miro's next-generation knowledge base, AFFiNE unifies planning, sorting, and creation."
   description: "Open Source, Privacy First Monday, Notion and Miro's Alternative. Affine is the next-generation collaborative knowledge base for professionals. It's not just a collection of Docs, whiteboard, and tables. Transform any building block as you like. Say goodbye to redundancy. Store your data once, and keep your data as you like it."

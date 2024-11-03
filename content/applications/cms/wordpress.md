@@ -6,7 +6,7 @@ content:
   name: Wordpress
   logo: /images/applications/cms/wordpress/logo.png
   website: https://wordpress.org/
-  iframe_website: /website-iframe/applications/cms/wordpress
+  iframe_website: /website/applications/cms/wordpress
   dashboardImage: /images/applications/cms/wordpress/screenshot-1.jpg
   short_description: WordPress is open-source software you can use to create a beautiful website, blog or app.
   description: WordPress is a free and open-source content management system. The core WordPress software is built by hundreds of community volunteers. You can avail of any of thousands of plugins and themes to transform your site. Over 60 million people have chosen WordPress to power the place on the web they call home. WordPress is written in PHP and paired with a MySQL or MariaDB database.

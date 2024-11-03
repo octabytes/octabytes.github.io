@@ -6,7 +6,7 @@ content:
   name: RustdeskServer
   logo: /images/development/network/rustdeskserver/logo.png
   website: https://rustdesk.com/
-  iframe_website: /website-iframe/development/network/rustdeskserver
+  iframe_website: /website/development/network/rustdeskserver
   dashboardImage: /images/development/network/rustdeskserver/screenshot-1.png
   short_description: Open source virtual / remote desktop infrastructure for everyone!
   description: A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required. You have full control of your data, with no concerns about security. You can use our public rendezvous/relay server, or self-hosting, or write your own server.

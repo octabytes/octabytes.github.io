@@ -6,7 +6,7 @@ content:
   name: Element
   logo: /images/applications/forum-community/element/logo.png
   website: https://element.io/
-  iframe_website: /website-iframe/applications/forum-community/element
+  iframe_website: /website/applications/forum-community/element
   dashboardImage: /images/applications/forum-community/element/screenshot-1.jpeg
   short_description: Create your community based on Matrix protocol
   description: Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It’s decentralised for digital sovereign self-hosting, or through a hosting service such as Element Matrix Services. Element operates on the open Matrix network to provide interoperability and easy connections.

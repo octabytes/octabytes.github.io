@@ -6,7 +6,7 @@ content:
   name: Sensu
   logo: /images/hosting-and-infrastructure/monitoring/sensu/logo.png
   website: https://sensu.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/sensu
+  iframe_website: /website/hosting-and-infrastructure/monitoring/sensu
   dashboardImage: /images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg
   short_description: Sensu is an open source monitoring tool for ephemeral infrastructure and distributed applications.
   description: Sensu is a complete solution for monitoring and observability at scale. It is an agent-based observability tool that you install on your organization’s infrastructure. The Sensu backend gives you a flexible, automated pipeline to filter, transform, and process alerts and metrics.

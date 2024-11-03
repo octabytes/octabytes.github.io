@@ -6,7 +6,7 @@ content:
   name: Directus
   logo: /images/applications/cms/directus/logo.png
   website: https://directus.io/
-  iframe_website: /website-iframe/applications/cms/directus
+  iframe_website: /website/applications/cms/directus
   dashboardImage: /images/applications/cms/directus/screenshot-1.png
   short_description: Directus is an Open Data Platform for managing the content of any SQL database.
   description: Directus is an Open Data Platform for managing the content of any SQL database. It provides a powerful API layer for developers and an intuitive App for non-technical users.

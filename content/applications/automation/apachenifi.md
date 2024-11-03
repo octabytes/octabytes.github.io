@@ -6,7 +6,7 @@ content:
   name: ApacheNiFi
   logo: /images/applications/automation/apachenifi/logo.png
   website: https://nifi.apache.org/
-  iframe_website: /website-iframe/applications/automation/apachenifi
+  iframe_website: /website/applications/automation/apachenifi
   dashboardImage: /images/applications/automation/apachenifi/screenshot-1.png
   short_description: Apache NiFi automates the movement of data between disparate data sources and systems, making data ingestion fast, easy, and secure.
   description: Apache NiFi is an integrated data logistics platform for automating the movement of data between disparate systems. It provides real-time control that makes it easy to manage the movement of data between any source and any destination. It is data source agnostic, supporting disparate and distributed sources of differing formats, schemas, protocols, speeds, and sizes such as machines, geo-location devices, click streams, files, social feeds, log files and videos, and more.

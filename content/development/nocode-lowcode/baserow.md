@@ -6,7 +6,7 @@ content:
   name: Baserow
   logo: /images/development/nocode-lowcode/baserow/logo.png
   website: https://baserow.io/
-  iframe_website: /website-iframe/development/nocode-lowcode/baserow
+  iframe_website: /website/development/nocode-lowcode/baserow
   dashboardImage: /images/development/nocode-lowcode/baserow/screenshot-1.png
   short_description: Baserow is an open source no-code database tool and Airtable alternative.
   description: Create your own online database without technical experience. This user-friendly no-code tool gives you the powers of a developer without leaving your browser.

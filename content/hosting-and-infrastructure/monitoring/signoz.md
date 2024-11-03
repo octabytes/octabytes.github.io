@@ -6,7 +6,7 @@ content:
   name: SigNoz
   logo: /images/hosting-and-infrastructure/monitoring/signoz/logo.png
   website: https://signoz.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/signoz
+  iframe_website: /website/hosting-and-infrastructure/monitoring/signoz
   dashboardImage: /images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg
   short_description: SigNoz is an open-source APM solution for understanding issues in your applications and solving them quickly
   description: SigNoz is an application performance management (APM) solution with native support for OpenTelemetry, the emerging industry standard for instrumentation. You can monitor your usage and set your own retention period and sampling rate based on your needs. With industry-trusted Kafka & Druid to handle enterprise scale, you avoid scaling pains.

@@ -6,7 +6,7 @@ content:
   name: Centrifugo
   logo: /images/development/network/centrifugo/logo.png
   website: https://centrifugal.dev/
-  iframe_website: /website-iframe/development/network/centrifugo
+  iframe_website: /website/development/network/centrifugo
   dashboardImage: /images/development/network/centrifugo/screenshot-1.jpg
   short_description: Centrifugo is a scalable real-time, language-agnostic messaging server.
   description: Centrifugo, a scalable real-time messaging server, works in conjunction with whatever programming language your application uses on frontend or backend sides. Centrifugo broadcasts the event to all connected clients subscribed to the event channel. In brief, Centrifugo is a user-facing PUB/SUB server.

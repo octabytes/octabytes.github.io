@@ -6,7 +6,7 @@ content:
   name: Jitsi
   logo: /images/applications/live-chat/jitsi/logo.png
   website: https://jitsi.org/jitsi-meet/
-  iframe_website: /website-iframe/applications/live-chat/jitsi
+  iframe_website: /website/applications/live-chat/jitsi
   dashboardImage: /images/applications/live-chat/jitsi/screenshot-1.jpg
   short_description: Jitsi is a set of open-source projects that allows you to easily build and deploy secure video conferencing solutions.
   description: Jitsi is a collection of free and open-source multiplatform voice, video conferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android. At the heart of Jitsi are Jitsi Videobridge and Jitsi Meet, which enable conferences on the internet. Other projects in the community enable other features such as audio, dial-in, recording and simulcasting. Jitsi Meet is a free, fully encrypted, 100% open-source video conferencing solution that you can use any time. No account is needed.

@@ -6,7 +6,7 @@ content:
   name: Prometheus
   logo: /images/hosting-and-infrastructure/monitoring/prometheus/logo.png
   website: https://prometheus.io/
-  iframe_website: /website-iframe/hosting-and-infrastructure/monitoring/prometheus
+  iframe_website: /website/hosting-and-infrastructure/monitoring/prometheus
   dashboardImage: /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png
   short_description: Power your metrics and alerting with the leading open-source monitoring solution
   description: Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed.

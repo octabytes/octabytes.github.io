@@ -6,7 +6,7 @@ content:
   name: Paperless-ngx
   logo: /images/hosting-and-infrastructure/storage/paperless-ngx/logo.png
   website: https://paperless-ngx.readthedocs.io/en/latest/
-  iframe_website: /website-iframe/hosting-and-infrastructure/storage/paperless-ngx
+  iframe_website: /website/hosting-and-infrastructure/storage/paperless-ngx
   dashboardImage: /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png
   short_description: Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
   description: "A community-supported supercharged version of paperless: scan, index and archive all your physical documents. Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper."

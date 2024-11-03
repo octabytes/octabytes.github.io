@@ -6,7 +6,7 @@ content:
   name: TimescaleDB
   logo: /images/databases/relational-databases/timescaledb/logo.png
   website: https://www.timescale.com/
-  iframe_website: /website-iframe/databases/relational-databases/timescaledb
+  iframe_website: /website/databases/relational-databases/timescaledb
   dashboardImage: /images/databases/relational-databases/timescaledb/screenshot-1.jpg
   short_description: TimescaleDB is the leading open-source relational database with support for time-series data.
   description: TimescaleDB is  an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.

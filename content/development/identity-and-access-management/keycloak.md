@@ -6,7 +6,7 @@ content:
   name: Keycloak
   logo: /images/development/identity-and-access-management/keycloak/logo.png
   website: https://www.keycloak.org/
-  iframe_website: /website-iframe/development/identity-and-access-management/keycloak
+  iframe_website: /website/development/identity-and-access-management/keycloak
   dashboardImage: /images/development/identity-and-access-management/keycloak/screenshot-1.jpg
   short_description: Keycloak is an open-source identity and access management solution aimed at modern applications and services.
   description: "Keycloak allows single sign-on with identity and access management. You can add authentication to applications and secure services with minimum fuss. There's no need to deal with storing or authenticating users. It's all available out of the box. You also get advanced features such as user federation, identity brokering and social login."
