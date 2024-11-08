@@ -84,6 +84,11 @@ For build run just `hugo`
 - microk8s
 - apitable
 - hasura
+- changedetection
+- loki
+- sensu
+- zabbix
+- syncthing
 
 Misskey
 Jellyfin
