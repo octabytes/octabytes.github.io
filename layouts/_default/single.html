@@ -1,4 +1,8 @@
 {{ define "main" }}
+  {{ $url := .Params.content.iframe_website }}
+  {{ if .Params.content.direct_link }}
+    {{ $url = .Params.content.website }}
+  {{ end }}
   <section>
     <div class="p-4 mt-10 w-full">
       <div class="w-full grid gap-16 items-center sm:grid-cols-[1fr_1.3fr]">
@@ -41,7 +45,7 @@
               </a>
 
               <a
-                href="{{ .Params.content.iframe_website }}"
+                href="{{ $url }}"
                 target="_blank"
                 class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
                 {{ .Params.content.name }} website
@@ -76,10 +80,7 @@
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
           Deploy a fully managed instance of
-          <a
-            class="font-extrabold"
-            href="{{ .Params.content.iframe_website }}"
-            target="_blank">
+          <a class="font-extrabold" href="{{ $url }}" target="_blank">
             {{ .Params.content.name }}
           </a>
 

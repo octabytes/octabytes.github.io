@@ -7,6 +7,7 @@ content:
   logo: /images/applications/e-commerce/nopcommerce/logo.png
   website: https://www.nopcommerce.com
   iframe_website: /website/applications/e-commerce/nopcommerce
+  direct_link: true
   dashboardImage: /images/applications/e-commerce/nopcommerce/screenshot-1.png
   short_description: nopCommerce is the most popular ASP.NET shopping cart in the world based on Microsoft technologies. Free and open-source eCommerce platform.
   description: nopCommerce is the most popular ASP.NET shopping cart in the world based on Microsoft technologies. Free and open-source eCommerce platform.

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/invoicing-and-payments/hyperswitch/logo.png
   website: https://hyperswitch.io/
   iframe_website: /website/applications/invoicing-and-payments/hyperswitch
+  direct_link: true
   dashboardImage: /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.png
   short_description: An open-source payments switch written in Rust to make payments fast, reliable, and affordable.
   description: An open-source payments switch written in Rust to make payments fast, reliable, and affordable. it was a community-led, open payments orchestrator to enable access to the best payment infrastructure for every digital business.

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/live-chat/mattermost/logo.png
   website: https://mattermost.com/pricing-self-managed/
   iframe_website: /website/applications/live-chat/mattermost
+  direct_link: true
   dashboardImage: /images/applications/live-chat/mattermost/screenshot-1.jpg
   short_description: Mattermost is an open-source platform for secure collaboration across the entire software development lifecycle.
   description: Mattermost enables you to collaborate across the software development lifecycle. It provides a shared set of platform services and a powerful UI structured around channel-based communications, checklist-based process automation, and card-based task and project management. You can choose from self-managed or secure cloud deployment options that give you the controls you need, when you need them.

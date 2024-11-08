@@ -7,6 +7,7 @@ content:
   logo: /images/applications/forum-community/phpbb/logo.png
   website: https://www.phpbb.com/
   iframe_website: /website/applications/forum-community/phpbb
+  direct_link: true
   dashboardImage: /images/applications/forum-community/phpbb/screenshot-1.png
   short_description: phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.
   description: phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.

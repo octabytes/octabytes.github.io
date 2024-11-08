@@ -7,6 +7,7 @@ content:
   logo: /images/applications/email-marketing/mautic/logo.png
   website: https://www.mautic.org/
   iframe_website: /website/applications/email-marketing/mautic
+  direct_link: true
   dashboardImage: /images/applications/email-marketing/mautic/screenshot-1.png
   short_description: Mautic is a open source marketing automation software.
   description: Mautic began with a single focus. Equality. The Mautic community believes in giving every person the power to understand, manage, and grow their business or organization.

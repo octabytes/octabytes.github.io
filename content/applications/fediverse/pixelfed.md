@@ -7,6 +7,7 @@ content:
   logo: /images/applications/fediverse/pixelfed/logo.png
   website: https://pixelfed.org/
   iframe_website: /website/applications/fediverse/pixelfed
+  direct_link: true
   dashboardImage: /images/applications/fediverse/pixelfed/screenshot-1.png
   short_description: Pixelfed is a fediverse decentralized social network for image sharing. Unlike other platforms with features similar to those of the social network Instagram.
   description: Pixelfed is a fediverse decentralized social network for image sharing. Unlike other platforms with features similar to those of the social network Instagram, it is decentralized, thus user data is not kept on a centralized server.

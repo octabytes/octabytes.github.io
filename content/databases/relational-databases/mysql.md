@@ -7,6 +7,7 @@ content:
   logo: /images/databases/relational-databases/mysql/logo.png
   website: https://www.mysql.com/
   iframe_website: /website/databases/relational-databases/mysql
+  direct_link: true
   dashboardImage: /images/databases/relational-databases/mysql/screenshot-1.jpg
   short_description: MySQL is an Oracle-backed open-source RDBMS that runs on almost all platforms.
   description: "MySQL is an open-source relational database management system (RDBMS). Many of the world's largest organizations rely on it to power their high-volume websites, business-critical systems and packaged software. It runs on almost all platforms, including Linux, UNIX and Windows."

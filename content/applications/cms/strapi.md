@@ -7,6 +7,7 @@ content:
   logo: /images/applications/cms/strapi/logo.png
   website: https://strapi.io/
   iframe_website: /website/applications/cms/strapi
+  direct_link: true
   dashboardImage: /images/applications/cms/strapi/screenshot-1.jpg
   short_description: Strapi enables easy building of self-hosted, customizable, performant content API.
   description: "Strapi is the leading open-source headless CMS. It's 100% JavaScript, fully customizable and developer-first."

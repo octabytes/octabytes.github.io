@@ -7,6 +7,7 @@ content:
   logo: /images/databases/nosql/scylladb/logo.png
   website: https://www.scylladb.com/
   iframe_website: /website/databases/nosql/scylladb
+  direct_link: true
   dashboardImage: /images/databases/nosql/scylladb/screenshot-1.jpg
   short_description: ScyllaDB is a true NoSQL database for the most demanding applications.
   description: Scylla is a real-time big-data database that embraces a shared-nothing approach that increases throughput and storage capacity to realize order-of-magnitude performance improvements and reduce hardware costs. The NoSQL database uses modern multi-core servers and minimizes the overhead to DevOps.

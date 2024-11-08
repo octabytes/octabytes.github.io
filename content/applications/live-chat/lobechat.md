@@ -7,6 +7,7 @@ content:
   logo: /images/applications/live-chat/lobechat/logo.png
   website: https://github.com/lobehub/lobe-chat
   iframe_website: /website/applications/live-chat/lobechat
+  direct_link: true
   dashboardImage: /images/applications/live-chat/lobechat/screenshot-1.webp
   short_description: An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
   description: An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.

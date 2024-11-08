@@ -7,6 +7,7 @@ content:
   logo: /images/development/dev-tools/growthbook/logo.png
   website: https://www.growthbook.io/
   iframe_website: /website/development/dev-tools/growthbook
+  direct_link: true
   dashboardImage: /images/development/dev-tools/growthbook/screenshot-1.png
   short_description: GrowthBook is an open-source platform for feature flags and A/B tests that helps teams deploy code efficiently and analyze experiments
   description: GrowthBook is an open-source platform for feature flags and A/B tests that helps teams deploy code efficiently and analyze experiments. it is a modular solution that promotes feature flagging as an essential step in the development process and can be used as a full-stack platform, a plugin feature flagging tool, or an analysis engine.

@@ -7,6 +7,7 @@ content:
   logo: /images/development/dev-ops/couchbase/logo.png
   website: https://www.couchbase.com/products/server
   iframe_website: /website/development/dev-ops/couchbase
+  direct_link: true
   dashboardImage: /images/development/dev-ops/couchbase/screenshot-1.jpg
   short_description: Couchbase Server is a modern cloud-native, distributed database that fuses the strengths of relational databases such as SQL and ACID transactions with JSON flexibility and scale that defines NoSQL
   description: Couchbase Server is a modern cloud-native, distributed database that fuses the strengths of relational databases such as SQL and ACID transactions with JSON flexibility and scale that defines NoSQL. It is available as a service in commercial clouds and supports hybrid and private cloud deployments.

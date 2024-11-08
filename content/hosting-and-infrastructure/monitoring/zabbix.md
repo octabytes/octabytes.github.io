@@ -7,6 +7,7 @@ content:
   logo: /images/hosting-and-infrastructure/monitoring/zabbix/logo.png
   website: https://www.zabbix.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/zabbix
+  direct_link: true
   dashboardImage:
   short_description: Zabbix is an enterprise-class open source distributed monitoring solution.
   description: Zabbix is a software that monitors numerous parameters of a network and the health and integrity of servers, virtual machines, applications, services, databases, websites, the cloud and more. Zabbix uses a flexible notification mechanism that allows users to configure e-mail based alerts for virtually any event. This allows a fast reaction to server problems. Zabbix offers excellent reporting and data visualization features based on the stored data.

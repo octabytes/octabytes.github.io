@@ -7,6 +7,7 @@ content:
   logo: /images/development/dev-ops/imagor/logo.png
   website: https://github.com/cshum/imagor
   iframe_website: /website/development/dev-ops/imagor
+  direct_link: true
   dashboardImage: /images/development/dev-ops/imagor/screenshot-1.jpg
   short_description: Imagor is a fast, Docker-ready image processing server.
   description: Imagor is a Go application that is highly optimized for concurrent requests. It is ready to be installed and used in any Unix environment, and ready to be containerized using Docker.Imagor adopts the Thumbor URL syntax and covers most of the web image processing use cases. If these fit your requirements, Imagor would be a lightweight, high performance drop-in replacement.

@@ -7,6 +7,7 @@ content:
   logo: /images/hosting-and-infrastructure/storage/syncthing/logo.png
   website: https://forum.syncthing.net/
   iframe_website: /website/hosting-and-infrastructure/storage/syncthing
+  direct_link: true
   dashboardImage: /images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg
   short_description: Syncthing is a free, continuous, multiple-device file synchronization program.
   description: Syncthing is a free, open-source, peer-to-peer file synchronization application available for Windows, macOS, Linux, Android, Solaris, Darwin, and BSD. It can sync files between devices on a local network, or between remote devices over the Internet. Data security and data safety are built into the design of the software. It synchronizes files in real time, safely protected from prying eyes.

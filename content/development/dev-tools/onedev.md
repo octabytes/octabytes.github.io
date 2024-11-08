@@ -7,6 +7,7 @@ content:
   logo: /images/development/dev-tools/onedev/logo.png
   website: https://onedev.io/
   iframe_website: /website/development/dev-tools/onedev
+  direct_link: true
   dashboardImage: /images/development/dev-tools/onedev/screenshot-1.jpg
   short_description: OneDev is an open-source all-in-one DevOps platform.
   description: OneDev is an all-in-one DevOps platform that features Git repository management with language-aware code search, issue management with custom states and fields, and a docker-first Kubernetes native build/CI engine. An alternative to GitLab, it is easier to use and maintain, with lots of unique features

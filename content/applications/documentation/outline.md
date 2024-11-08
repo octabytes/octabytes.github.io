@@ -7,6 +7,7 @@ content:
   logo: /images/applications/documentation/outline/logo.png
   website: https://www.getoutline.com/
   iframe_website: /website/applications/documentation/outline
+  direct_link: true
   dashboardImage: /images/applications/documentation/outline/screenshot-1.png
   short_description: Outline is a fast wiki and knowledge base for growing teams - an alternative to Google Docs.
   description: "Built from the ground up for knowledge bases and wikis, Outline is an intuitive editor with markdown support, slash commands, rich embeds, and more. It can be on-premise or in the cloud. It's beautiful and rich in features. Outline is a great place to keep your team’s shared knowledge accessible, searchable and coordinated."

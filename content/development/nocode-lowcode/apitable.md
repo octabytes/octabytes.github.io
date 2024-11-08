@@ -7,6 +7,7 @@ content:
   logo: /images/development/nocode-lowcode/apitable/logo.png
   website: https://apitable.com/
   iframe_website: /website/development/nocode-lowcode/apitable
+  direct_link: true
   dashboardImage: /images/development/nocode-lowcode/apitable/screenshot-1.png
   short_description: APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.
   description: APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.

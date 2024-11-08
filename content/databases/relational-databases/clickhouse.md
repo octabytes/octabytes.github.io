@@ -7,6 +7,7 @@ content:
   logo: /images/databases/relational-databases/clickhouse/logo.png
   website: https://clickhouse.com/
   iframe_website: /website/databases/relational-databases/clickhouse
+  direct_link: true
   dashboardImage: /images/databases/relational-databases/clickhouse/screenshot-1.jpg
   short_description: ClickHouse is an open-source, column-oriented DBMS for online analytical processing.
   description: "ClickHouse is a high performance columnar OLAP database management system for real-time analytics using SQL. It enables you to analyze data that is updated in real time. ClickHouse's performance exceeds comparable column-oriented database management systems. It processes hundreds of millions to over a billion rows and tens of gigabytes of data per server per second."

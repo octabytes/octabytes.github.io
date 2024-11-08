@@ -7,6 +7,7 @@ content:
   logo: /images/development/dev-tools/emqx/logo.png
   website: https://www.emqx.io/
   iframe_website: /website/development/dev-tools/emqx
+  direct_link: true
   dashboardImage: /images/development/dev-tools/emqx/screenshot-1.webp
   short_description: MQTT broker for IoT, IIoT, and connected vehicles. it supports multiple open standard protocols like MQTT, HTTP, QUIC, and WebSocket.
   description: MQTT broker for IoT, IIoT, and connected vehicles. it supports multiple open standard protocols like MQTT, HTTP, QUIC, and WebSocket. It’s 100% compliant with MQTT 5.0 and 3.x standard and secures bi-directional communication with MQTT over TLS/SSL and various authentication mechanisms.

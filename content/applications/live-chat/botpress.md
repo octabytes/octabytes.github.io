@@ -7,6 +7,7 @@ content:
   logo: /images/applications/live-chat/botpress/logo.png
   website: https://botpress.com/
   iframe_website: /website/applications/live-chat/botpress
+  direct_link: true
   dashboardImage: /images/applications/live-chat/botpress/screenshot-1.png
   short_description: The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done.
   description: The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done.

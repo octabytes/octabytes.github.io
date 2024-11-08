@@ -7,6 +7,7 @@ content:
   logo: /images/applications/crm-erp/dolibarr/logo.png
   website: https://www.dolibarr.org/
   iframe_website: /website/applications/crm-erp/dolibarr
+  direct_link: true
   dashboardImage: /images/applications/crm-erp/dolibarr/screenshot-1.jpg
   short_description: "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity"
   description: "It's an Open Source Software suite (written in PHP with optional JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers."

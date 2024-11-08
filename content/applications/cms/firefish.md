@@ -7,6 +7,7 @@ content:
   logo: /images/applications/cms/firefish/logo.png
   website: https://joinfirefish.org/
   iframe_website: /website/applications/cms/firefish
+  direct_link: true
   dashboardImage: /images/applications/cms/firefish/screenshot-1.png
   short_description: Firefish is based off of Misskey, a powerful microblogging social media platform in the fediverse.
   description: Firefish is based off of Misskey, a powerful microblogging social media platform in the fediverse.

@@ -7,6 +7,7 @@ content:
   logo: /images/hosting-and-infrastructure/containers/microk8s/logo.png
   website: https://microk8s.io
   iframe_website: /website/hosting-and-infrastructure/containers/microk8s
+  direct_link: true
   dashboardImage: /images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png
   short_description: MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge
   description: MicroK8s is an open-source system for automating deployment, scaling, and management of containerised applications. It provides the functionality of core Kubernetes components, in a small footprint, scalable from a single node to a high-availability production cluster.

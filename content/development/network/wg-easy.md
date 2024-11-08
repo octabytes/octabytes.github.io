@@ -7,6 +7,7 @@ content:
   logo: /images/development/network/wg-easy/logo.png
   website: https://hub.docker.com/r/weejewel/wg-easy
   iframe_website: /website/development/network/wg-easy
+  direct_link: true
   dashboardImage: /images/development/network/wg-easy/screenshot-1.jpg
   short_description: WireGuard is a simple, fast general-purpose VPN for running on embedded interfaces and super computers alike.
   description: "WireGuard is an extremely simple, fast VPN that uses state-of-the-art cryptography. It aims to be faster, simpler, leaner and more useful than IPsec, and more performant than OpenVPN. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It's claimed to be the most secure, easiest to use, and simplest VPN solution in the industry."

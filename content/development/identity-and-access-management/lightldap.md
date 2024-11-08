@@ -7,6 +7,7 @@ content:
   logo: /images/development/identity-and-access-management/lightldap/logo.png
   website: https://github.com/lldap/lldap
   iframe_website: /website/development/identity-and-access-management/lightldap
+  direct_link: true
   dashboardImage: /images/development/identity-and-access-management/lightldap/screenshot-1.png
   short_description: A Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication. It integrates with many backends, from KeyCloak to Authelia to Nextcloud and more!
   description: A Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication. It integrates with many backends, from KeyCloak to Authelia to Nextcloud and more!. It comes with a front end that makes user management easy and allows users to edit their own details or reset their password by email.

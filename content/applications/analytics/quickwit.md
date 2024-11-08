@@ -7,6 +7,7 @@ content:
   logo: /images/applications/analytics/quickwit/logo.png
   website: https://quickwit.io/
   iframe_website: /website/applications/analytics/quickwit
+  direct_link: true
   dashboardImage: /images/applications/analytics/quickwit/screenshot-1.png
   short_description: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
   description: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/documentation/documize/logo.png
   website: https://www.documize.com/community
   iframe_website: /website/applications/documentation/documize
+  direct_link: true
   dashboardImage: /images/applications/documentation/documize/screenshot-1.png
   short_description: Free Knowledge Management Software
   description: Documize Community is the enterprise-ready wiki and knowledge-base software. Simple, elegant, usable by both technical and non-technical people alike. Community is our totally free alternative to Confluence.

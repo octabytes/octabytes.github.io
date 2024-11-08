@@ -7,6 +7,7 @@ content:
   logo: /images/databases/specialized-databases/neo4j/logo.png
   website: https://neo4j.com/
   iframe_website: /website/databases/specialized-databases/neo4j
+  direct_link: true
   dashboardImage: /images/databases/specialized-databases/neo4j/screenshot-1.jpg
   short_description: Neo4j is the world’s leading Graph Database
   description: It is a high performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.

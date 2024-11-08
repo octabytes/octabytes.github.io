@@ -7,6 +7,7 @@ content:
   logo: /images/applications/note-taking/trilium/logo.png
   website: https://github.com/zadam/trilium
   iframe_website: /website/applications/note-taking/trilium
+  direct_link: true
   dashboardImage: /images/applications/note-taking/trilium/screenshot-1.png
   short_description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
   description: "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. Features: Rich WYSIWYG note editing including e.g. tables, images and math with markdown autoformat. Support for editing notes with source code, including syntax highlighting."

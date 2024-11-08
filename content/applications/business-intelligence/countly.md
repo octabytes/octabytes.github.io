@@ -7,6 +7,7 @@ content:
   logo: /images/applications/business-intelligence/countly/logo.png
   website: https://countly.com/
   iframe_website: /website/applications/business-intelligence/countly
+  direct_link: true
   dashboardImage: /images/applications/business-intelligence/countly/screenshot-1.png
   short_description: Countly is a product analytics platform that helps teams track, analyze, and act on their user actions and behavior on mobile, web, and desktop applications.
   description: Countly is a product analytics platform that helps teams track, analyze, and act on their user actions and behavior on mobile, web, and desktop applications.

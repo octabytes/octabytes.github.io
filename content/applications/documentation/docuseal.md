@@ -7,6 +7,7 @@ content:
   logo: /images/applications/documentation/docuseal/logo.png
   website: https://www.docuseal.co/
   iframe_website: /website/applications/documentation/docuseal
+  direct_link: true
   dashboardImage: /images/applications/documentation/docuseal/screenshot-1.jpg
   short_description: Open source, tool to streamline document filling and signing. Create custom PDF forms to complete and sign with an easy-to-use online tool.
   description: Open source, tool to streamline document filling and signing. Create custom PDF forms to complete and sign with an easy-to-use online tool.

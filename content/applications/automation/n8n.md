@@ -7,6 +7,7 @@ content:
   logo: /images/applications/automation/n8n/logo.png
   website: https://n8n.io/
   iframe_website: /website/applications/automation/n8n
+  direct_link: true
   dashboardImage: /images/applications/automation/n8n/screenshot-1.jpg
   short_description: n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.
   description: n8n helps you to interconnect all apps with an API with each other to share and manipulate data without a single line of code. An easy-to-use and highly customizable service, it uses an intuitive user interface for rapidly designing unique workflows. Hosted on your server, it keeps your data secure in your own trusted database.
