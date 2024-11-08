@@ -52,5 +52,14 @@ For build run just `hugo`
 - pixelfed
 - huginn
 - n8n
+- mysql
+- clickhouse
+- timescaledb
+- clickhouses3
+- hydra
+- scylladb
+- influxdb
+- surrealdb
+- neo4j
 
 Misskey
