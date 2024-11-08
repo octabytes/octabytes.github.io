@@ -15,14 +15,13 @@ params:
 
   copyright: "2024 OctaByte. All rights reserved."
 
-  liveChat: false
+  liveChat: true
 
   social:
-    facebook: "#"
+    facebook: "https://www.facebook.com/octabyte.io/"
     instagram: "#"
-    twitter: "#"
-    github: "#"
-    youtube: "#"
+    twitter: "https://x.com/octabyte_io"
+    github: "https://github.com/octabytes"
 
 menus:
   main:
