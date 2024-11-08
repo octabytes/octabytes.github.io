@@ -7,7 +7,7 @@ content:
   logo: /images/applications/forum-community/element/logo.png
   website: https://element.io/
   iframe_website: /website/applications/forum-community/element
-  dashboardImage: /images/applications/forum-community/element/screenshot-1.jpeg
+  dashboardImage: /images/applications/forum-community/element/screenshot-2.png
   short_description: Create your community based on Matrix protocol
   description: Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It’s decentralised for digital sovereign self-hosting, or through a hosting service such as Element Matrix Services. Element operates on the open Matrix network to provide interoperability and easy connections.
   features:
@@ -20,6 +20,5 @@ content:
     - title: Community ownership
       description: Keep ownership and control of community discussion. With Element, your members are people - not products!  Scale to support millions, with powerful moderation and interoperability. Your community can speak freely in the knowledge that their conversations are secured with end-to-end encryption; be that on-premise, hosted by Element or a provider of your choice. That means no data mining and no third party access.
   screenshots:
-    - /images/applications/forum-community/element/screenshot-1.jpeg
     - /images/applications/forum-community/element/screenshot-2.png
 ---

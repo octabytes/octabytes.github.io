@@ -7,7 +7,7 @@ content:
   logo: /images/applications/documentation/answer/logo.png
   website: https://answer.dev/
   iframe_website: /website/applications/documentation/answer
-  dashboardImage: /images/applications/documentation/answer/screenshot-1.png
+  dashboardImage: /images/applications/documentation/answer/screenshot-2.png
   short_description: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
   description: An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
   features:
@@ -20,6 +20,5 @@ content:
     - title: Gamification
       description: "We've gamified the Q&A platform with reputation and badges. So the community members and teams have fun collaborating and getting work done."
   screenshots:
-    - /images/applications/documentation/answer/screenshot-1.png
     - /images/applications/documentation/answer/screenshot-2.png
 ---

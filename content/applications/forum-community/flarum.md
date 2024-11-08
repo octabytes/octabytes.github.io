@@ -7,7 +7,7 @@ content:
   logo: /images/applications/forum-community/flarum/logo.png
   website: https://flarum.org/
   iframe_website: /website/applications/forum-community/flarum
-  dashboardImage: /images/applications/forum-community/flarum/screenshot-1.png
+  dashboardImage: /images/applications/forum-community/flarum/screenshot-2.png
   short_description: Flarum is a delightfully simple discussion platform for your website
   description: "Flarum is a delightfully simple discussion platform for your website. It's fast, free, and easy to use, with all the features you need to run a successful community. It's also extremely extensible, allowing for ultimate customizability."
   features:
@@ -20,6 +20,5 @@ content:
     - title: Free and open
       description: Flarum is released under the MIT license
   screenshots:
-    - /images/applications/forum-community/flarum/screenshot-1.png
     - /images/applications/forum-community/flarum/screenshot-2.png
 ---
