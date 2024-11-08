@@ -7,7 +7,7 @@ content:
   logo: /images/applications/cms/ghost/logo.png
   website: https://ghost.org/
   iframe_website: /website/applications/cms/ghost
-  dashboardImage: /images/applications/cms/ghost/screenshot-1.jpg
+  dashboardImage: /images/applications/cms/ghost/screenshot-2.jpg
   short_description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content.
   description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members. Publish by web & email newsletter.
   features:
@@ -20,6 +20,5 @@ content:
     - title: Membership management
       description: Turn your audience into a business. Transform clicks into contacts. Until now, building an indie publication with memberships and subscriptions has been difficult and complicated. Ghost makes it easy, with native signup forms that turn anonymous views into logged-in members.
   screenshots:
-    - /images/applications/cms/ghost/screenshot-1.jpg
     - /images/applications/cms/ghost/screenshot-2.jpg
 ---

@@ -5,5 +5,6 @@ content:
   id: password
   name: Password Pusher
   website: https://pwpush.com/
+  proxy: true
   description: An application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.
 ---
