@@ -17,3 +17,13 @@ For build run just `hugo`
 - suitecrm
 - dolibarr
 - cryptpad
+- frappehr
+- trilium
+- Affine
+- flatnotes
+- taiga
+- lobechat
+- mattermost
+- botpress
+- lago
+- hyperswitch

@@ -5,5 +5,6 @@ content:
   id: trilium
   name: Trilium
   website: https://github.com/zadam/trilium
+  proxy: true
   description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 ---
