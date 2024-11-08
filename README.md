@@ -61,5 +61,29 @@ For build run just `hugo`
 - influxdb
 - surrealdb
 - neo4j
+- lightldap
+- pocketbase
+- opnform
+- emqx
+- stirling-pdf
+- quickchart
+- growthbook
+- gitness
+- onedev
+- rstudio
+- flagsmith
+- wg-easy
+- nebula
+- meshcentral
+- imagor
+- sonarqube
+- couchbase
+- portainer
+- kestra
+- dockerregistry
+- microk8s
+- apitable
+- hasura
 
 Misskey
+Jellyfin

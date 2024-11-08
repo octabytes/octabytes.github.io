@@ -5,5 +5,6 @@ content:
   id: sonarqube
   name: SonarQube
   website: https://www.sonarqube.org/
+  proxy: true
   description: SonarQube is an open-source platform that reveals the health of an application and highlights new issues.
 ---
