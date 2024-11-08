@@ -12,4 +12,8 @@ Second run hugo server for dev
 
 For build run just `hugo`
 
-## Tasks
+## Failed Proxies
+
+- suitecrm
+- dolibarr
+- cryptpad

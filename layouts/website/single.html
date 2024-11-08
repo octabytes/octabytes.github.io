@@ -45,41 +45,12 @@
       </a>
     </div>
   </div>
-
-  <script>
-    window.onload = function() {
-      console.log("Window loaded")
-      const iframe = document.getElementById("website-iframe");
-      const proxyUrl = `http://{{.Params.content.id}}.reverse-proxy.octabyte.io`;
-
-      function useProxyUrl() {
-        iframe.src = proxyUrl;
-        console.log("Using reverse proxy:", proxyUrl);
-      }
-
-      iframe.onload = () => {
-        try {
-          const iframeDocument = iframe.contentWindow.document;
-          console.log("Iframe loaded successfully:", iframeDocument);
-        } catch (error) {
-          console.warn("Iframe blocked, switching to reverse proxy.", error);
-          useProxyUrl();
-        }
-      };
-
-      // Fallback if onload doesn't fire (e.g., due to CSP headers)
-      setTimeout(() => {
-        if (!iframe.contentWindow || !iframe.contentWindow.location.href === "about:blank") {
-          console.warn("Iframe is blocked, using reverse proxy as fallback.");
-          useProxyUrl();
-        }
-      }, 3000);
-    }
-  </script>
-
+  {{ $url := .Params.content.website }}
+  {{ if .Params.content.proxy }}
+    {{ $url = printf "http://%s.reverse-proxy.octabyte.io" .Params.content.id }}
+  {{ end }}
   <iframe
-    id="website-iframe"
     class="md:h-[calc(100vh-52px)] h-[calc(100vh-144px)] w-full"
-    src="{{ .Params.content.website }}"
+    src="{{ $url }}"
     title="{{ .Params.content.description }}"></iframe>
 {{ end }}

@@ -5,5 +5,6 @@ content:
   id: suitecrm
   name: SuiteCRM
   website: https://suitecrm.com/
+  proxy: true
   description: SuiteCRM is an open source Customer Relationship Management (CRM) software solution that provides a 360-degree view of your customers and business.
 ---
