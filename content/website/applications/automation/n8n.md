@@ -5,5 +5,6 @@ content:
   id: n8n
   name: N8N
   website: https://n8n.io/
+  proxy: true
   description: n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.
 ---

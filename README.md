@@ -46,3 +46,11 @@ For build run just `hugo`
 - matomo
 - knime
 - nopcommerce
+- joomla
+- firefish
+- strapi
+- pixelfed
+- huginn
+- n8n
+
+Misskey
