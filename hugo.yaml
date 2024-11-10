@@ -19,8 +19,9 @@ params:
 
   social:
     facebook: "https://www.facebook.com/octabyte.io/"
-    instagram: "#"
+    instagram: "https://www.instagram.com/octabyte_io"
     twitter: "https://x.com/octabyte_io"
+    linkedin: "https://www.linkedin.com/company/octabyte-io"
     github: "https://github.com/octabytes"
 
 menus:
