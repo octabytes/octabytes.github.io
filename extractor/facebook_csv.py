@@ -13,14 +13,17 @@ os.makedirs(CSV_OUTPUT_FOLDER, exist_ok=True)
 def generate_category_hashtags(category_ids):
     hashtags = []
     for cat_id in category_ids:
-        # Remove hyphens and create a combined hashtag
-        combined_tag = f"#{cat_id.replace('-', '')}"
-        hashtags.append(combined_tag)
-        
-        # Create individual word hashtags
-        words = cat_id.split('-')
-        word_tags = [f"#{word}" for word in words]
-        hashtags.extend(word_tags)
+        if "-" in cat_id:
+            # Remove hyphens and create a combined hashtag
+            combined_tag = f"#{cat_id.replace('-', '')}"
+            hashtags.append(combined_tag)
+            
+            # Create individual word hashtags
+            words = cat_id.split('-')
+            word_tags = [f"#{word}" for word in words]
+            hashtags.extend(word_tags)
+        else:
+            hashtags.append(f"#{cat_id}")
     
     return " ".join(hashtags)
 

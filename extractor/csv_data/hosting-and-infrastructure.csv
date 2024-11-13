@@ -23,7 +23,7 @@ XPath, JSONPath and CSS support comes baked in! You can be as specific as you ne
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/changedetection
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #changedetection #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/changedetection,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #changedetection #managedservices,"- Backup and Updates:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #changedetection #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/changedetection,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #changedetection #managedservices,"- Backup and Updates:
 
 Automatic Updates, Automatic Backups, No Heroku ""paused application"", don't miss a change!
 
@@ -70,7 +70,7 @@ Lightning-fast search based on ClickHouse
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/coroot
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #coroot #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/coroot,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #coroot #managedservices,"- Zero-instrumentation observability:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #coroot #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/coroot,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #coroot #managedservices,"- Zero-instrumentation observability:
 
 Metrics, logs, traces, and profiles are gathered automatically by using eBPF
 Coroot provides you with a Service Map that covers 100% of your system with no blind spots
@@ -117,7 +117,7 @@ Grafana enables you to translate and transform any of your data into flexible an
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/grafana
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #grafana #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/grafana,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #grafana #managedservices,"- Unify your data, not your database:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #grafana #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/grafana,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #grafana #managedservices,"- Unify your data, not your database:
 
 With Grafana, you don't have to ingest data to a backend store or vendor database. It unifies your data wherever it lives. You can take any of your data – from your Kubernetes cluster, Raspberry Pi, different cloud services, or even Google Sheets – and visualize it as you want, all from a single dashboard.
 
@@ -156,7 +156,7 @@ Set up alerting rules for Loki to evaluate your incoming log data. Configure Lok
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/loki
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #loki #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/loki,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #loki #managedservices,"- Pull in any logs with Promtail:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #loki #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/loki,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #loki #managedservices,"- Pull in any logs with Promtail:
 
 Promtail is a log collector built specifically for Loki. It uses the same service discovery as Prometheus and includes analogous features for labeling, transforming, and filtering logs before ingestion into Loki.
 
@@ -195,7 +195,7 @@ GlitchTip is the right choice if you value simplicity, affordability, and the fr
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #glitchtip #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp,https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #glitchtip #managedservices,"- Error Tracking:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #glitchtip #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp,https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #glitchtip #managedservices,"- Error Tracking:
 
 Report your website or application's exceptions, log messages, Content Security Policy violations, and more to one place to triage and resolve.
 
@@ -234,7 +234,7 @@ With Sensu, you can use the right interface and the right data format for each i
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/sensu
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #sensu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/sensu,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #sensu #managedservices,"- Observability Pipeline:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #sensu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/sensu,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #sensu #managedservices,"- Observability Pipeline:
 
 With Sensu Go, you can fill gaps in observability between metrics, logging, & tracing.
 
@@ -273,7 +273,7 @@ SigNoz allows you to monitor your usage and set your own retention period and sa
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/signoz
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #signoz #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/signoz,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #signoz #managedservices,"- Your data in your boundary:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #signoz #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/signoz,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #signoz #managedservices,"- Your data in your boundary:
 
 With SigNoz, there's no need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in your infra.
 
@@ -312,7 +312,7 @@ Uptime Kuma includes cron or heartbeat monitoring of recurring background jobs o
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #uptimekuma #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #uptimekuma #managedservices,"- Website & SSL monitoring:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #uptimekuma #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #uptimekuma #managedservices,"- Website & SSL monitoring:
 
 Uptime Kuma ensures reliable monitoring so you can be warned before any significant trouble. It saves you money. You won't lose visitors because of an expired SSL certificate. And you'll get notified 30, 14 and 7 days before expiration so you have time to renew.
 
@@ -351,7 +351,7 @@ Healthchecks provides status badges for each of the tags you have used. Addition
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/healthchecks
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #healthchecks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/healthchecks,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #healthchecks #managedservices,"- Live-updating dashboard:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #healthchecks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/monitoring/healthchecks,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #healthchecks #managedservices,"- Live-updating dashboard:
 
 Healthchecks provides you with a list of your checks, one for each cron job, daemon or scheduled task you want to monitor. You can give names and assign tags to your checks to easily recognize them later; tap on the integration icons to toggle them on and off, and adjust period and grace time to match the periodicity and duration of your tasks.
 
@@ -390,7 +390,7 @@ Offers optimized compression algorithms
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/victoriametrics
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #victoriametrics #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/victoriametrics,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #victoriametrics #managedservices,"- Lightweight:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #victoriametrics #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/victoriametrics,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #victoriametrics #managedservices,"- Lightweight:
 
 Scales perfectly with the number of CPU cores, RAM and available storage space
 
@@ -429,7 +429,7 @@ Jitsu will automatically resolve user geo-location based on IP address, and will
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/jitsu
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #jitsu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/jitsu,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #jitsu #managedservices,"- Send data from anywhere:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #jitsu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/jitsu,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #jitsu #managedservices,"- Send data from anywhere:
 
 To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team.
 
@@ -481,7 +481,7 @@ Configure automatic dashboard refresh intervals.
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/zabbix
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #zabbix #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/monitoring/zabbix,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #zabbix #managedservices,"- Detect problems instantly:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #zabbix #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/monitoring/zabbix,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #zabbix #managedservices,"- Detect problems instantly:
 
 Forget about tracking your metrics manually. With Zabbix you can detect problem states within the incoming metric flow automatically: 
 High performance problem detection in real-time,
@@ -535,7 +535,7 @@ Prometheus is configured via command-line flags and a configuration file. While 
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/prometheus
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #prometheus #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/prometheus,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #prometheus #managedservices,"- Data model:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #prometheus #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/prometheus,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #prometheus #managedservices,"- Data model:
 
 Prometheus fundamentally stores all data as time series: streams of timestamped values belonging to the same metric and the same set of labeled dimensions. Besides stored time series, Prometheus may generate temporary derived time series as the result of queries.
 
@@ -576,7 +576,7 @@ There is a rich variety of addons that provide additional features that are out-
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/nagios
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #infrastructure #infrastructure #nagios #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/nagios,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #infrastructure #infrastructure #nagios #managedservices,"- Architectural Overview:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #infrastructure #nagios #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/nagios,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #infrastructure #nagios #managedservices,"- Architectural Overview:
 
 Nagios Core has been designed with a focused, extensible architecture that is designed for flexibility and scalability. It provides several APIs to allow its feature-set to be easily extended through additional addons. This architecture has proved to be successful and has spawned the creation of thousands of addon projects that extend its core feature set.
 
@@ -617,7 +617,7 @@ Canopsis streamlines the set of monitoring tools and other data sources in a sin
 
 https://octabyte.io/hosting-and-infrastructure/monitoring/canopsis
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #canopsis #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/canopsis,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #monitoring #canopsis #managedservices,"- Collect:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #canopsis #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/monitoring/canopsis,#octabyte #opensource #devops #itservices #hosting #infrastructure #monitoring #canopsis #managedservices,"- Collect:
 
 Supervision solutions, logs, ticketing tools, referrals / CMDB, business applications…
 
@@ -657,7 +657,7 @@ The excellent MailCow support is continuously developed and improved.
 
 https://octabyte.io/hosting-and-infrastructure/email/mailcow
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #mailcow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/mailcow,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #mailcow #managedservices,"- Easy to install, setup and manage:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #email #mailcow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/mailcow,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #mailcow #managedservices,"- Easy to install, setup and manage:
 
 Easy to manage, MailCow supports all the latest releases of Ubuntu and Debian, provides IPv6 and IPv4 communication standards and a DKIM generator per each domain from the UI.
 
@@ -696,7 +696,7 @@ You can set up webhooks to receive live information about delivery information i
 
 https://octabyte.io/hosting-and-infrastructure/email/postal
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #postal #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/postal/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/postal,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #postal #managedservices,"- Click & open tracking:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #email #postal #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/postal/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/postal,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #postal #managedservices,"- Click & open tracking:
 
 Postal supports tracking opens and clicks from emails. This allows you to see when people open messages or they click links within them.
 
@@ -735,7 +735,7 @@ Security, enforced TLS, Letsencrypt!, outgoing DKIM, anti-virus scanner
 
 https://octabyte.io/hosting-and-infrastructure/email/mailu
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #mailu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/mailu,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #email #mailu #managedservices,"- Standard email server:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #email #mailu #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/email/mailu,#octabyte #opensource #devops #itservices #hosting #infrastructure #email #mailu #managedservices,"- Standard email server:
 
 IMAP and IMAP+, SMTP and Submission
 
@@ -774,7 +774,7 @@ A thriving, transparent, entirely open-source community development model ensure
 
 https://octabyte.io/hosting-and-infrastructure/storage/nextcloud
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #nextcloud #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/nextcloud,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #nextcloud #managedservices,"- Access to files wherever you are:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #nextcloud #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/nextcloud,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #nextcloud #managedservices,"- Access to files wherever you are:
 
 With Nextcloud, you pick a server at home, in a data center, or at a provider, and your files will be there. With Nextcloud running on that server, your data is protected and you can access it from your desktop or mobile devices. You can also access, sync, and share your data on that FTP drive at school, on Dropbox, or on a NAS you have at home.
 
@@ -813,7 +813,7 @@ Play Live Photos by hovering over them in albums and search results
 
 https://octabyte.io/hosting-and-infrastructure/storage/photoprism
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #photoprism #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/photoprism,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #photoprism #managedservices,"- Supports All Format:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #photoprism #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/photoprism,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #photoprism #managedservices,"- Supports All Format:
 
 Browse all your photos and videos without worrying about RAW conversion, duplicates or video formats
 
@@ -852,7 +852,7 @@ Syncthing segments files into pieces, called blocks, to transfer data from one d
 
 https://octabyte.io/hosting-and-infrastructure/storage/syncthing
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #syncthing #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/syncthing,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #syncthing #managedservices,"- Data secure:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #syncthing #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/syncthing,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #syncthing #managedservices,"- Data secure:
 
 Syncthing does not upload your data to the cloud but exchanges it across your machines as soon as they are online at the same time.
 
@@ -891,7 +891,7 @@ Filestash has passed an aggressive security audit to deploy in a F500 company.
 
 https://octabyte.io/hosting-and-infrastructure/storage/filestash
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #filestash #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/filestash,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #filestash #managedservices,"- Simple data management:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #filestash #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/filestash,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #filestash #managedservices,"- Simple data management:
 
 Filestash lets you access and manage your data in a simple way – regardless of where that data is stored.
 
@@ -930,7 +930,7 @@ With ownCloud, you can store your files, contacts, calendars, etc on a server of
 
 https://octabyte.io/hosting-and-infrastructure/storage/owncloud
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #owncloud #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/owncloud,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #owncloud #managedservices,"- Data storage control:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #owncloud #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/owncloud,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #owncloud #managedservices,"- Data storage control:
 
 You can deploy ownCloud in your own datacenter on-premises, at a trusted service provider or choose ownCloud.online, the software-as-a-service collaboration platform hosted in Germany. You can increase security through measures like multi-factor authentication, encryption and file lifecycle management.
 
@@ -971,7 +971,7 @@ Highlighting shows you which parts of the document matched the query. Searching 
 
 https://octabyte.io/hosting-and-infrastructure/storage/paperless-ngx
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #paperlessngx #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/paperless-ngx,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #paperlessngx #managedservices,"- OCR:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #paperlessngx #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/paperless-ngx,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #paperlessngx #managedservices,"- OCR:
 
 Performs OCR on your documents, adds selectable text to image only documents and adds tags, correspondents and document types to your documents.
 
@@ -1013,7 +1013,7 @@ All of ArchiveBox's state (including the index, snapshot data, and config file) 
 
 https://octabyte.io/hosting-and-infrastructure/storage/archivebox
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #archivebox #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/archivebox,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #archivebox #managedservices,"- Powerfull, intuitive command line interface:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #archivebox #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/archivebox,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #archivebox #managedservices,"- Powerfull, intuitive command line interface:
 
 ArchiveBox comes with a command-line app that works directly from your terminal, a web application that works seamlessly in all modern browsers, and a new released desktop app that works for Windows, Linux, and macOS.
 
@@ -1053,7 +1053,7 @@ All files are converted to PDF. Don't worry about the originals. Original files 
 
 https://octabyte.io/hosting-and-infrastructure/storage/docspell
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #docspell #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/docspell/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/docspell,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #docspell #managedservices,"- Text Extraction with OCR:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #docspell #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/docspell/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/docspell,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #docspell #managedservices,"- Text Extraction with OCR:
 
 Text is extracted from all files. For scanned documents/images, OCR is used by utilising tesseract. The text is analysed and is available for full-text search.
 
@@ -1092,7 +1092,7 @@ It can be accessed through a mobile app with the server url on a supported devic
 
 https://octabyte.io/hosting-and-infrastructure/storage/immich
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #immich #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/immich/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/immich,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #immich #managedservices,"- Bulk Upload (Using the CLI):
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #immich #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/immich/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/immich,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #immich #managedservices,"- Bulk Upload (Using the CLI):
 
 You can use the CLI to upload an existing gallery to the Immich server
 
@@ -1131,7 +1131,7 @@ PicoShare preserves the original filename and metadata for your files.
 
 https://octabyte.io/hosting-and-infrastructure/storage/picoshare
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #picoshare #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/picoshare/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/picoshare,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #picoshare #managedservices,"- Direct download links:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #picoshare #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/picoshare/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/picoshare,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #picoshare #managedservices,"- Direct download links:
 
 PicoShare gives you a direct download link you can share with anyone. They can view or download the file with no ads or signups.
 
@@ -1170,7 +1170,7 @@ MinIO leverages the hard-won knowledge of web scalers to bring a simple scaling 
 
 https://octabyte.io/hosting-and-infrastructure/storage/minio
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #minio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/minio,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #minio #managedservices,"- Hybrid and multi-cloud:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #minio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/storage/minio,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #minio #managedservices,"- Hybrid and multi-cloud:
 
 MinIO is a natural fit for enterprises looking for a consistent, performant and scalable object store for their hybrid cloud strategies. Kubernetes-native by design, S3 compatible from inception, MinIO has more than 7.7m instances running in AWS, Azure and GCP – more than the rest of the private cloud combined. When added to millions of private cloud instances and extensive edge deployments, MinIO is the hybrid cloud leader.
 
@@ -1210,7 +1210,7 @@ Quota, Data transfer bandwidth limits, Geo-IP filtering, Virtual folders ... and
 
 https://octabyte.io/hosting-and-infrastructure/storage/sftpgo
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #sftpgo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/sftpgo,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #storage #sftpgo #managedservices,"- Web UI:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #sftpgo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/storage/sftpgo,#octabyte #opensource #devops #itservices #hosting #infrastructure #storage #sftpgo #managedservices,"- Web UI:
 
 Web based administration interface to easily manage users, folders and connections.
 Web client interface so that end users can change their credentials, manage and share their files in the browser. Web Client and Web Admin user interfaces support OpenID Connect authentication and so they can be integrated with identity providers such as Keycloak.
@@ -1250,7 +1250,7 @@ Single command for multi-region, multi-cloud federation. Deploy applications glo
 
 https://octabyte.io/hosting-and-infrastructure/containers/nomad
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #nomad #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/containers/nomad,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #nomad #managedservices,"- Simple and Lightweight:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #nomad #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/containers/nomad,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #nomad #managedservices,"- Simple and Lightweight:
 
 Single binary that integrates into existing infrastructure. Easy to operate on-prem or in the cloud with minimal overhead.
 
@@ -1289,7 +1289,7 @@ Orchestrators like Kubernetes are not equipped with identity and access manageme
 
 https://octabyte.io/hosting-and-infrastructure/containers/portainer
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #portainer #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/portainer/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/portainer,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #portainer #managedservices,"- Deploy containerized apps easily and securely:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #portainer #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/portainer/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/portainer,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #portainer #managedservices,"- Deploy containerized apps easily and securely:
 
 Portainer allows you to get your app up and running in any container-based environment (Docker, Kubernetes. ACI) quickly, easily and securely without first having to learn the platform intricacies.
 
@@ -1331,7 +1331,7 @@ Features Highlight:
 
 https://octabyte.io/hosting-and-infrastructure/containers/dockerregistry
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #dockerregistry #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/dockerregistry,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #dockerregistry #managedservices,"- :
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #dockerregistry #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/dockerregistry,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #dockerregistry #managedservices,"- :
 
 
 
@@ -1370,7 +1370,7 @@ Simple but powerful “batteries-included” features have been added, such as: 
 
 https://octabyte.io/hosting-and-infrastructure/containers/k3s
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #k3s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/k3s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #k3s #managedservices,"- Perfect for Edge:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #k3s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/k3s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #k3s #managedservices,"- Perfect for Edge:
 
 K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
@@ -1409,7 +1409,7 @@ MicroK8s tracks upstream and releases beta, RC and final bits the same day as up
 
 https://octabyte.io/hosting-and-infrastructure/containers/microk8s
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #microk8s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/microk8s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #microk8s #managedservices,"- Small:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #microk8s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/microk8s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #microk8s #managedservices,"- Small:
 
 Developers want the smallest K8s for laptop and workstation development. MicroK8s provides a standalone K8s compatible with Azure AKS, Amazon EKS, Google GKE when you run it on Ubuntu.
 
@@ -1451,7 +1451,7 @@ External MySQL
 
 https://octabyte.io/hosting-and-infrastructure/containers/k0s
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #k0s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/k0s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #k0s #managedservices,"- Zero Friction:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #k0s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/k0s,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #k0s #managedservices,"- Zero Friction:
 
 k0s drastically reduces the complexity of installing and running a fully conformant Kubernetes distribution. New kube clusters can be bootstrapped in minutes. Developer friction is reduced to zero, allowing anyone, with no special skills or expertise in Kubernetes to easily get started.
 
@@ -1502,7 +1502,7 @@ Deployed at more than 100,000 organizations globally.
 
 https://octabyte.io/hosting-and-infrastructure/containers/nexus3
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #nexus3 #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/nexus3,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #nexus3 #managedservices,"- Universal Support for All Popular Build Tools:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #nexus3 #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/hosting-and-infrastructure/containers/nexus3,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #nexus3 #managedservices,"- Universal Support for All Popular Build Tools:
 
 Store and distribute Maven/Java, npm, NuGet, Helm, Docker, P2, OBR, APT, GO, R, Conan components and more.
 Manage components from dev through delivery: binaries, containers, assemblies, and finished goods.
@@ -1552,7 +1552,7 @@ You can move a ci/cd pipeline from one vm to another vm in a click. Your data, d
 
 https://octabyte.io/hosting-and-infrastructure/containers/ci-cd-target
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #cicdtarget #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/ci-cd-target,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #containers #cicdtarget #managedservices,"- Deploy automaticaly from Github / Gitlab / Docker registries:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #cicdtarget #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/containers/ci-cd-target/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/containers/ci-cd-target,#octabyte #opensource #devops #itservices #hosting #infrastructure #containers #cicdtarget #managedservices,"- Deploy automaticaly from Github / Gitlab / Docker registries:
 
 Go from source to production In 3 simple steps 
 1) Select your source project from your account or from our samples
@@ -1594,7 +1594,7 @@ The life cycle of the tickets or the list of tasks to perform for the achievemen
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/itop
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #itop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/itop,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #itop #managedservices,"- 100% Customizable:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #itop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/itop,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #itop #managedservices,"- 100% Customizable:
 
 Ready to use, iTop adapts to your needs and processes without writing a single line of code
 
@@ -1633,7 +1633,7 @@ Built-in Redis, KeyDB, Tarantool engines or Nats broker make it possible to scal
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/centrifugo
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #centrifugo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/infrastructure/centrifugo,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #centrifugo #managedservices,"- Integrates with everything:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #centrifugo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg,https://octabyte.io/hosting-and-infrastructure/infrastructure/centrifugo,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #centrifugo #managedservices,"- Integrates with everything:
 
 Centrifugo, a self-hosted service, can handle connections over a variety of real-time transports and provides a simple publish API. It integrates well with any application. There's no need to change an application architecture to introduce real-time features; you just let Centrifugo deal with persistent connections.
 
@@ -1672,7 +1672,7 @@ Dnsdist (load balancer) can route traffic to optimal servers, delivering excelle
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/powerdns
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #powerdns #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/powerdns,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #powerdns #managedservices,"- Complete suite of DNS-related software:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #powerdns #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/powerdns,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #powerdns #managedservices,"- Complete suite of DNS-related software:
 
 PowerDNS provides open-source (GPL) software to create authoritative DNS, recursive DNS, DNS loading balancer, debugging tools, and APIs to provision zones and records.
 
@@ -1711,7 +1711,7 @@ HTTP-API, command line tool, and UI for managing and monitoring RabbitMQ.
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/rabbitmq
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #rabbitmq #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg,https://octabyte.io/hosting-and-infrastructure/infrastructure/rabbitmq,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #rabbitmq #managedservices,"- Asynchronous Messaging:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #rabbitmq #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg,https://octabyte.io/hosting-and-infrastructure/infrastructure/rabbitmq,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #rabbitmq #managedservices,"- Asynchronous Messaging:
 
 Supports multiple messaging protocols, message queuing, delivery acknowledgement, flexible routing to queues, multiple exchange type.
 
@@ -1750,7 +1750,7 @@ Utilize HAProxy’s RESTful Data Plane API and Runtime API to manipulate your lo
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/haproxy
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #haproxy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/haproxy,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #haproxy #managedservices,"- Load Balancing:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #haproxy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/haproxy,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #haproxy #managedservices,"- Load Balancing:
 
 Load balance your services at any scale and in any environment with our feature-rich application delivery controllers.
 
@@ -1789,7 +1789,7 @@ Switching from nginx to OpenResty is not such a paradigm shift as moving to, say
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/openresty
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #openresty #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/openresty,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #openresty #managedservices,"- Powerful web app server:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #openresty #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/openresty,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #openresty #managedservices,"- Powerful web app server:
 
 By taking advantage of various well-designed Nginx modules (most of which are developed by the OpenResty team themselves), OpenResty effectively turns the nginx server into a powerful web app server, in which the web developers can use the Lua programming language to script various existing nginx C modules and Lua modules and construct extremely high-performance web applications that are capable to handle 1000K+ connections in a single box.
 
@@ -1828,7 +1828,7 @@ Set authentication to get users to Authenticate (LDAP, Active Directory,RADIUS, 
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/squid
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #squid #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/squid,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #squid #managedservices,"- Simple & powerful:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #squid #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/squid,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #squid #managedservices,"- Simple & powerful:
 
 Squid is one of the oldest content accelerators, used by thousands of websites around the world to ease the load on their servers. Setting up an accelerator in front of an existing website is almost always a quick and simple task with immediate benefits.
 
@@ -1870,7 +1870,7 @@ AWS CLI, Serverless Framework, Spring Cloud Function framework, Terraform, AWS S
 
 https://octabyte.io/hosting-and-infrastructure/infrastructure/localstack
 
-#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #localstack #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/localstack,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #infrastructure #localstack #managedservices,"- Cloud Emulation:
+#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #localstack #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png,https://octabyte.io/hosting-and-infrastructure/infrastructure/localstack,#octabyte #opensource #devops #itservices #hosting #infrastructure #infrastructure #localstack #managedservices,"- Cloud Emulation:
 
 LocalStack provides a fully functional local cloud stack - develop your cloud apps offline!
 Provides the same APIs as the real cloud, all on your local machine

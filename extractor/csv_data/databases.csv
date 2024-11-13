@@ -374,7 +374,7 @@ Data is stored and fetched from Valkey by key. Keybased access allows for extrem
 
 https://octabyte.io/databases/nosql/valkey
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #valkey #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/valkey/screenshot-1.jpg,https://octabyte.io/databases/nosql/valkey,#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #valkey #managedservices,"- In-memory store:
+#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #valkey #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/valkey/screenshot-1.jpg,https://octabyte.io/databases/nosql/valkey,#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #valkey #managedservices,"- In-memory store:
 
 All data in Valkey is stored in RAM, delivering the fastest possible access times to the data for both read and write requests.
 
@@ -413,7 +413,7 @@ Data is stored and fetched from Redis by key. Keybased access allows for extreme
 
 https://octabyte.io/databases/nosql/redis
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #redis #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/redis/screenshot-1.jpg,https://octabyte.io/databases/nosql/redis,#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #redis #managedservices,"- In-memory store:
+#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #redis #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/redis/screenshot-1.jpg,https://octabyte.io/databases/nosql/redis,#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #redis #managedservices,"- In-memory store:
 
 All data in Redis is stored in RAM, delivering the fastest possible access times to the data for both read and write requests.
 
@@ -452,7 +452,7 @@ ScyllaDBN automatically shards per core across multiple nodes and datacenters, e
 
 https://octabyte.io/databases/nosql/scylladb
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #scylladb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/scylladb/screenshot-1.jpg,https://octabyte.io/databases/nosql/scylladb,#octabyte #opensource #devops #itservices #databases #nosql #nosql #scylladb #managedservices,"- Low, consistent latency:
+#octabyte #opensource #devops #itservices #databases #nosql #scylladb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/scylladb/screenshot-1.jpg,https://octabyte.io/databases/nosql/scylladb,#octabyte #opensource #devops #itservices #databases #nosql #scylladb #managedservices,"- Low, consistent latency:
 
 ScyllaDB provides near-millisecond average latency and predictably low-single-digit P99 response times.
 
@@ -493,7 +493,7 @@ This will be a community where you will be heard, accepted, and valued, whether 
 
 https://octabyte.io/databases/nosql/opensearch
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #opensearch #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/opensearch/screenshot-1.jpg,https://octabyte.io/databases/nosql/opensearch,#octabyte #opensource #devops #itservices #databases #nosql #nosql #specializeddatabases #specialized #databases #opensearch #managedservices,"- A level Playing Field:
+#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #opensearch #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/opensearch/screenshot-1.jpg,https://octabyte.io/databases/nosql/opensearch,#octabyte #opensource #devops #itservices #databases #nosql #specializeddatabases #specialized #databases #opensearch #managedservices,"- A level Playing Field:
 
 We will not tweak the software so that it runs better for any vendor (including AWS) at the expense of others. If this happens, call it out and we will fix it as a community.
 
@@ -532,7 +532,7 @@ Another striking feature of Apache Cassandra is Data replication which makes Apa
 
 https://octabyte.io/databases/nosql/cassandra
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #cassandra #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/cassandra/screenshot-1.png,https://octabyte.io/databases/nosql/cassandra,#octabyte #opensource #devops #itservices #databases #nosql #nosql #cassandra #managedservices,"- Hybrid:
+#octabyte #opensource #devops #itservices #databases #nosql #cassandra #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/cassandra/screenshot-1.png,https://octabyte.io/databases/nosql/cassandra,#octabyte #opensource #devops #itservices #databases #nosql #cassandra #managedservices,"- Hybrid:
 
 Masterless architecture and low latency mean Apache Cassandra will withstand an entire data center outage with no data loss—across public or private clouds and on-premises.
 
@@ -571,7 +571,7 @@ Initially, FerretDB retrieved all data related to queried collection, and applie
 
 https://octabyte.io/databases/nosql/ferretdb
 
-#octabyte #opensource #devops #itservices #databases #nosql #nosql #ferretdb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/ferretdb/screenshot-1.png,https://octabyte.io/databases/nosql/ferretdb,#octabyte #opensource #devops #itservices #databases #nosql #nosql #ferretdb #managedservices,"- Solution:
+#octabyte #opensource #devops #itservices #databases #nosql #ferretdb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/databases/nosql/ferretdb/screenshot-1.png,https://octabyte.io/databases/nosql/ferretdb,#octabyte #opensource #devops #itservices #databases #nosql #ferretdb #managedservices,"- Solution:
 
 The core of our solution is a stateless proxy, which converts MongoDB protocol queries to SQL, and uses PostgreSQL as a database engine. This will be compatible with MongoDB drivers and should work as a drop-in replacement to MongoDB in many cases.
 
