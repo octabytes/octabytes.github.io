@@ -9,7 +9,7 @@ content:
   iframe_website: /website/development/dev-ops/ubuntu-desktop
   dashboardImage: /images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg
   short_description: Ubuntu Virtual Desktop experience in your browser
-  description: "Ubuntu Virtual Desktop by Elestio comes with several softwares pre-installed: Chrome, Firefox, VS Code, Telegram, Thunderbird, Wine (Windows compatibility, you can install/run any windows program)."
+  description: "Ubuntu Virtual Desktop by OctaByte comes with several softwares pre-installed: Chrome, Firefox, VS Code, Telegram, Thunderbird, Wine (Windows compatibility, you can install/run any windows program)."
   features:
     - title: Desktop Experience in your browser
       description: Get a full desktop experience with various tools pre-installed like Chrome & Telegram. You can also install Windows programs thanks to Wine compatibility layer
