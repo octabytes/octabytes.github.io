@@ -26,6 +26,18 @@
 <meta name="description" content="{{ $description }}" />
 <meta name="keywords" content="{{ .Site.Params.keywords }}" />
 
+<meta property="og:description" content="{{ $description }}" />
+<meta property="og:type" content="website" />
+
+<meta name="twitter:card" content="summary_large_image" />
+
+{{ if .Params.content.short_description }}
+  <meta
+    name="twitter:description"
+    content="{{ .Params.content.short_description }}" />
+{{ end }}
+
 {{ if .Params.content.dashboardImage }}
   <meta property="og:image" content="{{ .Params.content.dashboardImage }}" />
+  <meta name="twitter:image" content="{{ .Params.content.dashboardImage }}" />
 {{ end }}
