@@ -4,11 +4,15 @@ import csv
 
 # Input and output folders
 DETAILS_FOLDER = './details'
-CSV_OUTPUT_FOLDER = './csv_data'
-IMAGE_PREFIX = '/Users/haider/codeplace/octabyte/octabytes.github.io/static'
+CSV_OUTPUT_FOLDER = './twitter_csv_data'
+IMAGE_PREFIX = '/Users/haider/codeplace/octabyte/octabytes.github.io'
 
 # Ensure the output folder exists
 os.makedirs(CSV_OUTPUT_FOLDER, exist_ok=True)
+
+def truncate_description(description):
+    max_length = 150
+    return description[:max_length] + '...' if len(description) > max_length else description
 
 def generate_category_hashtags(category_ids):
     hashtags = []
@@ -64,7 +68,7 @@ def create_csv_data(data, filename):
         f"{hashtags}"
     )
 
-    dashboard_image = dashboard_image.strip()
+    description = truncate_description(description)
     
     # Return CSV row data
     return [

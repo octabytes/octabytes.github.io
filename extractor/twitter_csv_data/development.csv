@@ -25,7 +25,7 @@ Everything you can do in our low-code admin console can be done through manageme
 
 https://octabyte.io/development/identity-and-access-management/logto
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #logto #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/logto/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/logto,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #logto #managedservices,"- Authenticate users:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #logto #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/logto/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/logto,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #logto #managedservices,"- Authenticate users:
 
 Comprehensive feature sets for you to build beautiful sign-in flows and secure your user authentication like 
 Email and SMS passwordless sign-in, Password sign-in, Social sign-in and custom branding and CSS
@@ -41,7 +41,7 @@ B2C and B2B products, Multi-app businesses, ChatGPT plugins AI applications, and
 
 - Powerful management API:
 
-Everything you can do in our low-code admin console can be done through management APIs.","Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",Logto
+Everything you can do in our low-code admin console can be done through management APIs.","Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organization...",Logto
 "LightLDAP
 
 A Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication. It integrates with many backends, from KeyCloak to Authelia to Nextcloud and more!.
@@ -67,7 +67,7 @@ The LLdap project is actively developed and maintained, ensuring ongoing support
 
 https://octabyte.io/development/identity-and-access-management/lightldap
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #lightldap #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/lightldap/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/lightldap,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #lightldap #managedservices,"- LDAP Server Compatibility:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #lightldap #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/lightldap/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/lightldap,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #lightldap #managedservices,"- LDAP Server Compatibility:
 
 LLdap is compatible with a wide range of LDAP servers, allowing users to choose the most suitable server for their authentication needs.
 
@@ -81,7 +81,7 @@ LLdap allows for flexible configuration, making it easy to adapt to various LDAP
 
 - Active Development:
 
-The LLdap project is actively developed and maintained, ensuring ongoing support, bug fixes, and improvements for a reliable authentication solution.","A Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication. It integrates with many backends, from KeyCloak to Authelia to Nextcloud and more!",LightLDAP
+The LLdap project is actively developed and maintained, ensuring ongoing support, bug fixes, and improvements for a reliable authentication solution.","A Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication. It integrates with many backends, from...",LightLDAP
 "Authelia
 
 Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for common reverse proxies.
@@ -106,7 +106,7 @@ Support for multiple second-factor methods including One Time Passwords, Mobile 
 
 https://octabyte.io/development/identity-and-access-management/authelia
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authelia #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/authelia/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/authelia,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authelia #managedservices,"- Single Sign-On 🎟️:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authelia #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/authelia/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/authelia,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authelia #managedservices,"- Single Sign-On 🎟️:
 
 Allow your users the convenience of just being required to log in once to a wide range of web applications via a session cookie, OpenID Connect 1.0, or Trusted Headers.
 
@@ -120,7 +120,7 @@ Control which users and groups have access to which specific resources or domain
 
 - Multi-Factor Authentication 🗝️:
 
-Support for multiple second-factor methods including One Time Passwords, Mobile Push Notifications, and WebAuthn.",Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It,Authelia
+Support for multiple second-factor methods including One Time Passwords, Mobile Push Notifications, and WebAuthn.",Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in ...,Authelia
 "Keycloak
 
 Keycloak allows single sign-on with identity and access management. You can add authentication to applications and secure services with minimum fuss. There's no need to deal with storing or authenticating users. It's all available out of the box. You also get advanced features such as user federation, identity brokering and social login.
@@ -145,7 +145,7 @@ Through the admin console administrators can centrally manage all aspects of the
 
 https://octabyte.io/development/identity-and-access-management/keycloak
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #keycloak #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/keycloak/screenshot-1.jpg,https://octabyte.io/development/identity-and-access-management/keycloak,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #keycloak #managedservices,"- Single sign-on/out:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #keycloak #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/keycloak/screenshot-1.jpg,https://octabyte.io/development/identity-and-access-management/keycloak,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #keycloak #managedservices,"- Single sign-on/out:
 
 Users authenticate with Keycloak rather than individual applications. This means that your applications don't have to deal with login forms, authenticating users, and storing users. Once logged in to Keycloak, users don't have to log in again to access a different application. This also applies to logging out. The single sign-out means users only have to log out once to be logged out of all applications that use Keycloak.
 
@@ -184,7 +184,7 @@ You can adopt authentik to your environment, regardless of your requirements –
 
 https://octabyte.io/development/identity-and-access-management/authentik
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authentik #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/authentik/screenshot-1.jpg,https://octabyte.io/development/identity-and-access-management/authentik,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authentik #managedservices,"- Easy to use:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authentik #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/authentik/screenshot-1.jpg,https://octabyte.io/development/identity-and-access-management/authentik,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #authentik #managedservices,"- Easy to use:
 
 Identity made easy... authentik simplifies single sign-on (SSO), user enrollment and access control.
 
@@ -224,7 +224,7 @@ Use our APIs, SDKs, and our quickstarts to enable modern authentication with any
 
 https://octabyte.io/development/identity-and-access-management/zitadel
 
-#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #zitadel #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/identity-and-access-management/zitadel/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/zitadel,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #zitadel #managedservices,"- Identity management that works for you:
+#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #zitadel #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/identity-and-access-management/zitadel/screenshot-1.png,https://octabyte.io/development/identity-and-access-management/zitadel,#octabyte #opensource #devops #itservices #development #identityandaccessmanagement #identity #and #access #management #zitadel #managedservices,"- Identity management that works for you:
 
 Do you want to auth that's quickly set up like Auth0 but open source like Keycloak? Look no further — ZITADEL combines the ease of Auth0 and the versatility of Keycloak.
 
@@ -264,7 +264,7 @@ All updates are saved as revisions, so you can easily revert items to any previo
 
 https://octabyte.io/development/backend-as-a-service/agencyos
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #agencyos #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/agencyos/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/agencyos,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #agencyos #managedservices,"- Website:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #agencyos #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/agencyos/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/agencyos,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #agencyos #managedservices,"- Website:
 
 When you’re hard at work delivering for clients - your site tends to suffer. AgencyOS includes a beautiful website template that’s easily customizable and already integrated with an easy-to-use headless CMS.
 
@@ -303,7 +303,7 @@ All updates are saved as revisions, so you can easily revert items to any previo
 
 https://octabyte.io/development/backend-as-a-service/directus
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #directus #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/directus/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/directus,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #directus #managedservices,"- Open-source platform:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #directus #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/directus/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/directus,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #directus #managedservices,"- Open-source platform:
 
 Directus is 100% JavaScript, open-source, and free to use for many, with 26M+ on-prem installs, 10K+ community members, and 300+ contributors.
 
@@ -342,7 +342,7 @@ Dynamic Zones is a native feature in Strapi that lets teams build customizable p
 
 https://octabyte.io/development/backend-as-a-service/strapi
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #strapi #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/strapi/screenshot-1.jpg,https://octabyte.io/development/backend-as-a-service/strapi,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #strapi #managedservices,"- Relations:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #strapi #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/strapi/screenshot-1.jpg,https://octabyte.io/development/backend-as-a-service/strapi,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #strapi #managedservices,"- Relations:
 
 Link content types together with relations. Taxonomy is crucial for your user experience, SEO, or your content modeling. You can leverage Strapi to create categories, link authors to articles, or even more complex multi-criteria relationships.
 
@@ -381,7 +381,7 @@ With Appwrite, you can easily set up the Appwrite self-hosted solution on your i
 
 https://octabyte.io/development/backend-as-a-service/appwrite
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #appwrite #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/appwrite/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/appwrite,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #appwrite #managedservices,"- Database & storage:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #appwrite #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/appwrite/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/appwrite,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #nocodelowcode #nocode #lowcode #appwrite #managedservices,"- Database & storage:
 
 With Appwrite, you can store, query and manage access control to your app documents; upload, download and preview your app and users' files and media.
 
@@ -420,7 +420,7 @@ You’re free to implement your own restrictions; none is imposed on you. The fo
 
 https://octabyte.io/development/backend-as-a-service/parse
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #parse #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/parse/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/parse,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #parse #managedservices,"- Database options:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #parse #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/parse/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/parse,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #parse #managedservices,"- Database options:
 
 With Parse Server, you can choose the database platform and file storage systems. The preferred database is MongoDB but Postgres is a great option if you're starting a new project and you expect to have a stable schema.
 
@@ -461,7 +461,7 @@ there is tons of sample apps and examples made in various languages & framworks 
 
 https://octabyte.io/development/backend-as-a-service/supabase
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #supabase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/supabase/screenshot-1.jpg,https://octabyte.io/development/backend-as-a-service/supabase,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #supabase #managedservices,"- Open Source SQL Database:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #supabase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/supabase/screenshot-1.jpg,https://octabyte.io/development/backend-as-a-service/supabase,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #supabase #managedservices,"- Open Source SQL Database:
 
 Every Supabase project is a dedicated PostgreSQL database, trusted by millions of developers.
 PostgreSQL is one of the worlds most scalable databases.
@@ -502,7 +502,7 @@ Use as a standalone app or as Go framework, that you can extend via hooks to cre
 
 https://octabyte.io/development/backend-as-a-service/pocketbase
 
-#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #pocketbase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/backend-as-a-service/pocketbase/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/pocketbase,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #pocketbase #managedservices,"- Realtime database:
+#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #pocketbase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/backend-as-a-service/pocketbase/screenshot-1.png,https://octabyte.io/development/backend-as-a-service/pocketbase,#octabyte #opensource #devops #itservices #development #backendasaservice #backend #as #a #service #pocketbase #managedservices,"- Realtime database:
 
 Embedded performant database with schema builder, data validations, real-time subscriptions and easy to use REST api.
 
@@ -541,7 +541,7 @@ Sharing a movie night remotely has never been so easy.
 
 https://octabyte.io/development/dev-tools/jellyfin
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #jellyfin #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/jellyfin/screenshot-1.png,https://octabyte.io/development/dev-tools/jellyfin,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #jellyfin #managedservices,"- Movies & Shows:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #jellyfin #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/jellyfin/screenshot-1.png,https://octabyte.io/development/dev-tools/jellyfin,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #jellyfin #managedservices,"- Movies & Shows:
 
 Enjoy your entire movie collection, easy to browse and with beautiful artwork &  Watch your favorite shows, automatically sorted by season and ready to binge.
 
@@ -580,7 +580,7 @@ Notifications, File Uploads, Unique submission ID, Webhooks, Form password, Cust
 
 https://octabyte.io/development/dev-tools/opnform
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #opnform #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/opnform/screenshot-1.png,https://octabyte.io/development/dev-tools/opnform,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #opnform #managedservices,"- Create:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #opnform #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/opnform/screenshot-1.png,https://octabyte.io/development/dev-tools/opnform,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #opnform #managedservices,"- Create:
 
 Create a form in 2 minutes. More than 10 input types, images, logic, and much more.
 
@@ -594,7 +594,7 @@ Receive your form submissions. Receive notifications, and send confirmations. Ex
 
 - Miscellaneous:
 
-Notifications, File Uploads, Unique submission ID, Webhooks, Form password, Custom code, Closing date, And much more...","Form Builder, Create beautiful forms and share them anywhere. It is super fast, you don't need to know how to code. It's an alternative to products like Typeform, JotForm, Tally, etc",OpnForm
+Notifications, File Uploads, Unique submission ID, Webhooks, Form password, Custom code, Closing date, And much more...","Form Builder, Create beautiful forms and share them anywhere. It is super fast, you don't need to know how to code. It's an alternative to products li...",OpnForm
 "Corteza
 
 A low-code platform alternative to Salesforce lets you build and iterate CRM, business processes and other structured data apps fast, create intelligent business process workflows, and connect with almost any data source.
@@ -619,7 +619,7 @@ Corteza lets you seamlessly integrate apps and data across and between environme
 
 https://octabyte.io/development/dev-tools/corteza
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #corteza #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/corteza/screenshot-1.webp,https://octabyte.io/development/dev-tools/corteza,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #corteza #managedservices,"- Corteza Platform:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #corteza #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/corteza/screenshot-1.webp,https://octabyte.io/development/dev-tools/corteza,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #corteza #managedservices,"- Corteza Platform:
 
 Corteza lets you connect to any record-based data source as well as integrate with on-premise systems, private clouds, public clouds, and legacy applications and systems.
 
@@ -633,7 +633,7 @@ Corteza lets you design, automate, deploy, and manage business processes at any 
 
 - Integration Platform:
 
-Corteza lets you seamlessly integrate apps and data across and between environments, including on-premise, public and private clouds, and legacy applications.","A low-code platform alternative to Salesforce lets you build and iterate CRM, business processes and other structured data apps fast, create intelligent business process workflows, and connect with almost any data source.",Corteza
+Corteza lets you seamlessly integrate apps and data across and between environments, including on-premise, public and private clouds, and legacy applications.","A low-code platform alternative to Salesforce lets you build and iterate CRM, business processes and other structured data apps fast, create intellige...",Corteza
 "Kroki
 
 Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag, PacketDiag, RackDiag), BPMN, Bytefield, C4 (with PlantUML), D2, DBML, Ditaa, Erd, Excalidraw, GraphViz, Mermaid, Nomnoml, Pikchr, PlantUML, Structurizr, SvgBob, Symbolator, TikZ, UMLet, Vega, Vega-Lite, WaveDrom, WireViz... and more to come!
@@ -658,7 +658,7 @@ Built using a modern architecture, Kroki offers great performance.
 
 https://octabyte.io/development/dev-tools/kroki
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #kroki #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/kroki/screenshot-1.jpeg,https://octabyte.io/development/dev-tools/kroki,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #kroki #managedservices,"- Ready to use:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #kroki #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/kroki/screenshot-1.jpeg,https://octabyte.io/development/dev-tools/kroki,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #kroki #managedservices,"- Ready to use:
 
 Diagram libraries are written in a variety of languages: Haskell, Python, JavaScript, Go, PHP, and Java... some also have C bindings. Trust us, you have better things to do than install all the requirements to use them. Get started in no time!
 
@@ -697,7 +697,7 @@ Everything in Gophish is designed to ""just work"". It's so easy to set up, easy
 
 https://octabyte.io/development/dev-tools/gophish
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gophish #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gophish/screenshot-1.png,https://octabyte.io/development/dev-tools/gophish,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gophish #managedservices,"- Full REST API:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gophish #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gophish/screenshot-1.png,https://octabyte.io/development/dev-tools/gophish,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gophish #managedservices,"- Full REST API:
 
 Gophish is powered by a REST API. Our Python client makes working with the API a breeze.
 
@@ -736,7 +736,7 @@ Move and process millions of MQTT messages per second in a single broker.
 
 https://octabyte.io/development/dev-tools/emqx
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #emqx #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/emqx/screenshot-1.webp,https://octabyte.io/development/dev-tools/emqx,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #emqx #managedservices,"- Connectivity:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #emqx #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/emqx/screenshot-1.webp,https://octabyte.io/development/dev-tools/emqx,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #emqx #managedservices,"- Connectivity:
 
 Scale to 100 million concurrent MQTT connections with a single EMQX 5.0 cluster.
 
@@ -775,7 +775,7 @@ Our shape libraries let you create whatever type of diagram you need:
 
 https://octabyte.io/development/dev-tools/draw
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #draw #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/draw/screenshot-1.png,https://octabyte.io/development/dev-tools/draw,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #draw #managedservices,"- Diagram wherever you want:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #draw #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/draw/screenshot-1.png,https://octabyte.io/development/dev-tools/draw,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #draw #managedservices,"- Diagram wherever you want:
 
 Use whichever cloud platform you prefer to store your diagram files: Google Drive, Microsoft OneDrive, DropBox, GitHub/GitLab, in your browser, or on your device.
 
@@ -816,7 +816,7 @@ Add/Generate/Write signatures, Repair PDFs, Detect and remove blank pages, Compa
 
 https://octabyte.io/development/dev-tools/stirling-pdf
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #stirlingpdf #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/stirling-pdf/screenshot-1.png,https://octabyte.io/development/dev-tools/stirling-pdf,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #stirlingpdf #managedservices,"- Page Operations:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #stirlingpdf #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/stirling-pdf/screenshot-1.png,https://octabyte.io/development/dev-tools/stirling-pdf,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #stirlingpdf #managedservices,"- Page Operations:
 
 View and modify PDFs,  Full interactive GUI for merging/splitting/rotating/moving PDFs and their pages,
 Merge multiple PDFs into a single resultant file, Split PDFs into multiple files at specified page numbers or extract all pages as individual files, Reorganize PDF pages into different orders, and Rotate PDFs in 90-degree increments, Remove pages, Multi-page layout (Format PDFs into a multi-paged page).
@@ -857,7 +857,7 @@ Easily Inherit other secrets to establish a single source of truth.
 
 https://octabyte.io/development/dev-tools/infisical
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #infisical #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/infisical/screenshot-1.png,https://octabyte.io/development/dev-tools/infisical,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #infisical #managedservices,"- Single Source of Truth:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #infisical #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/infisical/screenshot-1.png,https://octabyte.io/development/dev-tools/infisical,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #infisical #managedservices,"- Single Source of Truth:
 
 Infisical offers50+ integrations to sync secrets with CI/CD and production-level 3rd-party services
 
@@ -871,7 +871,7 @@ Track every change that is being made of secret over time.
 
 - Secret Refencing:
 
-Easily Inherit other secrets to establish a single source of truth.","Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.",Infisical
+Easily Inherit other secrets to establish a single source of truth.","Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret lea...",Infisical
 "QuickChart
 
 QuickChart is an API for generating chart images, PDFs, and QR codes. Built on Chart.js, it's the most popular open-source charting library. The charts are easy to embed in non-dynamic environments such as email, SMS, chatrooms, etc.
@@ -896,7 +896,7 @@ QuickChart is open-source and dual-licensed under the GNU GPLv3 and a commercial
 
 https://octabyte.io/development/dev-tools/quickchart
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #quickchart #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/quickchart/screenshot-1.png,https://octabyte.io/development/dev-tools/quickchart,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #quickchart #managedservices,"- Hosted solutions:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #quickchart #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/quickchart/screenshot-1.png,https://octabyte.io/development/dev-tools/quickchart,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #quickchart #managedservices,"- Hosted solutions:
 
 Rendering at scale is difficult and resource-intensive, but QuickChart takes care of the most difficult parts so you can focus on building your application. Purchasing a license also grants permission to modify QuickChart for private and on-prem commercial use.
 
@@ -935,7 +935,7 @@ GitLab allows you to maintain strict quality standards for production code with 
 
 https://octabyte.io/development/dev-tools/gitlab
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devops #dev #ops #gitlab #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gitlab/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gitlab,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devops #dev #ops #gitlab #managedservices,"- Visibility and insight:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devops #dev #ops #gitlab #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gitlab/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gitlab,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devops #dev #ops #gitlab #managedservices,"- Visibility and insight:
 
 GitLab gives visibility and insight into how a business is performing. It helps teams manage and optimize their software delivery lifecycle with metrics and value-stream insight in order to streamline and increase their delivery velocity. Teams can organize, plan, align and track project work to ensure teams are working on the right things at the right time.
 
@@ -974,7 +974,7 @@ Webhooks and a REST API for building integrations
 
 https://octabyte.io/development/dev-tools/growthbook
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #growthbook #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/growthbook/screenshot-1.png,https://octabyte.io/development/dev-tools/growthbook,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #growthbook #managedservices,"- Feature flags:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #growthbook #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/growthbook/screenshot-1.png,https://octabyte.io/development/dev-tools/growthbook,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #growthbook #managedservices,"- Feature flags:
 
 Feature flags with advanced targeting, gradual rollouts, and experiments
 
@@ -1013,7 +1013,7 @@ Reduce pipeline execution by up to 90% with intelligent test selection and cachi
 
 https://octabyte.io/development/dev-tools/gitness
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitness #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gitness/screenshot-1.png,https://octabyte.io/development/dev-tools/gitness,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitness #managedservices,"- Ship code fast automate everything.:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitness #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gitness/screenshot-1.png,https://octabyte.io/development/dev-tools/gitness,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitness #managedservices,"- Ship code fast automate everything.:
 
 Gitness provides a fully integrated CI/CD engine that is big on features and light on the learning curve.
 
@@ -1052,7 +1052,7 @@ Jira, TAPD, GitHub, Jira, GitLab, BitBucket, Gitee, Jenkins, GitHub Action, GitL
 
 https://octabyte.io/development/dev-tools/devlake
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devlake #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/devlake/screenshot-1.png,https://octabyte.io/development/dev-tools/devlake,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devlake #managedservices,"- Defragment Your Data Silos:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devlake #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/devlake/screenshot-1.png,https://octabyte.io/development/dev-tools/devlake,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #devlake #managedservices,"- Defragment Your Data Silos:
 
 Your Dev Data lives in many silos and tools. Apache DevLake brings them all together to give you a complete view of your Software Development Life Cycle (SDLC).
 
@@ -1066,7 +1066,7 @@ Apache DevLake fits teams of all shapes and sizes and can be readily extended to
 
 - Supported Data Sources:
 
-Jira, TAPD, GitHub, Jira, GitLab, BitBucket, Gitee, Jenkins, GitHub Action, GitLab CI and Feishu.","A dev data platform that ingests, analyzes, and visualizes the fragmented data from DevOps tools to extract insights for engineering excellence, developer experience, and community growth",DevLake
+Jira, TAPD, GitHub, Jira, GitLab, BitBucket, Gitee, Jenkins, GitHub Action, GitLab CI and Feishu.","A dev data platform that ingests, analyzes, and visualizes the fragmented data from DevOps tools to extract insights for engineering excellence, devel...",DevLake
 "Onedev
 
 OneDev is an all-in-one DevOps platform that features Git repository management with language-aware code search, issue management with custom states and fields, and a docker-first Kubernetes native build/CI engine. An alternative to GitLab, it is easier to use and maintain, with lots of unique features
@@ -1091,7 +1091,7 @@ With OneDev, you can conditional build parameters, create matrix builds by combi
 
 https://octabyte.io/development/dev-tools/onedev
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #onedev #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/onedev/screenshot-1.jpg,https://octabyte.io/development/dev-tools/onedev,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #onedev #managedservices,"- Docker-first Kubernetes native build farm:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #onedev #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/onedev/screenshot-1.jpg,https://octabyte.io/development/dev-tools/onedev,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #onedev #managedservices,"- Docker-first Kubernetes native build farm:
 
 OneDev has out-of-the-box CI/CD capability with Docker. It's easy to scale up to run massive jobs as pods in Kubernetes. There is transparent support for Linux and Windows containers.
 
@@ -1130,7 +1130,7 @@ Gogs is 100% open-source and free of charge. All source code is available under 
 
 https://octabyte.io/development/dev-tools/gogs
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gogs #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gogs/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gogs,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gogs #managedservices,"- Easy to install:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gogs #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gogs/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gogs,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gogs #managedservices,"- Easy to install:
 
 To install Gogs, you simply run the binary for your platform, ship Gogs with Docker or Vagrant, or get it packaged.
 
@@ -1169,7 +1169,7 @@ Go get code.gitea.io/gitea! Join us by contributing to make this project even be
 
 https://octabyte.io/development/dev-tools/gitea
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitea #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gitea/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gitea,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitea #managedservices,"- Cross-platform install:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitea #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gitea/screenshot-1.jpg,https://octabyte.io/development/dev-tools/gitea,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gitea #managedservices,"- Cross-platform install:
 
 Gitea runs anywhere Go can compile for: Windows, macOS, Linux, ARM, etc. Choose the one you love!
 
@@ -1208,7 +1208,7 @@ Gerrit is heavily used by some of the world's biggest Open Source software proje
 
 https://octabyte.io/development/dev-tools/gerrit
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gerrit #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gerrit/screenshot-1.png,https://octabyte.io/development/dev-tools/gerrit,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gerrit #managedservices,"- Discuss code:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gerrit #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gerrit/screenshot-1.png,https://octabyte.io/development/dev-tools/gerrit,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gerrit #managedservices,"- Discuss code:
 
 Read old and new versions of files with syntax highlighting and colored differences. Discuss specific sections with others to make the right changes.
 
@@ -1251,7 +1251,7 @@ Even the basic functionality of R allows you to create histograms, scatterplots,
 
 https://octabyte.io/development/dev-tools/rstudio
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #rstudio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/rstudio/screenshot-1.png,https://octabyte.io/development/dev-tools/rstudio,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #rstudio #managedservices,"- RStudio is designed to make it easy to write scripts:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #rstudio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/rstudio/screenshot-1.png,https://octabyte.io/development/dev-tools/rstudio,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #rstudio #managedservices,"- RStudio is designed to make it easy to write scripts:
 
 As soon as you create a new script, the windows within your RStudio session adjust automatically so you can see both your script and the results in your console when you run your syntax.
 
@@ -1294,7 +1294,7 @@ The API provides many more options and documents to convert with Chromium, Libre
 
 https://octabyte.io/development/dev-tools/gotenberg
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gotenberg #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/gotenberg/screenshot-1.png,https://octabyte.io/development/dev-tools/gotenberg,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gotenberg #managedservices,"- Convert, merge and more!:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gotenberg #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/gotenberg/screenshot-1.png,https://octabyte.io/development/dev-tools/gotenberg,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #gotenberg #managedservices,"- Convert, merge and more!:
 
 Gotenberg provides a developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more!
 
@@ -1333,7 +1333,7 @@ RBAC (Owner, DBA, Developer role), Slow Query, Archiving, Approval and backup po
 
 https://octabyte.io/development/dev-tools/bytebase
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #bytebase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/bytebase/screenshot-1.webp,https://octabyte.io/development/dev-tools/bytebase,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #bytebase #managedservices,"- Change Management:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #bytebase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/bytebase/screenshot-1.webp,https://octabyte.io/development/dev-tools/bytebase,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #bytebase #managedservices,"- Change Management:
 
 User, Environment, instance count, 100+ Automated SQL checks, Change History, Terraform integration, and Disaster recovery
 
@@ -1372,7 +1372,7 @@ Manage feature flags by the development environment, and for individual users, a
 
 https://octabyte.io/development/dev-tools/flagsmith
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #flagsmith #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/flagsmith/screenshot-1.png,https://octabyte.io/development/dev-tools/flagsmith,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #flagsmith #managedservices,"- Feature flags:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #flagsmith #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/flagsmith/screenshot-1.png,https://octabyte.io/development/dev-tools/flagsmith,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #flagsmith #managedservices,"- Feature flags:
 
 Flagsmith provides an all-in-one platform for developing, implementing, and managing your feature flags. Whether you are moving off an in-house solution or using toggles for the first time, you will be amazed by the power and efficiency gained by using Flagsmith.
 
@@ -1414,7 +1414,7 @@ You can move a ci/cd pipeline from one vm to another vm in a click. Your data, d
 
 https://octabyte.io/development/dev-tools/ci-cd-target
 
-#octabyte #opensource #devops #itservices #development #devtools #dev #tools #cicdtarget #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-tools/ci-cd-target/screenshot-1.png,https://octabyte.io/development/dev-tools/ci-cd-target,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #cicdtarget #managedservices,"- Deploy automaticaly from Github / Gitlab / Docker registries:
+#octabyte #opensource #devops #itservices #development #devtools #dev #tools #cicdtarget #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-tools/ci-cd-target/screenshot-1.png,https://octabyte.io/development/dev-tools/ci-cd-target,#octabyte #opensource #devops #itservices #development #devtools #dev #tools #cicdtarget #managedservices,"- Deploy automaticaly from Github / Gitlab / Docker registries:
 
 Go from source to production In 3 simple steps 
 1) Select your source project from your account or from our samples
@@ -1456,7 +1456,7 @@ Easily integrate and configure Pritunl with other services using the REST API. D
 
 https://octabyte.io/development/network/pritunl
 
-#octabyte #opensource #devops #itservices #development #network #pritunl #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/pritunl/screenshot-1.png,https://octabyte.io/development/network/pritunl,#octabyte #opensource #devops #itservices #development #network #pritunl #managedservices,"- Easy Configuration:
+#octabyte #opensource #devops #itservices #development #network #pritunl #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/pritunl/screenshot-1.png,https://octabyte.io/development/network/pritunl,#octabyte #opensource #devops #itservices #development #network #pritunl #managedservices,"- Easy Configuration:
 
 All configuration is done from a web interface allowing easy management of large organizations and complex configurations.
 
@@ -1495,7 +1495,7 @@ Provides End-to-end encryption.
 
 https://octabyte.io/development/network/rustdeskserver
 
-#octabyte #opensource #devops #itservices #development #network #rustdeskserver #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/rustdeskserver/screenshot-1.png,https://octabyte.io/development/network/rustdeskserver,#octabyte #opensource #devops #itservices #development #network #rustdeskserver #managedservices,"- Everywhere:
+#octabyte #opensource #devops #itservices #development #network #rustdeskserver #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/rustdeskserver/screenshot-1.png,https://octabyte.io/development/network/rustdeskserver,#octabyte #opensource #devops #itservices #development #network #rustdeskserver #managedservices,"- Everywhere:
 
 Works on Windows, macOS, Linux, iOS, Android, Web.
 
@@ -1534,7 +1534,7 @@ Sessions can run as long as you want. You can keep the browser open indefinitely
 
 https://octabyte.io/development/network/browserless
 
-#octabyte #opensource #devops #itservices #development #network #nocodelowcode #nocode #lowcode #browserless #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/browserless/screenshot-1.jpg,https://octabyte.io/development/network/browserless,#octabyte #opensource #devops #itservices #development #network #nocodelowcode #nocode #lowcode #browserless #managedservices,"- Turn up the speed:
+#octabyte #opensource #devops #itservices #development #network #nocodelowcode #nocode #lowcode #browserless #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/browserless/screenshot-1.jpg,https://octabyte.io/development/network/browserless,#octabyte #opensource #devops #itservices #development #network #nocodelowcode #nocode #lowcode #browserless #managedservices,"- Turn up the speed:
 
 Browserless increases your app's performance, with no need to manage Chrome or other browsers. It puts an end to seconds-long start times…
 
@@ -1573,7 +1573,7 @@ HTTPS with configurable authentication strategies, Multi-tenant authorization, a
 
 https://octabyte.io/development/network/apachenifi
 
-#octabyte #opensource #devops #itservices #development #network #apachenifi #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/apachenifi/screenshot-1.png,https://octabyte.io/development/network/apachenifi,#octabyte #opensource #devops #itservices #development #network #apachenifi #managedservices,"- Browser-based user interface:
+#octabyte #opensource #devops #itservices #development #network #apachenifi #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/apachenifi/screenshot-1.png,https://octabyte.io/development/network/apachenifi,#octabyte #opensource #devops #itservices #development #network #apachenifi #managedservices,"- Browser-based user interface:
 
 Seamless experience for design, control, feedback, and monitoring
 
@@ -1612,7 +1612,7 @@ Docker images are automatically built on every release. Several static code anal
 
 https://octabyte.io/development/network/gotify
 
-#octabyte #opensource #devops #itservices #development #network #gotify #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/gotify/screenshot-1.jpg,https://octabyte.io/development/network/gotify,#octabyte #opensource #devops #itservices #development #network #gotify #managedservices,"- Messages and managing:
+#octabyte #opensource #devops #itservices #development #network #gotify #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/gotify/screenshot-1.jpg,https://octabyte.io/development/network/gotify,#octabyte #opensource #devops #itservices #development #network #gotify #managedservices,"- Messages and managing:
 
 With Gotify you can send messages via a REST-API, subscribe/receive messages via a web socket connection, and manage users, clients and applications.
 
@@ -1651,7 +1651,7 @@ Built-in Redis, KeyDB, Tarantool engines or Nats broker make it possible to scal
 
 https://octabyte.io/development/network/centrifugo
 
-#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #centrifugo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/centrifugo/screenshot-1.jpg,https://octabyte.io/development/network/centrifugo,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #centrifugo #managedservices,"- Integrates with everything:
+#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #centrifugo #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/centrifugo/screenshot-1.jpg,https://octabyte.io/development/network/centrifugo,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #centrifugo #managedservices,"- Integrates with everything:
 
 Centrifugo, a self-hosted service, can handle connections over a variety of real-time transports and provides a simple publish API. It integrates well with any application. There's no need to change an application architecture to introduce real-time features; you just let Centrifugo deal with persistent connections.
 
@@ -1690,7 +1690,7 @@ WireGuard lives inside the Linux kernel means that secure networking can be very
 
 https://octabyte.io/development/network/wg-easy
 
-#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #wgeasy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/wg-easy/screenshot-1.jpg,https://octabyte.io/development/network/wg-easy,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #wgeasy #managedservices,"- All-in-one:
+#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #wgeasy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/wg-easy/screenshot-1.jpg,https://octabyte.io/development/network/wg-easy,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #wgeasy #managedservices,"- All-in-one:
 
 WG-easy is a combination of WireGaurd and Web UI
 
@@ -1729,7 +1729,7 @@ Traditional VPNs come with availability and performance bottlenecks. Nebula is d
 
 https://octabyte.io/development/network/nebula
 
-#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #nebula #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/staticNone,https://octabyte.io/development/network/nebula,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #nebula #managedservices,"- Highly scalable:
+#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #nebula #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/development/network/nebula,#octabyte #opensource #devops #itservices #development #network #devops #dev #ops #nebula #managedservices,"- Highly scalable:
 
 The Nebula model is node-to-node, and can be used in as simple a configuration as installing on a computer that connects to a compute instance on DigitalOcean, or some other cloud provider. This scalability offers flexibility for internet of things (IoT) devices, providing public internet access but without explicitly allowing traffic in or out on predefined ports as a firewall rule.
 
@@ -1769,7 +1769,7 @@ MeshCentral fully supports multi-user and multitenancy permitting servers to be 
 
 https://octabyte.io/development/network/meshcentral
 
-#octabyte #opensource #devops #itservices #development #network #meshcentral #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/network/meshcentral/screenshot-1.png,https://octabyte.io/development/network/meshcentral,#octabyte #opensource #devops #itservices #development #network #meshcentral #managedservices,"- Remote Desktop & Terminal:
+#octabyte #opensource #devops #itservices #development #network #meshcentral #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/network/meshcentral/screenshot-1.png,https://octabyte.io/development/network/meshcentral,#octabyte #opensource #devops #itservices #development #network #meshcentral #managedservices,"- Remote Desktop & Terminal:
 
 Possibly the most used feature, MeshCentral offers web based remote desktop and terminal. You can take control of any computer in the world from any web browser.
 
@@ -1811,7 +1811,7 @@ In less than 3 minutes get a new virtual desktop deployed and start to use it al
 
 https://octabyte.io/development/dev-ops/ubuntu-desktop
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #ubuntudesktop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg,https://octabyte.io/development/dev-ops/ubuntu-desktop,#octabyte #opensource #devops #itservices #development #devops #dev #ops #ubuntudesktop #managedservices,"- Desktop Experience in your browser:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #ubuntudesktop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg,https://octabyte.io/development/dev-ops/ubuntu-desktop,#octabyte #opensource #devops #itservices #development #devops #dev #ops #ubuntudesktop #managedservices,"- Desktop Experience in your browser:
 
 Get a full desktop experience with various tools pre-installed like Chrome & Telegram.
 You can also install Windows programs thanks to Wine compatibility layer
@@ -1852,7 +1852,7 @@ Give everyone one platform to collaborate and see everything from planning to pr
 
 https://octabyte.io/development/dev-ops/gitlab-runner
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #gitlabrunner #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/gitlab-runner/screenshot-1.png,https://octabyte.io/development/dev-ops/gitlab-runner,#octabyte #opensource #devops #itservices #development #devops #dev #ops #gitlabrunner #managedservices,"- Deliver software faster:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #gitlabrunner #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/gitlab-runner/screenshot-1.png,https://octabyte.io/development/dev-ops/gitlab-runner,#octabyte #opensource #devops #itservices #development #devops #dev #ops #gitlabrunner #managedservices,"- Deliver software faster:
 
 Automate your software delivery process so you can deliver value faster and quality code more often.
 
@@ -1891,7 +1891,7 @@ DbGate has wide support for the MongoDB database. It uses a native MongoDB drive
 
 https://octabyte.io/development/dev-ops/dbgate
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #dbgate #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/dbgate/screenshot-1.png,https://octabyte.io/development/dev-ops/dbgate,#octabyte #opensource #devops #itservices #development #devops #dev #ops #dbgate #managedservices,"- DB Connections:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #dbgate #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/dbgate/screenshot-1.png,https://octabyte.io/development/dev-ops/dbgate,#octabyte #opensource #devops #itservices #development #devops #dev #ops #dbgate #managedservices,"- DB Connections:
 
 Connect to MySQL, PostgreSQL, Microsoft SQL Server (supports Windows authentication), MongoDB, SQLite (quick open files with drag & drop), Amazon Redshift, CockroachDB, MariaDB, and Oracle (experimental). Support connection over SSH tunnel, for accessing production databases behind the firewall.
 
@@ -1930,7 +1930,7 @@ Imagor provides built-in adaptors that support HTTP, proxy, file system and AWS 
 
 https://octabyte.io/development/dev-ops/imagor
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #imagor #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/imagor/screenshot-1.jpg,https://octabyte.io/development/dev-ops/imagor,#octabyte #opensource #devops #itservices #development #devops #dev #ops #imagor #managedservices,"- Loader:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #imagor #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/imagor/screenshot-1.jpg,https://octabyte.io/development/dev-ops/imagor,#octabyte #opensource #devops #itservices #development #devops #dev #ops #imagor #managedservices,"- Loader:
 
 Loader loads image. Enable Loader where you wish to load images from, but without modifying it e.g. static directory.
 
@@ -1969,7 +1969,7 @@ SonarQube continually analyzes your code and advises you when corrective action 
 
 https://octabyte.io/development/dev-ops/sonarqube
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #sonarqube #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/sonarqube/screenshot-1.jpg,https://octabyte.io/development/dev-ops/sonarqube,#octabyte #opensource #devops #itservices #development #devops #dev #ops #sonarqube #managedservices,"- Release quality code:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #sonarqube #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/sonarqube/screenshot-1.jpg,https://octabyte.io/development/dev-ops/sonarqube,#octabyte #opensource #devops #itservices #development #devops #dev #ops #sonarqube #managedservices,"- Release quality code:
 
 SonarQube catches tricky bugs to prevent undefined behaviour from affecting end-users.
 
@@ -2008,7 +2008,7 @@ Jenkins can be extended via its plugin architecture, opening up nearly infinite 
 
 https://octabyte.io/development/dev-ops/jenkins
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #jenkins #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/jenkins/screenshot-1.jpg,https://octabyte.io/development/dev-ops/jenkins,#octabyte #opensource #devops #itservices #development #devops #dev #ops #jenkins #managedservices,"- Continuous integration and delivery:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #jenkins #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/jenkins/screenshot-1.jpg,https://octabyte.io/development/dev-ops/jenkins,#octabyte #opensource #devops #itservices #development #devops #dev #ops #jenkins #managedservices,"- Continuous integration and delivery:
 
 As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
 
@@ -2047,7 +2047,7 @@ Anyone with Python knowledge can deploy a workflow. Apache Airflow does not limi
 
 https://octabyte.io/development/dev-ops/airflow
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/airflow/screenshot-1.png,https://octabyte.io/development/dev-ops/airflow,#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflow #managedservices,"- Pure Python:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/airflow/screenshot-1.png,https://octabyte.io/development/dev-ops/airflow,#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflow #managedservices,"- Pure Python:
 
 No more command-line or XML black-magic! Use standard Python features to create your workflows, including date time formats for scheduling and loops to dynamically generate tasks. This allows you to maintain full flexibility when building your workflows.
 
@@ -2086,7 +2086,7 @@ Reduce time to insight by running ad hoc analytical queries on operational data 
 
 https://octabyte.io/development/dev-ops/couchbase
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #couchbase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/couchbase/screenshot-1.jpg,https://octabyte.io/development/dev-ops/couchbase,#octabyte #opensource #devops #itservices #development #devops #dev #ops #couchbase #managedservices,"- Queries:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #couchbase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/couchbase/screenshot-1.jpg,https://octabyte.io/development/dev-ops/couchbase,#octabyte #opensource #devops #itservices #development #devops #dev #ops #couchbase #managedservices,"- Queries:
 
 SQL++ gives application developers an expressive, powerful, and complete declarative language for querying, transforming, and manipulating JSON data.
 
@@ -2100,7 +2100,7 @@ Couchbase Eventing enables user-defined business logic to be triggered in real t
 
 - Analytics:
 
-Reduce time to insight by running ad hoc analytical queries on operational data while leveraging an MPP query engine. All without impacting operational application performance by maintaining workload isolation.","Couchbase Server is a modern cloud-native, distributed database that fuses the strengths of relational databases such as SQL and ACID transactions with JSON flexibility and scale that defines NoSQL",Couchbase
+Reduce time to insight by running ad hoc analytical queries on operational data while leveraging an MPP query engine. All without impacting operational application performance by maintaining workload isolation.","Couchbase Server is a modern cloud-native, distributed database that fuses the strengths of relational databases such as SQL and ACID transactions wit...",Couchbase
 "Airflow-worker
 
 This is a Worker instance for Apache Airflow. Can be connected to any Apache Airflow master instance.
@@ -2125,7 +2125,7 @@ Anyone with Python knowledge can deploy a workflow. Apache Airflow does not limi
 
 https://octabyte.io/development/dev-ops/airflow-worker
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflowworker #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/airflow-worker/screenshot-1.jpg,https://octabyte.io/development/dev-ops/airflow-worker,#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflowworker #managedservices,"- Pure Python:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflowworker #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/airflow-worker/screenshot-1.jpg,https://octabyte.io/development/dev-ops/airflow-worker,#octabyte #opensource #devops #itservices #development #devops #dev #ops #airflowworker #managedservices,"- Pure Python:
 
 No more command-line or XML black-magic! Use standard Python features to create your workflows, including date time formats for scheduling and loops to dynamically generate tasks. This allows you to maintain full flexibility when building your workflows.
 
@@ -2164,7 +2164,7 @@ Operationalize your pipelines with built-in monitoring, alerting, and observabil
 
 https://octabyte.io/development/dev-ops/mage
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #mage #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/mage/screenshot-1.jpg,https://octabyte.io/development/dev-ops/mage,#octabyte #opensource #devops #itservices #development #devops #dev #ops #mage #managedservices,"- Integration:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #mage #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/mage/screenshot-1.jpg,https://octabyte.io/development/dev-ops/mage,#octabyte #opensource #devops #itservices #development #devops #dev #ops #mage #managedservices,"- Integration:
 
 Effortlessly integrate and synchronize data from 3rd party sources.
 
@@ -2203,7 +2203,7 @@ Dnsdist (load balancer) can route traffic to optimal servers, delivering excelle
 
 https://octabyte.io/development/dev-ops/powerdns
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #powerdns #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/powerdns/screenshot-1.png,https://octabyte.io/development/dev-ops/powerdns,#octabyte #opensource #devops #itservices #development #devops #dev #ops #powerdns #managedservices,"- Complete suite of DNS-related software:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #powerdns #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/powerdns/screenshot-1.png,https://octabyte.io/development/dev-ops/powerdns,#octabyte #opensource #devops #itservices #development #devops #dev #ops #powerdns #managedservices,"- Complete suite of DNS-related software:
 
 PowerDNS provides open-source (GPL) software to create authoritative DNS, recursive DNS, DNS loading balancer, debugging tools, and APIs to provision zones and records.
 
@@ -2242,7 +2242,7 @@ Single command for multi-region, multi-cloud federation. Deploy applications glo
 
 https://octabyte.io/development/dev-ops/nomad
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #nomad #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/nomad/screenshot-1.jpg,https://octabyte.io/development/dev-ops/nomad,#octabyte #opensource #devops #itservices #development #devops #dev #ops #nomad #managedservices,"- Simple and Lightweight:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #nomad #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/nomad/screenshot-1.jpg,https://octabyte.io/development/dev-ops/nomad,#octabyte #opensource #devops #itservices #development #devops #dev #ops #nomad #managedservices,"- Simple and Lightweight:
 
 Single binary that integrates into existing infrastructure. Easy to operate on-prem or in the cloud with minimal overhead.
 
@@ -2281,7 +2281,7 @@ MinIO leverages the hard-won knowledge of web scalers to bring a simple scaling 
 
 https://octabyte.io/development/dev-ops/minio
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #minio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/minio/screenshot-1.jpg,https://octabyte.io/development/dev-ops/minio,#octabyte #opensource #devops #itservices #development #devops #dev #ops #minio #managedservices,"- Hybrid and multi-cloud:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #minio #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/minio/screenshot-1.jpg,https://octabyte.io/development/dev-ops/minio,#octabyte #opensource #devops #itservices #development #devops #dev #ops #minio #managedservices,"- Hybrid and multi-cloud:
 
 MinIO is a natural fit for enterprises looking for a consistent, performant and scalable object store for their hybrid cloud strategies. Kubernetes-native by design, S3 compatible from inception, MinIO has more than 7.7m instances running in AWS, Azure and GCP – more than the rest of the private cloud combined. When added to millions of private cloud instances and extensive edge deployments, MinIO is the hybrid cloud leader.
 
@@ -2320,7 +2320,7 @@ Kellnr can act as a proxy for crates.io. This means that you can use Kellnr as a
 
 https://octabyte.io/development/dev-ops/kellnr
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #kellnr #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/kellnr/screenshot-1.png,https://octabyte.io/development/dev-ops/kellnr,#octabyte #opensource #devops #itservices #development #devops #dev #ops #kellnr #managedservices,"- Host crates:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #kellnr #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/kellnr/screenshot-1.png,https://octabyte.io/development/dev-ops/kellnr,#octabyte #opensource #devops #itservices #development #devops #dev #ops #kellnr #managedservices,"- Host crates:
 
 Kellnr can host crates. This means that you can upload your own crates to Kellnr and use them in your projects. No extra tooling is required, cargo works out of the box.
 
@@ -2359,7 +2359,7 @@ Orchestrators like Kubernetes are not equipped with identity and access manageme
 
 https://octabyte.io/development/dev-ops/portainer
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #portainer #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/portainer/screenshot-1.png,https://octabyte.io/development/dev-ops/portainer,#octabyte #opensource #devops #itservices #development #devops #dev #ops #portainer #managedservices,"- Deploy containerized apps easily and securely:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #portainer #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/portainer/screenshot-1.png,https://octabyte.io/development/dev-ops/portainer,#octabyte #opensource #devops #itservices #development #devops #dev #ops #portainer #managedservices,"- Deploy containerized apps easily and securely:
 
 Portainer allows you to get your app up and running in any container-based environment (Docker, Kubernetes. ACI) quickly, easily and securely without first having to learn the platform intricacies.
 
@@ -2398,7 +2398,7 @@ Graphical progress bars and estimated time remaining, with a real-time live log 
 
 https://octabyte.io/development/dev-ops/cronicle
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #cronicle #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/cronicle/screenshot-1.jpg,https://octabyte.io/development/dev-ops/cronicle,#octabyte #opensource #devops #itservices #development #devops #dev #ops #cronicle #managedservices,"- Single or Multi-Server Setup:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #cronicle #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/cronicle/screenshot-1.jpg,https://octabyte.io/development/dev-ops/cronicle,#octabyte #opensource #devops #itservices #development #devops #dev #ops #cronicle #managedservices,"- Single or Multi-Server Setup:
 
 Auto-discovery of nearby servers, and auto-failover to backups. Jobs are automatically retried when applicable.
 
@@ -2437,7 +2437,7 @@ Utilize HAProxy’s RESTful Data Plane API and Runtime API to manipulate your lo
 
 https://octabyte.io/development/dev-ops/haproxy
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #haproxy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/haproxy/screenshot-1.png,https://octabyte.io/development/dev-ops/haproxy,#octabyte #opensource #devops #itservices #development #devops #dev #ops #haproxy #managedservices,"- Load Balancing:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #haproxy #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/haproxy/screenshot-1.png,https://octabyte.io/development/dev-ops/haproxy,#octabyte #opensource #devops #itservices #development #devops #dev #ops #haproxy #managedservices,"- Load Balancing:
 
 Load balance your services at any scale and in any environment with our feature-rich application delivery controllers.
 
@@ -2476,7 +2476,7 @@ Switching from nginx to OpenResty is not such a paradigm shift as moving to, say
 
 https://octabyte.io/development/dev-ops/openresty
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #openresty #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/openresty/screenshot-1.png,https://octabyte.io/development/dev-ops/openresty,#octabyte #opensource #devops #itservices #development #devops #dev #ops #openresty #managedservices,"- Powerful web app server:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #openresty #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/openresty/screenshot-1.png,https://octabyte.io/development/dev-ops/openresty,#octabyte #opensource #devops #itservices #development #devops #dev #ops #openresty #managedservices,"- Powerful web app server:
 
 By taking advantage of various well-designed Nginx modules (most of which are developed by the OpenResty team themselves), OpenResty effectively turns the nginx server into a powerful web app server, in which the web developers can use the Lua programming language to script various existing nginx C modules and Lua modules and construct extremely high-performance web applications that are capable to handle 1000K+ connections in a single box.
 
@@ -2515,7 +2515,7 @@ The built-in web interface allows you to create, run, and monitor all your flows
 
 https://octabyte.io/development/dev-ops/kestra
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #kestra #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/kestra/screenshot-1.jpg,https://octabyte.io/development/dev-ops/kestra,#octabyte #opensource #devops #itservices #development #devops #dev #ops #kestra #managedservices,"- Any kind of workflow:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #kestra #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/kestra/screenshot-1.jpg,https://octabyte.io/development/dev-ops/kestra,#octabyte #opensource #devops #itservices #development #devops #dev #ops #kestra #managedservices,"- Any kind of workflow:
 
 Workflows can start simple and progress to more complex systems with branching, parallel, dynamic tasks, flow dependencies
 
@@ -2557,7 +2557,7 @@ Features Highlight:
 
 https://octabyte.io/development/dev-ops/dockerregistry
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #dockerregistry #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/staticNone,https://octabyte.io/development/dev-ops/dockerregistry,#octabyte #opensource #devops #itservices #development #devops #dev #ops #dockerregistry #managedservices,"- :
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #dockerregistry #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/development/dev-ops/dockerregistry,#octabyte #opensource #devops #itservices #development #devops #dev #ops #dockerregistry #managedservices,"- :
 
 
 
@@ -2571,7 +2571,7 @@ https://octabyte.io/development/dev-ops/dockerregistry
 
 - :
 
-","Docker Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license.",DockerRegistry
+","Docker Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source...",DockerRegistry
 "MailCow
 
 Mailcow is a Docker-based email server, based on Dovecot, Postfix and other open-source software, that provides a modern web UI for administration. The integrated UI allows administrative work on your mail server instance as well as separated domain administrator and mailbox user access. It's easy to provision and manage complex email applications.
@@ -2596,7 +2596,7 @@ The excellent MailCow support is continuously developed and improved.
 
 https://octabyte.io/development/dev-ops/mailcow
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #mailcow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/mailcow/screenshot-1.jpg,https://octabyte.io/development/dev-ops/mailcow,#octabyte #opensource #devops #itservices #development #devops #dev #ops #mailcow #managedservices,"- Easy to install, setup and manage:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #mailcow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/mailcow/screenshot-1.jpg,https://octabyte.io/development/dev-ops/mailcow,#octabyte #opensource #devops #itservices #development #devops #dev #ops #mailcow #managedservices,"- Easy to install, setup and manage:
 
 Easy to manage, MailCow supports all the latest releases of Ubuntu and Debian, provides IPv6 and IPv4 communication standards and a DKIM generator per each domain from the UI.
 
@@ -2635,7 +2635,7 @@ You can set up webhooks to receive live information about delivery information i
 
 https://octabyte.io/development/dev-ops/postal
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #postal #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/postal/screenshot-1.jpg,https://octabyte.io/development/dev-ops/postal,#octabyte #opensource #devops #itservices #development #devops #dev #ops #postal #managedservices,"- Click & open tracking:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #postal #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/postal/screenshot-1.jpg,https://octabyte.io/development/dev-ops/postal,#octabyte #opensource #devops #itservices #development #devops #dev #ops #postal #managedservices,"- Click & open tracking:
 
 Postal supports tracking opens and clicks from emails. This allows you to see when people open messages or they click links within them.
 
@@ -2674,7 +2674,7 @@ Healthchecks provides status badges for each of the tags you have used. Addition
 
 https://octabyte.io/development/dev-ops/healthchecks
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #healthchecks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/healthchecks/screenshot-1.jpg,https://octabyte.io/development/dev-ops/healthchecks,#octabyte #opensource #devops #itservices #development #devops #dev #ops #healthchecks #managedservices,"- Live-updating dashboard:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #healthchecks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/healthchecks/screenshot-1.jpg,https://octabyte.io/development/dev-ops/healthchecks,#octabyte #opensource #devops #itservices #development #devops #dev #ops #healthchecks #managedservices,"- Live-updating dashboard:
 
 Healthchecks provides you with a list of your checks, one for each cron job, daemon or scheduled task you want to monitor. You can give names and assign tags to your checks to easily recognize them later; tap on the integration icons to toggle them on and off, and adjust period and grace time to match the periodicity and duration of your tasks.
 
@@ -2713,7 +2713,7 @@ Apache Guacamole is built on its own stack of core APIs which are thoroughly doc
 
 https://octabyte.io/development/dev-ops/guacamole
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #guacamole #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/guacamole/screenshot-1.jpg,https://octabyte.io/development/dev-ops/guacamole,#octabyte #opensource #devops #itservices #development #devops #dev #ops #guacamole #managedservices,"- Access your computers from anywhere:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #guacamole #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/guacamole/screenshot-1.jpg,https://octabyte.io/development/dev-ops/guacamole,#octabyte #opensource #devops #itservices #development #devops #dev #ops #guacamole #managedservices,"- Access your computers from anywhere:
 
 Because the Apache Guacamole client is an HTML5 web application, use of your computers is not tied to any one device or location. As long as you have access to a web browser, you have access to your machines.
 
@@ -2752,7 +2752,7 @@ Simple but powerful “batteries-included” features have been added, such as: 
 
 https://octabyte.io/development/dev-ops/k3s
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #k3s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/staticNone,https://octabyte.io/development/dev-ops/k3s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #k3s #managedservices,"- Perfect for Edge:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #k3s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/development/dev-ops/k3s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #k3s #managedservices,"- Perfect for Edge:
 
 K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
@@ -2791,7 +2791,7 @@ MicroK8s tracks upstream and releases beta, RC and final bits the same day as up
 
 https://octabyte.io/development/dev-ops/microk8s
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #microk8s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/microk8s/screenshot-1.png,https://octabyte.io/development/dev-ops/microk8s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #microk8s #managedservices,"- Small:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #microk8s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/microk8s/screenshot-1.png,https://octabyte.io/development/dev-ops/microk8s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #microk8s #managedservices,"- Small:
 
 Developers want the smallest K8s for laptop and workstation development. MicroK8s provides a standalone K8s compatible with Azure AKS, Amazon EKS, Google GKE when you run it on Ubuntu.
 
@@ -2830,7 +2830,7 @@ All secrets in Vault have a lease associated with it. At the end of the lease,
 
 https://octabyte.io/development/dev-ops/vault
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #vault #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/vault/screenshot-1.png,https://octabyte.io/development/dev-ops/vault,#octabyte #opensource #devops #itservices #development #devops #dev #ops #vault #managedservices,"- Secure Secret Storage:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #vault #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/vault/screenshot-1.png,https://octabyte.io/development/dev-ops/vault,#octabyte #opensource #devops #itservices #development #devops #dev #ops #vault #managedservices,"- Secure Secret Storage:
 
 Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets.
 
@@ -2872,7 +2872,7 @@ External MySQL
 
 https://octabyte.io/development/dev-ops/k0s
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #k0s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/staticNone,https://octabyte.io/development/dev-ops/k0s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #k0s #managedservices,"- Zero Friction:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #k0s #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/development/dev-ops/k0s,#octabyte #opensource #devops #itservices #development #devops #dev #ops #k0s #managedservices,"- Zero Friction:
 
 k0s drastically reduces the complexity of installing and running a fully conformant Kubernetes distribution. New kube clusters can be bootstrapped in minutes. Developer friction is reduced to zero, allowing anyone, with no special skills or expertise in Kubernetes to easily get started.
 
@@ -2889,7 +2889,7 @@ k0s is completely free for personal or commercial use, and it always will be. Th
 In-Cluster Elastic Etcd with TLS (default)
 In-Cluster SQLite (default for single node)
 External PostgreSQL
-External MySQL","The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.",k0s
+External MySQL","The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included....",k0s
 "OpenLDAP
 
 OpenLDAP has been one of the most popular choices for implementing the LDAP protocol since its inception in 1998. OpenLDAP often wins out over its competitors for its cost, flexibility, and OS-agnosticism
@@ -2915,7 +2915,7 @@ Can serve LDAP request with or without SSL/TSL, IPV6 is also supported
 
 https://octabyte.io/development/dev-ops/openldap
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #openldap #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/dev-ops/openldap/screenshot-1.png,https://octabyte.io/development/dev-ops/openldap,#octabyte #opensource #devops #itservices #development #devops #dev #ops #openldap #managedservices,"- Consolidate authentication:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #openldap #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/dev-ops/openldap/screenshot-1.png,https://octabyte.io/development/dev-ops/openldap,#octabyte #opensource #devops #itservices #development #devops #dev #ops #openldap #managedservices,"- Consolidate authentication:
 
 OpenLDAP is an open-source implementation of the LDAP (Lightweight Directory Access Protocol). You can connect it to any software supporting the LDAP protocol to have a single source of authentication
 
@@ -2964,7 +2964,7 @@ Deployed at more than 100,000 organizations globally.
 
 https://octabyte.io/development/dev-ops/nexus3
 
-#octabyte #opensource #devops #itservices #development #devops #dev #ops #nexus3 #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/staticNone,https://octabyte.io/development/dev-ops/nexus3,#octabyte #opensource #devops #itservices #development #devops #dev #ops #nexus3 #managedservices,"- Universal Support for All Popular Build Tools:
+#octabyte #opensource #devops #itservices #development #devops #dev #ops #nexus3 #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.ioNone,https://octabyte.io/development/dev-ops/nexus3,#octabyte #opensource #devops #itservices #development #devops #dev #ops #nexus3 #managedservices,"- Universal Support for All Popular Build Tools:
 
 Store and distribute Maven/Java, npm, NuGet, Helm, Docker, P2, OBR, APT, GO, R, Conan components and more.
 Manage components from dev through delivery: binaries, containers, assemblies, and finished goods.
@@ -3011,7 +3011,7 @@ Managing, testing, and deploying workflows and pipelines can be a daunting task.
 
 https://octabyte.io/development/nocode-lowcode/hop
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/hop/screenshot-1.jpeg,https://octabyte.io/development/nocode-lowcode/hop,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hop #managedservices,"- Metadata Driven:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hop #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/hop/screenshot-1.jpeg,https://octabyte.io/development/nocode-lowcode/hop,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hop #managedservices,"- Metadata Driven:
 
 Apache Hop is entirely metadata-driven. Every object type in Hop describes how data is read, manipulated or written, or how workflows and pipelines need to be orchestrated.
 
@@ -3050,7 +3050,7 @@ It integrates with the most widely used online services in the market so you can
 
 https://octabyte.io/development/nocode-lowcode/automatisch
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #automatisch #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/automatisch/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/automatisch,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #automatisch #managedservices,"- No vendor lock-in:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #automatisch #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/automatisch/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/automatisch,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #automatisch #managedservices,"- No vendor lock-in:
 
 If you ever decide that Automatisch is no longer helpful for your business, you can switch to any other provider, which will be easier than switching from one cloud provider to another since you have all data and flexibility.
 
@@ -3089,7 +3089,7 @@ File storage and Easy to use
 
 https://octabyte.io/development/nocode-lowcode/illa
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #illa #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/illa/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/illa,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #illa #managedservices,"- Generate SQL with AI:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #illa #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/illa/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/illa,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #illa #managedservices,"- Generate SQL with AI:
 
 With our GPT-based AI SQL Generation, you can input your requirements in natural language, then generate SQL with AI.
 
@@ -3128,7 +3128,7 @@ With the real-time traffic indicator, you can watch the real-time data on the IN
 
 https://octabyte.io/development/nocode-lowcode/totaljsflow
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #totaljsflow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/totaljsflow,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #totaljsflow #managedservices,"- Component's editor:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #totaljsflow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/totaljsflow,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #totaljsflow #managedservices,"- Component's editor:
 
 You can create and modify Total.js Flow components in real-time directly in the Flow. Also, Total.js Flow allows you to edit imported components as well.
 
@@ -3142,7 +3142,7 @@ Total.js Flow can be used as an integrator for Total.js Message Service (PUB/SUB
 
 - Real-time traffic indicator:
 
-With the real-time traffic indicator, you can watch the real-time data on the INPUT and OUTPUT of the component.","It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time.",TotaljsFlow
+With the real-time traffic indicator, you can watch the real-time data on the INPUT and OUTPUT of the component.","It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, ...",TotaljsFlow
 "Node-red
 
 Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. Its browser-based editor makes it easy to wire together flows. It lets you draw a visual representation of how messages should flow through the application.
@@ -3167,7 +3167,7 @@ Node-RED takes full advantage of the Node.js event-driven, non-blocking model. T
 
 https://octabyte.io/development/nocode-lowcode/node-red
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nodered #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/node-red/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/node-red,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nodered #managedservices,"- Browser-based flow editing:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nodered #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/node-red/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/node-red,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nodered #managedservices,"- Browser-based flow editing:
 
 Node-RED makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be deployed to the runtime in a single click. JavaScript functions can be created using a rich text editor. A built-in library allows you to save useful functions, templates or flows for reuse.
 
@@ -3206,7 +3206,7 @@ Budibase allows you to create secure and engaging portals for your clients, part
 
 https://octabyte.io/development/nocode-lowcode/budibase
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #budibase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/budibase/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/budibase,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #budibase #managedservices,"- Internal tools:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #budibase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/budibase/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/budibase,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #budibase #managedservices,"- Internal tools:
 
 With Budibase, you can create internal tools that streamline operations and fit seamlessly into your workflows.
 
@@ -3246,7 +3246,7 @@ Extensible Widget System with over 20 officials open-source widgets. Customizabl
 
 https://octabyte.io/development/nocode-lowcode/apitable
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #apitable #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/apitable/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/apitable,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #apitable #managedservices,"- Advanced technology stack and open-source:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #apitable #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/apitable/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/apitable,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #apitable #managedservices,"- Advanced technology stack and open-source:
 
 Realtime collaboration allows multiple users to edit together in real time, or simultaneously with the Operational Transformation (OT) Algorithm. Extremely smooth, user-friendly, super-fast database-spreadsheet interface inRendering Engine. Database native architecture: Changeset / Operation / Action / Snapshot and so on. 100k+ data rows with real-time collaboration.
 Full-stack API access, from Data to Metadata. One-direction / Bi-direction Table Link and Infinite Cross Links. Community-friendly programming languages and framework, TypeScript (NextJS + NestJS) and Java (Spring Boot).
@@ -3286,7 +3286,7 @@ Add functionality in Lowcoder at multiple places. From simple custom components 
 
 https://octabyte.io/development/nocode-lowcode/lowcoder
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #lowcoder #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/lowcoder/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/lowcoder,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #lowcoder #managedservices,"- All-in-one platform:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #lowcoder #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/lowcoder/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/lowcoder,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #lowcoder #managedservices,"- All-in-one platform:
 
 Connection to all kinds of data sources and APIs such as Databases, Streaming sources, and Restful APIs, and ensures your data security.
 
@@ -3300,7 +3300,7 @@ The deployment options allow a single container image, but also a scalable multi
 
 - Extensibility:
 
-Add functionality in Lowcoder at multiple places. From simple custom components and external libraries to new data source plugins.","Create software applications for your Company and your Customers with minimal coding experience. Lowcoder is the best Retool, Appsmith, or Tooljet Alternative.",Lowcoder
+Add functionality in Lowcoder at multiple places. From simple custom components and external libraries to new data source plugins.","Create software applications for your Company and your Customers with minimal coding experience. Lowcoder is the best Retool, Appsmith, or Tooljet Alt...",Lowcoder
 "Dify
 
 Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.
@@ -3325,7 +3325,7 @@ Build Customized Agents for Business Needs with Low-Code Tools, Boosting Product
 
 https://octabyte.io/development/nocode-lowcode/dify
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #dify #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/dify/screenshot-1.webp,https://octabyte.io/development/nocode-lowcode/dify,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #dify #managedservices,"- Chatbots and AI assistants for Specific Industries:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #dify #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/dify/screenshot-1.webp,https://octabyte.io/development/nocode-lowcode/dify,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #dify #managedservices,"- Chatbots and AI assistants for Specific Industries:
 
 Deploy customized chatbots or AI assistants embedded with domain knowledge in 5 minutes, pioneering human-AI collaboration.
 
@@ -3339,7 +3339,7 @@ Unlock Deeper LLM Insights with Custom APIs, Connecting Business Knowledge Safel
 
 - Explore agents:
 
-Build Customized Agents for Business Needs with Low-Code Tools, Boosting Productivity.","LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.",Dify
+Build Customized Agents for Business Needs with Low-Code Tools, Boosting Productivity.","LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability featu...",Dify
 "N8N
 
 n8n helps you to interconnect all apps with an API with each other to share and manipulate data without a single line of code. An easy-to-use and highly customizable service, it uses an intuitive user interface for rapidly designing unique workflows. Hosted on your server, it keeps your data secure in your own trusted database.
@@ -3364,7 +3364,7 @@ n8n enables you to move and transform data between different apps and databases 
 
 https://octabyte.io/development/nocode-lowcode/n8n
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #n8n #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/n8n/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/n8n,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #n8n #managedservices,"- Free and open:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #n8n #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/n8n/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/n8n,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #n8n #managedservices,"- Free and open:
 
 With its fair-code license, you can run n8n totally free. You can install it right from your computer’s terminal. It’s backed up to GitHub, so you can create your own fork and modify it to meet your needs.
 
@@ -3410,7 +3410,7 @@ Spend time on running and innovating your business without worrying about softwa
 
 https://octabyte.io/development/nocode-lowcode/baserow
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #baserow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/baserow/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/baserow,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #baserow #managedservices,"- No-code platform that grows:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #baserow #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/baserow/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/baserow,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #baserow #managedservices,"- No-code platform that grows:
 
 Are your projects, ideas or business processes unorganized or unclear? Do you have many tools for one job? With Baserow you decide how you want to structure everything. Whether you’re managing customers, products, airplanes or all of them. If you know how a spreadsheet works, you know how Baserow works.
 
@@ -3456,7 +3456,7 @@ With NocoDB, you can search, sort, filter, hide columns with ease; create and sh
 
 https://octabyte.io/development/nocode-lowcode/nocodb
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocodb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/nocodb/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/nocodb,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocodb #managedservices,"- Integration:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocodb #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/nocodb/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/nocodb,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocodb #managedservices,"- Integration:
 
 NocoDB provides programmatic access to APIs so that you can build integrations with Zapier/Integromat and custom applications too.
 
@@ -3495,7 +3495,7 @@ You can allow external users to access applications built using Appsmith by invi
 
 https://octabyte.io/development/nocode-lowcode/appsmith
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #appsmith #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/appsmith/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/appsmith,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #appsmith #managedservices,"- Use ready components:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #appsmith #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/appsmith/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/appsmith,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #appsmith #managedservices,"- Use ready components:
 
 Appsmith enables you to build workflows in record time. You can drag common elements (tables, charts, forms, etc) right into your app, including text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs and video.
 
@@ -3534,7 +3534,7 @@ State inspector helps you to check the current state of queries and components.
 
 https://octabyte.io/development/nocode-lowcode/tooljet
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #tooljet #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/tooljet/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/tooljet,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #tooljet #managedservices,"- Open-source:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #tooljet #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/tooljet/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/tooljet,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #tooljet #managedservices,"- Open-source:
 
 Developers can fork, extend and use ToolJet. ToolJet is built using JavaScript ( NestJS + ReactJS ). Found a bug? Create an issue on GitHub or send a pull request.
 
@@ -3573,7 +3573,7 @@ Support filtering, exporting, adding, deleting, modifying, viewing, and other op
 
 https://octabyte.io/development/nocode-lowcode/nocobase
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocobase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/nocobase/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/nocobase,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocobase #managedservices,"- Role-based access control:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocobase #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/nocobase/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/nocobase,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #nocobase #managedservices,"- Role-based access control:
 
 Role-based control of user's system configuration rights, data action rights, and menu access rights.
 
@@ -3587,7 +3587,7 @@ You can group menus, support adding pages and links, and support unlimited subme
 
 - Rich and extensible actions:
 
-Support filtering, exporting, adding, deleting, modifying, viewing, and other operations to process data, which can be extended to more types.","Scalability-first open-source no-code platform. No programming required, build your own collaboration platform, management system with NocoBase in minutes.",NocoBase
+Support filtering, exporting, adding, deleting, modifying, viewing, and other operations to process data, which can be extended to more types.","Scalability-first open-source no-code platform. No programming required, build your own collaboration platform, management system with NocoBase in min...",NocoBase
 "Hasura
 
 Hasura GraphQL Engine is an open-source product that connects to your databases & services and gives you a real-time GraphQL API, instantly.
@@ -3612,7 +3612,7 @@ Connect, manage, and iterate siloed, disparate data on a supergraph.
 
 https://octabyte.io/development/nocode-lowcode/hasura
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hasura #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/hasura/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/hasura,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hasura #managedservices,"- Instant API:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hasura #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/hasura/screenshot-1.jpg,https://octabyte.io/development/nocode-lowcode/hasura,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #hasura #managedservices,"- Instant API:
 
 Instant API from your data to a unified GraphQL or REST API in minutes.
 
@@ -3651,7 +3651,7 @@ Self-host, Role-based access control and Audit logs
 
 https://octabyte.io/development/nocode-lowcode/openblocks
 
-#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #openblocks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/static/images/development/nocode-lowcode/openblocks/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/openblocks,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #openblocks #managedservices,"- Boundless UI possibilities:
+#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #openblocks #managedservices",/Users/haider/codeplace/octabyte/octabytes.github.io/images/development/nocode-lowcode/openblocks/screenshot-1.png,https://octabyte.io/development/nocode-lowcode/openblocks,#octabyte #opensource #devops #itservices #development #nocodelowcode #nocode #lowcode #openblocks #managedservices,"- Boundless UI possibilities:
 
 50+ built-in UI components, Customized new components and Seamlessly embedding
 
