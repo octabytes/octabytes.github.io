@@ -335,61 +335,135 @@ CATEGORY_NAME = "Others"
 #########################################
 #########################################
 
+# INPUT_FILE = f"./details/{SERVICE_NAME}.json"
+
+# # Load JSON data
+# with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+#     services_detail = json.load(f)
+
+# # Helper function to properly escape YAML strings
+# def yaml_escape(text):
+#     line_text = " ".join(text.splitlines()).strip()
+#     line_text = line_text.replace('"', "'")
+
+#     return f'"{line_text}"' if ':' in line_text or "'" in line_text else line_text
+
+# # Process each entry and save as Markdown
+# for db in services_detail:
+#     category_id = db['category']['id']
+#     db_id = db['id']
+#     title = yaml_escape(db['title'])
+#     website = db['website']
+#     short_description = yaml_escape(db['description'])
+#     logo = db["logo"]
+#     single_service = db.get("single_service", "")
+
+#     if not single_service:
+#         if "applications/" in logo:
+#             single_service = "applications"
+#         elif "databases/" in logo:
+#             single_service = "databases"
+#         elif "development/" in logo:
+#             single_service = "development"
+#         elif "hosting-and-infrastructure/" in logo:
+#             single_service = "hosting-and-infrastructure"
+
+#     output_dir = f"../content/website/{single_service}/"
+
+#     # Create directory for category if it doesn't exist
+#     output_path = os.path.join(output_dir, category_id)
+#     os.makedirs(output_path, exist_ok=True)
+
+#     # Format Markdown content
+#     md_content = f"""---
+# draft: false
+# title: {title}
+# content:
+#   id: {db_id}
+#   name: {title}
+#   website: {website}
+#   short_description: {short_description}
+# """
+
+#     md_content += "---"
+
+#     # Write to markdown file
+#     output_file = os.path.join(output_path, f"{db_id}.md")
+#     with open(output_file, 'w', encoding='utf-8') as f:
+#         f.write(md_content)
+
+#     print(f"Iframe Markdown file created: {output_file}")
+
+
+#########################################
+#########################################
+# Create Nginx Files
+#########################################
+#########################################
+
+
+# Define input and output folders
 INPUT_FILE = f"./details/{SERVICE_NAME}.json"
+OUT_FOLDER = f"./nginx/{SERVICE_NAME}"
 
-# Load JSON data
-with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-    services_detail = json.load(f)
+# Ensure the output folder exists
+os.makedirs(OUT_FOLDER, exist_ok=True)
 
-# Helper function to properly escape YAML strings
-def yaml_escape(text):
-    line_text = " ".join(text.splitlines()).strip()
-    line_text = line_text.replace('"', "'")
+# Template for the NGINX configuration file (use double curly braces for literal curly braces)
+nginx_template = """server {{
+    listen 80;
+    server_name {id}.reverse-proxy.octabyte.io;
 
-    return f'"{line_text}"' if ':' in line_text or "'" in line_text else line_text
+    location / {{
+        proxy_pass {website};
+        proxy_set_header Host $proxy_host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
 
-# Process each entry and save as Markdown
-for db in services_detail:
-    category_id = db['category']['id']
-    db_id = db['id']
-    title = yaml_escape(db['title'])
-    website = db['website']
-    short_description = yaml_escape(db['description'])
-    logo = db["logo"]
-    single_service = db.get("single_service", "")
+        # Optional: Remove the X-Frame-Options header to allow iframing
+        proxy_hide_header X-Frame-Options;
+        proxy_hide_header Content-Security-Policy;
 
-    if not single_service:
-        if "applications/" in logo:
-            single_service = "applications"
-        elif "databases/" in logo:
-            single_service = "databases"
-        elif "development/" in logo:
-            single_service = "development"
-        elif "hosting-and-infrastructure/" in logo:
-            single_service = "hosting-and-infrastructure"
-
-    output_dir = f"../content/website/{single_service}/"
-
-    # Create directory for category if it doesn't exist
-    output_path = os.path.join(output_dir, category_id)
-    os.makedirs(output_path, exist_ok=True)
-
-    # Format Markdown content
-    md_content = f"""---
-draft: false
-title: {title}
-content:
-  id: {db_id}
-  name: {title}
-  website: {website}
-  short_description: {short_description}
+        # Timeout settings (optional)
+        proxy_connect_timeout 5s;
+        proxy_read_timeout 300s;
+        proxy_send_timeout 300s;
+    }}
+}}
 """
 
-    md_content += "---"
+# Function to process each JSON file
+def process_json_file(file_path):
+    with open(file_path, 'r') as file:
+        try:
+            data = json.load(file)
+            for entry in data:
+                # Extract id and website
+                service_id = entry.get('id')
+                website = entry.get('website')
 
-    # Write to markdown file
-    output_file = os.path.join(output_path, f"{db_id}.md")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(md_content)
+                # Skip if either id or website is missing
+                if not service_id or not website:
+                    print(f"Skipping entry in {file_path} due to missing id or website.")
+                    continue
 
-    print(f"Iframe Markdown file created: {output_file}")
+                # Create NGINX config content
+                nginx_conf = nginx_template.format(id=service_id, website=website)
+
+                # Define output file path
+                output_file_path = os.path.join(OUT_FOLDER, f"{service_id}.conf")
+
+                # Write the configuration to a file
+                with open(output_file_path, 'w') as output_file:
+                    output_file.write(nginx_conf)
+
+                print(f"Created NGINX config for {service_id} at {output_file_path}")
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON in {file_path}: {e}")
+
+
+print(f"Processing {INPUT_FILE}...")
+process_json_file(INPUT_FILE)
+
+print("NGINX configuration generation completed.")
