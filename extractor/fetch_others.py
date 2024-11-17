@@ -2,12 +2,12 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-from tqdm import tqdm
 from urllib.parse import urljoin, urlparse
 
-def extract_services(service_name):
+def extract_services():
     # Paths
-    json_input_path = f"./services/{service_name}.json"
+    service_name = "others"
+    service_dir = "./services"
     output_dir = f"./others"
     images_dir = f"../static/images/{service_name}"
 
@@ -15,15 +15,20 @@ def extract_services(service_name):
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(images_dir, exist_ok=True)
 
-    # Load category data
-    with open(json_input_path, "r") as file:
-        services = json.load(file)
+    # Load services data
+    services = []
+    for file_name in os.listdir(service_dir):
+        if file_name.endswith(".json"):
+            with open(os.path.join(service_dir, file_name), "r") as f:
+                data = json.load(f)
+                for entry in data:
+                    services.append(entry)
 
     category_id = "others"
 
     service_data = {}
 
-    external_link = f"https://elest.io/fully-managed-services/{service_name}"
+    external_link = "https://elest.io/fully-managed-services"
 
     # Fetch the external page with explicit encoding
     response = requests.get(external_link)
@@ -36,6 +41,9 @@ def extract_services(service_name):
 
     # Attempt to locate #cards container
     cards_container = soup.select_one("#cards") or soup.find("div", id="cards")
+
+    print(len(cards_container), "cards found")
+
     if not cards_container:
         print(f"No #cards container found for {external_link}")
         return
@@ -48,6 +56,8 @@ def extract_services(service_name):
 
         if id_exist:
             continue
+        else:
+            print("New services found", service_id)
 
         link = f"/{service_name}/{category_id}/{service_id}"
         ext_link = urljoin("https://elest.io/", href)
@@ -67,14 +77,14 @@ def extract_services(service_name):
         logo_filename = f"{logo_path}/logo{logo_ext}"
 
         # Download the logo image
-        logo_response = requests.get(logo_url, stream=True)
-        if logo_response.status_code == 200:
-            with open(logo_filename, "wb") as img_file:
-                img_file.write(logo_response.content)
-            logo_path_relative = logo_filename.replace("../static", "")
-        else:
-            print(f"Failed to download logo from {logo_url}")
-            continue
+        # logo_response = requests.get(logo_url, stream=True)
+        # if logo_response.status_code == 200:
+        #     with open(logo_filename, "wb") as img_file:
+        #         img_file.write(logo_response.content)
+        #     logo_path_relative = logo_filename.replace("../static", "")
+        # else:
+        #     print(f"Failed to download logo from {logo_url}")
+        #     continue
 
         # Create service item if it does not exist
         if service_id not in service_data:
@@ -84,7 +94,7 @@ def extract_services(service_name):
                 "external_link": ext_link,
                 "title": title,
                 "description": description,
-                "logo": logo_path_relative,
+                # "logo": logo_path_relative,
                 "category": {
                     "id": category_id,
                     "name": "Others",
@@ -104,12 +114,8 @@ def extract_services(service_name):
         json.dump(list(service_data.values()), outfile, indent=4)
     print(f"Data saved to {output_path}")
 
-# names = ["databases", "applications", "development", "hosting-and-infrastructure"]
-names = ["applications"]
+print("===============================================")
+print(f"              Extracting                      ")
+print("===============================================")
 
-for name in names:
-    print("===============================================")
-    print(f"              Extracting {name}               ")
-    print("===============================================")
-
-    extract_services(name)
+extract_services()
