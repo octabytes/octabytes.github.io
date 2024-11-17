@@ -250,10 +250,96 @@ CATEGORY_NAME = "Others"
 ###################################
 ###################################
 
-INPUT_DETAIL_FILE = f"./details/{SERVICE_NAME}.json"
+# INPUT_DETAIL_FILE = f"./details/{SERVICE_NAME}.json"
+
+# # Load JSON data
+# with open(INPUT_DETAIL_FILE, 'r', encoding='utf-8') as f:
+#     services_detail = json.load(f)
+
+# # Helper function to properly escape YAML strings
+# def yaml_escape(text):
+#     line_text = " ".join(text.splitlines()).strip()
+#     line_text = line_text.replace('"', "'")
+
+#     return f'"{line_text}"' if ':' in line_text or "'" in line_text else line_text
+
+# # Process each entry and save as Markdown
+# for service in services_detail:
+#     category_id = service['category']['id']
+#     service_id = service['id']
+#     single_service = service.get('single_service', "")
+#     title = yaml_escape(service['title'])
+#     logo = service['logo']
+#     website = service['website']
+#     dashboard_image = service['screenshots'][0] if service['screenshots'] else ""
+#     long_description = yaml_escape(service['long_description'])
+#     short_description = yaml_escape(service['description'])
+#     features = service['features']
+#     screenshots = service['screenshots']
+
+#     if not single_service:
+#         if "applications/" in logo:
+#             single_service = "applications"
+#         elif "databases/" in logo:
+#             single_service = "databases"
+#         elif "development/" in logo:
+#             single_service = "development"
+#         elif "hosting-and-infrastructure/" in logo:
+#             single_service = "hosting-and-infrastructure"
+
+#     output_dir = f"../content/{single_service}/"
+
+#     # Create directory for category if it doesn't exist
+#     output_path = os.path.join(output_dir, category_id)
+#     os.makedirs(output_path, exist_ok=True)
+
+#     # Format Markdown content
+#     md_content = f"""---
+# draft: false
+# title: {title}
+# content:
+#   id: {service_id}
+#   name: {title}
+#   logo: {logo}
+#   website: {website}
+#   iframe_website: /website/{single_service}/{category_id}/{service_id}
+#   dashboardImage: {dashboard_image}
+#   short_description: {short_description}
+#   description: {long_description}
+#   features:
+# """
+
+#     # Add features to markdown content
+#     for feature in features:
+#         feature_title = yaml_escape(feature['title'])
+#         feature_description = yaml_escape(feature['description'])
+#         md_content += f"    - title: {feature_title}\n      description: {feature_description}\n"
+
+#     # Add screenshots
+#     md_content += "  screenshots:\n"
+#     for screenshot in screenshots:
+#         md_content += f"    - {screenshot}\n"
+
+#     md_content += "---"
+
+#     # Write to markdown file
+#     output_file = os.path.join(output_path, f"{service_id}.md")
+#     with open(output_file, 'w', encoding='utf-8') as f:
+#         f.write(md_content)
+
+#     print(f"Markdown file created: {output_file}")
+
+#########################################
+#########################################
+# Create website iframe
+#########################################
+#########################################
+
+INPUT_FILE = f"./details/{SERVICE_NAME}.json"
+OUTPUT_DIR = f"../content/website/{SERVICE_NAME}/"
 
 # Load JSON data
-with open(INPUT_DETAIL_FILE, 'r', encoding='utf-8') as f:
+with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     services_detail = json.load(f)
 
 # Helper function to properly escape YAML strings
@@ -264,30 +350,12 @@ def yaml_escape(text):
     return f'"{line_text}"' if ':' in line_text or "'" in line_text else line_text
 
 # Process each entry and save as Markdown
-for service in services_detail:
-    category_id = service['category']['id']
-    service_id = service['id']
-    single_service = service.get('single_service', "")
-    title = yaml_escape(service['title'])
-    logo = service['logo']
-    website = service['website']
-    dashboard_image = service['screenshots'][0] if service['screenshots'] else ""
-    long_description = yaml_escape(service['long_description'])
-    short_description = yaml_escape(service['description'])
-    features = service['features']
-    screenshots = service['screenshots']
-
-    if not single_service:
-        if "applications/" in logo:
-            single_service = "applications"
-        elif "databases/" in logo:
-            single_service = "databases"
-        elif "development/" in logo:
-            single_service = "development"
-        elif "hosting-and-infrastructure/" in logo:
-            single_service = "hosting-and-infrastructure"
-
-    output_dir = f"../content/{single_service}/"
+for db in services_detail:
+    category_id = db['category']['id']
+    db_id = db['id']
+    title = yaml_escape(db['title'])
+    website = db['website']
+    short_description = yaml_escape(db['description'])
 
     # Create directory for category if it doesn't exist
     output_path = os.path.join(output_dir, category_id)
@@ -298,33 +366,17 @@ for service in services_detail:
 draft: false
 title: {title}
 content:
-  id: {service_id}
+  id: {db_id}
   name: {title}
-  logo: {logo}
   website: {website}
-  iframe_website: /website/{single_service}/{category_id}/{service_id}
-  dashboardImage: {dashboard_image}
   short_description: {short_description}
-  description: {long_description}
-  features:
 """
-
-    # Add features to markdown content
-    for feature in features:
-        feature_title = yaml_escape(feature['title'])
-        feature_description = yaml_escape(feature['description'])
-        md_content += f"    - title: {feature_title}\n      description: {feature_description}\n"
-
-    # Add screenshots
-    md_content += "  screenshots:\n"
-    for screenshot in screenshots:
-        md_content += f"    - {screenshot}\n"
 
     md_content += "---"
 
     # Write to markdown file
-    output_file = os.path.join(output_path, f"{service_id}.md")
+    output_file = os.path.join(output_path, f"{db_id}.md")
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(md_content)
 
-    print(f"Markdown file created: {output_file}")
+    print(f"Iframe Markdown file created: {output_file}")
