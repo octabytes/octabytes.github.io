@@ -21,5 +21,5 @@ content:
       description: Responsive Design, Pin your Favorite links, Privacy-Friendly, Powerful Search, Browser Extension, Dark & Light Mode, Bulk Actions, Import & Export, and Secure API Integration.
   screenshots:
     - /images/applications/others/linkwarden/screenshot-1.png
-    - /images/applications/others/linkwarden/screenshot-2.jpg
+    - /images/applications/others/linkwarden/screenshot-2.png
 ---
