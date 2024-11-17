@@ -336,7 +336,6 @@ CATEGORY_NAME = "Others"
 #########################################
 
 INPUT_FILE = f"./details/{SERVICE_NAME}.json"
-OUTPUT_DIR = f"../content/website/{SERVICE_NAME}/"
 
 # Load JSON data
 with open(INPUT_FILE, 'r', encoding='utf-8') as f:
@@ -356,6 +355,20 @@ for db in services_detail:
     title = yaml_escape(db['title'])
     website = db['website']
     short_description = yaml_escape(db['description'])
+    logo = db["logo"]
+    single_service = db.get("single_service", "")
+
+    if not single_service:
+        if "applications/" in logo:
+            single_service = "applications"
+        elif "databases/" in logo:
+            single_service = "databases"
+        elif "development/" in logo:
+            single_service = "development"
+        elif "hosting-and-infrastructure/" in logo:
+            single_service = "hosting-and-infrastructure"
+
+    output_dir = f"../content/website/{single_service}/"
 
     # Create directory for category if it doesn't exist
     output_path = os.path.join(output_dir, category_id)
