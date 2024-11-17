@@ -31,6 +31,8 @@ new_services = {}
 for single_service in services_list:
     external_link = f"https://elest.io/fully-managed-services/{single_service}"
 
+    print("->> checking", external_link)
+
     response = requests.get(external_link)
     response.encoding = 'utf-8'
     if response.status_code != 200:
@@ -155,6 +157,8 @@ def scrape_data(external_link, single_service, service_id, category_id):
         img_url = img['src']
         if img_url.startswith('//'):
             img_url = 'https:' + img_url
+        elif img_url.startswith('/'):
+            img_url = '	https://elest.io' + img_url
         elif not img_url.startswith('http'):
             print(f"Skipping invalid image URL: {img_url}")
             continue  # Skip invalid URLs

@@ -1,6 +1,7 @@
 [
     {
         "id": "onlyoffice",
+        "single_service": "applications",
         "link": "/applications/others/onlyoffice",
         "external_link": "https://elest.io/open-source/onlyoffice",
         "title": "OnlyOffice",
@@ -16,6 +17,7 @@
     },
     {
         "id": "openslides",
+        "single_service": "applications",
         "link": "/applications/others/openslides",
         "external_link": "https://elest.io/open-source/openslides",
         "title": "OpenSlides",
@@ -31,6 +33,7 @@
     },
     {
         "id": "yourls",
+        "single_service": "applications",
         "link": "/applications/others/yourls",
         "external_link": "https://elest.io/open-source/yourls",
         "title": "YOURLS",
@@ -46,6 +49,7 @@
     },
     {
         "id": "wger",
+        "single_service": "applications",
         "link": "/applications/others/wger",
         "external_link": "https://elest.io/open-source/wger",
         "title": "Wger",
@@ -61,6 +65,7 @@
     },
     {
         "id": "ojs",
+        "single_service": "applications",
         "link": "/applications/others/ojs",
         "external_link": "https://elest.io/open-source/ojs",
         "title": "OJS",
@@ -76,6 +81,7 @@
     },
     {
         "id": "iomad",
+        "single_service": "applications",
         "link": "/applications/others/iomad",
         "external_link": "https://elest.io/open-source/iomad",
         "title": "IOMAD",
@@ -91,6 +97,7 @@
     },
     {
         "id": "freshrss",
+        "single_service": "applications",
         "link": "/applications/others/freshrss",
         "external_link": "https://elest.io/open-source/freshrss",
         "title": "FreshRSS",
@@ -106,6 +113,7 @@
     },
     {
         "id": "linkwarden",
+        "single_service": "applications",
         "link": "/applications/others/linkwarden",
         "external_link": "https://elest.io/open-source/linkwarden",
         "title": "Linkwarden",
@@ -121,6 +129,7 @@
     },
     {
         "id": "xwiki",
+        "single_service": "applications",
         "link": "/applications/others/xwiki",
         "external_link": "https://elest.io/open-source/xwiki",
         "title": "XWiki",
@@ -136,6 +145,7 @@
     },
     {
         "id": "librechat",
+        "single_service": "applications",
         "link": "/applications/others/librechat",
         "external_link": "https://elest.io/open-source/librechat",
         "title": "LibreChat",
@@ -151,6 +161,7 @@
     },
     {
         "id": "tolgee",
+        "single_service": "applications",
         "link": "/applications/others/tolgee",
         "external_link": "https://elest.io/open-source/tolgee",
         "title": "Tolgee",
@@ -166,6 +177,7 @@
     },
     {
         "id": "snipe-it",
+        "single_service": "applications",
         "link": "/applications/others/snipe-it",
         "external_link": "https://elest.io/open-source/snipe-it",
         "title": "Snipe-it",
@@ -181,6 +193,7 @@
     },
     {
         "id": "docassemble",
+        "single_service": "applications",
         "link": "/applications/others/docassemble",
         "external_link": "https://elest.io/open-source/docassemble",
         "title": "Docassemble",
@@ -196,6 +209,7 @@
     },
     {
         "id": "dashy",
+        "single_service": "applications",
         "link": "/applications/others/dashy",
         "external_link": "https://elest.io/open-source/dashy",
         "title": "Dashy",
@@ -211,6 +225,7 @@
     },
     {
         "id": "ragflow",
+        "single_service": "applications",
         "link": "/applications/others/ragflow",
         "external_link": "https://elest.io/open-source/ragflow",
         "title": "Ragflow",
@@ -226,6 +241,7 @@
     },
     {
         "id": "saltcorn",
+        "single_service": "applications",
         "link": "/applications/others/saltcorn",
         "external_link": "https://elest.io/open-source/saltcorn",
         "title": "Saltcorn",
@@ -241,6 +257,7 @@
     },
     {
         "id": "peppermint",
+        "single_service": "applications",
         "link": "/applications/others/peppermint",
         "external_link": "https://elest.io/open-source/peppermint",
         "title": "Peppermint",
@@ -256,6 +273,7 @@
     },
     {
         "id": "hi-events",
+        "single_service": "applications",
         "link": "/applications/others/hi-events",
         "external_link": "https://elest.io/open-source/hi-events",
         "title": "Hi-events",
@@ -271,6 +289,7 @@
     },
     {
         "id": "maybe",
+        "single_service": "applications",
         "link": "/applications/others/maybe",
         "external_link": "https://elest.io/open-source/maybe",
         "title": "Maybe",
@@ -286,6 +305,7 @@
     },
     {
         "id": "indico",
+        "single_service": "applications",
         "link": "/applications/others/indico",
         "external_link": "https://elest.io/open-source/indico",
         "title": "Indico",
@@ -301,6 +321,7 @@
     },
     {
         "id": "wazuh",
+        "single_service": "applications",
         "link": "/applications/others/wazuh",
         "external_link": "https://elest.io/open-source/wazuh",
         "title": "Wazuh",
@@ -316,6 +337,7 @@
     },
     {
         "id": "saleor",
+        "single_service": "applications",
         "link": "/applications/others/saleor",
         "external_link": "https://elest.io/open-source/saleor",
         "title": "Saleor",
@@ -331,6 +353,7 @@
     },
     {
         "id": "funkwhale",
+        "single_service": "applications",
         "link": "/applications/others/funkwhale",
         "external_link": "https://elest.io/open-source/funkwhale",
         "title": "Funkwhale",
@@ -346,6 +369,7 @@
     },
     {
         "id": "neko",
+        "single_service": "applications",
         "link": "/applications/others/neko",
         "external_link": "https://elest.io/open-source/neko",
         "title": "Neko Rooms",
@@ -361,6 +385,7 @@
     },
     {
         "id": "mapzy",
+        "single_service": "applications",
         "link": "/applications/others/mapzy",
         "external_link": "https://elest.io/open-source/mapzy",
         "title": "Mapzy",
@@ -376,6 +401,7 @@
     },
     {
         "id": "moodle",
+        "single_service": "applications",
         "link": "/applications/others/moodle",
         "external_link": "https://elest.io/open-source/moodle",
         "title": "Moodle",
@@ -391,6 +417,7 @@
     },
     {
         "id": "penpot",
+        "single_service": "applications",
         "link": "/applications/others/penpot",
         "external_link": "https://elest.io/open-source/penpot",
         "title": "Penpot",
@@ -406,6 +433,7 @@
     },
     {
         "id": "kimai",
+        "single_service": "applications",
         "link": "/applications/others/kimai",
         "external_link": "https://elest.io/open-source/kimai",
         "title": "Kimai",
@@ -421,6 +449,7 @@
     },
     {
         "id": "shlink",
+        "single_service": "applications",
         "link": "/applications/others/shlink",
         "external_link": "https://elest.io/open-source/shlink",
         "title": "Shlink",
@@ -436,6 +465,7 @@
     },
     {
         "id": "metatrader5",
+        "single_service": "applications",
         "link": "/applications/others/metatrader5",
         "external_link": "https://elest.io/open-source/metatrader5",
         "title": "MetaTrader5",
@@ -451,6 +481,7 @@
     },
     {
         "id": "languagetool",
+        "single_service": "applications",
         "link": "/applications/others/languagetool",
         "external_link": "https://elest.io/open-source/languagetool",
         "title": "LanguageTool",
@@ -466,6 +497,7 @@
     },
     {
         "id": "traduora",
+        "single_service": "applications",
         "link": "/applications/others/traduora",
         "external_link": "https://elest.io/open-source/traduora",
         "title": "Traduora",
@@ -481,6 +513,7 @@
     },
     {
         "id": "mealie",
+        "single_service": "applications",
         "link": "/applications/others/mealie",
         "external_link": "https://elest.io/open-source/mealie",
         "title": "Mealie",
@@ -496,6 +529,7 @@
     },
     {
         "id": "traggo",
+        "single_service": "applications",
         "link": "/applications/others/traggo",
         "external_link": "https://elest.io/open-source/traggo",
         "title": "Traggo",
@@ -511,6 +545,7 @@
     },
     {
         "id": "akaunting",
+        "single_service": "applications",
         "link": "/applications/others/akaunting",
         "external_link": "https://elest.io/open-source/akaunting",
         "title": "Akaunting",
@@ -526,6 +561,7 @@
     },
     {
         "id": "parseable",
+        "single_service": "applications",
         "link": "/applications/others/parseable",
         "external_link": "https://elest.io/open-source/parseable",
         "title": "Parseable",
@@ -541,6 +577,7 @@
     },
     {
         "id": "anythingllm",
+        "single_service": "applications",
         "link": "/applications/others/anythingllm",
         "external_link": "https://elest.io/open-source/anythingllm",
         "title": "AnythingLLM",
@@ -556,6 +593,7 @@
     },
     {
         "id": "hoppscotch",
+        "single_service": "development",
         "link": "/development/others/hoppscotch",
         "external_link": "https://elest.io/open-source/hoppscotch",
         "title": "Hoppscotch",
@@ -571,6 +609,7 @@
     },
     {
         "id": "teable",
+        "single_service": "development",
         "link": "/development/others/teable",
         "external_link": "https://elest.io/open-source/teable",
         "title": "Teable",
@@ -586,6 +625,7 @@
     },
     {
         "id": "zep",
+        "single_service": "development",
         "link": "/development/others/zep",
         "external_link": "https://elest.io/open-source/zep",
         "title": "Zep",
@@ -601,6 +641,7 @@
     },
     {
         "id": "langflow",
+        "single_service": "development",
         "link": "/development/others/langflow",
         "external_link": "https://elest.io/open-source/langflow",
         "title": "Langflow",
@@ -616,6 +657,7 @@
     },
     {
         "id": "labelstudio",
+        "single_service": "development",
         "link": "/development/others/labelstudio",
         "external_link": "https://elest.io/open-source/labelstudio",
         "title": "LabelStudio",
@@ -631,6 +673,7 @@
     },
     {
         "id": "qdrant",
+        "single_service": "development",
         "link": "/development/others/qdrant",
         "external_link": "https://elest.io/open-source/qdrant",
         "title": "Qdrant",
@@ -646,6 +689,7 @@
     },
     {
         "id": "llana",
+        "single_service": "development",
         "link": "/development/others/llana",
         "external_link": "https://elest.io/open-source/llana",
         "title": "Llana",
@@ -661,6 +705,7 @@
     },
     {
         "id": "libretranslate",
+        "single_service": "development",
         "link": "/development/others/libretranslate",
         "external_link": "https://elest.io/open-source/libretranslate",
         "title": "LibreTranslate",
@@ -676,6 +721,7 @@
     },
     {
         "id": "daptin",
+        "single_service": "development",
         "link": "/development/others/daptin",
         "external_link": "https://elest.io/open-source/daptin",
         "title": "Daptin",
@@ -691,6 +737,7 @@
     },
     {
         "id": "quant-ux",
+        "single_service": "development",
         "link": "/development/others/quant-ux",
         "external_link": "https://elest.io/open-source/quant-ux",
         "title": "Quant-UX",
@@ -706,6 +753,7 @@
     },
     {
         "id": "flowiseai",
+        "single_service": "development",
         "link": "/development/others/flowiseai",
         "external_link": "https://elest.io/open-source/flowiseai",
         "title": "FlowiseAI",
@@ -721,6 +769,7 @@
     },
     {
         "id": "krakend",
+        "single_service": "development",
         "link": "/development/others/krakend",
         "external_link": "https://elest.io/open-source/krakend",
         "title": "KrakenD",
@@ -736,6 +785,7 @@
     },
     {
         "id": "ci-cd-target",
+        "single_service": "hosting-and-infrastructure",
         "link": "/hosting-and-infrastructure/others/ci-cd-target",
         "external_link": "https://elest.io/open-source/ci-cd-target",
         "title": "CI-CD-Target",

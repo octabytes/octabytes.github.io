@@ -1,0 +1,1902 @@
+[
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "onlyoffice",
+        "website": "https://www.onlyoffice.com/",
+        "title": "OnlyOffice",
+        "description": "OnlyOffice is an online office suite that includes editors and viewers for text documents, spreadsheets, and presentations.",
+        "long_description": "OnlyOffice is a free software office suite that provides a complete productivity suite, with document management, project management, CRM, calendar, mail and corporate network. The single multi-featured system enables you to organize every step of your work, greatly improving your productivity.",
+        "logo": "/images/applications/others/onlyoffice/logo.png",
+        "screenshots": [
+            "/images/applications/others/onlyoffice/screenshot-1.jpg",
+            "/images/applications/others/onlyoffice/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/onlyoffice/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Up to date",
+                "description": "OnlyOffice stays up to date with the latest technology trends.  and try to make an effective use of them in our work. Ascensio System SIA were the first to build online document editors using the HTML5 Canvas element. OnlyOffice offers the most complete and feature-rich online office suite, highly compatible with Microsoft Office and OpenDocument file formats, among others."
+            },
+            {
+                "title": "Complete productivity suite",
+                "description": "ONLYOFFICE offers a complete productivity suite with document management, project management, CRM, calendar, mail, and corporate network. In this way you don't need to switch back and forth between multiple applications to perform different tasks."
+            },
+            {
+                "title": "Powerful online editor",
+                "description": "OnlyOffice Docs is a powerful online editor for text documents, spreadsheets, and presentations for the platform you use. You can use OnlyOffice official connectors or choose between various third-party integration apps to easily connect online editors to your platform: Moodle, ownCloud, HumHub, nextCloud, PowerFolder, SeaFile, eXo, etc."
+            },
+            {
+                "title": "Easily install and customize",
+                "description": "OnlyOffice Docs is easily installed and customized. You can use it in the cloud, host it yourself, or launch a pre-configured installation. It can be scaled for teams of any size, even if you have thousands of users."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "openslides",
+        "website": "https://openslides.com/",
+        "title": "OpenSlides",
+        "description": "OpenSlides is a powerful and modern, web-based software for the digital organization of your meetings and committees.",
+        "long_description": "OpenSlides is a powerful and modern, web-based software for the digital organization of your meetings and committees. All user access their committees and meetings via one central URL.",
+        "logo": "/images/applications/others/openslides/logo.png",
+        "screenshots": [
+            "/images/applications/others/openslides/screenshot-1.png",
+            "/images/applications/others/openslides/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/openslides/screenshot-1.png",
+        "features": [
+            {
+                "title": "Committee management",
+                "description": "Map your organization's structure by creating as many committees and meetings as needed. Determine exactly which committees can forward motions and define rights to access committees and meetings. Archive your past meetings."
+            },
+            {
+                "title": "Autopilot",
+                "description": "The autopilot guides all participants through an event. It shows which agenda item or motion is currently being discussed, who is on the speaking list, which vote is currently in progress, and what is currently being shown on the projector."
+            },
+            {
+                "title": "Agenda",
+                "description": "Add, change, or move automatically numbered agenda items on the fly using drag and drop. Link individual items to speech lists as well as speaking times and integrate hidden entries such as breaks for better scheduling."
+            },
+            {
+                "title": "Motions",
+                "description": "Enter motions and amendments. Assign categories and motion numbers. Vote electronically and record the decision."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "yourls",
+        "website": "https://yourls.org/",
+        "title": "YOURLS",
+        "description": "YOURLS (Your Own URL Shortener),\u00a0de facto standard self-hosted URL shortener in PHP",
+        "long_description": "YOURLS (Your Own URL Shortener),\u00a0de facto standard self-hosted URL shortener in PHP",
+        "logo": "/images/applications/others/yourls/logo.png",
+        "screenshots": [
+            "/images/applications/others/yourls/screenshot-1.png",
+            "/images/applications/others/yourls/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/yourls/screenshot-1.png",
+        "features": [
+            {
+                "title": "FOSS",
+                "description": "Free and open-source software. No strings attached. Full control over your data, on your own domain."
+            },
+            {
+                "title": "Powerful Features",
+                "description": "Bookmarklets, developer API, and awesome stats with historical click reports, referrers tracking, and visitors geo-location."
+            },
+            {
+                "title": "Extensible",
+                "description": "Terrific plugin architecture and dozens of plugins to easily implement new features. Make YOURLS work exactly the way you need. Endless possibilities."
+            },
+            {
+                "title": "Detailed Stats",
+                "description": "Gain insights into link performance with YOURLS' comprehensive statistics and analytics."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "wger",
+        "website": "https://wger.de/en/software/features",
+        "title": "Wger",
+        "description": "FLOSS fitness/workout, nutrition and weight tracker",
+        "long_description": "Wger Workout Manager is a free, open-source web application that helps you manage your personal workouts, weight, and diet plans and can also be used as a simple gym management utility. It offers a REST API as well, for easy integration with other projects and tools.",
+        "logo": "/images/applications/others/wger/logo.png",
+        "screenshots": [
+            "/images/applications/others/wger/screenshot-1.png",
+            "/images/applications/others/wger/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/wger/screenshot-1.png",
+        "features": [
+            {
+                "title": "Craft your perfect workout routines",
+                "description": "Design a weekly workout plan from more than 100 exercises, Set reps and sets, duration, or distance goals for each exercise, Get guided through your workouts step by step, and  Keep track of the workouts you've done, including how you felt you performed"
+            },
+            {
+                "title": "Plan your daily meals",
+                "description": "Fill your week with nutritious meals that help you perform better, Build meals from a database of more than 2 million foods, and Get automatically calculated nutritional values (energy, protein, carbs, ...) for both individual meals and your entire weekly plan"
+            },
+            {
+                "title": "Keep track of your progress",
+                "description": "Track and annotate everything about your meals and workouts,  Add custom notes,  Record your weight, Keep a photo log to see your progress, and Use the calendar view to see past entries"
+            },
+            {
+                "title": "Set up a private server",
+                "description": "Don't want your data on an online service? Set up a Wger instance on your server for your gym and others."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "ojs",
+        "website": "https://pkp.sfu.ca/software/ojs/",
+        "title": "OJS",
+        "description": "Open Journal Systems (OJS) is open-source software to manage scholarly journals.",
+        "long_description": "Open Journal Systems (OJS) is open-source software to manage scholarly journals. Manage your entire researcher-to-reader workflow for submission, peer review, and production from one place with OJS, the world\u2019s most widely used end-to-end scholarly publishing platform.\n\nPublish articles and issues online and have them fully indexed in global discovery services like Google Scholar, Crossref, DOAJ, and many others.",
+        "logo": "/images/applications/others/ojs/logo.png",
+        "screenshots": [
+            "/images/applications/others/ojs/screenshot-1.png",
+            "/images/applications/others/ojs/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/ojs/screenshot-1.png",
+        "features": [
+            {
+                "title": "Flexible editorial workflow",
+                "description": "Host a small editorial collective or run a streamlined publishing pipeline with editors, copy editors, and production assistants."
+            },
+            {
+                "title": "Multiple languages",
+                "description": "Born in multilingual Canada, our software supports journal publishing in one or two or as many languages as you need."
+            },
+            {
+                "title": "Indexing and dissemination",
+                "description": "Quickly deposit your work with discovery services like Google Scholar, DOAJ, Crossref, DataCite, and PubMed."
+            },
+            {
+                "title": "Global scholarly infrastructure",
+                "description": "Integrate with open industry standards such as DOIs, ORCID authentication and ROR affiliations."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "iomad",
+        "website": "https://www.iomad.org/",
+        "title": "IOMAD",
+        "description": "IOMAD\u00a0is a\u00a0multi-tenancy solution for business, corporate, and workplace Moodle markets.",
+        "long_description": "IOMAD is an open-source multi-tenancy solution for business, corporate, and workplace Moodle markets. You\u2019ll find up-to-date code releases on GitHub, as well as bug tracking, monitoring, and fixes, and open access to all documentation. Following Moodle for upgrades, staying in line with all versions and security patches, IOMAD is easy to apply to your existing Moodle system \u2013 and easy to remove if you change your mind.",
+        "logo": "/images/applications/others/iomad/logo.png",
+        "screenshots": [
+            "/images/applications/others/iomad/screenshot-1.png",
+            "/images/applications/others/iomad/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/iomad/screenshot-1.png",
+        "features": [
+            {
+                "title": "Multi-tenancy",
+                "description": "Allowing you to create multiple companies that sit on top of your Moodle installation, IOMAD provides a space where users and courses can be precisely assigned."
+            },
+            {
+                "title": "Reporting",
+                "description": "Integral to IOMAD is the fact that it recognizes the multi-tenancy and hierarchical divisions defined in each site. As part of the devolved administration functionality, only the role-appropriate information is provided to assigned managers."
+            },
+            {
+                "title": "Course Management",
+                "description": "Using enhanced management tools, IOMAD picks up where Moodle drops off. With an automatic course life-cycle for re-certification settings, course sharing options, prescriptive learning paths, and periodic activity release through micro-learning, IOMAD can help you organize and automate your courses to your exact specifications."
+            },
+            {
+                "title": "Administration",
+                "description": "IOMAD is designed to allow tenant-specific devolution of some, or all, administration tasks. Managers can create, edit, delete, and suspend users, enroll them in courses, allocate licenses, and hierarchically access the reporting functionality."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "freshrss",
+        "website": "https://freshrss.org/",
+        "title": "FreshRSS",
+        "description": "FreshRSS is an\u00a0RSS\u00a0and Atom feed aggregator.",
+        "long_description": "FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. FreshRSS natively supports basic Web scraping, based on XPath, for Web sites not providing any RSS / Atom feed. Also supports JSON documents.",
+        "logo": "/images/applications/others/freshrss/logo.png",
+        "screenshots": [
+            "/images/applications/others/freshrss/screenshot-1.webp",
+            "/images/applications/others/freshrss/screenshot-2.webp"
+        ],
+        "dashboardImage": "/images/applications/others/freshrss/screenshot-1.webp",
+        "features": [
+            {
+                "title": "Syndication & Reader",
+                "description": "Follow websites, podcasts, and video channels in a single place. Read your articles directly in FreshRSS."
+            },
+            {
+                "title": "Search & Web scraping",
+                "description": "Generate feeds by scraping external websites. Generate new feeds based on your filters."
+            },
+            {
+                "title": "OPML & WebSub",
+                "description": "Import and export your feeds with OPML. Stay connected to your feeds in real time."
+            },
+            {
+                "title": "Configurable & Fast & efficient",
+                "description": "Adapt to your needs thanks to a lot of options. FreshRSS can manage 1M+ articles and 50k+ feeds without complaining."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "linkwarden",
+        "website": "https://linkwarden.app/",
+        "title": "Linkwarden",
+        "description": "Linkwarden is a\u00a0collaborative bookmark manager to collects, organizes, and preserves web pages.",
+        "long_description": "Linkwarden is a\u00a0collaborative bookmark manager to collects, organizes, and preserves web pages. Bookmark Preservation for Individuals and Teams.",
+        "logo": "/images/applications/others/linkwarden/logo.png",
+        "screenshots": [
+            "/images/applications/others/linkwarden/screenshot-1.png",
+            "/images/applications/others/linkwarden/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/linkwarden/screenshot-1.png",
+        "features": [
+            {
+                "title": "Collect and Organize",
+                "description": "Collect webpages and bookmarks from any browser.  Organize Links with Collections, Sub-Collections, and Tags. Create new Collections to group related Links."
+            },
+            {
+                "title": "Preserve Webpages",
+                "description": "Access webpages even if they are taken down. Safeguard your web pages against Link Rot. Download your archived web pages."
+            },
+            {
+                "title": "Collaborate and Share",
+                "description": "Collaborate on gathering resources under a Collection. Assign customizable permissions to each member. \n Easily share curated collections with the world."
+            },
+            {
+                "title": "Hold on, there's more!",
+                "description": "Responsive Design, Pin your Favorite links, Privacy-Friendly, Powerful Search, Browser Extension, Dark & Light Mode, Bulk Actions, Import & Export, and Secure API Integration."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "xwiki",
+        "website": "https://xwiki.com/en/",
+        "title": "XWiki",
+        "description": "XWiki Platform\u00a0is a generic wiki platform offering runtime services for applications built on top of it.",
+        "long_description": "XWiki Platform\u00a0is a generic wiki platform offering runtime services for applications built on top of it.\nIt is an advanced collaboration platform based on the Wiki principles. Its top-notch features will help you organize information and foster a collaborative culture.",
+        "logo": "/images/applications/others/xwiki/logo.png",
+        "screenshots": [
+            "/images/applications/others/xwiki/screenshot-1.png",
+            "/images/applications/others/xwiki/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/xwiki/screenshot-1.png",
+        "features": [
+            {
+                "title": "Advanced Collaborative Editing",
+                "description": "XWiki provides key features that allow easy and safe collaborative editing."
+            },
+            {
+                "title": "Structured knowledge",
+                "description": "XWiki allows adding structure to wiki pages, enhancing information organization."
+            },
+            {
+                "title": "Enterprise Integration",
+                "description": "XWiki provides enterprise features allowing easy integration in any enterprise."
+            },
+            {
+                "title": "Flexibility and Extensibility",
+                "description": "One of XWiki's key features is its flexibility and extensibility. Moreover, XWiki allows full customization of its user interface (UI)."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "librechat",
+        "website": "https://www.librechat.ai/",
+        "title": "LibreChat",
+        "description": "Enhanced ChatGPT Clone AI chat platform. This Web UI offers vast customization, supporting numerous AI providers, services, and integrations.",
+        "long_description": "LibreChat is an enhanced ChatGPT Clone, an open-source AI chat platform. This Web UI offers vast customization, supporting numerous AI providers, services, and integrations. Serves all AI Conversations in one place with a familiar interface, and innovative enhancements, for as many users as you need.",
+        "logo": "/images/applications/others/librechat/logo.png",
+        "screenshots": [
+            "/images/applications/others/librechat/screenshot-1.png",
+            "/images/applications/others/librechat/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/librechat/screenshot-1.png",
+        "features": [
+            {
+                "title": "\ud83e\udd16 AI Model Selection",
+                "description": "Diverse Model Options: OpenAI,  Azure OpenAI, BingAI, Google, Anthropic (Claude), Plugins and Assistants API."
+            },
+            {
+                "title": "\u2705 Compatibility Across AI Services",
+                "description": "Remote & Local Integration: Groq, Ollama, Cohere, Mistral AI, Apple MLX, koboldcpp, OpenRouter, together.ai, Perplexity, and ShuttleAI."
+            },
+            {
+                "title": "\ud83d\udd00 Switch Between AI Endpoints and Presets, Mid-Chat",
+                "description": "Dynamic Configuration: Change AI models/providers and settings on the fly without disrupting the chat flow."
+            },
+            {
+                "title": "\ud83d\udd04 Edit, Resubmit, and Continue Messages with Conversation Branching",
+                "description": "Message Flexibility: Edit previous messages and resubmit for better responses. Conversation Control: Branch conversations to explore different discussion paths without losing context."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "tolgee",
+        "website": "https://tolgee.io/",
+        "title": "Tolgee",
+        "description": "Open-source developer & translator friendly localization platform \ud83d\udc01",
+        "long_description": "Tolgee is a localization platform that allows you to translate your application into any language without modifying your code. It is designed to be used with web applications, but it can be used also with mobile apps and desktop applications.\n\nTolgee is a developer-focused platform, so it is easy to integrate with your application. No more looking for keys in your source code, no more editing localization files, and no more manual exporting data for translators.",
+        "logo": "/images/applications/others/tolgee/logo.png",
+        "screenshots": [
+            "/images/applications/others/tolgee/screenshot-1.jpg",
+            "/images/applications/others/tolgee/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/tolgee/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "In-context translating",
+                "description": "Translating in the context is the best way to avoid mistakes translators make because of missing context. Imagine you've got just words, strings, and phrases without knowing how they relate, what order they should be in, or where are they located in the app."
+            },
+            {
+                "title": "Translation memory",
+                "description": "Tolgee automatically makes suggestions from translations you already used in the project so you can translate similar phrases in a similar way.\n\nTranslation memory suggestions also show the similarity percentage, the key, and the original text of the translated string."
+            },
+            {
+                "title": "Machine translations",
+                "description": "The machine translation features make the whole localization process significantly faster. Translators can just use translation suggestions provided by third-party machine translation services."
+            },
+            {
+                "title": "Auto translation",
+                "description": "When enabled, Tolgee automatically translates new keys using translation memory or machine translation services. Your strings are translated immediately, right after creation."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "snipe-it",
+        "website": "https://snipeitapp.com/support",
+        "title": "Snipe-it",
+        "description": "An IT asset/license management system",
+        "long_description": "Snipe-IT was made for IT asset management, to enable IT departments to track who has which laptop, when it was purchased, which software licenses and accessories are available, and so on.",
+        "logo": "/images/applications/others/snipe-it/logo.png",
+        "screenshots": [
+            "/images/applications/others/snipe-it/screenshot-1.png",
+            "/images/applications/others/snipe-it/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/snipe-it/screenshot-1.png",
+        "features": [
+            {
+                "title": "Security",
+                "description": "Automated security controls are critical to any software workflow to reduce the amount of time from defect creation to defect detection. Our scans run on every code push, every time."
+            },
+            {
+                "title": "Admin Dashboard",
+                "description": "At-a-glance access to recent activity and an overall view of what assets, accessories, consumables, and components you have.\n\nItems that have been checked in, checked out, recently updated or deleted, show up in a recent activity snapshot."
+            },
+            {
+                "title": "Asset Management",
+                "description": "Easily see which assets are assigned, to whom, and their physical location. Check them back into inventory with one click, or click through to see the asset's complete history. Seeing what assets are currently deployed, pending (brand new awaiting software installs, out for repair), ready to deploy, or archived (lost/stolen, or broken) is quick and easy."
+            },
+            {
+                "title": "Integrations & Robust JSON REST API",
+                "description": "Easily integrate your own proprietary systems and workflows with a powerful REST API. And while the native API is straightforward and well-documented, new open source SDKs are being developed by the community all the time to make integration even easier."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "docassemble",
+        "website": "https://docassemble.org/",
+        "title": "Docassemble",
+        "description": "A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.",
+        "long_description": "docassemble is a free, open-source expert system for guided interviews and document assembly. It provides a web site that conducts interviews with users. Based on the information gathered, the interviews can present users with documents in PDF, RTF, or DOCX format, which users can download or e-mail.\n\nThough the name emphasizes the document assembly feature, docassemble interviews do not need to assemble a document; they might submit an application, direct the user to other resources on the internet, store user input, interact with APIs, or simply provide the user with information.",
+        "logo": "/images/applications/others/docassemble/logo.png",
+        "screenshots": [
+            "/images/applications/others/docassemble/screenshot-1.jpg",
+            "/images/applications/others/docassemble/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/docassemble/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "WYSIWYG",
+                "description": "Compose your templates in .docx (with help of a Word Add-in) or .pdf files. Synchronize files with your server using Google Drive, OneDrive, or a command-line utility."
+            },
+            {
+                "title": "Signatures",
+                "description": "Gather touchscreen signatures and embed them in documents."
+            },
+            {
+                "title": "Live chat",
+                "description": "Assist users in real time with live chat, screen sharing, and remote screen control."
+            },
+            {
+                "title": "AI",
+                "description": "Use machine learning to process user input, or use the OpenAI API to converse with the user."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "dashy",
+        "website": "https://dashy.to/",
+        "title": "Dashy",
+        "description": "The Ultimate Homepage for your Homelab",
+        "long_description": "A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+        "logo": "/images/applications/others/dashy/logo.png",
+        "screenshots": [
+            "/images/applications/others/dashy/screenshot-1.png",
+            "/images/applications/others/dashy/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/dashy/screenshot-1.png",
+        "features": [
+            {
+                "title": "Theming",
+                "description": "With tons of built-in themes to choose form, plus a UI color palette editor, you can have a unique looking dashboard in no time. There is also support for custom CSS, and since all properties use CSS variables, it is easy to override."
+            },
+            {
+                "title": "Icons",
+                "description": "Dashy can auto-fetch icons from the favicon of each of your apps/ services. There is also native support for Font Awesome, Material Design Icons, emoji icons and of course normal images."
+            },
+            {
+                "title": "Machine translations",
+                "description": "The machine translation features make the whole localization process significantly faster. Translators can just use translation suggestions provided by third-party machine translation services."
+            },
+            {
+                "title": "Status Indicators",
+                "description": "Get an instant overview of the health of each of your apps with status indicators. Once enabled, a small dot next to each app will show weather it is up and online, with more info like response time visible on hover."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "ragflow",
+        "website": "https://ragflow.io/",
+        "title": "Ragflow",
+        "description": "Build Generative AI into Your Business",
+        "long_description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. When integrated with LLMs, it is capable of providing truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.",
+        "logo": "/images/applications/others/ragflow/logo.png",
+        "screenshots": [
+            "/images/applications/others/ragflow/screenshot-1.png",
+            "/images/applications/others/ragflow/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/ragflow/screenshot-1.png",
+        "features": [
+            {
+                "title": "Quality in, quality out",
+                "description": "Deep document understanding-based knowledge extraction from unstructured data with complicated formats. Finds \"needle in a data haystack\" of literally unlimited tokens."
+            },
+            {
+                "title": "Template-based chunking",
+                "description": "Intelligent and explainable. Plenty of template options to choose from."
+            },
+            {
+                "title": "Grounded citations with reduced hallucinations",
+                "description": "Easily see which assets are assigned, to whom, and their physical location. Check them back into inventory with one click, or click through to see the asset's complete history. Seeing what assets are currently deployed, pending (brand new awaiting software installs, out for repair), ready to deploy, or archived (lost/stolen, or broken) is quick and easy."
+            },
+            {
+                "title": "Automated and effortless RAG workflow",
+                "description": "Streamlined RAG orchestration catered to both personal and large businesses.\nConfigurable LLMs as well as embedding models.\nMultiple recall paired with fused re-ranking.\nIntuitive APIs for seamless integration with business."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "saltcorn",
+        "website": "https://saltcorn.com/",
+        "title": "Saltcorn",
+        "description": "Saltcorn is a platform for building applications without writing code.",
+        "long_description": "Saltcorn is a platform for building database web applications without writing a single line of code. Use the intuitive point-and-click, drag-and-drop user interface to build your whole application.",
+        "logo": "/images/applications/others/saltcorn/logo.png",
+        "screenshots": [
+            "/images/applications/others/saltcorn/screenshot-1.png",
+            "/images/applications/others/saltcorn/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/saltcorn/screenshot-1.png",
+        "features": [
+            {
+                "title": "Robust  data management with the relational data model",
+                "description": "Saltcorn uses a relational data model, a powerful tool for organizing and managing databases. Its key strengths are its ability to represent complex relationships between different pieces of data using tables and foreign keys while ensuring a high degree of data integrity."
+            },
+            {
+                "title": "Drag-and-drop to build your pages",
+                "description": "Saltcorn features an intuitive and free-form drag-and-drop builder for your pages and data views. Get the layout you want by dropping elements to the canvas and customise the layout properties of each element."
+            },
+            {
+                "title": "Build Once,  Works Everywhere",
+                "description": "Saltcorn is multiplatform \u2014 the same views and pages can be shown on any device platform"
+            },
+            {
+                "title": "Open Source",
+                "description": "Open source software provides transparency, customization and community-driven development."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "peppermint",
+        "website": "https://peppermint.sh/",
+        "title": "Peppermint",
+        "description": "An open source ticket management & help desk solution. A zendesk/freshdesk alternative",
+        "long_description": "Introducing Peppermint, a fully open-source helpdesk solution designed to enhance the user experience for teams currently utilizing costly software alternatives. Our goal is to develop intuitive software that encompasses all the feature-rich components in premium solutions yet remains user-friendly.",
+        "logo": "/images/applications/others/peppermint/logo.png",
+        "screenshots": [
+            "/images/applications/others/peppermint/screenshot-1.jpeg",
+            "/images/applications/others/peppermint/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/peppermint/screenshot-1.jpeg",
+        "features": [
+            {
+                "title": "Notifications",
+                "description": "Connect Peppermint to third-party services using webhooks and various providers, including email integration."
+            },
+            {
+                "title": "Email Fetching",
+                "description": "Configure mailboxes to facilitate direct customer emails, automatically converting them into tickets for efficient management."
+            },
+            {
+                "title": "Single Sign On",
+                "description": "Implement single sign-on (SSO) for all users to enable shared authentication across multiple providers."
+            },
+            {
+                "title": "Customer First",
+                "description": "Peppermint is customer-centric, enabling us to provide the best features by actively listening to and addressing our customer's needs."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "hi-events",
+        "website": "https://hi.events/",
+        "title": "Hi-events",
+        "description": "Event management and ticket selling platform \ud83c\udf9f\ufe0f",
+        "long_description": "Hi.Events is a feature-rich, self-hosted event management and ticketing platform. From conferences to club nights, Hi.Events is designed to help you create, manage, and sell tickets for events of all sizes.",
+        "logo": "/images/applications/others/hi-events/logo.png",
+        "screenshots": [
+            "/images/applications/others/hi-events/screenshot-1.png",
+            "/images/applications/others/hi-events/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/hi-events/screenshot-1.png",
+        "features": [
+            {
+                "title": "Detailed Event Analytics",
+                "description": "Gain valuable insights into your event's performance with detailed analytics. Track ticket sales, tax, service fees, revenue, and more to make informed decisions and improve future events."
+            },
+            {
+                "title": "Embeddable Ticket Widget",
+                "description": "Sell tickets directly from your website with our versatile widget, seamlessly integrating ticket sales for a smooth customer purchase experience."
+            },
+            {
+                "title": "Beautiful Event Homepages",
+                "description": "Create a captivating event homepage that showcases your event in the best light. Our platform offers a variety of customization options to help you create a stunning first impression."
+            },
+            {
+                "title": "Intuitive Check-In Tools",
+                "description": "Streamline your event check-in process with our intuitive tools. Ensure a quick and efficient entry for attendees, reducing wait times and improving the overall event experience."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "maybe",
+        "website": "https://maybe.co/",
+        "title": "Maybe",
+        "description": "OS for your personal finances",
+        "long_description": "As a personal finance + wealth management app, Maybe has a lot of features. Here's a brief overview of some of the main ones: -Net worth tracking -Financial account syncing -Investment benchmarking -Investment portfolio allocation -Debt insights -Retirement forecasting + planning -Investment return -Simulation -Manual account/investment tracking",
+        "logo": "/images/applications/others/maybe/logo.png",
+        "screenshots": [
+            "/images/applications/others/maybe/screenshot-1.jpg",
+            "/images/applications/others/maybe/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/maybe/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Comprehensive Financial Management",
+                "description": "Manage all aspects of your finances in one place, from budgeting to wealth management. Maybe provides the tools you need to take control of your financial future."
+            },
+            {
+                "title": "Self-Hosted and Open Source",
+                "description": "Enjoy the flexibility of a fully open-source platform that you can host yourself. Customize the app to suit your needs"
+            },
+            {
+                "title": "Expert Financial Advice",
+                "description": "Access professional financial advice through the \"Ask an Advisor\" feature, connecting you with certified financial planners to help guide your financial decisions."
+            },
+            {
+                "title": "Multi-Currency Support",
+                "description": "Manage your finances across different currencies effortlessly with Maybe's built-in multi-currency support, ensuring your global assets are accurately tracked and managed."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "indico",
+        "website": "https://getindico.io/",
+        "title": "Indico",
+        "description": "A feature-rich event management system, made @ CERN, the place where the Web was born.",
+        "long_description": "A feature-rich event management system, made @ CERN, the place where the Web was born, it was the effortless open-source tool for event organization, archival, and collaboration.",
+        "logo": "/images/applications/others/indico/logo.png",
+        "screenshots": [
+            "/images/applications/others/indico/screenshot-1.png",
+            "/images/applications/others/indico/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/indico/screenshot-1.png",
+        "features": [
+            {
+                "title": "Events of different complexity",
+                "description": "In Indico you can organize all kinds of events. It provides workflows that let you easily manage small seminars and meetings as well as more complicated workshops and conferences. Indico will aggregate and store all events of your institute. You can quickly have a look at the events that are happening this week, or search for a specific keyword."
+            },
+            {
+                "title": "Full conference lifecycle",
+                "description": "Indico will help you organize your conference from the beginning. From registration and abstract submission to the final papers, conference materials are stored within the system and made available to participants from the event web page. We've got it all covered, even participant badges!"
+            },
+            {
+                "title": "Hierarchical Protection Scheme",
+                "description": "Indico was built with a large organization in mind (CERN). This is why events are organized using a hierarchy of categories and protection of resources at several granularity levels. Different roles can be defined within an event as well. From small schools to large enterprises, Indico is the intuitive solution for organized and secure event storage."
+            },
+            {
+                "title": "Room Booking Module",
+                "description": "Companies, research institutes, and universities often need to manage their rooms and keep track of their usage. Indico provides a flexible room booking module that allows for the delegation of room management capabilities, approval of bookings, management of audiovisual equipment, and many other things, always transparently and intuitively."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "wazuh",
+        "website": "https://wazuh.com/",
+        "title": "Wazuh",
+        "description": "The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+        "long_description": "The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+        "logo": "/images/applications/others/wazuh/logo.png",
+        "screenshots": [
+            "/images/applications/others/wazuh/screenshot-1.png",
+            "/images/applications/others/wazuh/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/wazuh/screenshot-1.png",
+        "features": [
+            {
+                "title": "Threat hunting",
+                "description": "Focus the attention of your analysts and cut the time spent analyzing telemetry from multiple security platforms. Wazuh maps detected events to the relevant adversary tactics and techniques. It also ingests third-party threat intelligence data and allows you to create custom queries to filter events and aid threat hunting."
+            },
+            {
+                "title": "Behavioral analysis",
+                "description": "Detect and respond to threats based on unusual behavior patterns. The Wazuh behavioral analysis capabilities involve using advanced analytics to identify deviations from normal behavior, which may indicate potential security threats. These capabilities include monitoring file integrity, network traffic, user behavior, and anomalies in system performance metrics."
+            },
+            {
+                "title": "Automated response",
+                "description": "Reduce the average response time to incidents with the Wazuh active response module. Wazuh automatically responds to threats to mitigate the potential impact on your infrastructure. You can use the built-in response actions or create custom actions according to your incident response plan."
+            },
+            {
+                "title": "Cloud workload protection",
+                "description": "Provide security coverage for your cloud workloads and containers. Wazuh has built-in integration with cloud services to collect and analyze telemetry. It protects native and hybrid cloud environments including container infrastructure by detecting and responding to current and emerging threats."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "saleor",
+        "website": "https://saleor.io/open-source",
+        "title": "Saleor",
+        "description": "Saleor Core: the high-performance, composable, headless commerce API.",
+        "long_description": "Saleor Core: the high-performance, composable, headless commerce API. It is an e-commerce platform with the most future-proof strategy for any brand viewing technology, extensibility, and openness as vital for revolutionary customer experiences.",
+        "logo": "/images/applications/others/saleor/logo.png",
+        "screenshots": [
+            "/images/applications/others/saleor/screenshot-1.png",
+            "/images/applications/others/saleor/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/saleor/screenshot-1.png",
+        "features": [
+            {
+                "title": "Custom Flows",
+                "description": "Take full control of your checkout and order flow."
+            },
+            {
+                "title": "Rich content model",
+                "description": "Manage catalog and localizations across different markets from a single source."
+            },
+            {
+                "title": "Manage stock and availability",
+                "description": "Manage availability and stock of products across different channels."
+            },
+            {
+                "title": "Flexible order model",
+                "description": "Streamline customer support operations across multiple markets and teams."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "funkwhale",
+        "website": "https://www.funkwhale.audio/",
+        "title": "Funkwhale",
+        "description": "A modern, convivial, and free music audio and podcasts server on YunoHost",
+        "long_description": "A modern, convivial, and free music server on YunoHost. A platform for all your audio,  music, and podcasts. Enjoy anywhere, and share with anyone.",
+        "logo": "/images/applications/others/funkwhale/logo.png",
+        "screenshots": [
+            "/images/applications/others/funkwhale/screenshot-1.png",
+            "/images/applications/others/funkwhale/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/funkwhale/screenshot-1.png",
+        "features": [
+            {
+                "title": "Your music and podcasts, anywhere",
+                "description": "Listen to your music and podcasts from your web browser, or a wide range of compatible apps for every platform. This includes the Subsonic client of your choice and your favorite podcast app."
+            },
+            {
+                "title": "Share your music library",
+                "description": "Share your playlists and albums, or whole parts of your library, with your friends and family. Promote free art by sharing it with users on your pod, or with the entire Funkwhale network."
+            },
+            {
+                "title": "Extend your horizons",
+                "description": "Explore the content shared by the community to discover new artists and podcasts. Keep track of your favorites in your library."
+            },
+            {
+                "title": "Publish your work",
+                "description": "Create channels for your music or podcast and let people get notified of your latest releases. Use our export widget to embed your content on other platforms and websites."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "neko",
+        "website": "https://github.com/m1k1o/neko-rooms",
+        "title": "Neko Rooms",
+        "description": "Neko-Rooms is a simple room management system for n.eko.",
+        "long_description": "Neko-Rooms, a self-hosted alternative to rabb.it, is a collaborative browser and room management system for n.eko.",
+        "logo": "/images/applications/others/neko/logo.png",
+        "screenshots": [
+            "/images/applications/others/neko/screenshot-1.jpg",
+            "/images/applications/others/neko/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/neko/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "I COULD NOT FIND ANY USEFUL INFORMATION",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            },
+            {
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "mapzy",
+        "website": "https://mapzy.io/",
+        "title": "Mapzy",
+        "description": "A simple, self-hostable store finder that cares about your privacy.",
+        "long_description": "With Mapzy, you can add a beautiful store locator to your website without touching a line of code.\nIt's simple, looks great on every device and doesn't invade your privacy.",
+        "logo": "/images/applications/others/mapzy/logo.png",
+        "screenshots": [
+            "/images/applications/others/mapzy/screenshot-1.png",
+            "/images/applications/others/mapzy/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/mapzy/screenshot-1.png",
+        "features": [
+            {
+                "title": "Simple and pretty",
+                "description": "We've designed Mapzy so that it looks great on every device and website. It's also very simple to use: your customers won't get lost in a myriad of unnecessary features. Mapzy does a few things, but does them really well."
+            },
+            {
+                "title": "No code required",
+                "description": "Using the Mapzy dashboard, you can create your store locator in mere minutes without touching a line of code. Installing your map on your own website is also a piece of cake: just copy one line to your website and it's live! Mapzy works on every website - Wordpress, Shopify, Webflow, Squarespace - anything, really."
+            },
+            {
+                "title": "Privacy-friendly and GDPR compliant",
+                "description": "We've built Mapzy with privacy in mind. We only set one essential cookie, we don't track your visitors and never will. It's worth noting that our mapping service provider - Mapbox - collects some anonymous technical data, that we can not disable. Learn more in our privacy policy. Mapzy is also fully compliant with GDPR, so you don't have to show an ugly cookie pop-up to your customers."
+            },
+            {
+                "title": "Open-source and self-hostable",
+                "description": "Mapzy's source code is fully open-source and available on GitHub. The managed version of Mapzy is hosted on a data center in Frankfurt, Germany, which is powered by 100% renewable energy. But if you like, you can also host it yourself for free with the same features and without any restrictions. If you're a developer, you're very welcome to contribute to Mapzy, too!"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "moodle",
+        "website": "https://moodle.org/",
+        "title": "Moodle",
+        "description": "Moodle is the world's most popular open-source learning platform for educators to create their own websites.",
+        "long_description": "Moodle is a free, online learning management system enabling educators to create their own private website filled with dynamic courses that extend learning, any time, anywhere. Its highly customisable core comes with many standard features. It is trusted by institutions and organizations large and small, including Shell, the State University of New York, Microsoft, the Open University and London School of Economics. With 213m+ users, it's the world\u2019s most widely used learning platform.",
+        "logo": "/images/applications/others/moodle/logo.png",
+        "screenshots": [
+            "/images/applications/others/moodle/screenshot-1.jpg",
+            "/images/applications/others/moodle/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/moodle/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Easy-to-use interface, no licensing fees",
+                "description": "Designed to be responsive and accessible, the Moodle interface is easy to navigate on both desktop and mobile devices. Anyone can adapt, extend or modify Moodle for both commercial and non-commercial projects without any licensing fees."
+            },
+            {
+                "title": "Collaborative tools and activities",
+                "description": "Moodle enables people to work and learn together in forums, wikis, glossaries, database activities, and much more."
+            },
+            {
+                "title": "All-in-one calendar",
+                "description": "With Moodle's calendar tool, you can keep track of your academic or company calendar, course deadlines, group meetings, and other personal events."
+            },
+            {
+                "title": "Convenient file management",
+                "description": "Moodle enables you to drag and drop files from cloud storage services including MS OneDrive, Dropbox and Google Drive."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "penpot",
+        "website": "https://penpot.app/",
+        "title": "Penpot",
+        "description": "Penpot is the first open-source design and prototyping platform for cross-domain teams.",
+        "long_description": "Penpot is a design and prototyping platform that does not depend on operating systems. It's web-based and works with open web standards (SVG). All team members can work simultaneously with the real-time design multiplayer and centralised comments, ideas and feedback right over the designs. With interactive prototypes, you can create rich interactions to mimic the product behaviour, share, present proposals to your team and start user testing with your designs, all in one place.",
+        "logo": "/images/applications/others/penpot/logo.png",
+        "screenshots": [
+            "/images/applications/others/penpot/screenshot-1.jpg",
+            "/images/applications/others/penpot/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/penpot/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "For cross-domain teams",
+                "description": "With product features and capabilities meant for the different roles in the next-decade team, you can say goodbye to the legendary pain of the design silo."
+            },
+            {
+                "title": "Open standards",
+                "description": "Using SVG as no other prototyping tool does, Penpot files sport compatibility with most of the vectorial tools, are tech-friendly and extremely easy to use."
+            },
+            {
+                "title": "Multiplatform",
+                "description": "Being web-based, Penpot is not dependent on operating systems or installations. You only need to run a modern browser."
+            },
+            {
+                "title": "Open-source power",
+                "description": "Penpot is built and empowered by the community. Contributions can range from add-ons and plugins to core functionality."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "kimai",
+        "website": "https://www.kimai.org/",
+        "title": "Kimai",
+        "description": "Kimai is a free, open-source, online time-tracking software designed for small businesses and freelancers.",
+        "long_description": "Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more.",
+        "logo": "/images/applications/others/kimai/logo.png",
+        "screenshots": [
+            "/images/applications/others/kimai/screenshot-1.jpg",
+            "/images/applications/others/kimai/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/kimai/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Multi-user & multi-team",
+                "description": "Kimai can be used by as many users as you want: each installation supports unlimited users with different roles. Teams can be created to group your users into logical groups like departments or project-related peer groups. Customers and projects can be assigned to those teams, limiting visibility and access for other users."
+            },
+            {
+                "title": "Invoicing & activities",
+                "description": "Kimai provides various templates, a calculator and an invoice number generator. You can add your own templates, in the file formats XLSX, ODS, CSV, DOCX. Activities (or tasks) are used to assign the unit of work to timesheet entries. You can manage activities for each project with order number, budget and visibility (for archiving). Activities can also be global. No more duplications are necessary if your projects share the same working unit."
+            },
+            {
+                "title": "Multi-language",
+                "description": "Kimai allows you to manage projects for each customer with order number, budget and visibility (for archiving). It can be localized to any language and has already been translated into around thirty languages."
+            },
+            {
+                "title": "SAML & LDAP",
+                "description": "You log  in and register users via SAML (single sign-on \u2013 SSO) and reuse your existing identity provider, like Google Workspace or Azure Active Directory. You connect your company's directory server (LDAP or Active Directory) to Kimai and use your existing authentication infrastructure."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "shlink",
+        "website": "https://shlink.io/",
+        "title": "Shlink",
+        "description": "The definitive self-hosted URL shortener",
+        "long_description": "Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.",
+        "logo": "/images/applications/others/shlink/logo.png",
+        "screenshots": [
+            "/images/applications/others/shlink/screenshot-1.png",
+            "/images/applications/others/shlink/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/shlink/screenshot-1.png",
+        "features": [
+            {
+                "title": "URL shortening",
+                "description": "Obviously, Shlink would not be any good if it was not capable of shortening URLs."
+            },
+            {
+                "title": "Visit stats",
+                "description": "Track all the visits to your short URLs, including stats like location, visitor's browser or referrer."
+            },
+            {
+                "title": "Multi-domain",
+                "description": "Serve multiple short domains under the same Shlink instance. You can even use the same custom slugs."
+            },
+            {
+                "title": "API-first",
+                "description": "Access your shortened URLs from anywhere. Simple authentication and easy to integrate."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "metatrader5",
+        "website": "https://www.metatrader5.com/",
+        "title": "MetaTrader5",
+        "description": "Trade on Forex & stock markets in a virtual desktop from your browser",
+        "long_description": "Successful trading starts with convenient and functional trading. MetaTrader 5 is the best choice for the modern trader. Most popular brokers are compatible with MetaTrader client.",
+        "logo": "/images/applications/others/metatrader5/logo.png",
+        "screenshots": [
+            "/images/applications/others/metatrader5/screenshot-1.jpg",
+            "/images/applications/others/metatrader5/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/applications/others/metatrader5/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "MetaTrader 5 in the browser",
+                "description": "This MetaTrader client is running on Ubuntu Virtual Desktop with Wine to provide windows compatibility layer. You can then use MetaTrader in your browser from ANY computer without needing to install anything."
+            },
+            {
+                "title": "Always-on",
+                "description": "Your MetaTrader client will run 24/24 so you can shutdown your computer safely knowing your strategies will continue to run on the server."
+            },
+            {
+                "title": "Compatible with most brokers",
+                "description": "Use MetaTrader client to connect, visualize, analyze & trade with your own broker. Most popular brokers are compatible with MetaTrader."
+            },
+            {
+                "title": "Extensible",
+                "description": "You can implement your own automated strategies and backtest them with the integrated tools.\nYou can also purchase plugins and signals from the marketplace"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "languagetool",
+        "website": "https://languagetool.org/",
+        "title": "LanguageTool",
+        "description": "LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages.",
+        "long_description": "LanguageTool\u2019s multilingual grammar, style, and spell checker is used by millions of people around the world",
+        "logo": "/images/applications/others/languagetool/logo.png",
+        "screenshots": [
+            "/images/applications/others/languagetool/screenshot-1.png",
+            "/images/applications/others/languagetool/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/languagetool/screenshot-1.png",
+        "features": [
+            {
+                "title": "Add-on works anywhere on the web",
+                "description": "Receive tips on how to improve your text (including punctuation advice etc.) while typing an e-mail, a blog post or just a simple tweet. Whatever language you're using, LanguageTool will automatically detect it and provide suggestions. To respect your privacy, no text is stored by the browser add-on."
+            },
+            {
+                "title": "Easily Integrates with your favorite office program",
+                "description": "Get the best out of your docs and deliver error-free results. No matter whether you're working on a dissertation, an essay, or a book, or you just want to note down something."
+            },
+            {
+                "title": "Multilingual LanguageTool for a Multilingual World",
+                "description": "LanguageTool checks every text for spelling and grammar mistakes in more than twenty Languages. Additionally, it enriches your writing with in-depth style suggestions."
+            },
+            {
+                "title": "Cloud and On-Premise Version",
+                "description": "LanguageTool offers scalable and reliable solutions for everybody\u2014whether you are a growing team or an established corporation."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "traduora",
+        "website": "https://traduora.co/",
+        "title": "Traduora",
+        "description": "Open Translation Management Platform. Teams use Ever Traduora to reach users all around the globe. Automate your translation workflow today",
+        "long_description": "Traduora offers translation management system for enterprises and language service providers to automate their translation workflows.",
+        "logo": "/images/applications/others/traduora/logo.png",
+        "screenshots": [
+            "/images/applications/others/traduora/screenshot-1.png",
+            "/images/applications/others/traduora/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/traduora/screenshot-1.png",
+        "features": [
+            {
+                "title": "A modern translation workflow",
+                "description": "Import and export the most common formats, work together with your team, instantly deliver translation updates over the air, and more! Traduora is the perfect home for managing your translation workflow."
+            },
+            {
+                "title": "Get up and running fast",
+                "description": "Setup your project in seconds, find what you're looking for with instant search, edit your translations and seamlessly deliver them with over the air updates. Traduora has been carefully designed for ease of use and productivity."
+            },
+            {
+                "title": "Collaborate on your project",
+                "description": "With complete access to the source code, your data is truly yours. No lock-ins, no compromises, no limits. Your freedom to grow. Own your data, own your destiny. It\u2019s as simple as that."
+            },
+            {
+                "title": "Automate everything",
+                "description": "Integrate Traduora into your workflow via our secure API. Control who has access to your project's data via API keys. Web and Mobile SDKs coming soon for the most popular frameworks."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "mealie",
+        "website": "https://mealie.io/",
+        "title": "Mealie",
+        "description": "Mealie\u00a0is an intuitive and easy to use recipe management app",
+        "long_description": "Mealie is an intuitive and easy to use recipe management app. It's designed to make your life easier by being the best recipes management experience on the web and providing you with an easy to use interface to manage your growing collection of recipes.",
+        "logo": "/images/applications/others/mealie/logo.png",
+        "screenshots": [
+            "/images/applications/others/mealie/screenshot-1.png",
+            "/images/applications/others/mealie/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/mealie/screenshot-1.png",
+        "features": [
+            {
+                "title": "Import Recipes",
+                "description": "Quickly and easily import recipes from sites around the web using the built in recipe scraper."
+            },
+            {
+                "title": "Rich User Interface & Meal Planner",
+                "description": "Use a beautiful and intuitive user interface to create, edit, and delete recipes. Recipe editor supports markdown syntax. and Create Meal Plans for the week, month, or year!"
+            },
+            {
+                "title": "Users & Groups",
+                "description": "Add new users with sign-up links or simply create a new user in the admin panel. Sort users into groups to share recipes with the whole family, but keep your Meal Plans separate."
+            },
+            {
+                "title": "Webhooks",
+                "description": "Schedule webhooks to send notifications to 3rd party services with todays Meal Plan data."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "traggo",
+        "website": "https://traggo.net/",
+        "title": "Traggo",
+        "description": "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.",
+        "long_description": "Traggo is a tag-based time-tracking tool. In Traggo there are no tasks, only tagged time spans. With tags, Traggo tries to be as customizable as possible, f.ex. if you work on different projects you could add a project tag. If you like to see statistics from the different things you do, you could add a type-tag with values like email, programming, and meeting. You can do it just as you like.",
+        "logo": "/images/applications/others/traggo/logo.png",
+        "screenshots": [
+            "/images/applications/others/traggo/screenshot-1.png",
+            "/images/applications/others/traggo/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/traggo/screenshot-1.png",
+        "features": [
+            {
+                "title": "Tracking",
+                "description": "Easy to track time."
+            },
+            {
+                "title": "User Interface",
+                "description": "A list and calendar view of the tracked time"
+            },
+            {
+                "title": "Themes",
+                "description": "Sleek web ui with multiple themes"
+            },
+            {
+                "title": "User Management",
+                "description": "Simple user management, easy to create time entry, user and customize dashboard."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "akaunting",
+        "website": "https://akaunting.com/open-source-accounting-software",
+        "title": "Akaunting",
+        "description": "Online\u00a0accounting\u00a0software for small businesses and freelancers. Send invoices and track expenses on the cloud.",
+        "long_description": "Open-Source Accounting Software With Akaunting, you can send unlimited invoices, create bills, add employees and accountants, auto-schedule bills/invoices, and track your expenses, all for free.",
+        "logo": "/images/applications/others/akaunting/logo.png",
+        "screenshots": [
+            "/images/applications/others/akaunting/screenshot-1.png",
+            "/images/applications/others/akaunting/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/akaunting/screenshot-1.png",
+        "features": [
+            {
+                "title": "Easy Accounting",
+                "description": "Akaunting is an online accounting software designed for small businesses to manage their finances and stay on top of their cash flow. Invoicing, accepting online payments, and keeping track of expenses couldn't be simpler."
+            },
+            {
+                "title": "Everything you need to manage your business",
+                "description": "Bank Accounts,  Multi-Company, Powerful Reporting, Client Portal, Recur Everything, and Customer Summary."
+            },
+            {
+                "title": "All-in-one platform",
+                "description": "Various Payments, Tax Rates, Multi-Currency, Discounts, Unlimited Attachments, Transaction Categories, Bulk Actions, and Dashboards & Widgets."
+            },
+            {
+                "title": "Some other great features",
+                "description": "Automate processes, Create Projects, Send Estimates, Optimize cost management,  Manage Inventory, Add Team Members, Customer Management, Billable Expenses, Deposits & Transfers, Easy Invoicing and many more."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "parseable",
+        "website": "https://www.parseable.com/",
+        "title": "Parseable",
+        "description": "Parseable is a log analytics system platform for modern, cloud-native workloads",
+        "long_description": "Parseable is a cloud-native, log analytics platform, with a focus on performance & resource efficiency. Parseable is useful for use cases where complete data ownership, security, and privacy are paramount.",
+        "logo": "/images/applications/others/parseable/logo.png",
+        "screenshots": [
+            "/images/applications/others/parseable/screenshot-1.png",
+            "/images/applications/others/parseable/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/parseable/screenshot-1.png",
+        "features": [
+            {
+                "title": "High throughput ingestion",
+                "description": "Ingest millions of requests per minute with 4 GiB memory and 2 CPU cores. Parseable is built for high-volume, high-velocity logs."
+            },
+            {
+                "title": "Cloud native design",
+                "description": "Stateless design to leverage the elastic nature of the cloud. Deploy on any cloud and scale up or down as needed."
+            },
+            {
+                "title": "Extend with Parquet",
+                "description": "Parseable uses compressed Parquet format for best storage utilization. This also opens up access to whole Parquet tools ecosystem."
+            },
+            {
+                "title": "S3 or compatible storage",
+                "description": "With S3 or compatible storage, Parseable can scale to petabytes. Use object storage for long term, cost effective retention."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "anythingllm",
+        "website": "https://useanything.com/",
+        "title": "AnythingLLM",
+        "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.\u00a0Chat with your docs, use AI Agents, hyper-configurable.",
+        "long_description": "The all-in-one AI app you were looking for: Chat with your docs, use AI Agents, hyper-configurable, multi-user.\n\nIt is a full-stack application that enables you to turn any document, resource, or piece of content into a context that any LLM can use as a reference during chatting. This application allows you to pick and choose which LLM or Vector Database you want to use as well as supporting multi-user management and permissions.",
+        "logo": "/images/applications/others/anythingllm/logo.png",
+        "screenshots": [
+            "/images/applications/others/anythingllm/screenshot-1.png",
+            "/images/applications/others/anythingllm/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/applications/others/anythingllm/screenshot-1.png",
+        "features": [
+            {
+                "title": "Supports custom models",
+                "description": "We don't lock you into a single LLM provider. Use enterprise models like GPT-4, a custom model, or an open-source model like Llama, Mistral, and more."
+            },
+            {
+                "title": "More than PDFs",
+                "description": "PDFs, word documents, and so much more make up your business - now you can use them all."
+            },
+            {
+                "title": "Full Customization",
+                "description": "With appearance customization and a full developer API, the sky is the limit."
+            },
+            {
+                "title": "Workspace Chat Logs",
+                "description": "AnythingLLM allows you to export your chat logs in the correct format to build a fine-tuned model of GPT-3.5 and other available models on OpenAI."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "hoppscotch",
+        "website": "https://hoppscotch.com/",
+        "title": "Hoppscotch",
+        "description": "Hoppscotch is a lightweight, web-based API development suite.",
+        "long_description": "Hoppscotch is a lightweight, web-based API development suite. Hoppscotch was built from the ground up with ease of use and accessibility in mind. Hoppscotch provides all the functionality needed for developers with a minimalist and unobtrusive UI. Hoppscotch is free-to-use and as an added perk completely open source.",
+        "logo": "/images/development/others/hoppscotch/logo.png",
+        "screenshots": [
+            "/images/development/others/hoppscotch/screenshot-1.jpg",
+            "/images/development/others/hoppscotch/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/hoppscotch/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "\u2764\ufe0f Lightweight & \u26a1\ufe0f Fast",
+                "description": "Crafted with minimalistic UI design & Send requests and get responses in real-time."
+            },
+            {
+                "title": "\ud83d\uddc4\ufe0f HTTP Methods",
+                "description": "It supports, GET, POST, PUT, PATCH, DELETE, HEAD, CONNECT, OPTIONS, TRACE, and custom."
+            },
+            {
+                "title": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Teams & \ud83d\udc65 Workspaces",
+                "description": "Helps you collaborate across your teams to design, develop, and test APIs faster and organize your personal and team collections environments into workspaces. Easily switch between workspaces to manage multiple projects."
+            },
+            {
+                "title": "\ud83d\udce6 Others Features",
+                "description": "Proxy, i18n, Themes, Auth + Sync,  Data Synchronization, Post-Request Tests, Environments, Bulk Edit, Admin dashboard, History, Collection and many more."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "teable",
+        "website": "https://teable.io/",
+        "title": "Teable",
+        "description": "The Next Gen Airtable Alternative: No-Code Postgres\u00a0database",
+        "long_description": "Teable is a Super fast, Real-time, Professional, Developer friendly, No-code database built on Postgres. It uses a simple, spreadsheet-like interface to create complex enterprise-level database applications. Unlock efficient app development with no code, free from the hurdles of data security and scalability.",
+        "logo": "/images/development/others/teable/logo.png",
+        "screenshots": [
+            "/images/development/others/teable/screenshot-1.png",
+            "/images/development/others/teable/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/teable/screenshot-1.png",
+        "features": [
+            {
+                "title": "Spreadsheet-like interactions",
+                "description": "A sleek, spreadsheet-like interface that's easy to use without any coding skills, enabling anyone in a team to build the systems they need, saving significant time and costs."
+            },
+            {
+                "title": "Millions in data, seconds to react.",
+                "description": "Users create tables and structures directly on the physical database, with no performance loss or row limits."
+            },
+            {
+                "title": "Exceptional extensibility",
+                "description": "Built on PostgreSQL, it offers seamless ecosystem integration with a single connection, making interfacing simple. Easily expands with BI, low-code, and ETL tools."
+            },
+            {
+                "title": "Solid Data Security",
+                "description": "Enables self-hosted data with your own database, combining cloud convenience with full data control."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "zep",
+        "website": "https://www.getzep.com/",
+        "title": "Zep",
+        "description": "Long-Term Memory for AI Assistants it\u00a0Recall, understand, and extract data from chat histories.",
+        "long_description": "Long-Term Memory for \u200dAI Assistants. Recall, understand, and extract data from chat histories. Power personalized AI experiences.",
+        "logo": "/images/development/others/zep/logo.png",
+        "screenshots": [
+            "/images/development/others/zep/screenshot-1.png",
+            "/images/development/others/zep/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/zep/screenshot-1.png",
+        "features": [
+            {
+                "title": "Your Assistant will never forget a user.",
+                "description": "Automagically populate prompts with relevant facts and summaries from past conversations, no matter how distant."
+            },
+            {
+                "title": "Classify conversations instantly.",
+                "description": "Understand user intent and emotion, segment users, and more. Route chains based on semantic context, and trigger events. All without adding latency to your user experience."
+            },
+            {
+                "title": "Extract structured data from dialog, quickly and accurately.",
+                "description": "Extract structured data from chat conversations, more accurately and faster than your LLM provider's JSON mode."
+            },
+            {
+                "title": "Simple, high-performance RAG",
+                "description": "Add business data and documents relevant to the current conversation to your prompts. No vector database is needed."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "langflow",
+        "website": "https://www.langflow.org/",
+        "title": "Langflow",
+        "description": "Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, and model and vector store agnostic.",
+        "long_description": "Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, and model and vector store agnostic. it is designed to redefine the boundaries of AI development in experimentation and real-world scenarios.",
+        "logo": "/images/development/others/langflow/logo.png",
+        "screenshots": [
+            "/images/development/others/langflow/screenshot-1.jpg",
+            "/images/development/others/langflow/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/langflow/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Prompt Variables",
+                "description": "Dynamic inputs are introduced using curly brackets {}."
+            },
+            {
+                "title": "Fine-Tuning",
+                "description": "Harness the full potential of LLMs by easily fine-tuning them from spreadsheets."
+            },
+            {
+                "title": "Group Components",
+                "description": "Higher-level components naturally emerge from AI building blocks. Store and share your creations."
+            },
+            {
+                "title": "Custom Components",
+                "description": "Go beyond the surface and code your own components."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "labelstudio",
+        "website": "https://labelstud.io/",
+        "title": "LabelStudio",
+        "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+        "long_description": "Label Studio is a multi-type data labeling and annotation tool with a standardized output format. It is the most flexible data labeling platform to fine-tune LLMs, prepare training data, or validate AI models.",
+        "logo": "/images/development/others/labelstudio/logo.png",
+        "screenshots": [
+            "/images/development/others/labelstudio/screenshot-1.png",
+            "/images/development/others/labelstudio/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/labelstudio/screenshot-1.png",
+        "features": [
+            {
+                "title": "Integrate with your ML/AI pipeline",
+                "description": "Webhooks, Python SDK, and API allow you to authenticate, create projects, import tasks, manage model predictions, and more."
+            },
+            {
+                "title": "ML-assisted labeling",
+                "description": "Save time by using predictions to assist your labeling process with ML backend integration."
+            },
+            {
+                "title": "Multiple projects and users",
+                "description": "Support multiple projects, use cases, and data types in one platform."
+            },
+            {
+                "title": "Explore & understand your data",
+                "description": "Prepare and manage your dataset in our Data Manager using advanced filters."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "qdrant",
+        "website": "https://qdrant.tech/#",
+        "title": "Qdrant",
+        "description": "High-performance, massive-scale Vector Database for the next generation of AI.",
+        "long_description": "Qdrant (read: quadrant) is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points\u2014vectors with an additional payload Qdrant is tailored to extended filtering support. It makes it useful for all sorts of neural network or semantic-based matching, faceted search, and other applications.\n\nQdrant is written in Rust \ud83e\udd80, which makes it fast and reliable even under high load. See benchmarks.\n\nWith Qdrant, embeddings or neural network encoders can be turned into full-fledged applications for matching, searching, recommending, and much more!",
+        "logo": "/images/development/others/qdrant/logo.png",
+        "screenshots": [
+            "/images/development/others/qdrant/screenshot-1.png",
+            "/images/development/others/qdrant/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/qdrant/screenshot-1.png",
+        "features": [
+            {
+                "title": "Advanced Compression",
+                "description": "Scalar, Product, and unique Binary Quantization feature significantly reduce memory usage and improve search performance (40x) for high-dimensional vectors."
+            },
+            {
+                "title": "Easy to Use API",
+                "description": "Offers OpenAPI v3 specification for generating client libraries in almost any programming language."
+            },
+            {
+                "title": "Integrations",
+                "description": "Qdrant supports a wide range of integrations for all leading embeddings and frameworks."
+            },
+            {
+                "title": "Payloads & Advanced Filtering",
+                "description": "Vector payload supports a large variety of data types and query conditions, including string matching, numerical ranges, geo-locations, and more."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "llana",
+        "website": "https://llana.io/",
+        "title": "Llana",
+        "description": "API Wrapper for Databases - Llana is a no-code API wrapper that exposes a REST API for any database within minutes.",
+        "long_description": "API Wrapper for Databases - Llana is a no-code API wrapper that exposes a REST API for any database within minutes. No longer spend time building APIs, just connect your database and start using the API. Open source, free to use, and no vendor lock-in.",
+        "logo": "/images/development/others/llana/logo.png",
+        "screenshots": [
+            "/images/development/others/llana/screenshot-1.png",
+            "/images/development/others/llana/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/llana/screenshot-1.png",
+        "features": [
+            {
+                "title": "Automatic REST API",
+                "description": "Llana uses your database schema to create an OpenAPI 3.1 REST API in seconds automatically."
+            },
+            {
+                "title": "API Documentation",
+                "description": "Llana automatically documents your API using Redoc, with schema validation, saving you time and effort."
+            },
+            {
+                "title": "User Authentication",
+                "description": "Built-in JWT tokens from your existing user table and/or API key authentication out of the box."
+            },
+            {
+                "title": "Roles & Security",
+                "description": "You can use your existing user's role-based permissions to allow or deny access to each endpoint."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "libretranslate",
+        "website": "https://libretranslate.com/",
+        "title": "LibreTranslate",
+        "description": "Free and Open Source Machine Translation API.",
+        "long_description": "Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open-source Argos Translate library.",
+        "logo": "/images/development/others/libretranslate/logo.png",
+        "screenshots": [
+            "/images/development/others/libretranslate/screenshot-1.png",
+            "/images/development/others/libretranslate/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/libretranslate/screenshot-1.png",
+        "features": [
+            {
+                "title": "Free & Open Source",
+                "description": "Unlike online services, there is no cost per usage, it's unlimited"
+            },
+            {
+                "title": "100% Self hosted",
+                "description": "Your data is not shared with anyone, all translations are done in your own VM"
+            },
+            {
+                "title": "29 languages supported",
+                "description": "English, German, French, Spanish, Italian, Hebrew, Japanese and many more languages supported"
+            },
+            {
+                "title": "REST API",
+                "description": "There is a REST API available, this way you can directly integrate translations within you own software"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "daptin",
+        "website": "https://daptin.github.io/daptin/",
+        "title": "Daptin",
+        "description": "Daptin is a powerful data and services API server.",
+        "long_description": "Daptin is an open-source backend development framework to develop and deploy production-ready JSONAPI microservices. You can design your data model and have a production-ready JSON API online in minutes.\nBy following shared conventions, you can increase productivity, avail of generalized tooling, and focus on your application. The framework integrates with cloud servers and is compatible with libraries and tools like JSONAPI.org/implementations and OAuth2.",
+        "logo": "/images/development/others/daptin/logo.png",
+        "screenshots": [
+            "/images/development/others/daptin/screenshot-1.jpg",
+            "/images/development/others/daptin/screenshot-2.jpg"
+        ],
+        "dashboardImage": "/images/development/others/daptin/screenshot-1.jpg",
+        "features": [
+            {
+                "title": "Define data tables and relations from config files or API calls",
+                "description": "Daptin provides middleware for handling data normalizations and conformations. You can create indexes, with constraints on columns. Columns can have images, video, audio, and BLOB attachments."
+            },
+            {
+                "title": "Authentication and authorization on APIs",
+                "description": "You can add users and user groups. There's an RWX-based permission system for rows and tables; JWT token with configurable expiry time, and user sign-in/sign-up/password reset flows."
+            },
+            {
+                "title": "JSON API and GraphQL API",
+                "description": "With Daptin, you get JSONAPI.org complaint endpoints; GraphQL endpoint with Data/Query and Mutations available; pagination and filtering using page number or cursor-based, and fetch relationships in a single call."
+            },
+            {
+                "title": "Cloud storage, create storage using API",
+                "description": "You can connect to over 30 storage providers \u2013 including localhost, HTTP, FTP, Gdrive, Dropbox, S3, and many more) \u2013 and manage files using Daptin actions, with automated 1 hour sync."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "quant-ux",
+        "website": "https://quant-ux.com/",
+        "title": "Quant-UX",
+        "description": "Quant-UX is a prototyping tool to design, test and analyse your visual designs",
+        "long_description": "Quant-UX makes it simple to validate your ideas. Create a prototype, share a link and learn through user feedback and analytics. Use the visual editor to create a interactive prototypes in minutes, that feel like real apps. Perform a wide range of usability tests by simply sharing a link with your audience.",
+        "logo": "/images/development/others/quant-ux/logo.png",
+        "screenshots": [
+            "/images/development/others/quant-ux/screenshot-1.webp",
+            "/images/development/others/quant-ux/screenshot-2.webp"
+        ],
+        "dashboardImage": "/images/development/others/quant-ux/screenshot-1.webp",
+        "features": [
+            {
+                "title": "Visual Designer",
+                "description": "Simply draw app screens and UI elements, add animation and connect them."
+            },
+            {
+                "title": "Design Systems",
+                "description": "Use design tokens, components and master screens to create a scalable design system with ease."
+            },
+            {
+                "title": "Interactive Elements",
+                "description": "Use a wide range of ready-to-use, fully functional UI elements for your prototype."
+            },
+            {
+                "title": "Animations",
+                "description": "Add animations to make your prototypes feel hyper realistic and reveal the impact of animations."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "flowiseai",
+        "website": "https://flowiseai.com/",
+        "title": "FlowiseAI",
+        "description": "Open source UI visual tool to build your customized LLM flow using Langchain.",
+        "long_description": "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript",
+        "logo": "/images/development/others/flowiseai/logo.png",
+        "screenshots": [
+            "/images/development/others/flowiseai/screenshot-1.png",
+            "/images/development/others/flowiseai/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/flowiseai/screenshot-1.png",
+        "features": [
+            {
+                "title": "Conversational Agent with Memory",
+                "description": "Conversational agent for a chat model which utilizes chat-specific prompts and buffer memory"
+            },
+            {
+                "title": "QnA Retrieval Chain",
+                "description": "Generate QnA using conversational retrieval QA chain"
+            },
+            {
+                "title": "Language Translation Chain",
+                "description": "Translate  any language using LLM Chain with a Chat Prompt Template and Chat Model"
+            },
+            {
+                "title": "Extensible Component & Build Fast",
+                "description": "Custom component integrations and See your LLM apps running live"
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "krakend",
+        "website": "https://www.krakend.io/",
+        "title": "KrakenD",
+        "description": "KrakenD\u00a0is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices \u00b7 The API Gateway pattern at its full extent.",
+        "long_description": "KrakenD\u00a0is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices \u00b7 The API Gateway pattern at its full extent.",
+        "logo": "/images/development/others/krakend/logo.png",
+        "screenshots": [
+            "/images/development/others/krakend/screenshot-1.png",
+            "/images/development/others/krakend/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/development/others/krakend/screenshot-1.png",
+        "features": [
+            {
+                "title": "Content aggregation, composition, and filtering",
+                "description": "Create views and mashups of aggregated content from your APIs."
+            },
+            {
+                "title": "Content Manipulation and format transformation",
+                "description": "Change responses, convert transparently from XML to JSON, and vice-versa."
+            },
+            {
+                "title": "Security",
+                "description": "Zero-trust policy, CORS, OAuth, JWT, HSTS, clickjacking protection, HPKP, MIME-Sniffing prevention, XSS protection"
+            },
+            {
+                "title": "Multi-layer rate-limiting",
+                "description": "For the end-user and between KrakenD and your services, including bursting load balancing, and circuit breaker."
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "others",
+            "name": "Others",
+            "ids": [
+                "others"
+            ]
+        },
+        "id": "ci-cd-target",
+        "website": "https://elest.io/",
+        "title": "CI-CD-Target",
+        "description": "Deploy one or multiple CD/CD pipelines to a target node",
+        "long_description": "CI/CD target by Elestio is a fully managed service made to handle deployment, security, reverse proxy, ssl, smtp, logs, backups & monitoring of your own source code coming from Github, Gitlab or Docker registries",
+        "logo": "/images/hosting-and-infrastructure/others/ci-cd-target/logo.png",
+        "screenshots": [
+            "/images/hosting-and-infrastructure/others/ci-cd-target/screenshot-1.png",
+            "/images/hosting-and-infrastructure/others/ci-cd-target/screenshot-2.png"
+        ],
+        "dashboardImage": "/images/hosting-and-infrastructure/others/ci-cd-target/screenshot-1.png",
+        "features": [
+            {
+                "title": "Deploy automaticaly from Github / Gitlab / Docker registries",
+                "description": "Go from source to production In 3 simple steps \n1) Select your source project from your account or from our samples\n2) Select an existing target or create a new one (where the pipeline will be deployed)\n3) Configure your pipeline (env vars, runtime, build/run command, lifecycle scripts, ...)"
+            },
+            {
+                "title": "Samples available for most popular frameworks",
+                "description": "We have created 52 sample repositories for all most popular frameworks & runtimes. Thanks to that you can quickstart with your favorite frontend / backend technology in few minutes."
+            },
+            {
+                "title": "Deploy multiple containers to a single target",
+                "description": "You can deploy multiple instances of the same software or various software to the same CI/CD target  (eg: 3 wordpress, 2 directus, 4 mysql, 1 uptime kuma ...)"
+            },
+            {
+                "title": "Move pipelines between nodes",
+                "description": "You can move a ci/cd pipeline from one vm to another vm in a click. Your data, dns, and all settings are moving along smoothly as well to their new home. Migrate any pipeline in minutes without stress."
+            }
+        ]
+    }
+]
