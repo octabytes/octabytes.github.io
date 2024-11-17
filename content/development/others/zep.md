@@ -7,6 +7,7 @@ content:
   logo: /images/development/others/zep/logo.png
   website: https://www.getzep.com/
   iframe_website: /website/development/others/zep
+  direct_link: true
   dashboardImage: /images/development/others/zep/screenshot-1.png
   short_description: Long-Term Memory for AI Assistants it Recall, understand, and extract data from chat histories.
   description: Long-Term Memory for ‍AI Assistants. Recall, understand, and extract data from chat histories. Power personalized AI experiences.

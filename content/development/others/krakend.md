@@ -7,6 +7,7 @@ content:
   logo: /images/development/others/krakend/logo.png
   website: https://www.krakend.io/
   iframe_website: /website/development/others/krakend
+  direct_link: true
   dashboardImage: /images/development/others/krakend/screenshot-1.png
   short_description: KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices · The API Gateway pattern at its full extent.
   description: KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices · The API Gateway pattern at its full extent.

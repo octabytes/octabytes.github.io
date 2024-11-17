@@ -5,5 +5,6 @@ content:
   id: zep
   name: Zep
   website: https://www.getzep.com/
+  proxy: true
   short_description: Long-Term Memory for AI Assistants it Recall, understand, and extract data from chat histories.
 ---
