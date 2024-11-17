@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/yourls/logo.png
   website: https://yourls.org/
   iframe_website: /website/applications/others/yourls
+  direct_link: true
   dashboardImage: /images/applications/others/yourls/screenshot-1.png
   short_description: YOURLS (Your Own URL Shortener), de facto standard self-hosted URL shortener in PHP
   description: YOURLS (Your Own URL Shortener), de facto standard self-hosted URL shortener in PHP

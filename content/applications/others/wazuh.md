@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/wazuh/logo.png
   website: https://wazuh.com/
   iframe_website: /website/applications/others/wazuh
+  direct_link: true
   dashboardImage: /images/applications/others/wazuh/screenshot-1.png
   short_description: The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
   description: The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/languagetool/logo.png
   website: https://languagetool.org/
   iframe_website: /website/applications/others/languagetool
+  direct_link: true
   dashboardImage: /images/applications/others/languagetool/screenshot-1.png
   short_description: LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages.
   description: LanguageTool’s multilingual grammar, style, and spell checker is used by millions of people around the world

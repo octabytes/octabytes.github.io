@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/mapzy/logo.png
   website: https://mapzy.io/
   iframe_website: /website/applications/others/mapzy
+  direct_link: true
   dashboardImage: /images/applications/others/mapzy/screenshot-1.png
   short_description: A simple, self-hostable store finder that cares about your privacy.
   description: "With Mapzy, you can add a beautiful store locator to your website without touching a line of code. It's simple, looks great on every device and doesn't invade your privacy."

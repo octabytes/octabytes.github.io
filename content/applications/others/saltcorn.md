@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/saltcorn/logo.png
   website: https://saltcorn.com/
   iframe_website: /website/applications/others/saltcorn
+  direct_link: true
   dashboardImage: /images/applications/others/saltcorn/screenshot-1.png
   short_description: Saltcorn is a platform for building applications without writing code.
   description: Saltcorn is a platform for building database web applications without writing a single line of code. Use the intuitive point-and-click, drag-and-drop user interface to build your whole application.

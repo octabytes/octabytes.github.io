@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/snipe-it/logo.png
   website: https://snipeitapp.com/support
   iframe_website: /website/applications/others/snipe-it
+  direct_link: true
   dashboardImage: /images/applications/others/snipe-it/screenshot-1.png
   short_description: An IT asset/license management system
   description: Snipe-IT was made for IT asset management, to enable IT departments to track who has which laptop, when it was purchased, which software licenses and accessories are available, and so on.

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/akaunting/logo.png
   website: https://akaunting.com/open-source-accounting-software
   iframe_website: /website/applications/others/akaunting
+  direct_link: true
   dashboardImage: /images/applications/others/akaunting/screenshot-1.png
   short_description: Online accounting software for small businesses and freelancers. Send invoices and track expenses on the cloud.
   description: Open-Source Accounting Software With Akaunting, you can send unlimited invoices, create bills, add employees and accountants, auto-schedule bills/invoices, and track your expenses, all for free.

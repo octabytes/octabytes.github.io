@@ -7,7 +7,8 @@ content:
   logo: /images/applications/others/xwiki/logo.png
   website: https://xwiki.com/en/
   iframe_website: /website/applications/others/xwiki
-  dashboardImage: /images/applications/others/xwiki/screenshot-1.png
+  direct_link: true
+  dashboardImage: /images/applications/others/xwiki/screenshot-2.png
   short_description: XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it.
   description: XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. It is an advanced collaboration platform based on the Wiki principles. Its top-notch features will help you organize information and foster a collaborative culture.
   features:
@@ -20,6 +21,5 @@ content:
     - title: Flexibility and Extensibility
       description: "One of XWiki's key features is its flexibility and extensibility. Moreover, XWiki allows full customization of its user interface (UI)."
   screenshots:
-    - /images/applications/others/xwiki/screenshot-1.png
     - /images/applications/others/xwiki/screenshot-2.png
 ---

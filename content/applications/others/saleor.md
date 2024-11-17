@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/saleor/logo.png
   website: https://saleor.io/open-source
   iframe_website: /website/applications/others/saleor
+  direct_link: true
   dashboardImage: /images/applications/others/saleor/screenshot-1.png
   short_description: "Saleor Core: the high-performance, composable, headless commerce API."
   description: "Saleor Core: the high-performance, composable, headless commerce API. It is an e-commerce platform with the most future-proof strategy for any brand viewing technology, extensibility, and openness as vital for revolutionary customer experiences."

@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/metatrader5/logo.png
   website: https://www.metatrader5.com/
   iframe_website: /website/applications/others/metatrader5
+  direct_link: true
   dashboardImage: /images/applications/others/metatrader5/screenshot-1.jpg
   short_description: Trade on Forex & stock markets in a virtual desktop from your browser
   description: Successful trading starts with convenient and functional trading. MetaTrader 5 is the best choice for the modern trader. Most popular brokers are compatible with MetaTrader client.

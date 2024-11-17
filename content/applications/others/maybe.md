@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/maybe/logo.png
   website: https://maybe.co/
   iframe_website: /website/applications/others/maybe
+  direct_link: true
   dashboardImage: /images/applications/others/maybe/screenshot-1.jpg
   short_description: OS for your personal finances
   description: "As a personal finance + wealth management app, Maybe has a lot of features. Here's a brief overview of some of the main ones: -Net worth tracking -Financial account syncing -Investment benchmarking -Investment portfolio allocation -Debt insights -Retirement forecasting + planning -Investment return -Simulation -Manual account/investment tracking"

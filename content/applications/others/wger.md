@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/wger/logo.png
   website: https://wger.de/en/software/features
   iframe_website: /website/applications/others/wger
+  direct_link: true
   dashboardImage: /images/applications/others/wger/screenshot-1.png
   short_description: FLOSS fitness/workout, nutrition and weight tracker
   description: Wger Workout Manager is a free, open-source web application that helps you manage your personal workouts, weight, and diet plans and can also be used as a simple gym management utility. It offers a REST API as well, for easy integration with other projects and tools.

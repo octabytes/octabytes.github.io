@@ -7,6 +7,7 @@ content:
   logo: /images/applications/others/moodle/logo.png
   website: https://moodle.org/
   iframe_website: /website/applications/others/moodle
+  direct_link: true
   dashboardImage: /images/applications/others/moodle/screenshot-1.jpg
   short_description: "Moodle is the world's most popular open-source learning platform for educators to create their own websites."
   description: "Moodle is a free, online learning management system enabling educators to create their own private website filled with dynamic courses that extend learning, any time, anywhere. Its highly customisable core comes with many standard features. It is trusted by institutions and organizations large and small, including Shell, the State University of New York, Microsoft, the Open University and London School of Economics. With 213m+ users, it's the world’s most widely used learning platform."
