@@ -1,3 +1,4 @@
+import csv
 import os
 import json
 from pathlib import Path
@@ -402,68 +403,189 @@ CATEGORY_NAME = "Others"
 #########################################
 
 
-# Define input and output folders
+# # Define input and output folders
+# INPUT_FILE = f"./details/{SERVICE_NAME}.json"
+# OUT_FOLDER = f"./nginx/{SERVICE_NAME}"
+
+# # Ensure the output folder exists
+# os.makedirs(OUT_FOLDER, exist_ok=True)
+
+# # Template for the NGINX configuration file (use double curly braces for literal curly braces)
+# nginx_template = """server {{
+#     listen 80;
+#     server_name {id}.reverse-proxy.octabyte.io;
+
+#     location / {{
+#         proxy_pass {website};
+#         proxy_set_header Host $proxy_host;
+#         proxy_set_header X-Real-IP $remote_addr;
+#         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+#         proxy_set_header X-Forwarded-Proto $scheme;
+
+#         # Optional: Remove the X-Frame-Options header to allow iframing
+#         proxy_hide_header X-Frame-Options;
+#         proxy_hide_header Content-Security-Policy;
+
+#         # Timeout settings (optional)
+#         proxy_connect_timeout 5s;
+#         proxy_read_timeout 300s;
+#         proxy_send_timeout 300s;
+#     }}
+# }}
+# """
+
+# # Function to process each JSON file
+# def process_json_file(file_path):
+#     with open(file_path, 'r') as file:
+#         try:
+#             data = json.load(file)
+#             for entry in data:
+#                 # Extract id and website
+#                 service_id = entry.get('id')
+#                 website = entry.get('website')
+
+#                 # Skip if either id or website is missing
+#                 if not service_id or not website:
+#                     print(f"Skipping entry in {file_path} due to missing id or website.")
+#                     continue
+
+#                 # Create NGINX config content
+#                 nginx_conf = nginx_template.format(id=service_id, website=website)
+
+#                 # Define output file path
+#                 output_file_path = os.path.join(OUT_FOLDER, f"{service_id}.conf")
+
+#                 # Write the configuration to a file
+#                 with open(output_file_path, 'w') as output_file:
+#                     output_file.write(nginx_conf)
+
+#                 print(f"Created NGINX config for {service_id} at {output_file_path}")
+#         except json.JSONDecodeError as e:
+#             print(f"Error decoding JSON in {file_path}: {e}")
+
+
+# print(f"Processing {INPUT_FILE}...")
+# process_json_file(INPUT_FILE)
+
+# print("NGINX configuration generation completed.")
+
+############################################
+############################################
+# Auto Posting For Facebook and LinkedIn
+############################################
+############################################
+
 INPUT_FILE = f"./details/{SERVICE_NAME}.json"
-OUT_FOLDER = f"./nginx/{SERVICE_NAME}"
+OUT_FOLDER = "./auto_posting"
+IMAGE_PREFIX = '/Users/haider/codeplace/octabyte/octabytes.github.io/static'
 
 # Ensure the output folder exists
 os.makedirs(OUT_FOLDER, exist_ok=True)
 
-# Template for the NGINX configuration file (use double curly braces for literal curly braces)
-nginx_template = """server {{
-    listen 80;
-    server_name {id}.reverse-proxy.octabyte.io;
+def generate_category_hashtags(category_ids):
+    hashtags = []
+    for cat_id in category_ids:
+        if "-" in cat_id:
+            # Remove hyphens and create a combined hashtag
+            combined_tag = f"#{cat_id.replace('-', '')}"
+            hashtags.append(combined_tag)
+            
+            # Create individual word hashtags
+            words = cat_id.split('-')
+            word_tags = [f"#{word}" for word in words]
+            hashtags.extend(word_tags)
+        else:
+            hashtags.append(f"#{cat_id}")
+    
+    return " ".join(hashtags)
 
-    location / {{
-        proxy_pass {website};
-        proxy_set_header Host $proxy_host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
+def generate_filename_hashtag(filename):
+    if filename == "hosting-and-infrastructure":
+        # Special case: Use separate hashtags
+        return "#hosting #infrastructure"
+    else:
+        # General case: Remove hyphens and merge the words
+        return f"#{filename.replace('-', '')}"
 
-        # Optional: Remove the X-Frame-Options header to allow iframing
-        proxy_hide_header X-Frame-Options;
-        proxy_hide_header Content-Security-Policy;
+def create_csv_data(data):
+    title = data.get("title", "")
+    description = data.get("description", "")
+    long_description = data.get("long_description", "")
+    features = data.get("features", [])
+    dashboard_image = f"{IMAGE_PREFIX}{data.get('dashboardImage', '')}"
+    logo = data["logo"]
+    single_service = data.get("single_service", None)
 
-        # Timeout settings (optional)
-        proxy_connect_timeout 5s;
-        proxy_read_timeout 300s;
-        proxy_send_timeout 300s;
-    }}
-}}
-"""
+    if not single_service:
+        if "applications/" in logo:
+            single_service = "applications"
+        elif "databases/" in logo:
+            single_service = "databases"
+        elif "development/" in logo:
+            single_service = "development"
+        elif "hosting-and-infrastructure/" in logo:
+            single_service = "hosting-and-infrastructure"
 
-# Function to process each JSON file
-def process_json_file(file_path):
-    with open(file_path, 'r') as file:
-        try:
-            data = json.load(file)
-            for entry in data:
-                # Extract id and website
-                service_id = entry.get('id')
-                website = entry.get('website')
+    website_link = f"https://octabyte.io/{single_service}/{data['category']['id']}/{data['id']}"
 
-                # Skip if either id or website is missing
-                if not service_id or not website:
-                    print(f"Skipping entry in {file_path} due to missing id or website.")
-                    continue
+    # Generate feature highlights with the new format
+    feature_highlights = "\n\n".join(
+        [f"- {feature['title']}:\n\n{feature['description']}" for feature in features]
+    )
+    
+    # Generate hashtags
+    category_hashtags = generate_category_hashtags(data["category"]["ids"])
+    filename_hashtag = generate_filename_hashtag(single_service)
+    id_hashtag = f"#{data['id'].replace('-', '')}"
+    hashtags = f"#octabyte #opensource #devops #itservices {filename_hashtag} {category_hashtags} {id_hashtag} #managedservices"
+    
+    # Create post content
+    post_content = (
+        f"{title}\n\n"
+        f"{long_description}\n\n"
+        f"Features Highlight:\n\n"
+        f"{feature_highlights}\n\n"
+        f"{website_link}\n\n"
+        f"{hashtags}"
+    )
 
-                # Create NGINX config content
-                nginx_conf = nginx_template.format(id=service_id, website=website)
+    dashboard_image = dashboard_image.strip()
+    
+    # Return CSV row data
+    return [
+        post_content,
+        dashboard_image,
+        website_link,
+        hashtags,
+        feature_highlights,
+        description,
+        title
+    ]
 
-                # Define output file path
-                output_file_path = os.path.join(OUT_FOLDER, f"{service_id}.conf")
+csv_file_path = os.path.join(OUT_FOLDER, f"{SERVICE_NAME}.csv")
 
-                # Write the configuration to a file
-                with open(output_file_path, 'w') as output_file:
-                    output_file.write(nginx_conf)
+with open(INPUT_FILE, 'r') as file:
+    data = json.load(file)
+    csv_data = []
 
-                print(f"Created NGINX config for {service_id} at {output_file_path}")
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON in {file_path}: {e}")
+    for software in data:
+        csv_row = create_csv_data(software)
+        csv_data.append(csv_row)
 
+    # Write data to CSV file
+    with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        # Write header
+        writer.writerow([
+            "Post Content",
+            "Dashboard Image URL",
+            "Website Link",
+            "Hashtags",
+            "Features Highlights",
+            "Description",
+            "Title"
+        ])
+        # Write rows
+        writer.writerows(csv_data)
 
-print(f"Processing {INPUT_FILE}...")
-process_json_file(INPUT_FILE)
-
-print("NGINX configuration generation completed.")
+print(f"CSV file created: {csv_file_path}")
