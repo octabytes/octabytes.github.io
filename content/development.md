@@ -22,6 +22,8 @@ content:
       name: devOps
     - id: nocode-lowcode
       name: No-code / Low code
+    - id: others
+      name: Others
   services:
     - id: logto
       title: Logto
@@ -569,4 +571,76 @@ content:
       url: /development/nocode-lowcode/openblocks
       category: nocode-lowcode
       description: Openblocks is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minutes.
+    - id: hoppscotch
+      title: Hoppscotch
+      image: /images/development/others/hoppscotch/logo.png
+      url: /development/others/hoppscotch
+      category: others
+      description: Hoppscotch is a lightweight, web-based API development suite.
+    - id: teable
+      title: Teable
+      image: /images/development/others/teable/logo.png
+      url: /development/others/teable
+      category: others
+      description: "The Next Gen Airtable Alternative: No-Code Postgres database"
+    - id: zep
+      title: Zep
+      image: /images/development/others/zep/logo.png
+      url: /development/others/zep
+      category: others
+      description: Long-Term Memory for AI Assistants it Recall, understand, and extract data from chat histories.
+    - id: langflow
+      title: Langflow
+      image: /images/development/others/langflow/logo.png
+      url: /development/others/langflow
+      category: others
+      description: Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, and model and vector store agnostic.
+    - id: labelstudio
+      title: LabelStudio
+      image: /images/development/others/labelstudio/logo.png
+      url: /development/others/labelstudio
+      category: others
+      description: Label Studio is a multi-type data labeling and annotation tool with standardized output format
+    - id: qdrant
+      title: Qdrant
+      image: /images/development/others/qdrant/logo.png
+      url: /development/others/qdrant
+      category: others
+      description: High-performance, massive-scale Vector Database for the next generation of AI.
+    - id: llana
+      title: Llana
+      image: /images/development/others/llana/logo.png
+      url: /development/others/llana
+      category: others
+      description: API Wrapper for Databases - Llana is a no-code API wrapper that exposes a REST API for any database within minutes.
+    - id: libretranslate
+      title: LibreTranslate
+      image: /images/development/others/libretranslate/logo.png
+      url: /development/others/libretranslate
+      category: others
+      description: Free and Open Source Machine Translation API.
+    - id: daptin
+      title: Daptin
+      image: /images/development/others/daptin/logo.png
+      url: /development/others/daptin
+      category: others
+      description: Daptin is a powerful data and services API server.
+    - id: quant-ux
+      title: Quant-UX
+      image: /images/development/others/quant-ux/logo.png
+      url: /development/others/quant-ux
+      category: others
+      description: Quant-UX is a prototyping tool to design, test and analyse your visual designs
+    - id: flowiseai
+      title: FlowiseAI
+      image: /images/development/others/flowiseai/logo.png
+      url: /development/others/flowiseai
+      category: others
+      description: Open source UI visual tool to build your customized LLM flow using Langchain.
+    - id: krakend
+      title: KrakenD
+      image: /images/development/others/krakend/logo.png
+      url: /development/others/krakend
+      category: others
+      description: KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices · The API Gateway pattern at its full extent.
 ---
