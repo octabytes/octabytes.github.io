@@ -5,6 +5,7 @@
         "external_link": "https://elest.io/open-source/onlyoffice",
         "title": "OnlyOffice",
         "description": "OnlyOffice is an online office suite that includes editors and viewers for text documents, spreadsheets, and presentations.",
+        "logo": "/images/applications/others/onlyoffice/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -19,6 +20,7 @@
         "external_link": "https://elest.io/open-source/openslides",
         "title": "OpenSlides",
         "description": "OpenSlides is a powerful and modern, web-based software for the digital organization of your meetings and committees.",
+        "logo": "/images/applications/others/openslides/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -33,6 +35,7 @@
         "external_link": "https://elest.io/open-source/yourls",
         "title": "YOURLS",
         "description": "YOURLS (Your Own URL Shortener),\u00a0de facto standard self-hosted URL shortener in PHP",
+        "logo": "/images/applications/others/yourls/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -47,6 +50,7 @@
         "external_link": "https://elest.io/open-source/wger",
         "title": "Wger",
         "description": "FLOSS fitness/workout, nutrition and weight tracker",
+        "logo": "/images/applications/others/wger/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -61,6 +65,7 @@
         "external_link": "https://elest.io/open-source/ojs",
         "title": "OJS",
         "description": "Open Journal Systems (OJS) is open-source software to manage scholarly journals.",
+        "logo": "/images/applications/others/ojs/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -75,6 +80,7 @@
         "external_link": "https://elest.io/open-source/iomad",
         "title": "IOMAD",
         "description": "IOMAD\u00a0is a\u00a0multi-tenancy solution for business, corporate, and workplace Moodle markets.",
+        "logo": "/images/applications/others/iomad/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -89,6 +95,7 @@
         "external_link": "https://elest.io/open-source/freshrss",
         "title": "FreshRSS",
         "description": "FreshRSS is an\u00a0RSS\u00a0and Atom feed aggregator.",
+        "logo": "/images/applications/others/freshrss/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -103,6 +110,7 @@
         "external_link": "https://elest.io/open-source/linkwarden",
         "title": "Linkwarden",
         "description": "Linkwarden is a\u00a0collaborative bookmark manager to collects, organizes, and preserves web pages.",
+        "logo": "/images/applications/others/linkwarden/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -117,6 +125,7 @@
         "external_link": "https://elest.io/open-source/xwiki",
         "title": "XWiki",
         "description": "XWiki Platform\u00a0is a generic wiki platform offering runtime services for applications built on top of it.",
+        "logo": "/images/applications/others/xwiki/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -131,6 +140,7 @@
         "external_link": "https://elest.io/open-source/librechat",
         "title": "LibreChat",
         "description": "Enhanced ChatGPT Clone AI chat platform. This Web UI offers vast customization, supporting numerous AI providers, services, and integrations.",
+        "logo": "/images/applications/others/librechat/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -145,6 +155,7 @@
         "external_link": "https://elest.io/open-source/tolgee",
         "title": "Tolgee",
         "description": "Open-source developer & translator friendly localization platform \ud83d\udc01",
+        "logo": "/images/applications/others/tolgee/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -159,6 +170,7 @@
         "external_link": "https://elest.io/open-source/snipe-it",
         "title": "Snipe-it",
         "description": "An IT asset/license management system",
+        "logo": "/images/applications/others/snipe-it/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -173,6 +185,7 @@
         "external_link": "https://elest.io/open-source/docassemble",
         "title": "Docassemble",
         "description": "A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.",
+        "logo": "/images/applications/others/docassemble/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -187,6 +200,7 @@
         "external_link": "https://elest.io/open-source/dashy",
         "title": "Dashy",
         "description": "The Ultimate Homepage for your Homelab",
+        "logo": "/images/applications/others/dashy/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -201,6 +215,7 @@
         "external_link": "https://elest.io/open-source/ragflow",
         "title": "Ragflow",
         "description": "Build Generative AI into Your Business",
+        "logo": "/images/applications/others/ragflow/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -215,6 +230,7 @@
         "external_link": "https://elest.io/open-source/saltcorn",
         "title": "Saltcorn",
         "description": "Saltcorn is a platform for building applications without writing code.",
+        "logo": "/images/applications/others/saltcorn/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -229,6 +245,7 @@
         "external_link": "https://elest.io/open-source/peppermint",
         "title": "Peppermint",
         "description": "An open source ticket management & help desk solution. A zendesk/freshdesk alternative",
+        "logo": "/images/applications/others/peppermint/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -243,6 +260,7 @@
         "external_link": "https://elest.io/open-source/hi-events",
         "title": "Hi-events",
         "description": "Event management and ticket selling platform \ud83c\udf9f\ufe0f",
+        "logo": "/images/applications/others/hi-events/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -257,6 +275,7 @@
         "external_link": "https://elest.io/open-source/maybe",
         "title": "Maybe",
         "description": "OS for your personal finances",
+        "logo": "/images/applications/others/maybe/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -271,6 +290,7 @@
         "external_link": "https://elest.io/open-source/indico",
         "title": "Indico",
         "description": "A feature-rich event management system, made @ CERN, the place where the Web was born.",
+        "logo": "/images/applications/others/indico/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -285,6 +305,7 @@
         "external_link": "https://elest.io/open-source/wazuh",
         "title": "Wazuh",
         "description": "The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+        "logo": "/images/applications/others/wazuh/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -299,6 +320,7 @@
         "external_link": "https://elest.io/open-source/saleor",
         "title": "Saleor",
         "description": "Saleor Core: the high-performance, composable, headless commerce API.",
+        "logo": "/images/applications/others/saleor/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -313,6 +335,7 @@
         "external_link": "https://elest.io/open-source/funkwhale",
         "title": "Funkwhale",
         "description": "A modern, convivial, and free music audio and podcasts server on YunoHost",
+        "logo": "/images/applications/others/funkwhale/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -327,6 +350,7 @@
         "external_link": "https://elest.io/open-source/neko",
         "title": "Neko Rooms",
         "description": "Neko-Rooms is a simple room management system for n.eko.",
+        "logo": "/images/applications/others/neko/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -341,6 +365,7 @@
         "external_link": "https://elest.io/open-source/mapzy",
         "title": "Mapzy",
         "description": "A simple, self-hostable store finder that cares about your privacy.",
+        "logo": "/images/applications/others/mapzy/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -355,6 +380,7 @@
         "external_link": "https://elest.io/open-source/moodle",
         "title": "Moodle",
         "description": "Moodle is the world's most popular open-source learning platform for educators to create their own websites.",
+        "logo": "/images/applications/others/moodle/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -369,6 +395,7 @@
         "external_link": "https://elest.io/open-source/penpot",
         "title": "Penpot",
         "description": "Penpot is the first open-source design and prototyping platform for cross-domain teams.",
+        "logo": "/images/applications/others/penpot/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -383,6 +410,7 @@
         "external_link": "https://elest.io/open-source/kimai",
         "title": "Kimai",
         "description": "Kimai is a free, open-source, online time-tracking software designed for small businesses and freelancers.",
+        "logo": "/images/applications/others/kimai/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -397,6 +425,7 @@
         "external_link": "https://elest.io/open-source/shlink",
         "title": "Shlink",
         "description": "The definitive self-hosted URL shortener",
+        "logo": "/images/applications/others/shlink/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -411,6 +440,7 @@
         "external_link": "https://elest.io/open-source/metatrader5",
         "title": "MetaTrader5",
         "description": "Trade on Forex & stock markets in a virtual desktop from your browser",
+        "logo": "/images/applications/others/metatrader5/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -425,6 +455,7 @@
         "external_link": "https://elest.io/open-source/languagetool",
         "title": "LanguageTool",
         "description": "LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages.",
+        "logo": "/images/applications/others/languagetool/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -439,6 +470,7 @@
         "external_link": "https://elest.io/open-source/traduora",
         "title": "Traduora",
         "description": "Open Translation Management Platform. Teams use Ever Traduora to reach users all around the globe. Automate your translation workflow today",
+        "logo": "/images/applications/others/traduora/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -453,6 +485,7 @@
         "external_link": "https://elest.io/open-source/mealie",
         "title": "Mealie",
         "description": "Mealie\u00a0is an intuitive and easy to use recipe management app",
+        "logo": "/images/applications/others/mealie/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -467,6 +500,7 @@
         "external_link": "https://elest.io/open-source/traggo",
         "title": "Traggo",
         "description": "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.",
+        "logo": "/images/applications/others/traggo/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -481,6 +515,7 @@
         "external_link": "https://elest.io/open-source/akaunting",
         "title": "Akaunting",
         "description": "Online\u00a0accounting\u00a0software for small businesses and freelancers. Send invoices and track expenses on the cloud.",
+        "logo": "/images/applications/others/akaunting/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -495,6 +530,7 @@
         "external_link": "https://elest.io/open-source/parseable",
         "title": "Parseable",
         "description": "Parseable is a log analytics system platform for modern, cloud-native workloads",
+        "logo": "/images/applications/others/parseable/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -509,6 +545,7 @@
         "external_link": "https://elest.io/open-source/anythingllm",
         "title": "AnythingLLM",
         "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.\u00a0Chat with your docs, use AI Agents, hyper-configurable.",
+        "logo": "/images/applications/others/anythingllm/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -523,6 +560,7 @@
         "external_link": "https://elest.io/open-source/hoppscotch",
         "title": "Hoppscotch",
         "description": "Hoppscotch is a lightweight, web-based API development suite.",
+        "logo": "/images/development/others/hoppscotch/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -537,6 +575,7 @@
         "external_link": "https://elest.io/open-source/teable",
         "title": "Teable",
         "description": "The Next Gen Airtable Alternative: No-Code Postgres\u00a0database",
+        "logo": "/images/development/others/teable/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -551,6 +590,7 @@
         "external_link": "https://elest.io/open-source/zep",
         "title": "Zep",
         "description": "Long-Term Memory for AI Assistants it\u00a0Recall, understand, and extract data from chat histories.",
+        "logo": "/images/development/others/zep/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -565,6 +605,7 @@
         "external_link": "https://elest.io/open-source/langflow",
         "title": "Langflow",
         "description": "Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, and model and vector store agnostic.",
+        "logo": "/images/development/others/langflow/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -579,6 +620,7 @@
         "external_link": "https://elest.io/open-source/labelstudio",
         "title": "LabelStudio",
         "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+        "logo": "/images/development/others/labelstudio/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -593,6 +635,7 @@
         "external_link": "https://elest.io/open-source/qdrant",
         "title": "Qdrant",
         "description": "High-performance, massive-scale Vector Database for the next generation of AI.",
+        "logo": "/images/development/others/qdrant/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -607,6 +650,7 @@
         "external_link": "https://elest.io/open-source/llana",
         "title": "Llana",
         "description": "API Wrapper for Databases - Llana is a no-code API wrapper that exposes a REST API for any database within minutes.",
+        "logo": "/images/development/others/llana/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -621,6 +665,7 @@
         "external_link": "https://elest.io/open-source/libretranslate",
         "title": "LibreTranslate",
         "description": "Free and Open Source Machine Translation API.",
+        "logo": "/images/development/others/libretranslate/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -635,6 +680,7 @@
         "external_link": "https://elest.io/open-source/daptin",
         "title": "Daptin",
         "description": "Daptin is a powerful data and services API server.",
+        "logo": "/images/development/others/daptin/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -649,6 +695,7 @@
         "external_link": "https://elest.io/open-source/quant-ux",
         "title": "Quant-UX",
         "description": "Quant-UX is a prototyping tool to design, test and analyse your visual designs",
+        "logo": "/images/development/others/quant-ux/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -663,6 +710,7 @@
         "external_link": "https://elest.io/open-source/flowiseai",
         "title": "FlowiseAI",
         "description": "Open source UI visual tool to build your customized LLM flow using Langchain.",
+        "logo": "/images/development/others/flowiseai/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -677,6 +725,7 @@
         "external_link": "https://elest.io/open-source/krakend",
         "title": "KrakenD",
         "description": "KrakenD\u00a0is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices \u00b7 The API Gateway pattern at its full extent.",
+        "logo": "/images/development/others/krakend/logo.png",
         "category": {
             "id": "others",
             "name": "Others",
@@ -691,6 +740,7 @@
         "external_link": "https://elest.io/open-source/ci-cd-target",
         "title": "CI-CD-Target",
         "description": "Deploy one or multiple CD/CD pipelines to a target node",
+        "logo": "/images/hosting-and-infrastructure/others/ci-cd-target/logo.png",
         "category": {
             "id": "others",
             "name": "Others",

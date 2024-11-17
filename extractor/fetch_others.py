@@ -4,9 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
-SERVICE_NAME = "others"
+SERVICE_NAME = "others" # Change this name when need check if new services exist
+OUTPUT_DIR = "./services"
 SERVICE_DIR = "./services"
-OUTPUT_DIR = "./others"
 IMAGES_DIR = "../static/images"
 CATEGORY_ID = "others"
 CATEGORY_NAME = "Others"
@@ -98,4 +98,4 @@ output_path = os.path.join(OUTPUT_DIR, f"{SERVICE_NAME}.json")
 with open(output_path, "w") as outfile:
     json.dump(list(new_services.values()), outfile, indent=4)
 
-print(f"Data saved to {output_path}")
+print(f"Services Data saved to {output_path}")
