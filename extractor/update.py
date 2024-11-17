@@ -405,7 +405,7 @@ content:
 
 # Define input and output folders
 INPUT_FILE = f"./details/{SERVICE_NAME}.json"
-OUT_FOLDER = f"./nginx/{SERVICE_NAME}"
+OUT_FOLDER = f"./nginx"
 
 # Ensure the output folder exists
 os.makedirs(OUT_FOLDER, exist_ok=True)
