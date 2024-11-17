@@ -7,7 +7,7 @@ googleAnalytics: "G-TST1VKBPZE"
 
 params:
   title: "OctaByte: Fully Managed Open source"
-  description: "Deploy 300+ open-source softwares. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
+  description: "Deploy 350+ open-source softwares. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
   keywords: "octabyte, DevOps, open source, deployment, open source applications"
 
   logo: "/images/logo.png"
@@ -26,7 +26,7 @@ params:
 
 menus:
   main:
-    - name: "300+ softwares"
+    - name: "350+ softwares"
       url: "/all-services"
       weight: 1
 
@@ -51,7 +51,7 @@ menus:
       url: "/all-services"
 
   footer:
-    - name: "300+ softwares"
+    - name: "350+ softwares"
       url: "/all-services"
       weight: 1
 

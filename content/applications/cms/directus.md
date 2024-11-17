@@ -12,7 +12,7 @@ content:
   description: Directus is an Open Data Platform for managing the content of any SQL database. It provides a powerful API layer for developers and an intuitive App for non-technical users.
   features:
     - title: Open-source platform
-      description: Directus is 100% JavaScript, open-source, and free to use for many, with 26M+ on-prem installs, 10K+ community members, and 300+ contributors.
+      description: Directus is 100% JavaScript, open-source, and free to use for many, with 26M+ on-prem installs, 10K+ community members, and 350+ contributors.
     - title: On-demand cloud
       description: With thousands of users, the Directus self-service cloud platform provides a dashboard for quickly spinning up fully managed Directus projects.
     - title: Enterprise cloud
