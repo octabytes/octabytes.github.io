@@ -98,9 +98,9 @@ content:
       name: "Pixelfed"
       url: "/applications/fediverse/pixelfed"
 
-    - image: "/images/applications/automation/windmill/logo.png"
-      name: "Windmill"
-      url: "/applications/automation/windmill"
+    - image: "/images/applications/documentation/bookstack/logo.png"
+      name: "BookStack"
+      url: "/applications/documentation/bookstack"
 
     - image: "/images/applications/hcm/minthcm/logo.png"
       name: "MintHCM"
