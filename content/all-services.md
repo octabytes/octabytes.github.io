@@ -2231,4 +2231,10 @@ content:
       url: /hosting-and-infrastructure/others/ci-cd-target
       category: others
       description: Deploy one or multiple CD/CD pipelines to a target node
+    - id: comfyui
+      title: ComfyUi
+      image: /images/applications/others/comfyui/logo.avif
+      url: /applications/others/comfyui
+      category: others
+      description: The most powerful and modular stable diffusion GUI, API, and backend with a graph/nodes interface.
 ---

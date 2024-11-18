@@ -1149,4 +1149,10 @@ content:
       url: /applications/others/anythingllm
       category: others
       description: The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities. Chat with your docs, use AI Agents, hyper-configurable.
+    - id: comfyui
+      title: ComfyUi
+      image: /images/applications/others/comfyui/logo.avif
+      url: /applications/others/comfyui
+      category: others
+      description: The most powerful and modular stable diffusion GUI, API, and backend with a graph/nodes interface.
 ---
