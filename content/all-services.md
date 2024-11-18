@@ -965,12 +965,6 @@ content:
       url: /applications/cms/agencyos
       category: cms
       description: Open source operating system for digital agencies. Built with Directus and Nuxt.
-    - id: directus
-      title: Directus
-      image: /images/applications/cms/directus/logo.png
-      url: /applications/cms/directus
-      category: cms
-      description: Directus is an Open Data Platform for managing the content of any SQL database.
     - id: strapi
       title: Strapi
       image: /images/applications/cms/strapi/logo.png
@@ -1151,12 +1145,6 @@ content:
       url: /development/identity-and-access-management/zitadel
       category: identity-and-access-management
       description: Zitadel is a cloud-native Identity & Access Management platform built for the cloud era.
-    - id: agencyos
-      title: AgencyOS
-      image: /images/development/backend-as-a-service/agencyos/logo.png
-      url: /development/backend-as-a-service/agencyos
-      category: backend-as-a-service nocode-lowcode
-      description: Open source operating system for digital agencies. Built with Directus and Nuxt.
     - id: directus
       title: Directus
       image: /images/development/backend-as-a-service/directus/logo.png
