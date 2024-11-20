@@ -1223,12 +1223,6 @@ content:
       url: /development/dev-tools/stirling-pdf
       category: dev-tools
       description: Web application that allows you to perform various operations on PDF files.
-    - id: infisical
-      title: Infisical
-      image: /images/development/dev-tools/infisical/logo.png
-      url: /development/dev-tools/infisical
-      category: dev-tools
-      description: "Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks."
     - id: quickchart
       title: QuickChart
       image: /images/development/dev-tools/quickchart/logo.png
