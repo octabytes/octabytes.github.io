@@ -1595,12 +1595,6 @@ content:
       url: /development/nocode-lowcode/dify
       category: nocode-lowcode
       description: LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.
-    - id: n8n
-      title: N8N
-      image: /images/development/nocode-lowcode/n8n/logo.png
-      url: /development/nocode-lowcode/n8n
-      category: nocode-lowcode
-      description: n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.
     - id: baserow
       title: Baserow
       image: /images/development/nocode-lowcode/baserow/logo.png
