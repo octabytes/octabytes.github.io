@@ -1427,12 +1427,6 @@ content:
       url: /development/dev-ops/nomad
       category: dev-ops
       description: Nomad is a scheduler and workload orchestrator.
-    - id: minio
-      title: MinIO
-      image: /images/development/dev-ops/minio/logo.png
-      url: /development/dev-ops/minio
-      category: dev-ops
-      description: MinIO is a leader in hybrid cloud and multi-cloud object storage.
     - id: kellnr
       title: Kellnr
       image: /images/development/dev-ops/kellnr/logo.png
