@@ -1151,12 +1151,6 @@ content:
       url: /development/backend-as-a-service/directus
       category: backend-as-a-service nocode-lowcode
       description: Directus is an Open Data Platform for managing the content of any SQL database.
-    - id: strapi
-      title: Strapi
-      image: /images/development/backend-as-a-service/strapi/logo.png
-      url: /development/backend-as-a-service/strapi
-      category: backend-as-a-service
-      description: Strapi enables easy building of self-hosted, customizable, performant content API.
     - id: appwrite
       title: Appwrite
       image: /images/development/backend-as-a-service/appwrite/logo.png
