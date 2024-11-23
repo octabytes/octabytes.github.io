@@ -18,9 +18,9 @@ content:
       name: "Ghost"
       url: "/applications/cms/ghost"
 
-    - image: "/images/applications/hrms/frappehr/logo.png"
+    - image: "/images/applications/crm-erp/frappehr/logo.png"
       name: "FrappeHR"
-      url: "/applications/hrms/frappehr"
+      url: "/applications/crm-erp/frappehr"
 
     - image: "/images/applications/e-commerce/shopware/logo.png"
       name: "Shopware"
