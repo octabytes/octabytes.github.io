@@ -1059,12 +1059,6 @@ content:
       url: /applications/others/saleor
       category: others
       description: "Saleor Core: the high-performance, composable, headless commerce API."
-    - id: funkwhale
-      title: Funkwhale
-      image: /images/applications/others/funkwhale/logo.png
-      url: /applications/others/funkwhale
-      category: others
-      description: A modern, convivial, and free music audio and podcasts server on YunoHost
     - id: neko
       title: Neko Rooms
       image: /images/applications/others/neko/logo.png
