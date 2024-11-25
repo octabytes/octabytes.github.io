@@ -44,7 +44,15 @@
 
       function onFormSubmit() {
         if (cancel_subscription_form_submitted) {
-          window.location = "https://octabyte.io";
+          const message = document.getElementById("message");
+          const submitBtn = document.getElementById("submit-btn");
+
+          submitBtn.style.display = "none";
+          message.style.display = "block";
+
+          setTimeout(() => {
+            window.location = "https://octabyte.io";
+          }, 3000);
         }
       }
 
@@ -52,7 +60,11 @@
         const errorMessage = document.getElementById("error-message");
         const serviceInput = document.getElementById("service-name");
 
-        if (serviceInput.value.trim() != serviceName) {
+        errorMessage.style.display = "none";
+
+        if (
+          serviceInput.value.trim().toLowerCase() != serviceName.toLowerCase()
+        ) {
           errorMessage.style.display = "block";
           e.preventDefault();
         }
@@ -99,7 +111,11 @@
 
       <div class="mt-10">
         <p id="error-message" class="mt-2 text-sm text-red-500 hidden">
-          Please enter a valid service name.
+          Please enter a same service name to confirm.
+        </p>
+        <p id="message" class="mt-2 text-sm text-green-700">
+          Your request to cancel the subscription has been successfully sent.
+          Redirecting to octabyte.io...
         </p>
         <button
           onclick="submitForm(event)"
