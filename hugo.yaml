@@ -27,48 +27,48 @@ params:
 menus:
   main:
     - name: "350+ softwares"
-      url: "/all-services"
+      url: "/fully-managed-open-source-services"
       weight: 1
 
     - name: "Applications"
-      url: "/applications"
+      url: "/fully-managed-open-source-services/applications"
       weight: 2
 
     - name: "Databases"
-      url: "/databases"
+      url: "/fully-managed-open-source-services/databases"
       weight: 3
 
     - name: "Development"
-      url: "/development"
+      url: "/fully-managed-open-source-services/development"
       weight: 4
 
     - name: "Hosting and Infrastructure"
-      url: "/hosting-and-infrastructure"
+      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
       weight: 5
 
   buttons:
     - name: "Start free Trial"
-      url: "/all-services"
+      url: "/fully-managed-open-source-services"
 
   footer:
     - name: "350+ softwares"
-      url: "/all-services"
+      url: "/fully-managed-open-source-services"
       weight: 1
 
     - name: "Applications"
-      url: "/applications"
+      url: "/fully-managed-open-source-services/applications"
       weight: 2
 
     - name: "Databases"
-      url: "/databases"
+      url: "/fully-managed-open-source-services/databases"
       weight: 3
 
     - name: "Development"
-      url: "/development"
+      url: "/fully-managed-open-source-services/development"
       weight: 4
 
     - name: "Hosting and Infrastructure"
-      url: "/hosting-and-infrastructure"
+      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
       weight: 5
 
     - name: "How it works"
