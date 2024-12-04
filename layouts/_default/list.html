@@ -1,0 +1,204 @@
+{{ define "main" }}
+  {{ with .Params.content }}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const buttons = document.querySelectorAll("#category-buttons button");
+        const cards = document.querySelectorAll("#service-list .service-card");
+        const searchInput = document.getElementById("search-input");
+
+        function filterCards() {
+          const searchTerm = searchInput.value.toLowerCase();
+          const selectedCategory =
+            document
+              .querySelector("#category-buttons button.active")
+              ?.getAttribute("data-category") || "all";
+
+          cards.forEach((card) => {
+            const category = card.getAttribute("data-category");
+            const title = card
+              .querySelector(".title")
+              .textContent.toLowerCase();
+            const description = card
+              .querySelector(".description")
+              .textContent.toLowerCase();
+
+            const matchesCategory =
+              selectedCategory === "all" || category.includes(selectedCategory);
+            const matchesSearch =
+              title.includes(searchTerm) || description.includes(searchTerm);
+
+            if (matchesCategory && matchesSearch) {
+              card.style.display = "";
+            } else {
+              card.style.display = "none";
+            }
+          });
+        }
+
+        buttons.forEach((button) => {
+          button.addEventListener("click", function () {
+            const category = this.getAttribute("data-category");
+
+            // Remove 'bg-gradient-to-r' class from all spans
+            buttons.forEach((btn) => {
+              const span = btn.querySelector("div > span");
+              span.classList.remove("bg-gradient-to-r", "text-white");
+            });
+
+            // Add 'bg-gradient-to-r' class to the span of the clicked button
+            const activeSpan = this.querySelector("div > span");
+            activeSpan.classList.add("bg-gradient-to-r", "text-white");
+
+            // Remove 'active' class from all buttons
+            buttons.forEach((btn) => btn.classList.remove("active"));
+
+            // Add 'active' class to the clicked button
+            this.classList.add("active");
+
+            filterCards();
+          });
+        });
+
+        searchInput.addEventListener("input", filterCards);
+      });
+    </script>
+
+    <section id="{{ .id }}">
+      <div class="bg-white">
+        <div class="mx-auto max-w-7xl py-16 px-4 sm:px-6 lg:px-8">
+          <h1 class="text-3xl font-bold tracking-tight text-gray-900">
+            {{ partial "utils/highlight" .title }}
+          </h1>
+          <p class="mt-4 max-w-xl text-lg text-gray-700">
+            {{ .description }}
+          </p>
+        </div>
+      </div>
+      <div
+        id="category-buttons"
+        class="flex mx-4 sm:mx-0 flex-wrap gap-y-2 sm:gap-y-4 gap-x-2 sm:gap-x-0 isolate">
+        {{ range .categories }}
+          <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
+            <div class="-m-1 flex flex-wrap items-center">
+              <span
+                class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
+                <span>{{ .name }}</span>
+              </span>
+            </div>
+          </button>
+        {{ end }}
+
+        {{ range .service_categories }}
+          {{ range .categories }}
+            <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
+              <div class="-m-1 flex flex-wrap items-center">
+                <span
+                  class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
+                  <span>{{ .name }}</span>
+                </span>
+              </div>
+            </button>
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="isolate mx-10 mt-10">
+        <div class="mt-1 flex rounded-md shadow-sm border border-gray-300">
+          <div class="relative flex flex-grow items-stretch focus-within:z-10">
+            <div
+              class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+              <svg
+                class="h-5 w-5 text-gray-400"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="size-6">
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+              </svg>
+            </div>
+            <input
+              id="search-input"
+              type="text"
+              name="search"
+              class="block w-full rounded-none rounded-l-md border-gray-300 pl-10 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
+              placeholder="Search services..." />
+          </div>
+          <button
+            type="button"
+            class="relative -ml-px inline-flex items-center space-x-2 rounded-r-md border-l border-gray-300 bg-gray-50 px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-100 focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500">
+            <svg
+              class="h-5 w-5 text-gray-400"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="size-6">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+            </svg>
+
+            <span>Search</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="m-10">
+        <div id="service-list" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {{ range .services }}
+            <a
+              href="{{ .url }}"
+              class="service-card"
+              data-category="{{ .category }}">
+              <h2 class="sr-only">{{ .category }}</h2>
+              <div
+                class="flex flex-row flex-nowrap p-5 w-full h-full rounded-lg shadow-[0_0.375rem_1.5rem_0_rgba(68,67,68,0.1)] hover:shadow-[0_13px_53px_rgba(152,160,171,0.35)]">
+                <div class="flex justify-center">
+                  <div
+                    class="flex justify-center w-[60px] bg-center bg-no-repeat bg-contain mr-[15px] h-fit">
+                    <img src="{{ .image }}" loading="lazy" alt="{{ .title }}" />
+                  </div>
+                </div>
+
+                <div
+                  class="flex flex-col flex-nowrap flex-grow overflow-hidden text-ellipsis">
+                  <div>
+                    <div class="title text-[16px] mb-[5px] font-extrabold">
+                      {{ .title }}
+                    </div>
+                    <div
+                      class="description text-[#252525] text-[14px] leading-[1.25] text-left">
+                      {{ .description }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+      <div class="mx-auto max-w-2xl text-center">
+        <p class="mt-2 text-lg leading-8 text-gray-600">
+          Can't find your favorite open-source software in the list?
+          <a
+            class="bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent"
+            href="https://tawk.to/chat/66a4d7d832dca6db2cb67ebc/1i5b8u4d0">
+            Let us know,
+          </a>
+          and we'll gladly add it!
+          <a
+            class="bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent"
+            href="mailto:support@octabyte.io">
+            support@octabyte.io
+          </a>
+        </p>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
