@@ -1,7 +1,4 @@
 {{ define "main" }}
-  <script>
-    window.location = "{{.Params.content.website}}";
-  </script>
   <div
     class="relative isolate flex sm:flex-row flex-col gap-y-1 sm:gap-y-0 gap-x-6 overflow-hidden bg-gray-50 px-6 py-2.5 sm:px-3.5">
     <div
@@ -50,7 +47,7 @@
   </div>
   {{ $url := .Params.content.website }}
   {{ if .Params.content.proxy }}
-    {{ $url = printf "http://%s.reverse-proxy.octabyte.io" .Params.content.id }}
+    {{ $url = printf "https://%s.inbzar.com" .Params.content.id }}
   {{ end }}
   <iframe
     class="md:h-[calc(100vh-52px)] h-[calc(100vh-144px)] w-full"
