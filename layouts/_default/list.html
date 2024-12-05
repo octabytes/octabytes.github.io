@@ -1,5 +1,7 @@
 {{ define "main" }}
   {{ with .Params.content }}
+    {{ $catalog := $.Params.content.catalog }}
+    {{ $serviceCategory := $.Params.content.category }}
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         const buttons = document.querySelectorAll("#category-buttons button");
@@ -77,29 +79,33 @@
       <div
         id="category-buttons"
         class="flex mx-4 sm:mx-0 flex-wrap gap-y-2 sm:gap-y-4 gap-x-2 sm:gap-x-0 isolate">
-        {{ range .categories }}
-          <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
-            <div class="-m-1 flex flex-wrap items-center">
-              <span
-                class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
-                <span>{{ .name }}</span>
-              </span>
-            </div>
-          </button>
-        {{ end }}
-
-        {{ range .service_categories }}
-          {{ range .categories }}
-            <button data-category="{{ .id }}" class="mt-2 sm:mt-0 sm:ml-4">
-              <div class="-m-1 flex flex-wrap items-center">
-                <span
-                  class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium text-gray-900 hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white">
-                  <span>{{ .name }}</span>
-                </span>
-              </div>
-            </button>
+        {{ with $.Site.Data.services }}
+          {{ range .catalog_categories }}
+            {{ $catalogId := .id }}
+            {{ if or (eq $catalog "all") (eq $catalog $catalogId) }}
+              {{ range .categories }}
+                {{ $isActive := and $serviceCategory (eq $serviceCategory .id) }}
+                <a
+                  href="/fully-managed-open-source/{{ $catalogId }}/{{ .id }}"
+                  data-category="{{ .id }}"
+                  class="mt-2 sm:mt-0 sm:ml-4">
+                  <div class="-m-1 flex flex-wrap items-center">
+                    <span
+                      class="m-1 inline-flex items-center rounded-full border border-gray-200 bg-white py-1.5 px-3 text-sm font-medium  hover:bg-gradient-to-r from-[#ff80b5] to-[#9089fc] hover:text-white
+                        {{ if $isActive }}
+                        bg-gradient-to-r text-white
+                      {{ else }}
+                        text-gray-900
+                      {{ end }}">
+                      <span>{{ .name }}</span>
+                    </span>
+                  </div>
+                </a>
+              {{ end }}
+            {{ end }}
           {{ end }}
         {{ end }}
+
       </div>
       <div class="isolate mx-10 mt-10">
         <div class="mt-1 flex rounded-md shadow-sm border border-gray-300">
@@ -151,35 +157,47 @@
 
       <div class="m-10">
         <div id="service-list" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {{ range .services }}
-            <a
-              href="{{ .url }}"
-              class="service-card"
-              data-category="{{ .category }}">
-              <h2 class="sr-only">{{ .category }}</h2>
-              <div
-                class="flex flex-row flex-nowrap p-5 w-full h-full rounded-lg shadow-[0_0.375rem_1.5rem_0_rgba(68,67,68,0.1)] hover:shadow-[0_13px_53px_rgba(152,160,171,0.35)]">
-                <div class="flex justify-center">
-                  <div
-                    class="flex justify-center w-[60px] bg-center bg-no-repeat bg-contain mr-[15px] h-fit">
-                    <img src="{{ .image }}" loading="lazy" alt="{{ .title }}" />
-                  </div>
-                </div>
+          {{ with $.Site.Data.services }}
+            {{ range .catalog_list }}
+              {{ if or (eq $catalog "all") (eq $catalog .id) }}
+                {{ range .services }}
+                  {{ if or (not $serviceCategory) (in .category $serviceCategory) }}
+                    <a
+                      href="{{ .url }}"
+                      class="service-card"
+                      data-category="{{ .category }}">
+                      <h2 class="sr-only">{{ .category }}</h2>
+                      <div
+                        class="flex flex-row flex-nowrap p-5 w-full h-full rounded-lg shadow-[0_0.375rem_1.5rem_0_rgba(68,67,68,0.1)] hover:shadow-[0_13px_53px_rgba(152,160,171,0.35)]">
+                        <div class="flex justify-center">
+                          <div
+                            class="flex justify-center w-[60px] bg-center bg-no-repeat bg-contain mr-[15px] h-fit">
+                            <img
+                              src="{{ .image }}"
+                              loading="lazy"
+                              alt="{{ .title }}" />
+                          </div>
+                        </div>
 
-                <div
-                  class="flex flex-col flex-nowrap flex-grow overflow-hidden text-ellipsis">
-                  <div>
-                    <div class="title text-[16px] mb-[5px] font-extrabold">
-                      {{ .title }}
-                    </div>
-                    <div
-                      class="description text-[#252525] text-[14px] leading-[1.25] text-left">
-                      {{ .description }}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </a>
+                        <div
+                          class="flex flex-col flex-nowrap flex-grow overflow-hidden text-ellipsis">
+                          <div>
+                            <div
+                              class="title text-[16px] mb-[5px] font-extrabold">
+                              {{ .title }}
+                            </div>
+                            <div
+                              class="description text-[#252525] text-[14px] leading-[1.25] text-left">
+                              {{ .description }}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
           {{ end }}
         </div>
       </div>
