@@ -3,7 +3,7 @@ draft: false
 title: "NoSQL - Fully managed open-source catalog | OctaByte.io"
 
 content:
-  id: "databases-nosql"
+  id: "nosql"
   title: "'NoSQL'"
   catalog: databases
   category: nosql

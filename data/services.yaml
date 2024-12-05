@@ -11,8 +11,6 @@ catalog_categories:
         name: NoSQL
       - id: specialized-databases
         name: Specialized Databases
-      - id: others
-        name: Other Databases
   - name: Applications
     id: applications
     categories:
@@ -56,8 +54,6 @@ catalog_categories:
         name: Automation
       - id: hcm
         name: HCM
-      - id: cmms
-        name: CMMS
       - id: hrms
         name: HRMS
       - id: others
@@ -93,8 +89,6 @@ catalog_categories:
         name: Containers
       - id: infrastructure
         name: Infrastructure
-      - id: others
-        name: Other Hosting and Infrastructure
 
 catalog_list:
   - name: Databases

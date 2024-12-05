@@ -50,8 +50,6 @@ content:
       name: Automation
     - id: hcm
       name: HCM
-    - id: cmms
-      name: CMMS
     - id: hrms
       name: HRMS
     - id: others
