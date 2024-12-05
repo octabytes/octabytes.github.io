@@ -86,7 +86,7 @@
               {{ range .categories }}
                 {{ $isActive := and $serviceCategory (eq $serviceCategory .id) }}
                 <a
-                  href="/fully-managed-open-source/{{ $catalogId }}/{{ .id }}"
+                  href="/fully-managed-open-source-services/{{ $catalogId }}/{{ .id }}"
                   data-category="{{ .id }}"
                   class="mt-2 sm:mt-0 sm:ml-4">
                   <div class="-m-1 flex flex-wrap items-center">
