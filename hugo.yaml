@@ -27,48 +27,48 @@ params:
 menus:
   main:
     - name: "350+ softwares"
-      url: "/fully-managed-open-source-services"
+      url: "/fully-managed-open-source"
       weight: 1
 
     - name: "Applications"
-      url: "/fully-managed-open-source-services/applications"
+      url: "/fully-managed-open-source/applications"
       weight: 2
 
     - name: "Databases"
-      url: "/fully-managed-open-source-services/databases"
+      url: "/fully-managed-open-source/databases"
       weight: 3
 
     - name: "Development"
-      url: "/fully-managed-open-source-services/development"
+      url: "/fully-managed-open-source/development"
       weight: 4
 
     - name: "Hosting and Infrastructure"
-      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
+      url: "/fully-managed-open-source/hosting-and-infrastructure"
       weight: 5
 
   buttons:
     - name: "Start free Trial"
-      url: "/fully-managed-open-source-services"
+      url: "/fully-managed-open-source"
 
   footer:
     - name: "350+ softwares"
-      url: "/fully-managed-open-source-services"
+      url: "/fully-managed-open-source"
       weight: 1
 
     - name: "Applications"
-      url: "/fully-managed-open-source-services/applications"
+      url: "/fully-managed-open-source/applications"
       weight: 2
 
     - name: "Databases"
-      url: "/fully-managed-open-source-services/databases"
+      url: "/fully-managed-open-source/databases"
       weight: 3
 
     - name: "Development"
-      url: "/fully-managed-open-source-services/development"
+      url: "/fully-managed-open-source/development"
       weight: 4
 
     - name: "Hosting and Infrastructure"
-      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
+      url: "/fully-managed-open-source/hosting-and-infrastructure"
       weight: 5
 
     - name: "How it works"
