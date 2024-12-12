@@ -1,0 +1,238 @@
+---
+title: "Welcome to OctaByte.io"
+description: "Effortlessly deploy and manage open-source software."
+
+hero:
+  title: "'Fully managed' platform to deploy your favorite 'open-source' applications just for '$9'"
+  description: Seamlessly deploy and manage open-source software with our fully managed platform, simplifying the entire process for you.
+
+  buttonPrimary:
+    label: Start free Trial
+    url: /all-services
+
+  buttonSecondary:
+    label: Top softwares
+    url: /applications
+
+top_applications:
+  title: "'Top' softwares"
+  description: Deploy any of 350+ supported software in just minutes, with peace of mind knowing we handle installation, configuration, encryption, backups, software and OS updates, live monitoring, and more!
+
+  button:
+    label: View all 350+ softwares
+    link: /all-services
+
+  services:
+    - image: "/images/applications/live-chat/chatwoot/logo.png"
+      name: "Chatwoot"
+      url: "/applications/live-chat/chatwoot"
+
+    - image: "/images/applications/cms/ghost/logo.png"
+      name: "Ghost"
+      url: "/applications/cms/ghost"
+
+    - image: "/images/applications/crm-erp/frappehr/logo.png"
+      name: "FrappeHR"
+      url: "/applications/crm-erp/frappehr"
+
+    - image: "/images/applications/e-commerce/shopware/logo.png"
+      name: "Shopware"
+      url: "/applications/e-commerce/shopware"
+
+    - image: "/images/applications/cms/directus/logo.png"
+      name: "Directus"
+      url: "/applications/cms/directus"
+
+    - image: "/images/applications/crm-erp/odoo/logo.png"
+      name: "Odoo ERP & CRM"
+      url: "/applications/crm-erp/odoo"
+
+    - image: "/images/applications/calendar/cal/logo.png"
+      name: "Cal"
+      url: "/applications/calendar/cal"
+
+    - image: "/images/applications/invoicing-and-payments/crater/logo.png"
+      name: "Crater"
+      url: "/applications/invoicing-and-payments/crater"
+
+    - image: "/images/applications/documentation/papermerge/logo.png"
+      name: "Papermerge"
+      url: "/applications/documentation/papermerge"
+
+    - image: "/images/applications/crm-erp/invoiceninja/logo.png"
+      name: "InvoiceNinja"
+      url: "/applications/crm-erp/invoiceninja"
+
+    - image: "/images/applications/crm-erp/dolibarr/logo.png"
+      name: "Dolibarr"
+      url: "/applications/crm-erp/dolibarr"
+
+    - image: "/images/applications/note-taking/vikunja/logo.png"
+      name: "Vikunja"
+      url: "/applications/note-taking/vikunja"
+
+    - image: "/images/applications/project-management/plane/logo.png"
+      name: "Plane"
+      url: "/applications/project-management/plane"
+
+    - image: "/images/applications/search/meilisearch/logo.png"
+      name: "MeiliSearch"
+      url: "/applications/search/meilisearch"
+
+    - image: "/images/applications/product-feedback/limesurvey/logo.png"
+      name: "LimeSurvey"
+      url: "/applications/product-feedback/limesurvey"
+
+    - image: "/images/applications/forum-community/mastodon/logo.png"
+      name: "Mastodon"
+      url: "/applications/forum-community/mastodon"
+
+    - image: "/images/applications/business-intelligence/superset/logo.png"
+      name: "Superset"
+      url: "/applications/business-intelligence/superset"
+
+    - image: "/images/applications/password-manager/vaultwarden/logo.png"
+      name: "Vaultwarden"
+      url: "/applications/password-manager/vaultwarden"
+
+    - image: "/images/applications/analytics/umami/logo.png"
+      name: "Umami"
+      url: "/applications/analytics/umami"
+
+    - image: "/images/applications/e-commerce/prestashop/logo.png"
+      name: "Prestashop"
+      url: "/applications/e-commerce/prestashop"
+
+    - image: "/images/applications/customer-support/freescout/logo.png"
+      name: "FreeScout"
+      url: "/applications/customer-support/freescout"
+
+    - image: "/images/applications/fediverse/pixelfed/logo.png"
+      name: "Pixelfed"
+      url: "/applications/fediverse/pixelfed"
+
+    - image: "/images/applications/documentation/bookstack/logo.png"
+      name: "BookStack"
+      url: "/applications/documentation/bookstack"
+
+    - image: "/images/applications/hcm/minthcm/logo.png"
+      name: "MintHCM"
+      url: "/applications/hcm/minthcm"
+
+features:
+  title: "Quick Deployment of 'Open-Source' Software"
+  description: "Get started with your chosen open-source software in minutes, as we handle all aspects of deployment and management."
+
+  features:
+    - title: "Simple no-tricks pricing"
+      description: "Enjoy clear and simple pricing with no surprises. We believe in honesty, so you’ll always know exactly what you’re paying for—no hidden costs or tricky fine print."
+      icon: "banknotes"
+
+    - title: "No vendor lock-in"
+      description: "We offer complete flexibility—there’s no vendor lock-in. You’re free to move your data and services as you please, without facing costly penalties or restrictions."
+      icon: "lock-open"
+
+    - title: "Automated Updates"
+      description: "Our platform automatically handles updates ensuring that your services are always secure, stable, and running the latest features—without you lifting a finger."
+      icon: "arrow-path"
+
+    - title: "Encrypted Everything"
+      description: "From data in transit to data at rest, everything is encrypted. We prioritize your privacy and security, ensuring that your sensitive information is always safe from unauthorized access."
+      icon: "shield-check"
+
+pricing:
+  title: Choose the right plan for you
+  description: Choose from flexible plans designed to fit your needs, with no hidden fees or surprises—just straightforward pricing for seamless open-source software management.
+  plans:
+    - name: Startup
+      price: 9
+      description: Perfect for individuals or small teams getting started.
+      features:
+        - name: CPU
+          value: 1
+        - name: RAM
+          value: 2 GB
+        - name: Storage
+          value: 20 GB SSD
+        - name: Backup
+          value: no
+        - name: Server Access
+          value: no
+        - name: Customization
+          value: no
+        - name: Dedicated for App
+          value: Shared
+        - name: Number of Apps
+          value: 1
+
+    - name: Professional
+      price: 15
+      description: Designed for growing teams or businesses. Offers increased performance and added features like backup management for peace of mind.
+      features:
+        - name: CPU
+          value: 2
+        - name: RAM
+          value: 4 GB
+        - name: Storage
+          value: 40 GB SSD
+        - name: Backup
+          value: 7 days
+        - name: Server Access
+          value: yes
+        - name: Customization
+          value: yes
+        - name: Dedicated for App
+          value: yes
+        - name: Number of Apps
+          value: 1
+
+    - name: Business
+      price: 28
+      description: Ideal for larger businesses requiring enhanced capabilities. Provides robust resources and advanced management to handle demanding workloads.
+      features:
+        - name: CPU
+          value: 4
+        - name: RAM
+          value: 8 GB
+        - name: Storage
+          value: 80 GB SSD
+        - name: Backup
+          value: 7 days
+        - name: Server Access
+          value: yes
+        - name: Customization
+          value: yes
+        - name: Dedicated for App
+          value: yes
+        - name: Number of Apps
+          value: 4
+
+    - name: Enterprise
+      price: 65
+      description: Tailored for organizations with high-performance needs. Delivers top-tier resources.
+      features:
+        - name: CPU
+          value: 8
+        - name: RAM
+          value: 16 GB
+        - name: Storage
+          value: 160 GB SSD
+        - name: Backup
+          value: 7 days
+        - name: Server Access
+          value: yes
+        - name: Customization
+          value: yes
+        - name: Dedicated for App
+          value: yes
+        - name: Number of Apps
+          value: 10
+
+cta:
+  title: "Start using your favorite 'open-source' app today"
+  description: Easily deploy and manage your preferred open-source applications with just a few clicks.
+
+  button:
+    label: Browse all softwares
+    url: /all-services
+---

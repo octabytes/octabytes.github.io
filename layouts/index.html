@@ -1,25 +1,18 @@
 {{ define "main" }}
-  <!-- Hero Section -->
-  {{ with .Site.Data.home.hero }}
-    {{ partial "sections/hero" . }}
-  {{ end }}
-
-
-  <!-- Softwares Logo -->
-  {{ with .Site.Data.home.top_applications }}
-    {{ partial "sections/top-applications" . }}
-  {{ end }}
-
-
+{{ partial "home/hero" .Params.hero }}
+{{ partial "home/top-applications" .Params.top_applications}}
+{{ partial "home/features" .Params.features }}
+{{ partial "home/pricing" .Params.pricing }}
+{{ partial "home/cta" .Params.cta }}
   <!-- Features Section -->
-  {{ with .Site.Data.home.features }}
+  {{/*  {{ with .Site.Data.home.features }}
     {{ partial "sections/features" . }}
-  {{ end }}
+  {{ end }}  */}}
 
 
   <!-- CTA -->
-  {{ with .Site.Data.home.cta }}
+  {{/*  {{ with .Site.Data.home.cta }}
     {{ partial "sections/cta" . }}
-  {{ end }}
+  {{ end }}  */}}
 
 {{ end }}

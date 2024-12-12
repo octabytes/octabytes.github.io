@@ -19,17 +19,11 @@ params:
 
   social:
     facebook: "https://www.facebook.com/octabyte.io/"
-    instagram: "https://www.instagram.com/octabyte_io"
     twitter: "https://x.com/octabyte_io"
     linkedin: "https://www.linkedin.com/company/octabyte-io"
-    github: "https://github.com/octabytes"
 
 menus:
   main:
-    - name: "350+ softwares"
-      url: "/fully-managed-open-source-services"
-      weight: 1
-
     - name: "Applications"
       url: "/fully-managed-open-source-services/applications"
       weight: 2
@@ -47,7 +41,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Start free Trial"
+    - name: "All softwares"
       url: "/fully-managed-open-source-services"
 
   footer:
