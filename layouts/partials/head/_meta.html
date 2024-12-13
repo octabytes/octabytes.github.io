@@ -37,7 +37,10 @@
       "{{ .Site.Params.social.linkedin }}"
     ]
   }
-</script><script type="application/ld+json">
+</script>
+
+<!-- WebPage -->
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
@@ -54,3 +57,24 @@
     }
   }
 </script>
+
+<!-- Breadcrumb  -->
+{{ if .Params.meta.breadcrumb }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{ $breadcrumbLength := len .Params.meta.breadcrumb }}
+      {{ range $index, $breadcrumb := .Params.meta.breadcrumb }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $index 1 }},
+          "name": "{{ $breadcrumb.name }}",
+          "item": "{{ $breadcrumb.url | absURL }}"
+        }{{ if ne (add $index 1) $breadcrumbLength }},{{ end }}
+      {{ end }}
+    ]
+  }
+  </script>
+{{ end }}
