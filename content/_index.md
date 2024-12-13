@@ -1,6 +1,10 @@
 ---
-title: "Welcome to OctaByte.io"
-description: "Effortlessly deploy and manage open-source software."
+title: "OctaByte - Fully Managed Open-Source Software Hosting"
+
+meta:
+  cover: /images/cover.png
+  description: Effortlessly deploy, manage, and scale over 350+ open-source applications with OctaByte. Enjoy reliable hosting, automated updates, backups, and dedicated support for all your software needs.
+  keywords: OctaByte, managed open-source hosting, open-source software management, deploy open-source apps, automated updates, secure hosting, cloud hosting for open-source apps, managed services for software, OctaByte hosting solutions.
 
 hero:
   title: "'Fully managed' platform to deploy your favorite 'open-source' applications just for '$9'"
@@ -205,7 +209,7 @@ pricing:
         - name: Dedicated for App
           value: yes
         - name: Number of Apps
-          value: 4
+          value: up to 4
 
     - name: Enterprise
       price: 65
@@ -226,7 +230,7 @@ pricing:
         - name: Dedicated for App
           value: yes
         - name: Number of Apps
-          value: 10
+          value: up to 10
 
 cta:
   title: "Start using your favorite 'open-source' app today"
@@ -235,4 +239,20 @@ cta:
   button:
     label: Browse all softwares
     url: /all-services
+
+faq:
+  - question: Can I access my server and make customizations?
+    answer: Yes, you can access your server and customize it as needed. However, this option is not available in the Startup plan. For other plans, we provide an SSH key on request, allowing you to securely access your server.
+
+  - question: Is my server dedicated only to my app?
+    answer: Yes, your server is dedicated to your app. However, in the Startup plan, the server is shared, meaning its resources are also used by neighboring apps.
+
+  - question: Can I install more than one app on a single server?
+    answer: Yes, you can install up to 4 apps on the Business plan and up to 10 apps on the Enterprise plan. In the Startup and Professional plans, only one app can be installed per server.
+
+  - question: Can I upgrade my server later?
+    answer: Yes, you can upgrade your server at any time without any data loss.
+
+  - question: Can I get custom server specifications?
+    answer: Yes, we offer customizable server specifications tailored to your requirements. Simply contact our support team and share your needs with them.
 ---

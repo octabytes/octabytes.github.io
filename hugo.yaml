@@ -6,9 +6,8 @@ title: "OctaByte"
 googleAnalytics: "G-TST1VKBPZE"
 
 params:
-  title: "OctaByte: Fully Managed Open source"
-  description: "Deploy 350+ open-source softwares. We handle setup, config, encryption, backups, updates, monitoring &amp; more!"
-  keywords: "octabyte, DevOps, open source, deployment, open source applications"
+  description: Effortlessly deploy, manage, and scale over 350+ open-source applications with OctaByte. Enjoy reliable hosting, automated updates, backups, and dedicated support for all your software needs.
+  keywords: OctaByte, managed open-source hosting, open-source software management, deploy open-source apps, automated updates, secure hosting, cloud hosting for open-source apps, managed services for software, OctaByte hosting solutions.
 
   logo: "/images/logo.png"
   favicon: "/images/favicon.ico"

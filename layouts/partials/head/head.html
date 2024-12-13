@@ -1,13 +1,6 @@
-<!-- Title -->
-{{ partial "head/_title" . }}
-
-
-<!-- Meta -->
+<!-- Title and Meta -->
 {{ partial "head/_meta" . }}
 
-
-<!-- Favicon -->
-<link rel="icon" href="{{ .Site.Params.favicon }}" />
 
 <!-- Stylesheets and Javascript -->
 {{ partialCached "head/_resources" . }}
