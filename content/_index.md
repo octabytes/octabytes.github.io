@@ -18,6 +18,143 @@ hero:
     label: Top softwares
     url: /applications
 
+top_softwares:
+  - id: applications
+    direction: right
+    title: "Top 'applications'"
+    description: Deploy any of 350+ supported software in just minutes, with peace of mind knowing we handle installation, configuration, encryption, backups, software and OS updates, live monitoring, and more!
+
+    button:
+      label: View all applications
+      url: /fully-managed-open-source-services/applications
+
+    softwares:
+      - image: "/images/applications/live-chat/typebot/logo.png"
+        name: "Typebot"
+        url: "/fully-managed-open-source-services/applications/live-chat/typebot"
+
+      - image: "/images/applications/automation/n8n/logo.png"
+        name: "N8N"
+        url: "/fully-managed-open-source-services/applications/automation/n8n"
+
+      - image: "/images/applications/cms/directus/logo.png"
+        name: "Directus"
+        url: "/fully-managed-open-source-services/applications/cms/directus"
+
+      - image: "/images/applications/business-intelligence/superset/logo.png"
+        name: "Directus"
+        url: "/fully-managed-open-source-services/applications/business-intelligence/superset"
+
+      - image: "/images/applications/documentation/bookstack/logo.png"
+        name: "Directus"
+        url: "/fully-managed-open-source-services/applications/documentation/bookstack"
+
+      - image: "/images/applications/project-management/taiga/logo.png"
+        name: "Taiga"
+        url: "/fully-managed-open-source-services/applications/project-management/taiga"
+
+  - id: development
+    direction: left
+    title: "Top 'development'"
+    description: ""
+
+    button:
+      label: View all development
+      url: /fully-managed-open-source-services/development
+
+    softwares:
+      - image: "/images/development/identity-and-access-management/keycloak/logo.png"
+        name: "Keycloak"
+        url: "/fully-managed-open-source-services/development/identity-and-access-management/keycloak"
+
+      - image: "/images/development/backend-as-a-service/appwrite/logo.png"
+        name: "Appwrite"
+        url: "/fully-managed-open-source-services/development/backend-as-a-service/appwrite"
+
+      - image: "/images/development/backend-as-a-service/supabase/logo.png"
+        name: "Supabase"
+        url: "/fully-managed-open-source-services/development/backend-as-a-service/supabase"
+
+      - image: "/images/development/backend-as-a-service/strapi/logo.png"
+        name: "Strapi"
+        url: "/fully-managed-open-source-services/development/backend-as-a-service/strapi"
+
+      - image: "/images/development/nocode-lowcode/appsmith/logo.png"
+        name: "Appsmith"
+        url: "/fully-managed-open-source-services/development/nocode-lowcode/appsmith"
+
+      - image: "/images/development/nocode-lowcode/baserow/logo.png"
+        name: "Baserow"
+        url: "/fully-managed-open-source-services/development/nocode-lowcode/baserow"
+
+  - id: database
+    direction: right
+    title: "Top 'database'"
+    description: ""
+
+    button:
+      label: View all databases
+      url: /fully-managed-open-source-services/databases
+
+    softwares:
+      - image: "/images/databases/relational-databases/postgresql/logo.png"
+        name: "PostgreSQL"
+        url: "/fully-managed-open-source-services/databases/relational-databases/postgresql"
+
+      - image: "/images/databases/relational-databases/mysql/logo.png"
+        name: "MySQL"
+        url: "/fully-managed-open-source-services/databases/relational-databases/mysql"
+
+      - image: "/images/databases/relational-databases/timescaledb/logo.png"
+        name: "TimescaleDB"
+        url: "/fully-managed-open-source-services/databases/relational-databases/timescaledb"
+
+      - image: "/images/databases/specialized-databases/surrealdb/logo.png"
+        name: "SurrealDB"
+        url: "/fully-managed-open-source-services/databases/specialized-databases/surrealdb"
+
+      - image: "/images/databases/specialized-databases/chromadb/logo.png"
+        name: "ChromaDB"
+        url: "/fully-managed-open-source-services/databases/specialized-databases/chromadb"
+
+      - image: "/images/databases/specialized-databases/influxdb/logo.png"
+        name: "InfluxDB"
+        url: "/fully-managed-open-source-services/databases/specialized-databases/influxdb"
+
+  - id: hosting-and-infrastructure
+    direction: left
+    title: "Top 'Hosting and Infrastructure'"
+    description: ""
+
+    button:
+      label: View all hosting and infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+
+    softwares:
+      - image: "/images/hosting-and-infrastructure/storage/paperless-ngx/logo.png"
+        name: "Paperless-ngx"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/storage/paperless-ngx"
+
+      - image: "/images/hosting-and-infrastructure/storage/nextcloud/logo.png"
+        name: "NextCloud"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/storage/nextcloud"
+
+      - image: "/images/hosting-and-infrastructure/storage/minio/logo.png"
+        name: "MinIO"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/storage/minio"
+
+      - image: "/images/hosting-and-infrastructure/monitoring/grafana/logo.png"
+        name: "Grafana"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/monitoring/grafana"
+
+      - image: "/images/hosting-and-infrastructure/infrastructure/squid/logo.png"
+        name: "Squid"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/squid"
+
+      - image: "/images/hosting-and-infrastructure/infrastructure/localstack/logo.png"
+        name: "LocalStack"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/localstack"
+
 top_applications:
   title: "'Top' softwares"
   description: Deploy any of 350+ supported software in just minutes, with peace of mind knowing we handle installation, configuration, encryption, backups, software and OS updates, live monitoring, and more!

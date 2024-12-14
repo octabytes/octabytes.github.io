@@ -1,0 +1,51 @@
+{{ range . }}
+  {{ $grid1 := "order-first" }}
+  {{ $grid2 := "order-last" }}
+  {{ if eq .direction "left" }}
+    {{ $grid1 = "order-last" }}
+    {{ $grid2 = "order-first" }}
+  {{ end }}
+  <div id="{{ .id }}" class="relative">
+    <div class="mx-auto max-w-7xl py-12 px-6 lg:py-16 lg:px-8">
+      <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-8">
+        <div class="{{ $grid1 }}">
+          <h2
+            class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            {{ partial "utils/highlight" .title }}
+          </h2>
+          <p class="mt-3 max-w-3xl text-lg text-gray-500">
+            {{ .description }}
+          </p>
+          <div class="mt-8 sm:flex">
+            <a
+              href="{{ .button.url }}"
+              class="rounded-md bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+              {{ .button.label }}
+            </a>
+          </div>
+        </div>
+        <div
+          class="mt-8 justify-center flex flex-wrap gap-2 lg:mt-0 {{ $grid2 }}">
+          {{ range .softwares }}
+            <a
+              href="{{ .url }}"
+              class="rounded-lg min-h-[126px] max-w-[126px] mx-2 w-full flex flex-col justify-center items-center bg-white text-center border-none shadow-[0_0.375rem_1.5rem_0_rgba(68,67,68,0.05)]">
+              <div
+                class="w-[56px] h-[56px] inline-flex items-center justify-center mb-2">
+                <img
+                  width="96"
+                  height="96"
+                  src="{{ .image }}"
+                  alt="{{ .name }}" />
+              </div>
+              <h4
+                class="m-0 font-semibold text-[16px] leading-[1.375] text-[#34435b] break-words max-w-[95%]">
+                {{ .name }}
+              </h4>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
