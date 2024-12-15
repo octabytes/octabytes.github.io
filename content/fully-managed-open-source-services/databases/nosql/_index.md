@@ -12,8 +12,8 @@ meta:
       url: /fully-managed-open-source-services
 
 content:
-  title: "'Fully managed open-source services'"
-  catalog: all
-  category: all
+  title: "'NoSQL'"
+  catalog: databases
+  category: nosql
   description: Discover a comprehensive catalog of over 350 open-source software applications across categories like Databases, Applications, Development, and Hosting Infrastructure. OctaByte offers fully managed deployment, hosting, and maintenance for CRM, ERP, CMS, e-commerce, project management tools, and more. Effortlessly find and deploy the software that meets your needs, complete with reliable backups, security, and updates.
 ---
