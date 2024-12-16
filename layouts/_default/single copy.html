@@ -1,0 +1,205 @@
+{{ define "main" }}
+  {{ $url := .Params.content.iframe_website }}
+  {{ if .Params.content.direct_link }}
+    {{ $url = .Params.content.website }}
+  {{ end }}
+  <section>
+    <div class="p-4 mt-10 w-full">
+      <div class="w-full grid gap-16 items-center sm:grid-cols-[1fr_1.3fr]">
+        <div>
+          <div class="flex items-center gap-5">
+            <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
+              <img
+                src="{{ .Params.content.logo }}"
+                alt="{{ .Title }} logo"
+                style="width: 90px; aspect-ratio: 1; object-fit: contain" />
+            </div>
+
+            <h1 class="text-xl font-extrabold">
+              <span
+                class="text-4xl bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
+                {{ .Params.content.name }}
+              </span>
+              <br />
+              fully managed by OctaByte
+            </h1>
+          </div>
+
+          <div class="ml-4">
+            <p class="mt-2 text-base">
+              {{ .Params.content.description }}
+            </p>
+            <p class="mt-4">
+              Start free {{ .Params.content.name }} trial with OctaByte. Simple
+              no-tricks Pricing, Scalable &amp; Secure, just in
+              <span
+                class="bg-gradient-to-r font-extrabold from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
+                $9.
+              </span>
+            </p>
+            <div class="flex items-center justify-start gap-3 my-5 flex-wrap">
+              <a
+                href="/start-trial?service={{ .Params.content.name }}"
+                class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                Start Free Trial
+              </a>
+
+              <a
+                href="{{ $url }}"
+                target="_blank"
+                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+                {{ .Params.content.name }} website
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
+          <div
+            class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
+          <img
+            src="{{ .Params.content.dashboardImage }}"
+            alt="{{ .Params.content.name }} dashboard"
+            width="100%" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:text-center">
+        <h2
+          class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          Benefits of {{ .Params.content.name }} fully managed by
+          <span
+            class="bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
+            OctaByte
+          </span>
+        </h2>
+        <p class="mt-6 text-lg leading-8 text-gray-600">
+          Deploy a fully managed instance of
+          <a class="font-extrabold" href="{{ $url }}" target="_blank">
+            {{ .Params.content.name }}
+          </a>
+
+          in just
+          <span class="font-extrabold">$9.</span>
+          You can relax knowing that we are taking care of installation,
+          configuration, encryption, security, backups, live monitoring,
+          software & OS updates.
+        </p>
+      </div>
+      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+        <dl
+          class="grid max-w-xl grid-cols-1 gap-y-10 gap-x-8 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+          {{ range .Site.Data.home.features.content.features }}
+            <div class="relative pl-16">
+              <dt class="text-base font-semibold leading-7 text-gray-900">
+                <div
+                  class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-r from-[#ff80b5] to-[#9089fc]">
+                  {{ partial "utils/icon" (dict "name" .icon "class" "h-6 w-6 text-white") }}
+                </div>
+                {{ .title }}
+              </dt>
+              <dd class="mt-2 text-base leading-7 text-gray-600">
+                {{ .description }}
+              </dd>
+            </div>
+          {{ end }}
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:text-center">
+        <h2
+          class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          {{ .Params.content.name }} screenshots
+        </h2>
+      </div>
+      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+        <div class="flex flex-col gap-12">
+          {{ range .Params.content.screenshots }}
+            <div
+              class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
+              <div
+                class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
+              <img src="{{ . }}" alt="{{ $.Title }} screenshot" width="100%" />
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="features" class="bg-white py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:text-center">
+        <h2
+          class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          {{ .Params.content.name }} features Highlight
+        </h2>
+      </div>
+      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+        <dl
+          class="grid max-w-xl grid-cols-1 gap-y-10 gap-x-8 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+          {{ range .Params.content.features }}
+            <div class="relative">
+              <dt class="text-base font-semibold leading-7 text-gray-900">
+                {{ .title }}
+              </dt>
+              <dd class="mt-2 text-base leading-7 text-gray-600">
+                {{ .description }}
+              </dd>
+            </div>
+          {{ end }}
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="relative isolate overflow-hidden bg-gray-900">
+    <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-4xl font-bold tracking-tight text-white">
+          Start your {{ .Params.content.name }} trial now!
+        </h2>
+        <div class="mt-10 flex items-center justify-center gap-x-6">
+          <a
+            href="/start-trial?service={{ .Params.content.name }}"
+            class="rounded-md bg-white px-3.5 py-1.5 text-base font-semibold leading-7 text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">
+            Get Started Free Trial
+          </a>
+        </div>
+      </div>
+    </div>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
+      class="absolute top-1/2 left-1/2 -z-10 h-[64rem] w-[64rem] -translate-x-1/2"
+      aria-hidden="true">
+      <circle
+        cx="512"
+        cy="512"
+        r="512"
+        fill="url(#8d958450-c69f-4251-94bc-4e091a323369)"
+        fill-opacity="0.7" />
+      <defs>
+        <radialGradient
+          id="8d958450-c69f-4251-94bc-4e091a323369"
+          cx="0"
+          cy="0"
+          r="1"
+          gradientUnits="userSpaceOnUse"
+          gradientTransform="translate(512 512) rotate(90) scale(512)">
+          <stop stop-color="#7775D6"></stop>
+          <stop offset="1" stop-color="#E935C1" stop-opacity="0"></stop>
+        </radialGradient>
+      </defs>
+    </svg>
+  </section>
+{{ end }}
