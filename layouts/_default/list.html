@@ -47,6 +47,60 @@
           </nav>
         </div>
 
+        <script>
+          const allSoftwares = JSON.parse({{ .Site.Data.services.catalog_list | jsonify }});
+
+          document.addEventListener("DOMContentLoaded", () => {
+            const searchInput = document.getElementById("search-input");
+            const searchResults = document.getElementById("search-results");
+
+            searchInput.addEventListener("input", (e) => {
+              const query = e.target.value.toLowerCase().trim();
+              const results = [];
+
+              if (query) {
+                allSoftwares.forEach(category => {
+                  category.services.forEach(service => {
+                    if (
+                      service.title.toLowerCase().includes(query) ||
+                      service.description.toLowerCase().includes(query)
+                    ) {
+                      results.push(service);
+                    }
+                  });
+                });
+              }
+
+              renderResults(results);
+            });
+
+            const renderResults = (results) => {
+              searchResults.innerHTML = "";
+              if (results.length === 0) {
+                searchResults.classList.add("hidden");
+                return;
+              }
+
+              results.forEach(service => {
+                const resultItem = document.createElement("a");
+                resultItem.href = `/fully-managed-open-source-services${service.url}`;
+                resultItem.className =
+                  "block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100";
+                resultItem.innerHTML = `
+                  <div class="flex items-center space-x-3">
+                    <img src="${service.image}" alt="${service.title}" class="w-6 h-6 rounded-md" />
+                    <div>
+                      <p class="font-medium">${service.title}</p>
+                      <p class="text-xs text-gray-500">${service.description}</p>
+                    </div>
+                  </div>`;
+                searchResults.appendChild(resultItem);
+              });
+
+              searchResults.classList.remove("hidden");
+            };
+          });
+        </script>
         <div class="pt-2 grid gap-x-8 grid-cols-1 lg:grid-cols-4">
           <div></div>
           <div class="lg:col-span-3">
@@ -75,6 +129,10 @@
                   name="search"
                   class="block w-full rounded-none rounded-l-md border-gray-300 pl-10 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
                   placeholder="Search softwares..." />
+
+                <div
+                  id="search-results"
+                  class="absolute z-10 mt-9 w-full bg-white border border-gray-300 rounded-l-md shadow-lg hidden"></div>
               </div>
               <button
                 type="button"
