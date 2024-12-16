@@ -10,6 +10,8 @@ meta:
       url: /
     - name: Fully managed Open-Source Services
       url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
 
 content:
   title: "'Databases'"

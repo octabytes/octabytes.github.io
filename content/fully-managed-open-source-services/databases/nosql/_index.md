@@ -10,6 +10,10 @@ meta:
       url: /
     - name: Fully managed Open-Source Services
       url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
 
 content:
   title: "'NoSQL'"
