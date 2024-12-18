@@ -11,10 +11,12 @@ params:
 
   logo: "/images/logo.png"
   favicon: "/images/favicon.ico"
+  cover: "/images/cover.png"
 
   copyright: "2024 OctaByte. All rights reserved."
 
   liveChat: false
+  email: support@octabyte.io
 
   social:
     facebook: "https://www.facebook.com/octabyte.io/"

@@ -11,35 +11,23 @@
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Params.meta.description }}" />
-<meta property="og:image" content="{{ .Params.meta.cover | absURL }}" />
+<meta
+  property="og:image"
+  content="{{ .Params.meta.cover | default .Site.Params.cover | absURL }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ .Params.meta.description }}" />
-<meta name="twitter:image" content="{{ .Params.meta.cover | absURL }}" />
+<meta
+  name="twitter:image"
+  content="{{ .Params.meta.cover | default .Site.Params.cover | absURL }}" />
 <meta name="twitter:site" content="@octabyte_io" />
 
 <link rel="canonical" href="{{ .Permalink }}" />
 <link rel="icon" href="{{ .Site.Params.favicon }}" />
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": "{{ .Site.Params.logo | absURL }}",
-    "sameAs": [
-      "{{ .Site.Params.social.facebook }}",
-      "{{ .Site.Params.social.twitter }}",
-      "{{ .Site.Params.social.linkedin }}"
-    ]
-  }
-</script>
-
-<!-- WebPage -->
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",

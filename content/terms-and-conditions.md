@@ -54,9 +54,9 @@ Users may not use OctaByte’s services for any illegal or unethical activities,
 
 OctaByte reserves the right to modify these terms and conditions at any time. Continued use of the service after any changes constitutes acceptance of the new terms.
 
-## 13. Termination
+## 13. Termination and Data Loss Disclaimer
 
-Customers may cancel their subscription at any time. OctaByte also reserves the right to terminate services if a customer is found to be in violation of these terms. Upon termination, OctaByte will provide reasonable assistance in facilitating the migration of the customer’s data.
+OctaByte reserves the right to terminate services at its discretion, including but not limited to situations where continued service is deemed unfeasible. In such cases, customers acknowledge that OctaByte may or may not provide access to service data. Additionally, while OctaByte strives to prevent data loss, customers agree that OctaByte is not liable for any claims arising from service termination or data loss. Refunds in such cases are at OctaByte's sole discretion and may or may not be provided.
 
 ## 14. Contact Information
 

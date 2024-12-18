@@ -55,11 +55,11 @@ top_softwares:
 
   - id: development
     direction: left
-    title: "Top 'development'"
+    title: "Open source 'development'"
     description: ""
 
     button:
-      label: View all development
+      label: View all developments
       url: /fully-managed-open-source-services/development
 
     softwares:
@@ -89,7 +89,7 @@ top_softwares:
 
   - id: database
     direction: right
-    title: "Top 'database'"
+    title: "Fully managed 'databases'"
     description: ""
 
     button:
@@ -123,7 +123,7 @@ top_softwares:
 
   - id: hosting-and-infrastructure
     direction: left
-    title: "Top 'Hosting and Infrastructure'"
+    title: "'Hosting and Infrastructure'"
     description: ""
 
     button:
@@ -154,111 +154,6 @@ top_softwares:
       - image: "/images/hosting-and-infrastructure/infrastructure/localstack/logo.png"
         name: "LocalStack"
         url: "/fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/localstack"
-
-top_applications:
-  title: "'Top' softwares"
-  description: Deploy any of 350+ supported software in just minutes, with peace of mind knowing we handle installation, configuration, encryption, backups, software and OS updates, live monitoring, and more!
-
-  button:
-    label: View all 350+ softwares
-    link: /all-services
-
-  services:
-    - image: "/images/applications/live-chat/chatwoot/logo.png"
-      name: "Chatwoot"
-      url: "/applications/live-chat/chatwoot"
-
-    - image: "/images/applications/cms/ghost/logo.png"
-      name: "Ghost"
-      url: "/applications/cms/ghost"
-
-    - image: "/images/applications/crm-erp/frappehr/logo.png"
-      name: "FrappeHR"
-      url: "/applications/crm-erp/frappehr"
-
-    - image: "/images/applications/e-commerce/shopware/logo.png"
-      name: "Shopware"
-      url: "/applications/e-commerce/shopware"
-
-    - image: "/images/applications/cms/directus/logo.png"
-      name: "Directus"
-      url: "/applications/cms/directus"
-
-    - image: "/images/applications/crm-erp/odoo/logo.png"
-      name: "Odoo ERP & CRM"
-      url: "/applications/crm-erp/odoo"
-
-    - image: "/images/applications/calendar/cal/logo.png"
-      name: "Cal"
-      url: "/applications/calendar/cal"
-
-    - image: "/images/applications/invoicing-and-payments/crater/logo.png"
-      name: "Crater"
-      url: "/applications/invoicing-and-payments/crater"
-
-    - image: "/images/applications/documentation/papermerge/logo.png"
-      name: "Papermerge"
-      url: "/applications/documentation/papermerge"
-
-    - image: "/images/applications/crm-erp/invoiceninja/logo.png"
-      name: "InvoiceNinja"
-      url: "/applications/crm-erp/invoiceninja"
-
-    - image: "/images/applications/crm-erp/dolibarr/logo.png"
-      name: "Dolibarr"
-      url: "/applications/crm-erp/dolibarr"
-
-    - image: "/images/applications/note-taking/vikunja/logo.png"
-      name: "Vikunja"
-      url: "/applications/note-taking/vikunja"
-
-    - image: "/images/applications/project-management/plane/logo.png"
-      name: "Plane"
-      url: "/applications/project-management/plane"
-
-    - image: "/images/applications/search/meilisearch/logo.png"
-      name: "MeiliSearch"
-      url: "/applications/search/meilisearch"
-
-    - image: "/images/applications/product-feedback/limesurvey/logo.png"
-      name: "LimeSurvey"
-      url: "/applications/product-feedback/limesurvey"
-
-    - image: "/images/applications/forum-community/mastodon/logo.png"
-      name: "Mastodon"
-      url: "/applications/forum-community/mastodon"
-
-    - image: "/images/applications/business-intelligence/superset/logo.png"
-      name: "Superset"
-      url: "/applications/business-intelligence/superset"
-
-    - image: "/images/applications/password-manager/vaultwarden/logo.png"
-      name: "Vaultwarden"
-      url: "/applications/password-manager/vaultwarden"
-
-    - image: "/images/applications/analytics/umami/logo.png"
-      name: "Umami"
-      url: "/applications/analytics/umami"
-
-    - image: "/images/applications/e-commerce/prestashop/logo.png"
-      name: "Prestashop"
-      url: "/applications/e-commerce/prestashop"
-
-    - image: "/images/applications/customer-support/freescout/logo.png"
-      name: "FreeScout"
-      url: "/applications/customer-support/freescout"
-
-    - image: "/images/applications/fediverse/pixelfed/logo.png"
-      name: "Pixelfed"
-      url: "/applications/fediverse/pixelfed"
-
-    - image: "/images/applications/documentation/bookstack/logo.png"
-      name: "BookStack"
-      url: "/applications/documentation/bookstack"
-
-    - image: "/images/applications/hcm/minthcm/logo.png"
-      name: "MintHCM"
-      url: "/applications/hcm/minthcm"
 
 features:
   title: "Quick Deployment of 'Open-Source' Software"
