@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Explore 350+ Fully Managed Open-Source Software Solutions | OctaByte.io"
+title: "Databases - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Discover a comprehensive catalog of over 350 open-source software applications across categories like Databases, Applications, Development, and Hosting Infrastructure. OctaByte offers fully managed deployment, hosting, and maintenance for CRM, ERP, CMS, e-commerce, project management tools, and more. Effortlessly find and deploy the software that meets your needs, complete with reliable backups, security, and updates.
-  keywords: fully managed open-source software, managed open-source services, open-source applications, databases, CRM, ERP, project management tools, CMS hosting, e-commerce solutions, devOps, NoSQL, infrastructure hosting, OctaByte services, automation software, monitoring tools, cloud hosting, business intelligence tools.
+  description: Explore top open source database software for diverse applications, from relational databases to NoSQL solutions. Find the perfect tool for your project needs.
+  keywords: open source database software, relational databases, NoSQL databases, database management tools, community-driven database solutions, free database software, scalable database systems, database solutions for projects, open source database tools
   breadcrumb:
     - name: Home
       url: /
@@ -16,5 +16,5 @@ meta:
 content:
   title: "'Databases'"
   catalog: databases
-  description: Discover a comprehensive catalog of over 350 open-source software applications across categories like Databases, Applications, Development, and Hosting Infrastructure. OctaByte offers fully managed deployment, hosting, and maintenance for CRM, ERP, CMS, e-commerce, project management tools, and more. Effortlessly find and deploy the software that meets your needs, complete with reliable backups, security, and updates.
+  description: Discover a comprehensive list of open source database management tools, including both relational and NoSQL options. Explore reliable, community-driven solutions designed to meet the needs of various applications and use cases. Find the right database software for your project, whether it's for data storage, querying, or scaling.
 ---
