@@ -1,24 +1,47 @@
 ---
 draft: false
-title: Owncast
+title: Owncast fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/forum-community/owncast/screenshot-1.jpg
+  description: Owncast is an open-source, self-hosted live streaming and chat platform that gives you full control over your content, interface, and audience, providing a decentralized alternative to mainstream streaming services.
+  keywords: Owncast, self-hosted live streaming, decentralized live streaming, open-source streaming, live video platform, chat integration, stream hosting, independent streaming, content control, live streaming software, custom chat bots, audience engagement
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Owncast
+      url: /fully-managed-open-source-services/applications/forum-community/owncast
+
 content:
   id: owncast
   name: Owncast
   logo: /images/applications/forum-community/owncast/logo.png
   website: https://owncast.online/
   iframe_website: /website/applications/forum-community/owncast
-  dashboardImage: /images/applications/forum-community/owncast/screenshot-1.png
-  short_description: Owncast is a free and open source live video and web chat server for use with existing popular broadcasting software.
-  description: Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. It offers complete ownership over your content, interface, moderation and audience
+  description: "Owncast is a powerful open-source platform that allows you to host your own live video streaming and chat server. It provides complete ownership over your content, interface, moderation, and audience, making it an excellent choice for those looking to run live streams similar to mainstream services but with complete independence. Owncast is decentralized and self-hosted, enabling you to have full control over your live streaming experience, including chat functionality, stream settings, and the overall user experience.
+
+With Owncast, you can create and manage your own community without any third-party interference. It’s designed for streamers who value ownership and flexibility. The platform integrates seamlessly with your existing broadcasting software, supports external storage for scalable streaming, and offers advanced features like customizable chat bots and emotes to enhance user engagement.
+
+Whether you're running a small stream or scaling up to a larger audience, Owncast makes it easy to create a professional-grade live streaming experience without compromising on control. Owncast is a perfect choice for anyone seeking to build their own live streaming platform with no restrictions and full ownership."
   features:
-    - title: Self hosted and independent
-      description: Have complete control and ownership over your stream, allowing you to create the content and community you want.
-    - title: Chat
-      description: Manage your app users and handle email/password and OAuth2 sign ups (Google, Facebook, GitHub, GitLab) without the hassle The frictionless built-in chat allows your viewers to be a part of the action. Include custom emotes and build chat bots to encourage engagement from your viewers.
-    - title: Works with your software
-      description: Point your existing broadcasting software at your Owncast server and begin streaming.
-    - title: External storage
-      description: Owncast can work with different storage providers to optionally scale your videos to many viewers using only low-powered hardware.
+    - title: Self-Hosted and Independent
+      description: "Owncast provides the freedom to host your own live stream server, giving you complete control over your content, moderation, and audience interaction. You manage everything, from stream setup to the community environment, ensuring a tailored experience."
+    - title: Interactive Chat Integration
+      description: "Engage your viewers with a built-in, customizable chat feature. Owncast supports custom emotes and allows the creation of chat bots, encouraging real-time interaction and participation from your audience."
+    - title: Seamless Broadcasting Software Integration
+      description: "Owncast works with your existing broadcasting software, making it simple to start streaming. Point your software to your Owncast server, and you're ready to go live with minimal setup required."
+    - title: Scalable with External Storage
+      description: "Owncast allows you to scale your streams by connecting to external storage providers. This setup helps ensure smooth performance, even with high viewer counts, without needing powerful hardware."
+    - title: Complete Ownership and Customization
+      description: "As a self-hosted solution, Owncast offers the ultimate customization. Adjust your stream's interface and functionality to match your brand and vision, ensuring a unique live streaming experience."
+    - title: Decentralized and Privacy-Focused
+      description: "Owncast runs independently, offering privacy and security for you and your audience. There's no reliance on third-party platforms, giving you full control over data and content, making it an ideal choice for privacy-conscious streamers."
   screenshots:
     - /images/applications/forum-community/owncast/screenshot-1.png
     - /images/applications/forum-community/owncast/screenshot-2.png

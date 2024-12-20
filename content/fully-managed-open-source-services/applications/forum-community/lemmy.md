@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Lemmy
+title: Lemmy fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/forum-community/lemmy/screenshot-1.jpg
+  description: Lemmy is a decentralized link aggregator and social media platform that allows users to create their own servers while connecting to the larger Fediverse, providing a more open, community-driven experience.
+  keywords: Lemmy, decentralized platform, Fediverse, link aggregator, social media, open-source, federated communities, privacy, Rust, open-source social network
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Lemmy
+      url: /fully-managed-open-source-services/applications/forum-community/lemmy
+
 content:
   id: lemmy
   name: Lemmy
   logo: /images/applications/forum-community/lemmy/logo.png
   website: https://join-lemmy.org/
   iframe_website: /website/applications/forum-community/lemmy
-  dashboardImage: /images/applications/forum-community/lemmy/screenshot-1.jpg
-  short_description: Open-source Reddit alternative. Create your own discussion platform with Lemmy
-  description: With Lemmy, you can easily host your own server, and all these servers are federated, and connected to the same universe, called the Fediverse. For a link aggregator, this means that someone registered on one server can subscribe to communities elsewhere, and can have discussions with people on a completely different server.
+  description: "Lemmy is a powerful open-source decentralized link aggregator and social media platform that operates within the Fediverse. With Lemmy, you can easily host your own server while being part of a vast network of federated communities. Users registered on different servers can freely subscribe to communities and engage in discussions across different instances. Unlike centralized platforms, Lemmy empowers users with full control over their data and community interactions, ensuring privacy and a more transparent digital space. Whether you're a developer, content creator, or social media enthusiast, Lemmy offers a customizable and engaging experience that puts community first."
   features:
     - title: Decentralization
-      description: Decentralized architecture with no central authority or ownership. Relationships can be made across any compatible system, creating a network of Internet-scale made up of smaller sites.
-    - title: Moderation abilities
-      description: Public Moderation Logs. Can sticky posts to the top of communities. Both site admins, and community moderators, who can appoint other moderators. Can lock, remove, and restore posts and comments. Can ban and unban users from communities and the site. Can transfer site and communities to others.
-    - title: Full of features
-      description: User avatar support. Live-updating Comment threads. Full vote scores (+/-) like old Reddit. Themes, including light, dark, and solarized. Integrated image uploading in both posts and comments. Notifications can be sent via email. Private messaging support. i18n / internationalization support. RSS / Atom feeds for All, Subscribed, Inbox, User, and Community.
-    - title: High performance
-      description: Server is written in rust. Front end is ~80kB gzipped. Supports arm64.
+      description: "Lemmy operates on a decentralized architecture with no central authority. This ensures that relationships can be made across compatible systems, creating a network of smaller, independent sites that are part of a global Internet-scale federation."
+    - title: Moderation Abilities
+      description: "Lemmy provides powerful moderation tools for both site admins and community moderators. You can lock, remove, and restore posts and comments, appoint new moderators, ban and unban users, and even transfer site ownership, all while maintaining transparency with public moderation logs."
+    - title: Feature-Rich User Experience
+      description: "Lemmy supports a wide range of features, including user avatars, live-updating comment threads, voting on posts and comments, and the ability to sticky posts. Additionally, the platform supports multiple themes, integrated image uploads, email notifications, private messaging, and i18n for internationalization."
+    - title: High Performance
+      description: "Written in Rust for optimal performance, Lemmy ensures lightning-fast speed and reliability. The front-end is lightweight, coming in at just ~80kB gzipped, and it supports ARM64, making it highly scalable and suitable for a range of devices and use cases."
+    - title: Customizable Themes and Appearance
+      description: "Lemmy allows users to choose from a variety of themes, including light, dark, and solarized options. This customization enhances the user experience, letting everyone personalize their viewing environment to their preferences."
+    - title: Comprehensive Feeds and Notifications
+      description: "Lemmy offers integrated RSS and Atom feeds for All, Subscribed, Inbox, User, and Community categories, allowing users to stay updated with the latest posts. Email notifications keep users informed about important activities within their communities, ensuring they never miss an update."
   screenshots:
     - /images/applications/forum-community/lemmy/screenshot-1.jpg
     - /images/applications/forum-community/lemmy/screenshot-2.jpg

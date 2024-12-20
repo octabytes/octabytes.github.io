@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Discourse
+title: Discourse fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/forum-community/discourse/screenshot-1.jpg
+  description: Discourse is an open-source, self-hosted forum software that redefines community interaction with dynamic notifications, continuous scrolling, and rich media features for modern discussions.
+  keywords: Discourse, open-source forum software, self-hosted forum, discussion platform, community software, online forum, internet forum, mailing list software, dynamic notifications, modern forum software
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: AzuraCast
+      url: /fully-managed-open-source-services/applications/forum-community/discourse
+
 content:
   id: discourse
   name: Discourse
@@ -8,18 +25,20 @@ content:
   website: https://www.discourse.org/plugins/github.html
   iframe_website: /website/applications/forum-community/discourse
   direct_link: true
-  dashboardImage: /images/applications/forum-community/discourse/screenshot-1.jpg
-  short_description: Discourse is an open-source discussion platform built for the next decade of the Internet.
-  description: "Discourse is an open-source Internet forum and mailing-list management software application. It's an attempt to reimagine what a modern Internet discussion forum should be in a world of ubiquitous smartphones, tablets, Facebook and Twitter. You can use it as a mailing list, discussion forum, long-form chatroom, and more. It can be self-hosted."
+  description: "Discourse is a revolutionary open-source Internet forum and mailing-list management software designed to reimagine online discussions. As the world becomes increasingly mobile with smartphones, tablets, and social media platforms like Facebook and Twitter, Discourse offers a dynamic solution for community engagement. Whether used as a traditional mailing list, a discussion forum, or a long-form chatroom, Discourse enhances user interaction with features designed for the modern internet experience. This self-hosted platform allows communities to communicate seamlessly, facilitating continuous conversations with just-in-time loading, dynamic notifications, and intuitive design. Discourse stands out as a flexible and powerful tool to foster engaging discussions for both small groups and large online communities."
   features:
-    - title: Conversations, not pages
-      description: Why break conversations into awkward and arbitrary pages, where you have to constantly find the Next Page button? We’ve replaced all that with the power of just-in-time loading. Want to read more? Keep scrolling down.
-    - title: Dynamic notifications
-      description: When someone quotes your post, we’ll notify you. When someone mentions your @name, we’ll notify you. When someone replies to your post… well, you get the idea. And if you’re not around, we’ll email you, too.
-    - title: Simple, but with context
-      description: Discourse is a simple, flat forum, where replies flow down the page in a line. Expand context at the bottom and top of each post, and also in quotes, to reveal the full conversation without losing your place.
-    - title: Links automatically expand
-      description: Want to share a cool link you found? Just paste it in on a single line and we’ll make it awesome. Links to Wikipedia, YouTube, Amazon, GitHub, Twitter, Flickr, and hundreds of other popular websites automatically expand to provide additional context and information.
+    - title: Conversations, Not Pages
+      description: "Discourse eliminates the need for awkward, page-based navigation by offering just-in-time loading. Continue reading without interruption as the conversation flows seamlessly in an endless stream."
+    - title: Dynamic Notifications
+      description: "Stay updated with real-time notifications. Discourse alerts you when someone quotes your post, mentions your username, or replies to your thread. If you're offline, you'll receive email updates to keep you informed."
+    - title: Simple, but with Context
+      description: "Enjoy a clean, flat forum design where replies flow naturally down the page. Expand context for posts and quotes to view the full conversation without losing track of the ongoing discussion."
+    - title: Links Automatically Expand
+      description: "Share links effortlessly. Discourse automatically expands links from popular websites such as Wikipedia, YouTube, GitHub, and Twitter to provide additional context and information, enhancing user experience"
+    - title: Trust Levels for Moderation
+      description: "Empower community members with trust levels that evolve based on participation and contributions. This system ensures that your forum stays organized and trustworthy, with automatic moderation based on user engagement."
+    - title: Mobile-Friendly Interface
+      description: "Discourse is designed to be mobile-first, ensuring a smooth user experience on smartphones and tablets. Participate in discussions from anywhere, at any time, with a responsive layout that adapts to various screen sizes."
   screenshots:
     - /images/applications/forum-community/discourse/screenshot-1.jpg
     - /images/applications/forum-community/discourse/screenshot-2.jpg

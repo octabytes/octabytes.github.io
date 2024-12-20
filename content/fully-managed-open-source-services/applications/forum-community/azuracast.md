@@ -1,24 +1,43 @@
 ---
 draft: false
-title: AzuraCast
+title: AzuraCast fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/forum-community/azuracast/screenshot-1.jpg
+  description: AzuraCast is a self-hosted, all-in-one web radio management suite that enables users to easily manage their radio stations through an intuitive web interface. It’s perfect for all types and sizes of stations, offering quick setup, powerful features, and easy customization.
+  keywords: AzuraCast, self-hosted radio station, web radio management, radio station software, broadcast software, radio station automation, VPS hosting for radio, radio station analytics, radio station management tool, multi-station support, radio automation platform
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: AzuraCast
+      url: /fully-managed-open-source-services/applications/forum-community/azuracast
+
 content:
   id: azuracast
   name: AzuraCast
   logo: /images/applications/forum-community/azuracast/logo.png
   website: https://www.azuracast.com/
   iframe_website: /website/applications/forum-community/azuracast
-  dashboardImage: /images/applications/forum-community/azuracast/screenshot-1.jpg
-  short_description: A self-hosted web radio management suite
-  description: AzuraCast is a self-hosted, all-in-one web radio management suite. Using its easy installer and powerful but intuitive web interface, you can start up a fully working web radio station in a few quick minutes. AzuraCast works for web radio stations of all types and sizes, and is built to run on even the most affordable VPS web hosts.
+  description: "AzuraCast is a feature-packed, self-hosted web radio management suite designed for broadcasters who want a seamless and intuitive platform to manage their radio stations. Whether you're running a small personal station or a large-scale network of broadcasts, AzuraCast provides everything you need to get up and running quickly. With its easy installation process and web-based interface, AzuraCast allows you to manage your station from anywhere, at any time. It supports multiple radio stations, custom user roles, built-in analytics, and much more. AzuraCast is fully customizable, giving you complete control over your broadcasting environment, all without the need for expensive hosting or third-party services."
   features:
-    - title: "Everything's Included"
-      description: AzuraCast installs everything you need to get a web radio station up and running in minutes.
+    - title: Everything's Included
+      description: "AzuraCast provides an all-in-one solution, bundling everything needed to start and manage a web radio station, making setup quick and easy."
     - title: Web-Based Station Management
-      description: Upload media, manage playlists, create local mount points and remote relays, view analytics and reports and much more, all from the convenience of your web browser.
+      description: "Manage every aspect of your station, including uploading media, managing playlists, viewing analytics, and controlling relays—all from a convenient web browser interface."
     - title: Multi-Station Administration
-      description: Host multiple stations on a single installation, create new user accounts and unique roles with granular permissions. Back up your installation and keep track of every station from one central location.
+      description: "Host and manage multiple radio stations from a single installation, with user management features, custom roles, granular permissions, and centralized station oversight."
     - title: Built-in Public Pages
-      description: Out of the box, each station includes a public-facing player page that can also be embedded into your own web site. Our powerful APIs let you build your own players and interfaces that take advantage of our rich metadata support.
+      description: "Each station comes with a public-facing player page that can be embedded into your website. You can also customize players and interfaces using AzuraCast's robust API."
+    - title: Advanced Analytics and Reporting
+      description: "AzuraCast offers built-in analytics tools that allow you to monitor station performance, track audience engagement, and generate detailed reports, helping you refine your broadcasting strategy."
+    - title: Automatic Media Import and Playlist Scheduling
+      description: "AzuraCast allows you to automatically import media and schedule playlists to ensure a smooth, hands-off broadcasting experience, keeping your station live and engaging for listeners."
   screenshots:
     - /images/applications/forum-community/azuracast/screenshot-1.jpg
     - /images/applications/forum-community/azuracast/screenshot-2.jpg
