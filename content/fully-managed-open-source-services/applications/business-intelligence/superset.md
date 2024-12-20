@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Superset
+title: Superset fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/business-intelligence/superset/screenshot-1.jpg
+  description: Apache Superset is a scalable open-source data visualization tool that enables users to explore and visualize data with ease, from basic charts to advanced geospatial maps.
+  keywords: Apache Superset, open-source data visualization, cloud-native data exploration, petabyte-scale data, SQL integration, geospatial charts, data dashboards, business intelligence tool, scalable data analytics
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Superset
+      url: /fully-managed-open-source-services/applications/business-intelligence/superset
+
 content:
   id: superset
   name: Superset
@@ -8,18 +25,20 @@ content:
   website: https://superset.apache.org/
   iframe_website: /website/applications/business-intelligence/superset
   direct_link: true
-  dashboardImage: /images/applications/business-intelligence/superset/screenshot-1.jpg
-  short_description: Apache Superset is a data visualization and data exploration platform.
-  description: "Apache Superset is an open-source software, cloud-native application for data exploration and data visualization able to handle data at petabyte scale. It's fast, lightweight, intuitive and loaded with options that make it easy for users of all skillsets to explore and visualize their data, from simple line charts to highly detailed geospatial charts."
+  description: "Apache Superset is an open-source, cloud-native data exploration and visualization tool designed to handle large-scale data at petabyte size. With its intuitive interface and fast performance, Superset empowers users of all skill levels to create detailed visualizations, from simple line charts to complex geospatial maps. Its powerful integration with modern SQL-based databases makes it the perfect choice for businesses looking to leverage their data efficiently. Whether you're a data analyst, developer, or business user, Apache Superset offers the tools to visualize, analyze, and understand your data, providing insights that drive smarter decisions."
   features:
-    - title: Powerful yet easy to use
-      description: With Apache Superset, you can quickly and easily integrate and explore your data, using either the simple no-code viz builder or the state-of-the-art SQL IDE.
-    - title: Integrates with modern databases
-      description: Apache Superset can connect to any SQL-based datasource through SQLAlchemy, including modern cloud-native databases and engines at petabyte scale.
-    - title: Modern architecture
-      description: Apache Superset is lightweight and highly scalable. It will leverage the power of your data infrastructure without requiring yet another ingestion layer.
-    - title: Rich visualizations and dashboards
-      description: Apache Superset ships with a wide array of beautiful visualizations. Its visualization plug-in architecture makes it easy to build custom visualizations that drop directly into Superset.
+    - title: Powerful yet Easy to Use
+      description: "Apache Superset offers a simple no-code visual builder alongside a state-of-the-art SQL IDE, allowing users to seamlessly explore and visualize their data with ease, regardless of skill level."
+    - title: Integrates with Modern Databases
+      description: "Superset connects to any SQL-based data source through SQLAlchemy, including cloud-native databases and scalable engines that handle data at petabyte scale, enabling businesses to work with their existing infrastructure."
+    - title: Modern Architecture
+      description: "Built to be lightweight and highly scalable, Apache Superset utilizes the power of your existing data infrastructure, without the need for an additional ingestion layer, ensuring maximum efficiency."
+    - title: Rich Visualizations and Dashboards
+      description: "Superset comes equipped with a variety of stunning visualizations out-of-the-box. Its plug-in architecture allows users to build custom visualizations and integrate them seamlessly into their dashboards."
+    - title: Customizable and Extensible
+      description: "Superset's architecture supports extensive customization, enabling users to add new features, visualizations, and integrations to meet the specific needs of their organization."
+    - title: Enterprise-Grade Security
+      description: "With robust security features like authentication, access control, and audit logging, Apache Superset ensures your data remains protected, whether you're deploying it on-premises or in the cloud."
   screenshots:
     - /images/applications/business-intelligence/superset/screenshot-1.jpg
     - /images/applications/business-intelligence/superset/screenshot-2.jpg

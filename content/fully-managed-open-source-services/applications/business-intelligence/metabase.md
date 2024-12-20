@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Metabase
+title: Metabase fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/business-intelligence/metabase/screenshot-1.jpg
+  description: Metabase is a powerful, open-source business intelligence tool that lets you explore and visualize your data in an intuitive way. Create reports, dashboards, and share insights across your team with ease.
+  keywords: Metabase, business intelligence, data exploration, data visualization, BI tool, SQL-free reporting, dashboards, open-source BI, data insights, easy BI solution
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Metabase
+      url: /fully-managed-open-source-services/applications/business-intelligence/metabase
+
 content:
   id: metabase
   name: Metabase
   logo: /images/applications/business-intelligence/metabase/logo.png
   website: https://www.metabase.com/
   iframe_website: /website/applications/business-intelligence/metabase
-  dashboardImage: /images/applications/business-intelligence/metabase/screenshot-1.png
-  short_description: Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.
-  description: "Metabase lets you ask questions about your data, and displays answers in clear formats such as a bar graph or detailed table. You can save your questions for later, or group them into great-looking dashboards. It's easy to share questions and dashboards with the rest of your team."
+  description: " Metabase is an intuitive, open-source business intelligence tool that empowers teams to explore and analyze their data without needing to write complex SQL queries. With Metabase, users can effortlessly create and share insightful dashboards and reports. Whether you're a CEO or a customer support representative, Metabase allows anyone in your organization to gain insights with just a few clicks. You can visualize your data with charts, graphs, and tables, helping your team make data-driven decisions faster. Easy to set up and highly customizable, Metabase is the perfect solution for businesses looking to leverage their data effectively."
   features:
-    - title: Exploration without the SQL barrier
-      description: Anyone on your team, whether the CEO or customer support, can get answers to questions about your data with just a few clicks. When the questions get more complicated, SQL and the Metabase notebook editor can be used by the data-savvy.
-    - title: Get up and running in minutes
-      description: You can start in a couple of clicks with the hosted version, or use Docker to get up and running on your own for free. Then you connect to your data, invite your team, and you have a business intelligence solution that would usually take a sales call.
-    - title: Develop, deliver, and iterate fast
-      description: Building all your embedded reports in Metabase means quick development and iteration cycles, letting you deliver data and dashboards to your customers even faster. Plus, with just a few clicks you can customize the look and feel to match your own brand.
-    - title: Data exploration for the whole team
-      description: Metabase sets up in five minutes, connecting your database and bringing its data to life in beautiful visualizations. An intuitive interface makes data exploration feel like second nature. opening data up for everyone, not just analysts and developers.
+    - title: Exploration Without the SQL Barrier
+      description: "Metabase enables anyone in your team to ask complex questions about your data with just a few clicks. For more advanced queries, Metabase's SQL and notebook editor offers additional flexibility for data-savvy users."
+    - title: Get Up and Running in Minutes
+      description: "Launch Metabase in no time with the hosted version or use Docker to set it up yourself for free. Connect to your data source and invite your team, transforming your data into actionable insights with minimal setup."
+    - title: Develop, Deliver, and Iterate Fast
+      description: "With Metabase, you can quickly build and iterate on embedded reports and dashboards. Customize the appearance of your reports to match your brand and deliver faster insights to your customers."
+    - title: Data Exploration for the Whole Team
+      description: "Metabase makes data exploration accessible to everyone, not just analysts. With a simple interface and beautiful visualizations, it’s easy for your entire team to unlock the power of your data."
+    - title: Share Insights with Ease
+      description: "Metabase allows you to save questions, group them into dashboards, and share them with your team. Stay on top of key metrics and make collaborative, data-driven decisions."
+    - title: Visualize Your Data in Beautiful Formats
+      description: "Turn raw data into interactive visualizations, including bar graphs, line charts, and detailed tables, making it easier for your team to analyze and interpret information quickly."
   screenshots:
     - /images/applications/business-intelligence/metabase/screenshot-1.png
     - /images/applications/business-intelligence/metabase/screenshot-2.png
