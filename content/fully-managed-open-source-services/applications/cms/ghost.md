@@ -1,24 +1,44 @@
 ---
 draft: false
-title: Ghost
+title: Ghost fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/cms/ghost/screenshot-1.jpg
+  description: Ghost is a powerful platform for content creators to publish, share, and grow a business. It offers modern tools for website building, content publishing, newsletters, and paid subscriptions.
+  keywords: Ghost, content creators, publishing platform, SEO optimized, newsletters, paid subscriptions, website building, AMP support, membership management, minimalistic CMS, modern tools for creators
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Ghost
+      url: /fully-managed-open-source-services/applications/cms/ghost
+
 content:
   id: ghost
   name: Ghost
   logo: /images/applications/cms/ghost/logo.png
   website: https://ghost.org/
   iframe_website: /website/applications/cms/ghost
-  dashboardImage: /images/applications/cms/ghost/screenshot-2.jpg
-  short_description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content.
-  description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members. Publish by web & email newsletter.
+  description: "Ghost is a powerful and user-friendly platform designed specifically for new-media creators who want to publish, share, and grow their business around high-quality content. With Ghost, users can easily build a professional website, publish articles, send engaging newsletters, and offer paid subscriptions to members. It's the perfect solution for creators looking to focus on their content while leveraging modern tools to expand their reach. Ghost is SEO-optimized, fast, and comes with built-in features like a responsive design, AMP support, and an automatic sitemap generator, all of which contribute to a seamless user experience. Whether you're a writer, blogger, or content marketer, Ghost empowers you to take control of your publishing process, connect with your audience, and grow your online presence effortlessly."
   features:
     - title: Lightweight and Minimal
-      description: It is a minimalistic blogging platform which lets you focus only on writing without distraction. It is good to say that the sole purpose of Ghost CMS is to create a publishing platform. WordPress has a bulky core and it is more than a blogging platform. Ghost was launched as an alternative of WordPress to focus only on blogging. It has SEO and speed built-in.
+      description: "Ghost provides a distraction-free, minimalistic platform perfect for writers who want to focus solely on content creation. Unlike bulky CMSs like WordPress, Ghost is designed to be lightweight and optimized for fast performance and SEO."
     - title: SEO Optimized
-      description: "Structured Data: The posts in Ghost CMS support structured data by default. It is very useful to display beautiful search results in search engines. AMP: Ghost CMS also have core support for AMP. It is a revolutionary technology for light speed loading of web pages. Sitemap: How can we forget the tree of search indexing. Ghost CMS have inbuilt sitemap generator which generated and updates your sitemap with every new update. Responsive: With an increase in mobile usage, it is necessary to optimize websites for smaller screens. Ghost themes are completely responsive and mobile-friendly."
+      description: "Built with SEO in mind, Ghost supports structured data, AMP technology for faster page loading, and an inbuilt sitemap generator that ensures your site is always indexed properly by search engines. Ghost themes are responsive and mobile-friendly, enhancing your visibility on all devices."
     - title: Themes and Customizations
-      description: A good theme grabs users attention and makes your website stand apart from the crowd. It is important to use the interactive and good looking design on your website. Ghost has multiple themes which are completely responsive and beautiful. They are minimal and optimized for distraction-free reading.
-    - title: Membership management
-      description: Turn your audience into a business. Transform clicks into contacts. Until now, building an indie publication with memberships and subscriptions has been difficult and complicated. Ghost makes it easy, with native signup forms that turn anonymous views into logged-in members.
+      description: "Choose from a variety of beautiful, minimal themes that are fully responsive and designed for distraction-free reading. Ghost allows you to customize your theme to suit your style and branding, ensuring a unique and engaging user experience."
+    - title: Membership Management
+      description: "Ghost makes it easy to turn your audience into a business by offering native membership management tools. With integrated signup forms, you can convert anonymous visitors into loyal, logged-in members, enabling you to monetize your content and offer paid subscriptions."
+    - title: Email Newsletter Integration
+      description: "With Ghost, you can seamlessly send newsletters to your subscribers. The platform offers built-in tools to create and distribute email campaigns, helping you build a dedicated community around your content."
+    - title: Speed and Performance
+      description: "Ghost is optimized for speed, ensuring fast page load times and a smooth user experience. Its lightweight architecture and SEO enhancements help your website rank higher in search engine results, leading to better visibility and engagement."
   screenshots:
+    - /images/applications/cms/ghost/screenshot-1.jpg
     - /images/applications/cms/ghost/screenshot-2.jpg
 ---
