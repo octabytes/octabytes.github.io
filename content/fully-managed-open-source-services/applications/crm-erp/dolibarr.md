@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Dolibarr
+title: Dolibarr fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/crm-erp/dolibarr/screenshot-1.jpg
+  description: Dolibarr is an open-source ERP & CRM solution for businesses of all sizes, offering customizable features for seamless operations in marketing, sales, HR, and more.
+  keywords: Dolibarr, open-source ERP, CRM software, business management software, customizable ERP, free ERP, small business tools, PHP software suite, customer management, prospect tracking
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Dolibarr
+      url: /fully-managed-open-source-services/applications/crm-erp/dolibarr
+
 content:
   id: dolibarr
   name: Dolibarr
@@ -8,18 +25,20 @@ content:
   website: https://www.dolibarr.org/
   iframe_website: /website/applications/crm-erp/dolibarr
   direct_link: true
-  dashboardImage: /images/applications/crm-erp/dolibarr/screenshot-1.jpg
-  short_description: "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity"
-  description: "It's an Open Source Software suite (written in PHP with optional JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers."
+  description: "Dolibarr is a powerful, open-source software suite designed to simplify and enhance business management for companies of all sizes, as well as for freelancers and foundations. Written in PHP with optional JavaScript enhancements, Dolibarr offers unparalleled flexibility, scalability, and cost-effectiveness. From managing hosting and server needs to enabling full customization across marketing, sales, HR, accounting, logistics, and more, Dolibarr is tailored to meet your unique business requirements. As a free and open-source solution, it provides a zero-cost entry point, empowering a global community of developers, testers, and businesses to collaborate, innovate, and evolve. With Dolibarr, you can easily maintain customer and prospect details, track opportunities, and take control of your business operations—all within a user-friendly interface."
   features:
     - title: Hosting Management
-      description: Dolibarr cares about hosting and server management. You will get the services you need.
+      description: "Dolibarr simplifies hosting and server management, ensuring reliable performance for your business needs."
     - title: Customization
-      description: Users can set up features according to their needs and choose from options like marketing, sales, manufacturing, human resources, accounting, logistics, invoicing, stock and more.
+      description: "Tailor Dolibarr to your unique business requirements by enabling features across marketing, sales, HR, accounting, logistics, invoicing, and more."
     - title: Open Source
-      description: One of the biggest benefits of Dolibarr is that it has no cost of entry thanks to its open-source model. This allows thousands of end users, testers and developers to work on projects, provide feedback and help Dolibarr continually innovate.
-    - title: Maintain Prospects and Customer Details
-      description: Dolibarr lets users create customer or prospect records by adding their personal information to the database. It also helps create alternative contacts for every prospect and displays the status and potential of the opportunity.
+      description: "Enjoy zero-cost access to Dolibarr's open-source platform, supported by a vibrant community of developers, testers, and users worldwide."
+    - title: Customer and Prospect Management
+      description: "Maintain detailed records of customers and prospects, including alternative contacts, statuses, and potential opportunities, all in one place."
+    - title: User-Friendly Interface
+      description: "Navigate Dolibarr's intuitive interface to easily manage business operations without technical expertise."
+    - title: Scalability
+      description: "Designed to grow with your business, Dolibarr adapts seamlessly to the evolving needs of small, medium, and large enterprises."
   screenshots:
     - /images/applications/crm-erp/dolibarr/screenshot-1.jpg
     - /images/applications/crm-erp/dolibarr/screenshot-2.jpg

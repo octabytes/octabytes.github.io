@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Odoo ERP & CRM
+title: Odoo ERP & CRM fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/crm-erp/odoo/screenshot-1.jpg
+  description: Odoo ERP & CRM is an open-source business suite offering integrated apps for CRM, e-commerce, accounting, inventory, and more, making business management easier and more efficient.
+  keywords: Odoo ERP, Odoo CRM, open-source business software, business management solution, ERP system, integrated business apps, business efficiency, Odoo features, business automation, CRM solution
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Odoo ERP & CRM
+      url: /fully-managed-open-source-services/applications/crm-erp/odoo
+
 content:
   id: odoo
   name: Odoo ERP & CRM
   logo: /images/applications/crm-erp/odoo/logo.png
   website: https://www.odoo.com/
   iframe_website: /website/applications/crm-erp/odoo
-  dashboardImage: /images/applications/crm-erp/odoo/screenshot-1.jpg
-  short_description: Odoo is a suite of web-based, open-source business apps.
-  description: "Odoo's suite of open-source business apps covers a wide range of needs, including CRM, e-commerce, accounting, inventory, billing, point of sale and project management. It is very easy to use and fully integrated."
+  description: "Odoo ERP & CRM is a powerful, open-source suite of business applications designed to address various business needs such as CRM, e-commerce, accounting, inventory management, billing, point of sale, and project management. With its user-friendly interface and fully integrated modules, Odoo helps businesses streamline operations and boost efficiency. Odoo’s open-source ecosystem includes thousands of apps developed by a global community, ensuring that your business can scale and adapt with ease. The seamless integration across Odoo apps simplifies workflows, reduces redundancy, and empowers businesses to automate and optimize their processes, driving growth and improving overall productivity."
   features:
-    - title: No more painful integrations
-      description: "If you have individual software solutions that work but don't talk to each other, you are probably entering things more than once and missing a comprehensive overview of what's going on. Between the Odoo apps and the tens of thousands of Community apps, there is something to help address all of your business needs in a single, cost-effective, modular solution."
-    - title: Apps that work together seamlessly
-      description: "Centralized, online, accessible from anywhere with any device, the Odoo apps work seamlessly together, giving you the ability to automate and track everything you do. Odoo's open-source development model means that thousands of developers and business experts have built the world's largest ecosystem of fully integrated business apps."
-    - title: Boosting efficiency
-      description: A fully integrated ERP system can increase the productivity and efficiency of trading businesses. It reduces the time spent by individual departments on daily business operations. In addition, it improves employee efficiency by minimizing the manual monitoring of tasks.
-    - title: Increased workflow transparency
-      description: Since the integrated ERP system has centralized data, tasks and workflows are highly visualized. For instance, if the ERP system is integrated with the project management tool, employees can easily view the tasks of their colleagues. Transparency in the workflow of an enterprise leads to better productivity and relationship management.
+    - title: No More Painful Integrations
+      description: "With Odoo, all your business software solutions work together seamlessly. There’s no more duplicating data across systems or missing important insights. Odoo’s integrated approach helps you save time and reduces the complexity of managing separate software solutions."
+    - title: Apps that Work Together Seamlessly
+      description: "Odoo’s suite of business apps is fully centralized and accessible online, from any device, anywhere. These apps work together to provide a cohesive system that streamlines your business operations, from sales to finance and beyond."
+    - title: Boosting Efficiency
+      description: "Odoo’s fully integrated ERP system enables businesses to increase productivity by automating and optimizing daily operations. By reducing the need for manual tasks, Odoo empowers employees to focus on more strategic work, resulting in higher efficiency."
+    - title: Increased Workflow Transparency
+      description: "Centralized data and visualized workflows give your team real-time insights into ongoing projects and tasks. Odoo improves internal communication and collaboration, making it easier to monitor progress and ensure smoother operations."
+    - title: Modular and Scalable Solution
+      description: "Odoo offers a modular architecture, allowing businesses to choose and customize the applications that fit their needs. As your business grows, you can easily add new apps to scale and adapt to changing requirements."
+    - title: Cost-Effective Business Management
+      description: "As an open-source solution, Odoo offers an affordable and flexible alternative to traditional ERP systems. Businesses can get started with basic modules and expand as needed, ensuring they only pay for what they use."
   screenshots:
     - /images/applications/crm-erp/odoo/screenshot-1.jpg
     - /images/applications/crm-erp/odoo/screenshot-2.jpg
