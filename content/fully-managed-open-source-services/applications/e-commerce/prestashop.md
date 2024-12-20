@@ -13,7 +13,7 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: E-commerce'
+    - name: E-commerce
       url: /fully-managed-open-source-services/applications/e-commerce
     - name: Prestashop
       url: /fully-managed-open-source-services/applications/e-commerce/prestashop
