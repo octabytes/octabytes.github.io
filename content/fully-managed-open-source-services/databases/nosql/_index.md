@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Explore 350+ Fully Managed Open-Source Software Solutions | OctaByte.io"
+title: "NoSQL - Fully managed open-source catalog | OctaByte.io"
 
 meta:
   description: Explore NoSQL database software on OctaByte, where we handle installation, backup, and maintenance, so you can focus on using your data.
