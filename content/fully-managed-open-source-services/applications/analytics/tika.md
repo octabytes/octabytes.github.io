@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Tika
-      url: /fully-managed-open-source-services/applications/tika
+      url: /fully-managed-open-source-services/applications/analytics/tika
 
 content:
   id: tika

@@ -1,24 +1,45 @@
 ---
 draft: false
-title: ApacheNiFi
+title: ApacheNiFi fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/automation/apachenifi/screenshot-1.jpg
+  description: Apache NiFi automates data movement between disparate systems, providing real-time control, secure communication, and comprehensive data tracking for seamless integration.
+  keywords: Apache NiFi, data flow automation, real-time data integration, data logistics, secure data transfer, data provenance, high throughput, low latency, scalable data management, data integration platform
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: ApacheNiFi
+      url: /fully-managed-open-source-services/applications/automation/apachenifi
+
 content:
   id: apachenifi
   name: ApacheNiFi
   logo: /images/applications/automation/apachenifi/logo.png
   website: https://nifi.apache.org/
   iframe_website: /website/applications/automation/apachenifi
-  dashboardImage: /images/applications/automation/apachenifi/screenshot-1.png
-  short_description: Apache NiFi automates the movement of data between disparate data sources and systems, making data ingestion fast, easy, and secure.
-  description: Apache NiFi is an integrated data logistics platform for automating the movement of data between disparate systems. It provides real-time control that makes it easy to manage the movement of data between any source and any destination. It is data source agnostic, supporting disparate and distributed sources of differing formats, schemas, protocols, speeds, and sizes such as machines, geo-location devices, click streams, files, social feeds, log files and videos, and more.
+  description: "Apache NiFi is a powerful, integrated data logistics platform designed to automate the movement and management of data across various systems. It offers real-time control over data flows, enabling seamless integration between disparate systems, regardless of format, schema, protocol, or size. Whether it's processing data from machines, geo-location devices, click streams, files, social feeds, log files, videos, or other sources, NiFi ensures smooth and efficient data movement. It supports various data sources, including those with different speeds and sizes, making it ideal for enterprises seeking a robust solution for managing complex data workflows.
+
+Apache NiFi also excels in providing data provenance tracking, offering a complete lineage of information from source to destination. With a browser-based user interface and extensive configuration options, it ensures a user-friendly experience for design, control, and monitoring of data flows. Moreover, its secure communication protocols and multi-tenant authorization capabilities make it a reliable choice for organizations looking for a scalable and secure data integration solution."
   features:
-    - title: Browser-based user interface
-      description: Seamless experience for design, control, feedback, and monitoring
-    - title: Data provenance tracking
-      description: Complete lineage of information from beginning to end
-    - title: Extensive configuration
-      description: Loss-tolerant and guaranteed delivery, Low latency and high throughput, Dynamic prioritization and Runtime modification of flow configuration
-    - title: Secure communication
-      description: HTTPS with configurable authentication strategies, Multi-tenant authorization, and policy management and Standard protocols for encrypted communication including TLS and SSH
+    - title: Browser-based User Interface
+      description: "Experience a seamless interface for designing, controlling, and monitoring data flows with real-time feedback."
+    - title: Data Provenance Tracking
+      description: "Ensure complete traceability with detailed information about the origin and movement of every piece of data."
+    - title: Extensive Configuration
+      description: "Benefit from guaranteed delivery, loss tolerance, low latency, high throughput, dynamic prioritization, and runtime flow configuration modification."
+    - title: Secure Communication
+      description: "Utilize HTTPS with customizable authentication strategies, multi-tenant authorization, and standard encrypted communication protocols like TLS and SSH."
+    - title: Data Source Agnostic
+      description: "Support a wide variety of data sources, including machines, click streams, social feeds, videos, and more, regardless of format, schema, or protocol."
+    - title: High Scalability
+      description: "Easily scale data flows across multiple systems with support for distributed environments and large datasets, making it ideal for enterprise-level applications."
   screenshots:
     - /images/applications/automation/apachenifi/screenshot-1.png
     - /images/applications/automation/apachenifi/screenshot-2.png

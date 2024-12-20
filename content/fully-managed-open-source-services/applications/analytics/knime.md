@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Knime
-      url: /fully-managed-open-source-services/applications/knime
+      url: /fully-managed-open-source-services/applications/analytics/knime
 
 content:
   id: knime

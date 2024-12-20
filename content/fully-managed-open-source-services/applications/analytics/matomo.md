@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Matomo
-      url: /fully-managed-open-source-services/applications/matomo
+      url: /fully-managed-open-source-services/applications/analytics/matomo
 
 content:
   id: matomo

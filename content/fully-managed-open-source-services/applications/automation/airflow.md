@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Airflow
+title: Airflow fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/automation/airflow/screenshot-1.jpg
+  description: Apache Airflow is an open-source platform to author, schedule, and monitor workflows. It simplifies task automation and orchestration using Python, making it highly scalable and flexible.
+  keywords: Apache Airflow, workflow automation, directed acyclic graph, DAGs, task scheduling, open-source platform, Python workflows, workflow orchestration, task monitoring, data pipelines, machine learning, data engineering, Airflow features
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Airflow
+      url: /fully-managed-open-source-services/applications/automation/airflow
+
 content:
   id: airflow
   name: Airflow
   logo: /images/applications/automation/airflow/logo.png
   website: https://airflow.apache.org/
   iframe_website: /website/applications/automation/airflow
-  dashboardImage: /images/applications/automation/airflow/screenshot-1.png
-  short_description: Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
-  description: When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative. Use Apache Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Apache Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
+  description: "Apache Airflow is a powerful open-source tool for managing complex workflows. With Airflow, workflows are defined as code (DAGs), making them maintainable, versionable, and testable. The Airflow scheduler executes tasks on a distributed set of workers, ensuring optimal performance while maintaining task dependencies. Its rich user interface allows users to monitor tasks in real-time, visualize pipelines, and troubleshoot any issues that arise. Whether you're working with data pipelines, machine learning models, or infrastructure management, Apache Airflow provides the flexibility to automate and streamline processes, making it an essential tool for modern data engineering."
   features:
     - title: Pure Python
-      description: No more command-line or XML black-magic! Use standard Python features to create your workflows, including date time formats for scheduling and loops to dynamically generate tasks. This allows you to maintain full flexibility when building your workflows.
+      description: "Leverage the power of Python to define and manage workflows with full flexibility. No need for complex command-line interfaces or XML-based configurations—just standard Python code, including date-time scheduling and task generation loops."
     - title: Useful UI
-      description: Monitor, schedule and manage your workflows via a robust and modern web application. No need to learn old, cron-like interfaces. You always have full insight into the status and logs of completed and ongoing tasks.
+      description: "Apache Airflow's modern web interface simplifies monitoring, scheduling, and managing workflows. It offers complete visibility into task statuses, logs, and progress, providing a streamlined user experience."
     - title: Robust Integrations
-      description: Apache Airflow provides many plug-and-play operators that are ready to execute your tasks on Google Cloud Platform, Amazon Web Services, Microsoft Azure and many other third-party services. This makes Apache Airflow easy to apply to current infrastructure and extend to next-gen technologies.
+      description: "Easily integrate with cloud platforms like Google Cloud, AWS, and Microsoft Azure. Apache Airflow comes with a range of pre-built operators for seamless execution across various services, ensuring compatibility with both legacy and cutting-edge technologies."
     - title: Easy to Use
-      description: Anyone with Python knowledge can deploy a workflow. Apache Airflow does not limit the scope of your pipelines; you can use it to build ML models, transfer data, manage your infrastructure, and more.
+      description: "With Python knowledge, users can deploy workflows effortlessly. Apache Airflow is not limited to simple task scheduling; it can be used for data transfers, machine learning pipelines, infrastructure management, and more."
+    - title: Scalable and Distributed
+      description: "Apache Airflow's distributed architecture allows tasks to run across a cluster of workers, offering scalability and resilience for large and complex workflows."
+    - title: Version Control and Testing
+      description: "Workflows in Apache Airflow are defined as code, making it easy to apply version control and automated testing. This ensures your workflows are maintainable, reliable, and adaptable over time."
   screenshots:
     - /images/applications/automation/airflow/screenshot-1.png
     - /images/applications/automation/airflow/screenshot-2.png

@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Fugu
-      url: /fully-managed-open-source-services/applications/fugu
+      url: /fully-managed-open-source-services/applications/analytics/fugu
 
 content:
   id: fugu

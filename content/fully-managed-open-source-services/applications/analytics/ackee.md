@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Ackee
-      url: /fully-managed-open-source-services/applications/ackee
+      url: /fully-managed-open-source-services/applications/analytics/ackee
 
 content:
   id: ackee

@@ -1,6 +1,23 @@
 ---
 draft: false
-title: N8N
+title: N8N fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/automation/n8n/screenshot-1.jpg
+  description: N8N is a no-code automation platform that connects over 200 apps, allowing seamless data transfer and workflow creation without writing a single line of code. Host it on your server for complete control and security.
+  keywords: N8N, workflow automation, no-code automation, app integration, data synchronization, open-source automation, API integration, task automation, custom workflows, data privacy, cloud automation, no-code platform, extendable automation
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: N8N
+      url: /fully-managed-open-source-services/applications/automation/n8n
+
 content:
   id: n8n
   name: N8N
@@ -8,18 +25,20 @@ content:
   website: https://n8n.io/
   iframe_website: /website/applications/automation/n8n
   direct_link: true
-  dashboardImage: /images/applications/automation/n8n/screenshot-1.jpg
-  short_description: n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.
-  description: n8n helps you to interconnect all apps with an API with each other to share and manipulate data without a single line of code. An easy-to-use and highly customizable service, it uses an intuitive user interface for rapidly designing unique workflows. Hosted on your server, it keeps your data secure in your own trusted database.
+  description: "N8N is an open-source workflow automation tool that empowers users to integrate over 200 apps and services to share and manipulate data without needing to write any code. Its easy-to-use, intuitive interface allows you to design custom workflows quickly and effortlessly. N8N is highly extendable, offering the ability to create custom nodes for third-party integrations, and it is backed by a supportive community and comprehensive documentation. With full control over data, you can run N8N on your own server or in the cloud, ensuring your information stays private and secure. Whether you're automating tasks across multiple apps or syncing data between services, N8N makes automation accessible and secure."
   features:
-    - title: Free and open
-      description: With its fair-code license, you can run n8n totally free. You can install it right from your computer’s terminal. It’s backed up to GitHub, so you can create your own fork and modify it to meet your needs.
-    - title: Easily extendable
-      description: n8n allows you to create your own nodes to integrate third-party services or in-house tools. You can learn from the community, plus docs and tutorials.
-    - title: Your data stays with you
-      description: You can run n8n locally or in the cloud, decide who gets access and maintain full control of your data.
-    - title: Sync data between 200+ apps
-      description: n8n enables you to move and transform data between different apps and databases without getting caught up in API docs and troubleshooting CORS errors.
+    - title: Free and Open
+      description: "Run N8N at no cost with its fair-code license. Easily install it on your computer or server, and create custom versions by forking the project on GitHub."
+    - title: Easily Extendable
+      description: "N8N allows you to create custom nodes for connecting third-party services or in-house tools, with full documentation and community support to help you get started."
+    - title: Your Data Stays with You
+      description: "Maintain full control over your data by hosting N8N locally or in the cloud, and decide who gets access to it—keeping your information secure and private."
+    - title: Sync Data Between 200+ Apps
+      description: "Seamlessly connect and synchronize data across a wide range of apps and databases, eliminating the need for complex API handling and troubleshooting errors."
+    - title: No Code Required
+      description: "N8N enables users to create complex workflows and automate tasks without any coding skills, making it ideal for non-technical users and developers alike."
+    - title: Customizable Workflows
+      description: "Build powerful workflows that meet your specific needs, leveraging N8N’s intuitive drag-and-drop interface for rapid creation and modification."
   screenshots:
     - /images/applications/automation/n8n/screenshot-1.jpg
     - /images/applications/automation/n8n/screenshot-2.jpg

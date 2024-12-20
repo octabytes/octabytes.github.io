@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Umami
-      url: /fully-managed-open-source-services/applications/umami
+      url: /fully-managed-open-source-services/applications/analytics/umami
 
 content:
   id: umami

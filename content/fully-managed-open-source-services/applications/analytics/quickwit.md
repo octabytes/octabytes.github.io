@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Quickwit
-      url: /fully-managed-open-source-services/applications/quickwit
+      url: /fully-managed-open-source-services/applications/analytics/quickwit
 
 content:
   id: quickwit

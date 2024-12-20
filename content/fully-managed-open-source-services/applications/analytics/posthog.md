@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: PostHog
-      url: /fully-managed-open-source-services/applications/posthog
+      url: /fully-managed-open-source-services/applications/analytics/posthog
 
 content:
   id: posthog

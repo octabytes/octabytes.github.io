@@ -16,7 +16,7 @@ meta:
     - name: Analytics
       url: /fully-managed-open-source-services/applications/analytics
     - name: Dremio
-      url: /fully-managed-open-source-services/applications/dremio
+      url: /fully-managed-open-source-services/applications/analytics/dremio
 
 content:
   id: dremio
