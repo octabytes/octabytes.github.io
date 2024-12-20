@@ -1,24 +1,43 @@
 ---
 draft: false
-title: BookStack
+title: BookStack fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/documentation/bookstack/screenshot-1.jpg
+  description: BookStack is a free, open-source wiki system that offers an intuitive, simple platform for organizing and managing documentation. Built on Laravel, it provides powerful features like full-text search, easy linking, and user authentication integration.
+  keywords: BookStack, open-source wiki, knowledge management, documentation, Laravel, PHP framework, full-text search, easy linking, authentication, GitHub, Google, Slack, enterprise wiki, SAML2, LDAP
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: BookStack
+      url: /fully-managed-open-source-services/applications/documentation/bookstack
+
 content:
   id: bookstack
   name: BookStack
   logo: /images/applications/documentation/bookstack/logo.png
   website: https://www.bookstackapp.com/
   iframe_website: /website/applications/documentation/bookstack
-  dashboardImage: /images/applications/documentation/bookstack/screenshot-1.jpg
-  short_description: BookStack is a platform to create documentation/wiki content built with PHP & Laravel.
-  description: BookStack is a free, open-source, opinionated wiki system that provides a pleasant, simple, out-of-the-box experience. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organize pages and store information. New users should find the experience intuitive. Only basic word-processing skills should be required to get involved in creating content on BookStack.
+  description: "BookStack is a user-friendly, open-source wiki system designed for both individual users and teams looking to create, organize, and manage documentation. Based on the Laravel PHP framework, BookStack delivers an intuitive experience for creating content, using the concept of books to structure and store pages. It offers full-text search functionality, the ability to connect content through links, and a simple interface that only requires basic word-processing skills to get started. Whether you need to manage personal knowledge or large-scale documentation, BookStack makes it easy to maintain and search your information. It also integrates seamlessly with authentication providers like GitHub, Google, and Slack, and offers advanced enterprise options like SAML2 and LDAP. Released under the MIT License, BookStack is lightweight enough to run on a low-cost VPS and provides an out-of-the-box solution for knowledge management."
   features:
-    - title: Searchable and connected
-      description: The content in BookStack is fully searchable. You are able to search at book level or across all books, chapters and pages. The ability to link directly to any paragraph allows you to keep your documentation connected.
-    - title: Simple requirements
-      description: BookStack is built using PHP, on top of the Laravel framework, and uses MySQL to store data. With performance in mind, it can run happily on a $5 Digital Ocean VPS.
-    - title: Powerful features
-      description: On top of the powerful search and linking, there is also cross-book sorting, page revisions and image management. A full role and permission system allows you to lock down content and actions as required.
-    - title: Integrated authentication
-      description: As well as the default email/password log-in, social providers such as GitHub, Google, Slack, AzureAD and more can be used. Okta, SAML2 and LDAP options are available for enterprise environments.
+    - title: Searchable and Connected
+      description: "BookStack's content is fully searchable, making it easy to find information across books, chapters, and pages. Direct linking to paragraphs ensures that documentation remains interconnected."
+    - title: Simple Requirements
+      description: "Built on the Laravel framework and using MySQL for data storage, BookStack can run efficiently on low-cost VPS hosting, making it accessible for users with minimal technical expertise."
+    - title: Powerful Features
+      description: "BookStack offers robust features such as cross-book sorting, page revisions, image management, and a comprehensive role and permission system to secure your content and control user actions."
+    - title: Integrated Authentication
+      description: "In addition to the standard email/password login, BookStack supports social logins through GitHub, Google, Slack, and AzureAD, and offers enterprise-grade authentication options like Okta, SAML2, and LDAP."
+    - title: Intuitive User Interface
+      description: "Designed for ease of use, BookStack's interface is simple and intuitive, allowing users to start creating and organizing content with minimal effort."
+    - title: Open-Source and Customizable
+      description: "Released under the MIT License, BookStack is free to use and open-source, allowing for customization and contributions from the community to further enhance its functionality."
   screenshots:
     - /images/applications/documentation/bookstack/screenshot-1.jpg
     - /images/applications/documentation/bookstack/screenshot-2.jpg

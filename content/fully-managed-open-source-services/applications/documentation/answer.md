@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Answer
+title: Answer fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/documentation/answer/screenshot-1.jpg
+  description: Answer is an open-source Q&A platform for building engaged communities, offering features like tagging, gamification, integrations, and more.
+  keywords: open-source knowledge base, Q&A community software, product support hub, customer support platform, user communication, community collaboration, gamified Q&A, knowledge management system, technical support community, FAQ platform, Q&A system
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Answer
+      url: /fully-managed-open-source-services/applications/documentation/answer
+
 content:
   id: answer
   name: Answer
   logo: /images/applications/documentation/answer/logo.png
   website: https://answer.dev/
   iframe_website: /website/applications/documentation/answer
-  dashboardImage: /images/applications/documentation/answer/screenshot-2.png
-  short_description: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-  description: An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+  description: "Answer is an open-source knowledge-based community software designed to foster collaboration and streamline communication within your organization or online community. Whether you’re building a product support hub, offering customer service, or enhancing user interaction, Answer empowers you to create a dynamic Q&A platform that is organized, interactive, and easy to manage. With features like real-time search, gamification, and seamless integrations, Answer enables you to provide your community with the tools they need to thrive. Boost participation, organize knowledge, and enhance productivity through a modern, user-friendly interface."
   features:
     - title: Q&A Platform
-      description: Help members with questions and boost community participation. Your experts are happy to contribute, verify, upvote correct info. Your info keeping up-to-date and trusted.
-    - title: Organized
-      description: Use tags to organize questions and help contents into categories. They make knowledge easy to find for others. Use the search to quickly find the answer.
-    - title: Integrations
-      description: Configure your community with plugins and your favorite services. So that you can improve your workflow, grow your community, or make your other tools better.
+      description: "Boost community participation by allowing members to ask questions, contribute answers, and upvote correct information. Keep your community's knowledge base up-to-date and reliable."
+    - title: Organized Knowledge Base
+      description: "Organize content using tags and categories to make it easy for community members to find the information they need. Advanced search functionality ensures quick access to answers."
+    - title: Seamless Integrations
+      description: "Integrate with your favorite services and plugins to enhance community engagement, improve workflows, and connect with other tools seamlessly."
     - title: Gamification
-      description: "We've gamified the Q&A platform with reputation and badges. So the community members and teams have fun collaborating and getting work done."
+      description: "Reward active community members with reputation points and badges, making collaboration fun and motivating them to contribute more effectively."
+    - title: Customizable Workflow
+      description: "Tailor your community's workflow to suit your needs with customizable options, empowering you to manage and interact with users on your terms."
+    - title: User Engagement & Analytics
+      description: "Track user activity and participation with built-in analytics. Understand engagement trends, monitor community health, and take actions that drive growth."
   screenshots:
     - /images/applications/documentation/answer/screenshot-2.png
 ---

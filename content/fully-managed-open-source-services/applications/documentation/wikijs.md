@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Wikijs
+title: Wikijs fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/documentation/wikijs/screenshot-1.jpg
+  description: Wiki.js is a free, open-source Node.js-based wiki engine for creating and managing knowledge bases with ease. It offers seamless authentication options and integrates with cloud platforms for easy deployment.
+  keywords: Wiki.js, open-source wiki engine, Node.js wiki, knowledge base, documentation platform, self-hosted wiki, DigitalOcean, AWS, authentication, LDAP, SAML, OAuth2, 2FA security
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Wikijs
+      url: /fully-managed-open-source-services/applications/documentation/wikijs
+
 content:
   id: wikijs
   name: Wikijs
   logo: /images/applications/documentation/wikijs/logo.png
   website: https://js.wiki/
   iframe_website: /website/applications/documentation/wikijs
-  dashboardImage: /images/applications/documentation/wikijs/screenshot-1.jpg
-  short_description: Wikijs is a powerful open-source wiki app built on Node.js, Git and Markdown.
-  description: Wiki.js, a wiki engine running on Node.js and written in JavaScript, is free software released under the Affero GNU General Public License. It is available as a self-hosted solution or using single-click install on the DigitalOcean and AWS marketplace
+  description: "Wiki.js is a powerful, open-source wiki engine built on Node.js and written in JavaScript. This versatile platform is designed to help teams, businesses, and individuals create and manage knowledge bases and documentation with ease. Released under the Affero GNU General Public License, Wiki.js is a self-hosted solution that offers flexibility, robust features, and seamless integrations. You can also deploy Wiki.js using one-click installations on popular cloud platforms like DigitalOcean and AWS, making it the perfect choice for both developers and organizations looking to centralize their information management."
   features:
-    - title: Local authentication
-      description: Wikijs has built-in authentication with self-registration and password recovery capabilities.
-    - title: Social authentication
-      description: Wikijs uses third-party authentication services like Google, Facebook, Microsoft, GitHub, Discord, Slack and more.
-    - title: Enterprise authentication
-      description: "Wikijs allows you to integrate with your company's authentication using LDAP, SAML, CAS, Auth0, Okta, Azure AD and more. Generic OAuth2 and OpenID Connect modules are also included."
-    - title: Extra 2FA security
-      description: You can add an extra layer of security using two-factor authentication for supported authentication modules.
+    - title: Local Authentication
+      description: "Wiki.js provides built-in local authentication with easy self-registration and password recovery, ensuring secure access control for your knowledge base."
+    - title: Social Authentication
+      description: "Enhance the user experience by allowing third-party authentication via popular services such as Google, Facebook, Microsoft, GitHub, Discord, Slack, and more."
+    - title: Enterprise Authentication Integration
+      description: "Seamlessly integrate Wiki.js with your enterprise authentication system using LDAP, SAML, CAS, Auth0, Okta, Azure AD, and other authentication protocols."
+    - title: Two-Factor Authentication (2FA)
+      description: "Add an extra layer of security by enabling two-factor authentication (2FA) for supported authentication methods to protect sensitive information."
+    - title: Customizable User Permissions
+      description: "Wiki.js provides fine-grained control over user permissions, allowing administrators to define specific access levels for different groups and users."
+    - title: Markdown and WYSIWYG Editing
+      description: "Enjoy a user-friendly interface with the flexibility of Markdown or a visual WYSIWYG editor, making content creation and editing simple for all users."
   screenshots:
     - /images/applications/documentation/wikijs/screenshot-1.jpg
     - /images/applications/documentation/wikijs/screenshot-2.jpg

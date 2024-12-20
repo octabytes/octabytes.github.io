@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Cells
+title: Cells fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/documentation/cells/screenshot-1.jpg
+  description: Pydio Cells is a self-hosted document sharing and collaboration platform, offering fast performance, robust security, and advanced workflow automation for businesses and organizations.
+  keywords: Pydio Cells, document sharing, file management, document collaboration, self-hosted platform, secure file sharing, enterprise SSO, workflow automation, file transfer, collaboration spaces, secure document access, OpenID Connect
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Cells
+      url: /fully-managed-open-source-services/applications/documentation/cells
+
 content:
   id: cells
   name: Cells
   logo: /images/applications/documentation/cells/logo.png
   website: https://pydio.com/en
   iframe_website: /website/applications/documentation/cells
-  dashboardImage: /images/applications/documentation/cells/screenshot-1.png
-  short_description: Pydio Cells is the Document Sharing, Management, and Collaboration platform.
-  description: Pydio Cells is the Document Sharing, Management, and Collaboration platform. it gives you full control of your documents and files – combining fast performance, huge file transfer sizes, granular security, and advanced workflow automation in a single, powerful platform.
+  description: "Pydio Cells is a cutting-edge Document Sharing, Management, and Collaboration platform that provides full control over your documents and files. It combines high-speed performance, massive file transfer capabilities, granular security features, and advanced workflow automation in one powerful platform. With Pydio Cells, organizations can securely manage and share documents while ensuring compliance and streamlining collaboration among teams, both internal and external. The platform is built to meet the needs of modern businesses that require flexible and secure document management solutions without compromising on performance."
   features:
     - title: Pydio Cells Document Sharing & Collaboration
-      description: Pydio Cells is an open-core, self-hosted Document Sharing and Collaboration platform (DSC) specifically designed for organizations that need advanced document sharing and collaboration without security trade-offs or compliance issues.
+      description: "Pydio Cells provides an open-core, self-hosted solution for document sharing and collaboration, designed for organizations requiring secure, compliant, and high-performance document management."
     - title: Collaborate Efficiently
-      description: Work together in real-time on all common document formats directly in your browser, using Collabora Online Office Suite or OnlyOffice. Create your own collaboration spaces. Invite people to join, and share documents between them. Realtime chat right in Pydio no need for side channels or DM software.
+      description: "Enable real-time collaboration on common document formats directly in your browser using Collabora Online Office Suite or OnlyOffice. Create collaboration spaces, invite others, and share documents with ease. Enjoy integrated real-time chat within Pydio without relying on external messaging software."
     - title: Centralize Document Access
-      description: Centralize your files in easy-to-organize Workspaces and Cells then access your data from any device. Share files and folders securely with internal or external collaborators in just a few clicks.
+      description: "Pydio Cells allows you to centralize all your files in easily organized Workspaces and Cells, making it simple to access your data from any device. Share files securely with internal and external collaborators in just a few clicks."
     - title: Designed for Security
-      description: Safe and simple authentication-based with almost any enterprise SSO via OpenID Connect. Define and assign access rules per user or groups, based on IP addresses, location, time, and more.
+      description: "Pydio Cells offers robust, authentication-based security, integrating with nearly any enterprise Single Sign-On (SSO) solution via OpenID Connect. Access rules can be customized per user or group, with fine-grained control over factors like IP addresses, location, and time of access."
+    - title: Massive File Transfer Sizes
+      description: "With Pydio Cells, transfer large files quickly and efficiently, ensuring seamless document sharing without the limitations often found in other platforms."
+    - title: Advanced Workflow Automation
+      description: "Automate document workflows with Pydio Cells' advanced automation features. From file approvals to task assignments, simplify your operations and improve productivity."
   screenshots:
     - /images/applications/documentation/cells/screenshot-1.png
     - /images/applications/documentation/cells/screenshot-2.png
