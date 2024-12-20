@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Pleroma
+title: Pleroma fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/fediverse/pleroma/screenshot-1.jpg
+  description: Pleroma is a decentralized microblogging server that supports the ActivityPub protocol, offering privacy, lightweight performance, and easy federation with other platforms.
+  keywords: Pleroma, microblogging software, decentralized social network, ActivityPub, federated platforms, Mastodon, privacy-focused, lightweight social media, open source social network, self-hosted social network
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Pleroma
+      url: /fully-managed-open-source-services/applications/fediverse/pleroma
+
 content:
   id: pleroma
   name: Pleroma
   logo: /images/applications/fediverse/pleroma/logo.png
   website: https://pleroma.social/
   iframe_website: /website/applications/fediverse/pleroma
-  dashboardImage: /images/applications/fediverse/pleroma/screenshot-1.png
-  short_description: A microblogging server software that can federate other servers that support ActivityPub. it will federate with all servers like Friendica, GNU Social, Hubzilla, Mastodon, Misskey, Peertube, and Pixelfed.
-  description: Pleroma is microblogging server software that can federate (= exchange messages with) other servers that support ActivityPub. What that means is that you can host a server for yourself or your friends and stay in control of your online identity, but still exchange messages with people on larger servers. Pleroma will federate with all servers that implement ActivityPub, like Friendica, GNU Social, Hubzilla, Mastodon, Misskey, Peertube, and Pixelfed.
+  description: "Pleroma is a powerful, decentralized microblogging server software that empowers individuals and communities to host their own social networks. Built with the ActivityPub protocol, Pleroma allows users to control their online identity while still interacting seamlessly with users on larger federated platforms like Mastodon, Misskey, and Pixelfed. Whether you're hosting a private server for friends or connecting with a wider community, Pleroma puts you in charge of your social experience. With a focus on privacy, lightweight performance, and support for an open protocol, Pleroma provides the freedom and flexibility that centralized platforms can't match."
   features:
-    - title: Decentralized
-      description: Pleroma is based on a decentralized infrastructure with no single entity controlling it.
+    - title: Decentralized Infrastructure
+      description: "Pleroma is designed around a decentralized architecture, meaning there is no single entity controlling your data or online interactions. This ensures greater autonomy and privacy for its users."
     - title: Support for ActivityPub
-      description: Pleroma supports ActivityPub, an open and decentralized social network protocol.
-    - title: Lightweight
-      description: Pleroma consumes fewer device resources compared to similar apps.
-    - title: Miscellaneous
-      description: Markdown Support, No Tracking,  Ad-free, Dark Mode and Privacy focused
+      description: "Pleroma fully supports the ActivityPub protocol, enabling seamless communication with other federated platforms like Mastodon, Friendica, and more. This allows for a truly open, interconnected social network."
+    - title: Lightweight Performance
+      description: "Unlike other social networking platforms, Pleroma consumes fewer resources, making it ideal for users who need a fast, efficient, and responsive experience without overloading their devices."
+    - title: Markdown Support
+      description: "Pleroma supports Markdown for easy formatting of posts and content. This feature enhances the user experience by making content creation both simple and visually appealing."
+    - title: Privacy-Focused
+      description: "With no tracking and no ads, Pleroma prioritizes your privacy. It ensures that your personal data is never sold or shared, giving you a truly private space to communicate and engage with others."
+    - title: Customizable UI
+      description: "Pleroma offers a dark mode and a clean, customizable user interface, ensuring that users can personalize their experience for comfort and ease of use while maintaining a sleek design."
   screenshots:
     - /images/applications/fediverse/pleroma/screenshot-1.png
     - /images/applications/fediverse/pleroma/screenshot-2.png

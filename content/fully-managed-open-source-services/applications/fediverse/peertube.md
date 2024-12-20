@@ -1,24 +1,45 @@
 ---
 draft: false
-title: PeerTube
+title: PeerTube fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/fediverse/peertube/screenshot-1.jpg
+  description: PeerTube is an open-source, decentralized video platform that empowers users to host and share content while promoting freedom, privacy, and community-based moderation.
+  keywords: PeerTube, decentralized video platform, open-source video hosting, federated video platform, free video sharing, alternative to YouTube, ActivityPub, community-driven video hosting, video privacy, open-source software
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: PeerTube
+      url: /fully-managed-open-source-services/applications/fediverse/peertube
+
 content:
   id: peertube
   name: PeerTube
   logo: /images/applications/fediverse/peertube/logo.png
   website: https://joinpeertube.org/
   iframe_website: /website/applications/fediverse/peertube
-  dashboardImage: /images/applications/fediverse/peertube/screenshot-1.png
-  short_description: Free software to take back control of your videos for the Fediverse
-  description: PeerTube is the free and decentralized alternative to video platforms, providing you over 600,000 videos published by 150,000 users and viewed over 70 million times.
+  description: "PeerTube offers a powerful and decentralized alternative to centralized video platforms like YouTube, providing users with over 600,000 videos from more than 150,000 creators. With over 70 million views, PeerTube is revolutionizing the way we watch and share videos. Unlike traditional video platforms, PeerTube allows individuals to host their own video servers, known as instances, which are interconnected in a global federation. This decentralized approach ensures freedom of content, privacy for users, and a fairer system free from targeted ads and data tracking.
+
+PeerTube is built with open-source, libre technology and is governed by a free and transparent licensing model. It enables video creators to choose their hosting providers based on values such as privacy, transparency, and fairness, giving them full control over their content. PeerTube is also integrated with ActivityPub, allowing seamless interaction with other federated platforms like Mastodon, creating a vibrant and interconnected online community. With PeerTube, video sharing is no longer controlled by large corporations, but instead is a community-driven, open platform that empowers users to create, share, and enjoy videos on their terms."
   features:
-    - title: A federation of interconnected hosting services
-      description: PeerTube is not meant to become a huge platform that would centralize videos from all around the world. Anyone with a modicum of technical skills can host a PeerTube server, aka an instance. Each instance hosts its users and their videos. In this way, every instance is created, moderated and maintained independently by various administrators.
-    - title: This is just how a federation works!
-      description: "PeerTube uses ActivityPub, a federating protocol that allows you to interact with other software, provided they also use this protocol. For example, PeerTube and Mastodon -a Twitter alternative- are connected: you can follow a PeerTube user from Mastodon (the latest videos from the PeerTube account you follow will appear in your feed), and even comment on a PeerTube-hosted video directly from your Mastodon's account."
-    - title: Open-source, free/libre license code
-      description: Mainstream online video broadcasting services make money off of your data by analyzing your interactions so that they can then bombard your with targeted advertising.
-    - title: Are you a video maker?
-      description: "With PeerTube, choose your hosting company and the rules you believe in. YouTube has clearly gone astray: its hoster, Google-Alphabet, can enforce its ContentID system (the infamous 'Robocopyright') or its videos recommendation system, all of which appear to be as obscure as unfair."
+    - title: A Federation of Interconnected Hosting Services
+      description: "PeerTube is designed to be a decentralized network of video hosting services. Anyone with technical skills can host their own PeerTube instance, creating a community-run platform where each instance is independently managed by administrators. This decentralized structure ensures diversity and reduces the risk of censorship."
+    - title: This is Just How a Federation Works!
+      description: "PeerTube uses the ActivityPub protocol, which allows it to federate with other compatible platforms. This means you can interact with users on Mastodon and other federated services. PeerTube users can follow accounts, view videos, and comment across the federated network, enhancing the community experience."
+    - title: Open-Source, Free/Libre License Code
+      description: "PeerTube is committed to freedom and privacy. Unlike proprietary video platforms, it operates under an open-source, free/libre license, meaning the source code is publicly available and can be audited. This ensures transparency, allowing users to trust that their data and interactions are not being exploited for targeted advertising."
+    - title: Are You a Video Maker?
+      description: "PeerTube offers video creators the freedom to choose a hosting provider that aligns with their values. Unlike YouTube, which enforces a centralized system for content control, PeerTube gives creators autonomy over their content, avoiding censorship and the controversial 'Robocopyright' system."
+    - title: No Ads, Just Content
+      description: "PeerTube eliminates intrusive ads and data tracking, offering a clean, user-friendly experience. By using a decentralized model, PeerTube ensures that content creators retain control over monetization and that viewers enjoy an uninterrupted viewing experience."
+    - title: Privacy-Focused Platform
+      description: "With PeerTube, your data is never sold to advertisers. The decentralized nature of the platform means there is no central authority tracking your activity. This ensures a more private, secure environment for both content creators and viewers, prioritizing user autonomy and confidentiality."
   screenshots:
     - /images/applications/fediverse/peertube/screenshot-1.png
     - /images/applications/fediverse/peertube/screenshot-2.png

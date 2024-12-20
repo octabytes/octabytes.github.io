@@ -4,7 +4,7 @@ title: "Email marketing - Fully managed open-source catalog | OctaByte.io"
 
 meta:
   description: Effortlessly manage email marketing campaigns with OctaByte's open-source email marketing software and fully managed services.
-  keywords: open-source email marketing software, email marketing tools, email automation, subscriber management, campaign analytics, managed email services, hassle-free email marketing, OctaByte email software, fully managed services, email software installation, email marketing backup.
+  keywords: open-source email marketing software, email marketing tools, email automation, subscriber management, campaign analytics, managed email services, hassle-free email marketing, OctaByte email software, fully managed services, email software installation, email marketing backup
   breadcrumb:
     - name: Home
       url: /
