@@ -4,8 +4,8 @@ title: Kanboard fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/kanboard/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: description
+  keywords: keywords
   breadcrumb:
     - name: Home
       url: /
@@ -24,9 +24,30 @@ content:
   logo: /images/applications/project-management/kanboard/logo.png
   website: https://kanboard.org/
   iframe_website: /website/applications/project-management/kanboard
-  dashboardImage: /images/applications/project-management/kanboard/screenshot-1.png
-  short_description: Kanban project management software
-  description: Kanban project management software
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/applications/project-management/kanboard/screenshot-1.png
+    - /images/applications/project-management/kanboard/screenshot-2.png
+---
+
+Write seo optimizaed content for "Kanboard" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+
+description: Kanban project management software
   features:
     - title: Drag and drop tasks between columns easily and
       description: You can add, rename, and remove columns at any time to adapt the board to your project with automated workflow actions.
@@ -36,7 +57,4 @@ content:
       description: Kanboard has a very simple query language that offers the flexibility to find tasks in no time. Dynamically apply custom filters on the board to find what you need. Search by assignees, description, categories, due date, etc.
     - title: Tasks, subtasks, attachments and comments
       description: Break down a task into sub-tasks, and estimate the time or the complexity. Describe your task by using Markdown syntax. Add comments, and documents, change the color, the category, the assignee, and the due date. Move or duplicate your tasks across projects with one click.
-  screenshots:
-    - /images/applications/project-management/kanboard/screenshot-1.png
-    - /images/applications/project-management/kanboard/screenshot-2.png
----
+```

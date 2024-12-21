@@ -4,8 +4,8 @@ title: Vaultwarden fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/password-manager/yourls/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: Vaultwarden is a lightweight, open-source alternative to Bitwarden, designed for self-hosted deployments. Built in Rust, it offers secure password management with enterprise-grade encryption and full compatibility with Bitwarden clients.
+  keywords: Vaultwarden, Bitwarden, open-source password manager, self-hosted password manager, end-to-end encryption, Rust password manager, GDPR, HIPAA, password security, lightweight password manager, enterprise-grade security, open-source password manager
   breadcrumb:
     - name: Home
       url: /
@@ -25,18 +25,20 @@ content:
   website: https://github.com/dani-garcia/vaultwarden
   iframe_website: /website/applications/password-manager/vaultwarden
   direct_link: true
-  dashboardImage: /images/applications/password-manager/vaultwarden/screenshot-1.jpg
-  short_description: Vaultwarden is an open-source password management application that can be self-hosted and run on your infrastructure.
-  description: "Vaultwarden is an unofficial Bitwarden server implementation written in Rust. It's compatible with the official Bitwarden clients, and is ideal for self-hosted deployments where running the official resource-heavy service is undesirable. Development of features that are mainly useful to larger organizations (e.g. single sign-on, directory syncing, etc) is not a priority."
+  description: "Vaultwarden is an unofficial, self-hosted server implementation of Bitwarden, created in Rust for users seeking a lightweight, resource-efficient solution for managing passwords. Ideal for self-hosted environments, it provides all the functionality of Bitwarden without the heavy resource consumption of the official server. Vaultwarden is fully compatible with Bitwarden's clients, making it a seamless choice for individuals and teams looking for a secure, self-hosted password manager. Although focused on individual and small to medium deployments, Vaultwarden ensures high security with features like end-to-end encryption and compliance with major privacy regulations like GDPR and HIPAA. Vaultwarden’s open-source nature ensures transparency and continuous improvements from the global development community, making it a reliable and secure choice for anyone looking to protect their digital identity."
   features:
-    - title: Secure passwords from any location or device
-      description: Vaultwarden gives you power to create and manage unique passwords, so you can strengthen privacy and boost productivity online from any device or location.
-    - title: Enterprise-grade security and compliance
-      description: You can protect your online data using a password manager you can trust. Vaultwarden conducts regular third-party security audits and is compliant with Privacy Shield, HIPAA, GDPR, CCPA, and SOC 2 security standards.
-    - title: End-to-end encryption
-      description: Your private information is protected with end-to-end encryption before it leaves your device.
-    - title: Open-source transparency
-      description: Bitwarden source code, features and infrastructure security are vetted and improved by the global community.
+    - title: Secure Passwords from Any Location or Device
+      description: "Vaultwarden enables you to create and manage unique passwords, ensuring that your privacy is maintained and productivity is enhanced, whether you're using a smartphone, tablet, or desktop."
+    - title: Enterprise-Grade Security and Compliance
+      description: "Vaultwarden provides robust security with third-party security audits and ensures compliance with global security standards like Privacy Shield, HIPAA, GDPR, CCPA, and SOC 2."
+    - title: End-to-End Encryption
+      description: "Your sensitive data is protected at all times with Vaultwarden’s end-to-end encryption, which ensures that your information is encrypted before it ever leaves your device."
+    - title: Open-Source Transparency
+      description: "As an open-source project, Vaultwarden's code, infrastructure, and security measures are reviewed and improved by a global community of developers, ensuring continuous enhancements and transparency."
+    - title: Low Resource Consumption
+      description: "Unlike the official Bitwarden server, Vaultwarden is optimized to run with minimal system resources, making it perfect for self-hosted deployments without the need for heavy infrastructure."
+    - title: Full Compatibility with Bitwarden Clients
+      description: "Vaultwarden integrates seamlessly with all official Bitwarden clients, allowing you to access and manage your passwords securely across a range of platforms and devices."
   screenshots:
     - /images/applications/password-manager/vaultwarden/screenshot-1.jpg
     - /images/applications/password-manager/vaultwarden/screenshot-2.jpg

@@ -4,8 +4,8 @@ title: Wekan fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/wekan/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: description
+  keywords: keywords
   breadcrumb:
     - name: Home
       url: /
@@ -24,9 +24,30 @@ content:
   logo: /images/applications/project-management/wekan/logo.png
   website: https://wekan.github.io/
   iframe_website: /website/applications/project-management/wekan
-  dashboardImage: /images/applications/project-management/wekan/screenshot-1.png
-  short_description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.
-  description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/applications/project-management/wekan/screenshot-1.png
+    - /images/applications/project-management/wekan/screenshot-2.png
+---
+
+Write seo optimizaed content for "Wekan" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+
+description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.
   features:
     - title: Boards
       description: "You can make many boards for different projects or tasks. Each board can have columns to show the different stages of your work, such as 'To Do,' 'Doing,' and 'Done.' You can also add cards to each board to represent tasks, with titles, descriptions, and due dates. WeKan helps you keep track of your tasks and projects visually, so you can see what needs to be done and what has been completed."
@@ -36,7 +57,4 @@ content:
       description: A card represents a task on a Kanban board. It includes a title, description, due date, labels, and comments. To create a new card, choose the board and column, and add the relevant details. As work progresses, move the card from one column to another. Cards can be customized by adding labels, files, and checklists. You can also comment on cards to provide updates or feedback.
     - title: Security
       description: WeKan is designed with security in mind, and its features and options are built to help you protect your data and keep it secure.
-  screenshots:
-    - /images/applications/project-management/wekan/screenshot-1.png
-    - /images/applications/project-management/wekan/screenshot-2.png
----
+```

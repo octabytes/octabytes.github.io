@@ -4,8 +4,8 @@ title: Plane fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/plane/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: description
+  keywords: keywords
   breadcrumb:
     - name: Home
       url: /
@@ -24,9 +24,29 @@ content:
   logo: /images/applications/project-management/plane/logo.png
   website: https://plane.so/
   iframe_website: /website/applications/project-management/plane
-  dashboardImage: /images/applications/project-management/plane/screenshot-1.webp
-  short_description: An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind
-  description: Plane is a simple, extensible, open-source project and product management tool. It allows users to start with a basic task-tracking tool and gradually adopt various project management frameworks like Agile, Waterfall, and many more.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/applications/project-management/plane/screenshot-1.webp
+    - /images/applications/project-management/plane/screenshot-2.webp
+---
+
+Write seo optimizaed content for "Plane" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: Plane is a simple, extensible, open-source project and product management tool. It allows users to start with a basic task-tracking tool and gradually adopt various project management frameworks like Agile, Waterfall, and many more.
   features:
     - title: Issue Planning and Tracking
       description: Quickly create issues and add details using a powerful rich text editor that supports file uploads. Add sub-properties and references to issues for better organization and tracking.
@@ -36,7 +56,5 @@ content:
       description: Customize your project view with your preferred layout - choose from List, Kanban, or Calendar to visualize your project in a way that makes sense to you.
     - title: Cycles
       description: "Plan sprints with Cycles to keep your team on track and productive. Gain insights into your project's progress with burn-down charts and other useful features."
-  screenshots:
-    - /images/applications/project-management/plane/screenshot-1.webp
-    - /images/applications/project-management/plane/screenshot-2.webp
----
+
+```

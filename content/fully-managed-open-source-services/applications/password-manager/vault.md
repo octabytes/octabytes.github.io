@@ -4,8 +4,8 @@ title: Vault fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/password-manager/yourls/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: Vault is an open-source secrets management tool that securely stores, encrypts, and generates secrets. It provides access control, audit logging, and dynamic secret generation for enhanced security.
+  keywords: Vault, secrets management, secure secret storage, API key protection, password management, data encryption, dynamic secrets, access control, audit logs, secure storage, secret access, encryption tool
   breadcrumb:
     - name: Home
       url: /
@@ -24,18 +24,22 @@ content:
   logo: /images/applications/password-manager/vault/logo.png
   website: https://www.vaultproject.io/
   iframe_website: /website/applications/password-manager/vault
-  dashboardImage: /images/applications/password-manager/vault/screenshot-1.png
-  short_description: Vault is a tool for secrets management, encryption as a service, and privileged access management
-  description: Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.
+  description: "Vault is a powerful, open-source tool designed to securely manage secrets and protect sensitive data across your infrastructure. Secrets can include API keys, passwords, certificates, or any other piece of information that needs to be tightly controlled. Vault offers a unified interface to manage secrets while ensuring robust access control mechanisms and maintaining detailed audit logs for compliance. Whether you are looking to securely store secrets, generate dynamic secrets on-demand, or encrypt data without worrying about key management, Vault provides comprehensive solutions to meet your security needs.
+
+With Vault, you gain the ability to manage secrets securely, enforce tight access policies, and automate the revocation and renewal of sensitive data. This not only strengthens your security posture but also streamlines secret management processes, enabling both developers and security teams to focus on what matters most."
   features:
     - title: Secure Secret Storage
-      description: "Arbitrary key/value secrets can be stored in Vault. Vault encrypts these secrets prior to writing them to persistent storage, so gaining access to the raw storage isn't enough to access your secrets."
+      description: "Vault allows for secure storage of arbitrary key/value secrets, encrypting them before writing to persistent storage. This ensures that even if attackers gain access to the raw storage, they cannot retrieve the sensitive data."
     - title: Dynamic Secrets
-      description: Vault can generate secrets on-demand for some systems, such as AWS or SQL databases
+      description: "Vault can generate secrets on-demand for various systems, including AWS and SQL databases. This feature enhances security by reducing the risk of long-lived secrets and ensuring that secrets are created only when needed."
     - title: Data Encryption
-      description: Vault can encrypt and decrypt data without storing it. This allows security teams to define encryption parameters and developers to store encrypted data in a location such as a SQL database without having to design their own encryption methods.
+      description: "Vault enables encryption and decryption of data without storing the data itself. This feature allows developers to store encrypted data in external locations, like SQL databases, without needing to build custom encryption methods."
     - title: Leasing and Renewal
-      description: All secrets in Vault have a lease associated with it. At the end of the lease, Vault will automatically revoke that secret. Clients are able to renew leases via built-in renew APIs.
+      description: "Secrets in Vault are associated with leases that automatically expire after a set period. Vault supports automatic secret revocation, and clients can renew leases via built-in APIs to maintain access securely."
+    - title: Audit Logging
+      description: "Vault maintains detailed audit logs for all operations, allowing you to track secret access and ensure compliance with organizational security policies. These logs are essential for reviewing actions and identifying any unauthorized access attempts."
+    - title: Access Control Policies
+      description: "Vault allows administrators to define fine-grained access policies for who can access what secrets and under which circumstances. This ensures that only authorized users or applications can access sensitive data."
   screenshots:
     - /images/applications/password-manager/vault/screenshot-1.png
     - /images/applications/password-manager/vault/screenshot-2.png

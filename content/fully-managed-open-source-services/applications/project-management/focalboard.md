@@ -4,8 +4,8 @@ title: FocalBoard fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/focalboard/screenshot-1.jpg
-  description: "description"
-  keywords: "keywords"
+  description: description
+  keywords: keywords
   breadcrumb:
     - name: Home
       url: /
@@ -24,9 +24,29 @@ content:
   logo: /images/applications/project-management/focalboard/logo.png
   website: https://www.focalboard.com/
   iframe_website: /website/applications/project-management/focalboard
-  dashboardImage: /images/applications/project-management/focalboard/screenshot-1.jpeg
-  short_description: Project & Task Management for Software Development Teams
-  description: Focalboard is an open source alternative to tools like Asana, Trello, and Notion. Available as a stand-alone application or integrated into the Mattermost platform, Focalboard helps developers stay aligned to complete tasks, reach milestones, and achieve their goals.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/applications/project-management/focalboard/screenshot-1.jpeg
+    - /images/applications/project-management/focalboard/screenshot-2.jpeg
+---
+
+Write seo optimizaed content for "FocalBoard" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: Focalboard is an open source alternative to tools like Asana, Trello, and Notion. Available as a stand-alone application or integrated into the Mattermost platform, Focalboard helps developers stay aligned to complete tasks, reach milestones, and achieve their goals.
   features:
     - title: Organizing everything in cards
       description: Lists and cards are the building blocks of organizing work on a FocalBoard board. Grow from there with task assignments, timelines, productivity metrics, calendars, and more.
@@ -36,7 +56,5 @@ content:
       description: The tool is offered in two versions depending on your needs. In a personal setting, you can download the application directly from the Microsoft and Apple App Store or use the desktop version on Linux. In the context of collaborative projects, Focalboard has a version to install on a personal server.
     - title: Collaboration Focused
       description: As a collaboration tool, Focalboard lets users invite others to their digital workspace. It also alerts collaborators when any changes are made to tasks within the program. The program also displays personal tasks to other team members, and allows for comments on tasks. Focalboard is where task management and collaboration features meet.
-  screenshots:
-    - /images/applications/project-management/focalboard/screenshot-1.jpeg
-    - /images/applications/project-management/focalboard/screenshot-2.jpeg
----
+
+```
