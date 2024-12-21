@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Mapzy
+title: Mapzy fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/mapzy/screenshot-1.jpg
+  description: Mapzy lets you add a stunning, code-free store locator to your website. It's simple, mobile-friendly, and privacy-conscious, offering both a managed service and self-hosting option.
+  keywords: store locator, website store map, privacy-friendly map, no-code store locator, GDPR compliant map, open-source locator, self-hostable map, map integration for websites, location map for websites, store locator plugin
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Mapzy
+      url: /fully-managed-open-source-services/applications/others/mapzy
+
 content:
   id: mapzy
   name: Mapzy
@@ -8,18 +25,22 @@ content:
   website: https://mapzy.io/
   iframe_website: /website/applications/others/mapzy
   direct_link: true
-  dashboardImage: /images/applications/others/mapzy/screenshot-1.png
-  short_description: A simple, self-hostable store finder that cares about your privacy.
-  description: "With Mapzy, you can add a beautiful store locator to your website without touching a line of code. It's simple, looks great on every device and doesn't invade your privacy."
+  description: "Mapzy is the ultimate solution for adding a beautiful and functional store locator to your website without writing a single line of code. Designed for simplicity and elegance, Mapzy works seamlessly across all devices, providing a smooth and intuitive experience for both you and your customers. Whether you're using WordPress, Shopify, Webflow, or Squarespace, Mapzy easily integrates into any website, offering a hassle-free way to display your store locations.
+
+With privacy at the forefront, Mapzy ensures that your customers' data remains safe and secure. It adheres to strict GDPR compliance and avoids intrusive cookie pop-ups, making it a great choice for businesses focused on maintaining customer trust. Plus, with its open-source nature, you can choose to self-host the application or use the managed version, hosted sustainably on renewable energy."
   features:
-    - title: Simple and pretty
-      description: "We've designed Mapzy so that it looks great on every device and website. It's also very simple to use: your customers won't get lost in a myriad of unnecessary features. Mapzy does a few things, but does them really well."
-    - title: No code required
-      description: "Using the Mapzy dashboard, you can create your store locator in mere minutes without touching a line of code. Installing your map on your own website is also a piece of cake: just copy one line to your website and it's live! Mapzy works on every website - Wordpress, Shopify, Webflow, Squarespace - anything, really."
-    - title: Privacy-friendly and GDPR compliant
-      description: "We've built Mapzy with privacy in mind. We only set one essential cookie, we don't track your visitors and never will. It's worth noting that our mapping service provider - Mapbox - collects some anonymous technical data, that we can not disable. Learn more in our privacy policy. Mapzy is also fully compliant with GDPR, so you don't have to show an ugly cookie pop-up to your customers."
-    - title: Open-source and self-hostable
-      description: "Mapzy's source code is fully open-source and available on GitHub. The managed version of Mapzy is hosted on a data center in Frankfurt, Germany, which is powered by 100% renewable energy. But if you like, you can also host it yourself for free with the same features and without any restrictions. If you're a developer, you're very welcome to contribute to Mapzy, too!"
+    - title: Simple and Beautiful Design
+      description: "Mapzy is crafted to look stunning on any device, with a minimalistic design that ensures a clean and easy-to-navigate experience for your customers. Its intuitive interface guarantees that your store locator complements your website, not complicates it."
+    - title: No Code Required
+      description: "Getting started with Mapzy is a breeze. Create your store locator in minutes with the Mapzy dashboard, no coding necessary. Adding the map to your website is as easy as copying a single line of code, making it a user-friendly solution for non-developers and developers alike."
+    - title: Privacy-Friendly and GDPR Compliant
+      description: "Your customers’ privacy is our priority. Mapzy does not track users, only sets one essential cookie, and is fully GDPR compliant. You won’t need to worry about intrusive cookie pop-ups, allowing you to provide a smoother, more respectful user experience."
+    - title: Open-Source and Self-Hostable
+      description: "Mapzy’s source code is open-source, available on GitHub, and fully customizable. You have the option to self-host it for free, enjoying the same features and functionality without any restrictions. This makes Mapzy a perfect solution for developers who want to control their own hosting environment."
+    - title: Works Across All Platforms
+      description: "Mapzy is compatible with all major website platforms, including WordPress, Shopify, Webflow, and Squarespace. Whether you’re building your site from scratch or using a website builder, Mapzy ensures seamless integration with minimal effort."
+    - title: Sustainable Hosting
+      description: "The managed version of Mapzy is hosted in Frankfurt, Germany, powered entirely by renewable energy. This makes it an eco-conscious choice for businesses looking to reduce their carbon footprint while providing a reliable, high-performance service for their customers."
   screenshots:
     - /images/applications/others/mapzy/screenshot-1.png
     - /images/applications/others/mapzy/screenshot-2.png

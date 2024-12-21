@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Mealie
+title: Mealie fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/mealie/screenshot-1.jpg
+  description: Mealie is a user-friendly, open-source recipe management app with meal planning, recipe importing, and group sharing features for all your culinary needs.
+  keywords: recipe management, meal planning app, open-source recipe app, recipe organizer, family recipe sharing, meal planner, recipe scraper, intuitive recipe app
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Mealie
+      url: /fully-managed-open-source-services/applications/others/mealie
+
 content:
   id: mealie
   name: Mealie
   logo: /images/applications/others/mealie/logo.png
   website: https://mealie.io/
   iframe_website: /website/applications/others/mealie
-  dashboardImage: /images/applications/others/mealie/screenshot-1.png
-  short_description: Mealie is an intuitive and easy to use recipe management app
-  description: "Mealie is an intuitive and easy to use recipe management app. It's designed to make your life easier by being the best recipes management experience on the web and providing you with an easy to use interface to manage your growing collection of recipes."
+  description: "Mealie is an open-source, user-friendly recipe management application designed to revolutionize the way you handle your favorite recipes. With its intuitive interface, Mealie simplifies organizing, editing, and sharing recipes while providing advanced features like meal planning, user groups, and integration with third-party services. Import recipes seamlessly from the web using its built-in scraper and enjoy the flexibility of markdown support in the recipe editor. Mealie isn’t just a recipe app—it’s a powerful tool for managing your kitchen, saving time, and creating delightful culinary experiences for yourself and your loved ones. Perfect for individuals, families, and food enthusiasts looking for a comprehensive recipe management solution."
   features:
-    - title: Import Recipes
-      description: Quickly and easily import recipes from sites around the web using the built in recipe scraper.
-    - title: Rich User Interface & Meal Planner
-      description: Use a beautiful and intuitive user interface to create, edit, and delete recipes. Recipe editor supports markdown syntax. and Create Meal Plans for the week, month, or year!
-    - title: Users & Groups
-      description: Add new users with sign-up links or simply create a new user in the admin panel. Sort users into groups to share recipes with the whole family, but keep your Meal Plans separate.
-    - title: Webhooks
-      description: Schedule webhooks to send notifications to 3rd party services with todays Meal Plan data.
+    - title: Effortless Recipe Import
+      description: "Quickly import recipes from websites across the internet using Mealie's built-in recipe scraper. Save time and enjoy a seamless way to grow your recipe collection with just a few clicks."
+    - title: Rich User Interface with Meal Planner
+      description: "Experience a beautifully designed and intuitive user interface that makes managing recipes a breeze. Use markdown support in the recipe editor for added flexibility, and easily create meal plans for the week, month, or even the entire year."
+    - title: User and Group Management
+      description: "Share the joy of cooking with others by adding users via signup links or the admin panel. Organize users into groups to share recipes among family members while keeping personal meal plans private."
+    - title: Advanced Webhooks Integration
+      description: "Stay connected with third-party services by scheduling webhooks. Automatically send notifications about your meal plan to other platforms, ensuring you're always on top of your cooking schedule."
+    - title: Comprehensive Recipe Organization
+      description: "Organize your recipes with tags, categories, and filters for easy retrieval. Keep your collection structured and accessible, no matter how large it grows."
+    - title: Self-Hosted and Open Source
+      description: "Mealie is fully open source and can be self-hosted, ensuring your data remains private and secure while offering the flexibility to customize the app to your unique needs."
   screenshots:
     - /images/applications/others/mealie/screenshot-1.png
     - /images/applications/others/mealie/screenshot-2.png

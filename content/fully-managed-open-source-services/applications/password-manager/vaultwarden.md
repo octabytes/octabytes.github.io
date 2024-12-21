@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Vaultwarden
+title: Vaultwarden fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: YOURLS
+      url: /fully-managed-open-source-services/applications/password-manager/yourls
+
 content:
   id: vaultwarden
   name: Vaultwarden

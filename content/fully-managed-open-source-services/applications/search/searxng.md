@@ -1,6 +1,23 @@
 ---
 draft: false
-title: SearXNG
+title: SearXNG fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/search/SerpBear/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: SearXNG
+      url: /fully-managed-open-source-services/applications/search/SerpBear
+
 content:
   id: searxng
   name: SearXNG

@@ -1,24 +1,45 @@
 ---
 draft: false
-title: Kimai
+title: Kimai fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/kimai/screenshot-1.jpg
+  description: Kimai is a free, open-source, web-based time-tracking application for freelancers, agencies, and organizations. Track time, generate invoices, and manage projects effortlessly with its multi-user, multi-team features.
+  keywords: Kimai, time tracking, invoicing, multi-user time tracking, open-source time tracking, freelancers, agency time tracking, project management, SSO integration, invoicing tool, time tracking software
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Kimai
+      url: /fully-managed-open-source-services/applications/others/kimai
+
 content:
   id: kimai
   name: Kimai
   logo: /images/applications/others/kimai/logo.png
   website: https://www.kimai.org/
   iframe_website: /website/applications/others/kimai
-  dashboardImage: /images/applications/others/kimai/screenshot-1.jpg
-  short_description: Kimai is a free, open-source, online time-tracking software designed for small businesses and freelancers.
-  description: "Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more."
+  description: "Kimai v2 is a powerful, web-based time-tracking tool designed to meet the needs of freelancers, agencies, and organizations of all sizes. This free and open-source application allows users to track their time, generate invoices, and manage activities seamlessly. Whether you're a small team or a large organization, Kimai supports an unlimited number of users and roles, ensuring that your team’s time is tracked accurately and efficiently.
+
+With its user-friendly interface and flexible features, Kimai allows you to create detailed invoices, manage projects, and keep track of activities across different teams. It’s available in multiple languages and can integrate with existing identity providers for easy user management, making it perfect for businesses of all types."
   features:
-    - title: Multi-user & multi-team
-      description: "Kimai can be used by as many users as you want: each installation supports unlimited users with different roles. Teams can be created to group your users into logical groups like departments or project-related peer groups. Customers and projects can be assigned to those teams, limiting visibility and access for other users."
-    - title: Invoicing & activities
-      description: Kimai provides various templates, a calculator and an invoice number generator. You can add your own templates, in the file formats XLSX, ODS, CSV, DOCX. Activities (or tasks) are used to assign the unit of work to timesheet entries. You can manage activities for each project with order number, budget and visibility (for archiving). Activities can also be global. No more duplications are necessary if your projects share the same working unit.
-    - title: Multi-language
-      description: Kimai allows you to manage projects for each customer with order number, budget and visibility (for archiving). It can be localized to any language and has already been translated into around thirty languages.
-    - title: SAML & LDAP
-      description: "You log  in and register users via SAML (single sign-on – SSO) and reuse your existing identity provider, like Google Workspace or Azure Active Directory. You connect your company's directory server (LDAP or Active Directory) to Kimai and use your existing authentication infrastructure."
+    - title: Multi-user & Multi-team Support
+      description: "Kimai supports unlimited users and roles, making it perfect for teams of any size. Users can be grouped into teams for better organization, and projects can be assigned to specific teams to control visibility and access."
+    - title: Invoicing & Activity Management
+      description: "Kimai simplifies invoicing with customizable templates and a built-in invoice generator. Activities (or tasks) are linked to time entries and can be managed per project, reducing duplication and improving efficiency."
+    - title: Multi-language Support
+      description: "Kimai is highly localized, offering support in over 30 languages. This makes it a great choice for global teams and organizations looking to manage their time-tracking in their preferred language."
+    - title: SAML & LDAP Authentication
+      description: "Log in securely using SAML single sign-on (SSO) and integrate with existing identity providers like Google Workspace or Azure Active Directory. LDAP and Active Directory integration ensure seamless user authentication and management."
+    - title: Customizable Templates
+      description: "Create and upload custom invoice templates in formats like XLSX, ODS, CSV, and DOCX. Kimai allows you to tailor invoices to match your business needs, making the invoicing process even easier."
+    - title: Flexible Project Management
+      description: "Kimai lets you manage projects by order number, budget, and visibility. Whether for client work or internal projects, you can assign tasks, track progress, and ensure efficient project completion."
   screenshots:
     - /images/applications/others/kimai/screenshot-1.jpg
     - /images/applications/others/kimai/screenshot-2.jpg

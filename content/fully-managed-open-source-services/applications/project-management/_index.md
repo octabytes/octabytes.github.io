@@ -12,8 +12,8 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Email marketing
-      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
 
 content:
   id: "project-management"

@@ -1,6 +1,23 @@
 ---
 draft: false
-title: SerpBear
+title: SerpBear fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/search/serpbear/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: SerpBear
+      url: /fully-managed-open-source-services/applications/search/serpbear
+
 content:
   id: serpbear
   name: SerpBear

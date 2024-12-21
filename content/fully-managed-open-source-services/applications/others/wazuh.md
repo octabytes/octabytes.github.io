@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Wazuh
+title: Wazuh fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/wazuh/screenshot-1.jpg
+  description: Wazuh is an open-source security platform that delivers unified XDR and SIEM protection for endpoints, cloud workloads, and containers, offering powerful threat hunting, behavioral analysis, and automated response capabilities.
+  keywords: Wazuh, open-source security platform, XDR, SIEM, threat hunting, behavioral analysis, cloud workload protection, automated response, container security, endpoint protection, security analysis, threat detection, SIEM solution
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Wazuh
+      url: /fully-managed-open-source-services/applications/others/wazuh
+
 content:
   id: wazuh
   name: Wazuh
@@ -8,18 +25,20 @@ content:
   website: https://wazuh.com/
   iframe_website: /website/applications/others/wazuh
   direct_link: true
-  dashboardImage: /images/applications/others/wazuh/screenshot-1.png
-  short_description: The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-  description: The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+  description: "Wazuh is an open-source security platform designed to provide robust protection for endpoints, cloud workloads, and containers. It integrates Extended Detection and Response (XDR) and Security Information and Event Management (SIEM) capabilities, enabling organizations to detect, analyze, and respond to threats efficiently. With its advanced features such as threat hunting, behavioral analysis, automated response, and cloud workload protection, Wazuh helps security teams reduce detection times, mitigate risks, and improve overall security posture. Whether protecting on-premises or hybrid cloud environments, Wazuh delivers comprehensive, scalable security solutions tailored for modern infrastructures."
   features:
-    - title: Threat hunting
-      description: Focus the attention of your analysts and cut the time spent analyzing telemetry from multiple security platforms. Wazuh maps detected events to the relevant adversary tactics and techniques. It also ingests third-party threat intelligence data and allows you to create custom queries to filter events and aid threat hunting.
-    - title: Behavioral analysis
-      description: Detect and respond to threats based on unusual behavior patterns. The Wazuh behavioral analysis capabilities involve using advanced analytics to identify deviations from normal behavior, which may indicate potential security threats. These capabilities include monitoring file integrity, network traffic, user behavior, and anomalies in system performance metrics.
-    - title: Automated response
-      description: Reduce the average response time to incidents with the Wazuh active response module. Wazuh automatically responds to threats to mitigate the potential impact on your infrastructure. You can use the built-in response actions or create custom actions according to your incident response plan.
-    - title: Cloud workload protection
-      description: Provide security coverage for your cloud workloads and containers. Wazuh has built-in integration with cloud services to collect and analyze telemetry. It protects native and hybrid cloud environments including container infrastructure by detecting and responding to current and emerging threats.
+    - title: Threat Hunting
+      description: "Wazuh streamlines the detection process, helping analysts focus on the most critical events. By mapping detected incidents to adversary tactics and techniques, integrating third-party threat intelligence, and allowing custom queries, Wazuh enhances threat hunting efforts and improves response accuracy."
+    - title: Behavioral Analysis
+      description: "Wazuh uses advanced analytics to detect anomalies in user behavior, file integrity, and system performance, identifying potential security threats. Its behavioral analysis helps organizations swiftly recognize unusual patterns that could signal malicious activity, improving response times."
+    - title: Automated Response
+      description: "The active response module of Wazuh automates threat mitigation, reducing incident response times. This feature provides pre-configured actions or the option to create custom actions, streamlining security operations and ensuring rapid containment of security threats."
+    - title: Cloud Workload Protection
+      description: "Protecting cloud-native and hybrid environments is easy with Wazuh. It integrates seamlessly with cloud services, enabling comprehensive security monitoring and analysis across cloud workloads and containers, while detecting and mitigating both current and emerging threats."
+    - title: Security Monitoring and Event Correlation
+      description: "Wazuh collects and analyzes telemetry from various sources to provide a unified view of your security posture. Its event correlation feature helps identify suspicious activities across the entire infrastructure, improving visibility and reducing the chance of undetected breaches."
+    - title: Scalability and Flexibility
+      description: "Whether you're protecting a small enterprise or a large-scale infrastructure, Wazuh scales with your needs. Its flexible architecture allows you to expand coverage across a diverse range of environments, ensuring continuous protection as your organization grows."
   screenshots:
     - /images/applications/others/wazuh/screenshot-1.png
     - /images/applications/others/wazuh/screenshot-2.png

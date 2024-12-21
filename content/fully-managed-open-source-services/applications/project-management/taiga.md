@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Taiga
+title: Taiga fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/project-management/taiga/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Taiga
+      url: /fully-managed-open-source-services/applications/project-management/taiga
+
 content:
   id: taiga
   name: Taiga

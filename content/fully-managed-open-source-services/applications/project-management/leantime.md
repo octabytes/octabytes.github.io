@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Leantime
+title: Leantime fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/project-management/OpenProject/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Leantime
+      url: /fully-managed-open-source-services/applications/project-management/OpenProject
+
 content:
   id: leantime
   name: Leantime

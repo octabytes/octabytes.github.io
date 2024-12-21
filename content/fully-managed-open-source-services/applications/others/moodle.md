@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Moodle
+title: Moodle fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/moodle/screenshot-1.jpg
+  description: Moodle is a free, open-source LMS enabling educators to create dynamic courses and collaborative learning environments, trusted by 213M+ users worldwide.
+  keywords: Moodle, learning management system, open-source LMS, e-learning platform, online education, dynamic courses, collaborative learning, accessible learning, Moodle features, customizable LMS
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Moodle
+      url: /fully-managed-open-source-services/applications/others/moodle
+
 content:
   id: moodle
   name: Moodle
@@ -8,18 +25,20 @@ content:
   website: https://moodle.org/
   iframe_website: /website/applications/others/moodle
   direct_link: true
-  dashboardImage: /images/applications/others/moodle/screenshot-1.jpg
-  short_description: "Moodle is the world's most popular open-source learning platform for educators to create their own websites."
-  description: "Moodle is a free, online learning management system enabling educators to create their own private website filled with dynamic courses that extend learning, any time, anywhere. Its highly customisable core comes with many standard features. It is trusted by institutions and organizations large and small, including Shell, the State University of New York, Microsoft, the Open University and London School of Economics. With 213m+ users, it's the world’s most widely used learning platform."
+  description: "Moodle is an open-source, online learning management system (LMS) trusted by millions of users worldwide. With over 213 million users, Moodle empowers educators, institutions, and organizations to create dynamic, engaging learning environments accessible anytime, anywhere. Its highly customizable core is packed with robust features, enabling educators to design private websites with diverse courses tailored to their audience. Trusted by prestigious organizations like Shell, Microsoft, the Open University, and London School of Economics, Moodle is the go-to platform for flexible and innovative e-learning. From its user-friendly interface to powerful collaboration tools, Moodle stands out as the most widely used learning platform globally."
   features:
-    - title: Easy-to-use interface, no licensing fees
-      description: Designed to be responsive and accessible, the Moodle interface is easy to navigate on both desktop and mobile devices. Anyone can adapt, extend or modify Moodle for both commercial and non-commercial projects without any licensing fees.
-    - title: Collaborative tools and activities
-      description: Moodle enables people to work and learn together in forums, wikis, glossaries, database activities, and much more.
-    - title: All-in-one calendar
-      description: "With Moodle's calendar tool, you can keep track of your academic or company calendar, course deadlines, group meetings, and other personal events."
-    - title: Convenient file management
-      description: Moodle enables you to drag and drop files from cloud storage services including MS OneDrive, Dropbox and Google Drive.
+    - title: User-Friendly and Accessible Interface
+      description: "Moodle’s responsive and intuitive interface ensures seamless navigation on both desktop and mobile devices. Its open-source nature means educators can modify or extend the platform without worrying about licensing fees."
+    - title: Powerful Collaborative Tools
+      description: "Foster teamwork and interaction with Moodle’s suite of collaborative features, including forums, wikis, glossaries, and database activities. These tools make learning more engaging and interactive for students and educators alike."
+    - title: Comprehensive Calendar Integration
+      description: "Moodle’s all-in-one calendar helps you stay organized by managing academic schedules, course deadlines, group meetings, and personal events all in one place."
+    - title: Effortless File Management
+      description: "Easily upload, organize, and access files with Moodle’s drag-and-drop functionality. Seamlessly integrate with cloud storage services like Google Drive, Dropbox, and MS OneDrive."
+    - title: Highly Customizable Platform
+      description: "Adapt Moodle to suit your unique needs. Its open-source flexibility allows for extensive customization to meet specific educational or organizational requirements."
+    - title: Global Trust and Scalability
+      description: "Moodle is trusted by institutions and organizations of all sizes, from small schools to global enterprises like Microsoft and Shell. Its robust scalability ensures it meets the demands of any user base"
   screenshots:
     - /images/applications/others/moodle/screenshot-1.jpg
     - /images/applications/others/moodle/screenshot-2.jpg

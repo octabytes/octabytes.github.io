@@ -1,6 +1,23 @@
 ---
 draft: false
-title: ZincSearch
+title: ZincSearch fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/search/zincsearch/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: ZincSearch
+      url: /fully-managed-open-source-services/applications/search/zincsearch
+
 content:
   id: zincsearch
   name: ZincSearch

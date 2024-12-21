@@ -1,24 +1,43 @@
 ---
 draft: false
-title: OnlyOffice
+title: OnlyOffice fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/onlyoffice/screenshot-1.jpg
+  description: OnlyOffice is an all-in-one open-source office suite offering advanced tools for document management, collaboration, and productivity.
+  keywords: OnlyOffice, open-source office suite, productivity tools, online document editing, collaboration software, CRM integration, project management, customizable office software, cloud-hosted office suite, Microsoft Office alternative
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: OnlyOffice
+      url: /fully-managed-open-source-services/applications/others/onlyoffice
+
 content:
   id: onlyoffice
   name: OnlyOffice
   logo: /images/applications/others/onlyoffice/logo.png
   website: https://www.onlyoffice.com/
   iframe_website: /website/applications/others/onlyoffice
-  dashboardImage: /images/applications/others/onlyoffice/screenshot-1.jpg
-  short_description: OnlyOffice is an online office suite that includes editors and viewers for text documents, spreadsheets, and presentations.
-  description: OnlyOffice is a free software office suite that provides a complete productivity suite, with document management, project management, CRM, calendar, mail and corporate network. The single multi-featured system enables you to organize every step of your work, greatly improving your productivity.
+  description: "OnlyOffice is a powerful open-source office suite designed to streamline your workflows and boost productivity. Combining document management, project management, CRM, calendar, email, and a corporate network in one integrated platform, OnlyOffice eliminates the need to juggle multiple applications. With advanced online editing tools, compatibility with popular file formats, and seamless integration with third-party apps, OnlyOffice empowers individuals, teams, and enterprises to collaborate efficiently. Whether hosted in the cloud or on-premises, OnlyOffice provides a flexible, customizable solution that scales effortlessly to meet the needs of any organization, ensuring a seamless experience for all users."
   features:
-    - title: Up to date
-      description: OnlyOffice stays up to date with the latest technology trends.  and try to make an effective use of them in our work. Ascensio System SIA were the first to build online document editors using the HTML5 Canvas element. OnlyOffice offers the most complete and feature-rich online office suite, highly compatible with Microsoft Office and OpenDocument file formats, among others.
-    - title: Complete productivity suite
-      description: "ONLYOFFICE offers a complete productivity suite with document management, project management, CRM, calendar, mail, and corporate network. In this way you don't need to switch back and forth between multiple applications to perform different tasks."
-    - title: Powerful online editor
-      description: "OnlyOffice Docs is a powerful online editor for text documents, spreadsheets, and presentations for the platform you use. You can use OnlyOffice official connectors or choose between various third-party integration apps to easily connect online editors to your platform: Moodle, ownCloud, HumHub, nextCloud, PowerFolder, SeaFile, eXo, etc."
-    - title: Easily install and customize
-      description: OnlyOffice Docs is easily installed and customized. You can use it in the cloud, host it yourself, or launch a pre-configured installation. It can be scaled for teams of any size, even if you have thousands of users.
+    - title: Advanced Online Document Editing
+      description: "Experience seamless editing of text documents, spreadsheets, and presentations with OnlyOffice Docs. Its robust editing capabilities, compatibility with Microsoft Office formats, and integration with platforms like Moodle, Nextcloud, and ownCloud make collaboration simple and efficient."
+    - title: All-in-One Productivity Suite
+      description: "OnlyOffice combines document management, project management, CRM, calendar, and email into a single platform, eliminating the hassle of switching between multiple applications. This unified system ensures maximum productivity for teams and organizations."
+    - title: Seamless Integration
+      description: "Connect OnlyOffice with your favorite platforms using official connectors or third-party apps. Whether it’s Moodle, HumHub, or SeaFile, integration is effortless, enabling you to enhance collaboration across your existing workflows."
+    - title: Customizable and Scalable Solutions
+      description: "OnlyOffice adapts to your unique needs with flexible deployment options. Host it in the cloud, on-premises, or use a pre-configured installation. Scale effortlessly, whether you're a small team or an enterprise with thousands of users."
+    - title: State-of-the-Art Technology
+      description: "Built with the latest technologies, OnlyOffice was among the first to utilize HTML5 Canvas for online document editing. Its cutting-edge tools ensure compatibility with a wide range of file formats, including Microsoft Office and OpenDocument."
+    - title: Enhanced Collaboration Tools
+      description: "Foster collaboration with shared editing features, advanced permissions, and a corporate network for seamless communication. OnlyOffice enhances teamwork by enabling real-time editing and management of projects and documents."
   screenshots:
     - /images/applications/others/onlyoffice/screenshot-1.jpg
     - /images/applications/others/onlyoffice/screenshot-2.jpg

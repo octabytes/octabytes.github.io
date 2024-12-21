@@ -3,8 +3,8 @@ draft: false
 title: "Others - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Effortlessly manage email marketing campaigns with OctaByte's open-source email marketing software and fully managed services.
-  keywords: open-source email marketing software, email marketing tools, email automation, subscriber management, campaign analytics, managed email services, hassle-free email marketing, OctaByte email software, fully managed services, email software installation, email marketing backup.
+  description: Streamline open-source application management with expert deployment, updates, and support for seamless operations and outstanding user experiences.
+  keywords: Managed open-source services, content management, e-commerce platforms, communication tools, software updates, expert support, seamless operations, open-source deployment, application maintenance, exceptional user experience
   breadcrumb:
     - name: Home
       url: /
@@ -12,13 +12,13 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Email marketing
-      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
 
 content:
   id: "others"
   title: "'Others'"
   catalog: applications
   category: others
-  description: Unleash the potential of open-source applications with our managed services. Whether you need content management, communication tools, or e-commerce platforms, our services ensure smooth operations, timely updates, and expert support, so you can deliver an exceptional user experience.
+  description: Unleash the full potential of open-source applications with our comprehensive managed services. From content management systems and communication tools to powerful e-commerce platforms, we ensure your software operates at peak performance. Our expert team handles deployment, maintenance, timely updates, and 24/7 support, so you can focus on delivering exceptional user experiences. With our services, you'll benefit from seamless operations, enhanced security, and the confidence that your platform is always up-to-date. Let us take the complexity out of managing open-source applications while you reap the benefits of innovation and efficiency.
 ---

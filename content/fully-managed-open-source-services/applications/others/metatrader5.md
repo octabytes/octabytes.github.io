@@ -1,6 +1,23 @@
 ---
 draft: false
-title: MetaTrader5
+title: MetaTrader5 fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/metatrader5/screenshot-1.jpg
+  description: MetaTrader 5 is a modern trading platform offering advanced tools, broker compatibility, and 24/7 accessibility for seamless trading experiences.
+  keywords: MetaTrader 5, trading platform, MT5, Forex trading, stock trading, futures trading, automated trading, backtesting, broker compatibility, advanced analytics
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: MetaTrader5
+      url: /fully-managed-open-source-services/applications/others/metatrader5
+
 content:
   id: metatrader5
   name: MetaTrader5
@@ -8,18 +25,20 @@ content:
   website: https://www.metatrader5.com/
   iframe_website: /website/applications/others/metatrader5
   direct_link: true
-  dashboardImage: /images/applications/others/metatrader5/screenshot-1.jpg
-  short_description: Trade on Forex & stock markets in a virtual desktop from your browser
-  description: Successful trading starts with convenient and functional trading. MetaTrader 5 is the best choice for the modern trader. Most popular brokers are compatible with MetaTrader client.
+  description: "MetaTrader 5 (MT5) is a powerful and versatile trading platform designed to meet the needs of today’s traders. With support for multiple asset classes, including Forex, stocks, and futures, MT5 combines advanced analytics, intuitive charting, and comprehensive trading tools to help you make informed decisions. Compatible with most brokers, MetaTrader 5 is accessible across devices and can even run seamlessly in your browser, eliminating the need for software installation. Stay connected to your trading strategies 24/7 with this always-on platform, and take advantage of its extensibility through automated trading, backtesting, and a wide array of plugins and signals available on the marketplace."
   features:
-    - title: MetaTrader 5 in the browser
-      description: This MetaTrader client is running on Ubuntu Virtual Desktop with Wine to provide windows compatibility layer. You can then use MetaTrader in your browser from ANY computer without needing to install anything.
-    - title: Always-on
-      description: Your MetaTrader client will run 24/24 so you can shutdown your computer safely knowing your strategies will continue to run on the server.
-    - title: Compatible with most brokers
-      description: Use MetaTrader client to connect, visualize, analyze & trade with your own broker. Most popular brokers are compatible with MetaTrader.
-    - title: Extensible
-      description: You can implement your own automated strategies and backtest them with the integrated tools. You can also purchase plugins and signals from the marketplace
+    - title: MetaTrader 5 in the Browser
+      description: "Run MetaTrader 5 directly in your browser without any installation hassle. With Ubuntu Virtual Desktop and Wine compatibility, you can trade from any computer, anywhere, anytime."
+    - title: Always-On Platform
+      description: "Keep your trading strategies running 24/7. MetaTrader 5 ensures your trades continue uninterrupted, even when your personal devices are offline."
+    - title: Compatibility with Popular Brokers
+      description: "MetaTrader 5 connects seamlessly with most brokers, offering you a unified platform to visualize, analyze, and execute trades effortlessly."
+    - title: Advanced Analytics and Charting Tools
+      description: "Leverage robust analytical capabilities, including 21 timeframes, over 80 technical indicators, and a variety of chart types, to make data-driven trading decisions."
+    - title: Automated Trading and Backtesting
+      description: "Develop, implement, and test your own automated trading strategies with MetaTrader 5’s integrated tools. Optimize performance with powerful backtesting capabilities."
+    - title: Extensible Marketplace
+      description: "Expand your trading arsenal by accessing a vast marketplace of plugins, signals, and tools. Customize your trading experience to suit your unique strategies and preferences."
   screenshots:
     - /images/applications/others/metatrader5/screenshot-1.jpg
     - /images/applications/others/metatrader5/screenshot-2.jpg

@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Indico
+title: Indico fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/indico/screenshot-1.jpg
+  description: Indico is an open-source, feature-rich event management platform developed at CERN, designed to simplify the organization, archival, and collaboration of events of all sizes.
+  keywords: Indico, event management, open-source event system, conference management, seminar organizer, event registration, workshop management, CERN, event collaboration, event archival, room booking software
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Indico
+      url: /fully-managed-open-source-services/applications/others/indico
+
 content:
   id: indico
   name: Indico
   logo: /images/applications/others/indico/logo.png
   website: https://getindico.io/
   iframe_website: /website/applications/others/indico
-  dashboardImage: /images/applications/others/indico/screenshot-1.png
-  short_description: A feature-rich event management system, made @ CERN, the place where the Web was born.
-  description: A feature-rich event management system, made @ CERN, the place where the Web was born, it was the effortless open-source tool for event organization, archival, and collaboration.
+  description: "Indico is a powerful and versatile event management system created at CERN, the birthplace of the World Wide Web. This open-source solution empowers organizations of all sizes to effortlessly plan, organize, and manage events such as seminars, workshops, and conferences. Indico streamlines the event lifecycle, offering tools for registration, abstract submissions, document storage, and even participant badge management. Its intuitive, user-friendly interface and robust features make it the ideal solution for handling events in universities, research institutes, companies, and large organizations. Whether you’re hosting a small meeting or a large conference, Indico is a comprehensive platform for organizing, archiving, and collaborating on events, ensuring a seamless experience for event organizers and participants alike."
   features:
-    - title: Events of different complexity
-      description: In Indico you can organize all kinds of events. It provides workflows that let you easily manage small seminars and meetings as well as more complicated workshops and conferences. Indico will aggregate and store all events of your institute. You can quickly have a look at the events that are happening this week, or search for a specific keyword.
-    - title: Full conference lifecycle
-      description: "Indico will help you organize your conference from the beginning. From registration and abstract submission to the final papers, conference materials are stored within the system and made available to participants from the event web page. We've got it all covered, even participant badges!"
+    - title: Events of Different Complexity
+      description: "Indico allows you to organize events of any scale, from small seminars to large conferences. With its flexible workflows, you can easily manage events of varying complexities, quickly access event details, and search for specific events or keywords across your organization."
+    - title: Full Conference Lifecycle Management
+      description: "Manage your conference from start to finish with Indico. From registration and abstract submissions to storing final papers and conference materials, Indico provides all the tools you need to handle every aspect of your event, including participant badges and event web pages."
     - title: Hierarchical Protection Scheme
-      description: Indico was built with a large organization in mind (CERN). This is why events are organized using a hierarchy of categories and protection of resources at several granularity levels. Different roles can be defined within an event as well. From small schools to large enterprises, Indico is the intuitive solution for organized and secure event storage.
+      description: "Designed with large organizations in mind, Indico uses a hierarchical event structure that allows you to manage permissions and protect resources at multiple levels. It enables role-based access control, making it a secure solution for managing events within both small and large organizations."
     - title: Room Booking Module
-      description: Companies, research institutes, and universities often need to manage their rooms and keep track of their usage. Indico provides a flexible room booking module that allows for the delegation of room management capabilities, approval of bookings, management of audiovisual equipment, and many other things, always transparently and intuitively.
+      description: "Indico simplifies room management for universities, research institutes, and businesses. Its room booking module allows users to book rooms, manage audiovisual equipment, and delegate room management tasks, all in a transparent and intuitive way, making event space management seamless."
+    - title: Customizable Event Workflows
+      description: "Indico offers flexible event workflows that can be tailored to meet the specific needs of your organization. Whether you're hosting a simple seminar or a complex international conference, you can easily customize the event planning process to fit your exact requirements."
+    - title: Collaboration and Archiving Tools
+      description: "Indico provides robust collaboration tools, allowing organizers, speakers, and participants to work together efficiently. It also includes powerful archival capabilities, ensuring that all event materials, including presentations, papers, and documents, are stored securely and can be accessed by participants anytime."
   screenshots:
     - /images/applications/others/indico/screenshot-1.png
     - /images/applications/others/indico/screenshot-2.png

@@ -1,24 +1,43 @@
 ---
 draft: false
-title: ComfyUi
+title: ComfyUi fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/comfyui/screenshot-1.jpg
+  description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs.
+  keywords: Stable Diffusion, ComfyUI, graph interface, modular GUI, ControlNet, Loras, inpainting, API for Stable Diffusion, AI image generation, advanced AI workflows
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: ComfyUi
+      url: /fully-managed-open-source-services/applications/others/comfyui
+
 content:
   id: comfyui
   name: ComfyUi
   logo: /images/applications/others/comfyui/logo.avif
   website: https://useanything.com/
   iframe_website: /website/applications/others/comfyui
-  dashboardImage: /images/applications/others/comfyui/screenshot-1.png
-  short_description: The most powerful and modular stable diffusion GUI, API, and backend with a graph/nodes interface.
-  description: "The most powerful and modular stable diffusion GUI, API, and backend with a graph/nodes interface."
+  description: "ComfyUI is the ultimate open-source graphical interface for Stable Diffusion, designed to empower creators and developers with a powerful, modular workflow. Featuring a graph/nodes interface, ComfyUI allows seamless integration of various models, tools, and techniques to generate consistent, high-quality results. Whether you’re working with area compositions, leveraging ControlNet, or exploring advanced features like Loras and inpainting, ComfyUI delivers unparalleled flexibility. The intuitive GUI, coupled with a robust API and backend, ensures that users can customize workflows to suit their creative needs. Experience the perfect blend of control, efficiency, and innovation with ComfyUI."
   features:
-    - title: Area Composition
-      description: "Area composition with Anything-V3 + second pass with AbyssOrangeMix2_hard. Area Composition with a square area for the subject the consistency will be higher and since it is generated as the same time as the rest of the image the consistency of the overall image will be excellent."
-    - title: ControlNet and T2I-Adapter
-      description: Each ControlNet/T2I adapter needs the image that is passed to it to be in a specific format like depth maps, canny maps, and so on depending on the specific model if you want good results.
-    - title: Loras (regular, locon and loha)
-      description: Loras are patches applied on top of the main MODEL and the CLIP model so to use them put them in the models/loras directory and use the LoraLoader node like this
-    - title: Others
-      description: Inpainting with both regular and inpainting models, unCLIP Models, Model Merging, SDXL Turbo, LCM models, and Loras, Saving/Loading workflows as JSON files, Loading full workflows (with seeds) from generated PNG files and Embeddings/Textual inversion.
+    - title: Seamlessly Combine Areas with Precision
+      description: "ComfyUI allows area composition with models like Anything-V3 and AbyssOrangeMix2_hard. By defining square areas for subjects, it ensures image consistency while integrating seamlessly with the rest of the image, delivering outstanding results."
+    - title: Enhanced Model Compatibility
+      description: "Leverage ControlNet and T2I adapters to achieve remarkable results by formatting input images into depth maps, canny maps, and more. These specialized integrations help refine outputs for professional-grade visuals."
+    - title: Streamlined Model Enhancements
+      description: "Easily apply Loras patches to your main model and CLIP using the LoraLoader node. Simply place the patches in the designated directory, and unlock new dimensions in your creative workflows."
+    - title: Perfect Edits with Inpainting and More
+      description: "ComfyUI supports inpainting with both regular and specialized models, offering unCLIP models, SDXL Turbo, and LCM models. Perfect your images with precision and control."
+    - title: Effortless Workflow Management
+      description: "Save and load your workflows as JSON files or from generated PNG files, complete with seeds. This feature streamlines the creative process, ensuring you can revisit and refine your work effortlessly."
+    - title: Unmatched Flexibility
+      description: "ComfyUI offers tools like model merging and embeddings/textual inversion. Combine multiple models and explore innovative ways to achieve unique and consistent results."
   screenshots:
     - /images/applications/others/comfyui/screenshot-1.png
 ---

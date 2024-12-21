@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Saleor
+title: Saleor fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/saleor/screenshot-1.jpg
+  description: Saleor is a cutting-edge, headless e-commerce API designed to help brands build scalable and extensible online stores, providing unmatched flexibility and performance for the future of digital commerce.
+  keywords: Saleor, headless e-commerce, composable commerce, e-commerce platform, API-driven commerce, online store, digital commerce, extensible e-commerce, flexible e-commerce, product catalog management, international e-commerce
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Saleor
+      url: /fully-managed-open-source-services/applications/others/saleor
+
 content:
   id: saleor
   name: Saleor
@@ -8,18 +25,26 @@ content:
   website: https://saleor.io/open-source
   iframe_website: /website/applications/others/saleor
   direct_link: true
-  dashboardImage: /images/applications/others/saleor/screenshot-1.png
-  short_description: "Saleor Core: the high-performance, composable, headless commerce API."
-  description: "Saleor Core: the high-performance, composable, headless commerce API. It is an e-commerce platform with the most future-proof strategy for any brand viewing technology, extensibility, and openness as vital for revolutionary customer experiences."
+  description: "Saleor Core is a high-performance, composable, and headless e-commerce API that offers businesses the tools they need to create revolutionary customer experiences. With a focus on technology, extensibility, and openness, Saleor is the ideal platform for brands looking to stay ahead of the curve in the ever-evolving world of online commerce. The platform enables businesses to seamlessly manage product catalogs, localizations, orders, and stock across various markets, all while offering full control over custom checkout flows. Whether you're expanding globally or optimizing internal processes, Saleor’s powerful API-driven architecture allows for unparalleled flexibility and scalability in every aspect of your e-commerce operations."
   features:
     - title: Custom Flows
-      description: Take full control of your checkout and order flow.
-    - title: Rich content model
-      description: Manage catalog and localizations across different markets from a single source.
-    - title: Manage stock and availability
-      description: Manage availability and stock of products across different channels.
-    - title: Flexible order model
-      description: Streamline customer support operations across multiple markets and teams.
+      description: "Take full control of your checkout and order flow, offering a personalized and efficient user experience for every customer.
+Saleor’s custom flows allow businesses to tailor the checkout process to meet specific needs, optimizing conversions and enhancing customer satisfaction."
+    - title: Rich Content Model
+      description: "Manage your catalog, product information, and localizations effortlessly across various markets from a single, unified source.
+With Saleor, you can streamline the management of content, ensuring that product data and market-specific information are always up-to-date and consistent."
+    - title: Manage Stock and Availability
+      description: "Efficiently manage the availability and stock of your products across multiple channels.
+Saleor provides real-time visibility into product stock levels, ensuring smooth operations whether you're selling online or through other sales channels."
+    - title: Flexible Order Model
+      description: "Simplify customer support and order management across multiple teams and markets.
+Saleor’s flexible order model empowers businesses to manage orders efficiently, ensuring that customer support teams can handle any request quickly and effectively."
+    - title: Scalable API Integration
+      description: "Integrate seamlessly with your existing tech stack, offering the flexibility to expand and scale as your business grows.
+The API-first design of Saleor makes it easy to integrate with other systems, enabling businesses to build customized e-commerce solutions without being constrained by platform limitations."
+    - title: Global Reach with Localization Support
+      description: "Expand your business globally with comprehensive localization and multi-currency support.
+Saleor makes it simple to manage products, orders, and customer data across different regions, helping businesses cater to global markets with ease."
   screenshots:
     - /images/applications/others/saleor/screenshot-1.png
     - /images/applications/others/saleor/screenshot-2.png

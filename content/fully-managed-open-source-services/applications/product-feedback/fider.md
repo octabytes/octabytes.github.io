@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Fider
+title: Fider fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/product-feedback/fider/screenshot-1.jpg
+  description: "description"
+  keywords: "keywords"
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Product Feedback
+      url: /fully-managed-open-source-services/applications/product-feedback
+    - name: Fider
+      url: /fully-managed-open-source-services/applications/product-feedback/fider
+
 content:
   id: fider
   name: Fider

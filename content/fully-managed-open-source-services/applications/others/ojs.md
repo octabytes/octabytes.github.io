@@ -1,24 +1,43 @@
 ---
 draft: false
-title: OJS
+title: OJS fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/others/ojs/screenshot-1.jpg
+  description: Open Journal Systems (OJS) is open-source software for managing scholarly journals, offering submission, peer review, editorial workflows, and global indexing.
+  keywords: Open Journal Systems, OJS software, scholarly publishing, peer review management, academic journals, open-source publishing, journal submission system
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: OJS
+      url: /fully-managed-open-source-services/applications/others/ojs
+
 content:
   id: ojs
   name: OJS
   logo: /images/applications/others/ojs/logo.png
   website: https://pkp.sfu.ca/software/ojs/
   iframe_website: /website/applications/others/ojs
-  dashboardImage: /images/applications/others/ojs/screenshot-1.png
-  short_description: Open Journal Systems (OJS) is open-source software to manage scholarly journals.
-  description: Open Journal Systems (OJS) is open-source software to manage scholarly journals. Manage your entire researcher-to-reader workflow for submission, peer review, and production from one place with OJS, the world’s most widely used end-to-end scholarly publishing platform.  Publish articles and issues online and have them fully indexed in global discovery services like Google Scholar, Crossref, DOAJ, and many others.
+  description: "Open Journal Systems (OJS) is the leading open-source software designed to streamline the entire academic publishing process. From researcher submissions to reader access, OJS provides an intuitive and comprehensive solution to manage scholarly journals. Trusted by thousands of journals worldwide, OJS enables seamless submission, peer review, editorial workflows, and online publication. With full integration into global indexing platforms such as Google Scholar, Crossref, DOAJ, and PubMed, your research gains maximum visibility. Built for multilingual capabilities and adaptable to diverse publishing models, OJS is the ultimate tool for modern academic dissemination."
   features:
-    - title: Flexible editorial workflow
-      description: Host a small editorial collective or run a streamlined publishing pipeline with editors, copy editors, and production assistants.
-    - title: Multiple languages
-      description: Born in multilingual Canada, our software supports journal publishing in one or two or as many languages as you need.
-    - title: Indexing and dissemination
-      description: Quickly deposit your work with discovery services like Google Scholar, DOAJ, Crossref, DataCite, and PubMed.
-    - title: Global scholarly infrastructure
-      description: Integrate with open industry standards such as DOIs, ORCID authentication and ROR affiliations.
+    - title: Flexible Editorial Workflow
+      description: "Host a small editorial collective or manage a large-scale publishing operation with ease. OJS supports editors, copy editors, and production assistants for a streamlined process tailored to your needs."
+    - title: Multilingual Publishing
+      description: "Catering to journals worldwide, OJS supports publishing in one or multiple languages, making it ideal for global and localized audiences alike."
+    - title: Global Indexing and Discovery
+      description: "Ensure your research reaches its audience. OJS enables quick deposits with indexing platforms like Google Scholar, Crossref, PubMed, DOAJ, and DataCite, maximizing visibility and citation potential."
+    - title: Open Scholarly Infrastructure
+      description: "Integrate seamlessly with open industry standards such as DOIs for article identification, ORCID for author authentication, and ROR for affiliations, fostering global scholarly collaboration."
+    - title: Online Publication and Accessibility
+      description: "Publish articles and issues online with responsive design, ensuring accessibility for readers across all devices. Enhance your journal’s reach and readership with user-friendly digital interfaces."
+    - title: Secure and Scalable Platform
+      description: "OJS offers a secure, open-source platform designed to scale as your journal grows. Whether you're managing a single journal or a portfolio of publications, OJS meets your needs."
   screenshots:
     - /images/applications/others/ojs/screenshot-1.png
     - /images/applications/others/ojs/screenshot-2.png
