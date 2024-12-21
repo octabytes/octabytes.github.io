@@ -3,8 +3,8 @@ draft: false
 title: "Invoicing and payments - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Effortlessly manage email marketing campaigns with OctaByte's open-source email marketing software and fully managed services.
-  keywords: open-source email marketing software, email marketing tools, email automation, subscriber management, campaign analytics, managed email services, hassle-free email marketing, OctaByte email software, fully managed services, email software installation, email marketing backup.
+  description: Discover fully managed open-source invoicing and payments software on OctaByte, with hassle-free installation, updates, and support.
+  keywords: open-source invoicing software, payments software, financial management tools, managed invoicing services, OctaByte invoicing solutions, automated invoicing, business financial tools, open-source payments management, invoicing platform, payment processing software
   breadcrumb:
     - name: Home
       url: /
@@ -12,13 +12,13 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Email marketing
-      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
 
 content:
   id: "invoicing-and-payments"
   title: "'Invoicing and payments'"
   catalog: applications
   category: invoicing-and-payments
-  description: Explore our curated selection of open source invoicing and payments software on OctaByte. We handle installation, backup, updates, support, and maintenance, ensuring a seamless financial management experience for your business.
+  description: Explore OctaByte’s curated selection of open-source invoicing and payments software, designed to simplify financial management for your business. Our platform takes care of the heavy lifting by managing installation, backups, updates, support, and maintenance, so you can focus on what truly matters—running your business. With our fully managed services, you gain access to powerful, flexible, and cost-effective tools to streamline invoicing, payments, and other financial processes. Start your journey with a 7-day free trial and experience seamless financial management tailored to your needs.
 ---

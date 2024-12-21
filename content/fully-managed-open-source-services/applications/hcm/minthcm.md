@@ -1,24 +1,43 @@
 ---
 draft: false
-title: MintHCM
+title: MintHCM fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/hcm/minthcm/screenshot-1.jpg
+  description: MintHCM is a comprehensive Human Capital Management system designed to streamline HR processes, enhance recruitment, and optimize employee performance.
+  keywords: MintHCM, Human Capital Management, HCM software, HR management system, CRM-based HR solution, employee performance management, recruitment tools, onboarding system, HR software
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: HCM
+      url: /fully-managed-open-source-services/applications/hcm
+    - name: MintHCM
+      url: /fully-managed-open-source-services/applications/hcm/minthcm
+
 content:
   id: minthcm
   name: MintHCM
   logo: /images/applications/hcm/minthcm/logo.png
   website: https://minthcm.org/
   iframe_website: /website/applications/hcm/minthcm
-  dashboardImage: /images/applications/hcm/minthcm/screenshot-1.webp
-  short_description: Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches.
-  description: "MintHCM is a Human Capital Management system (HCM) that you can start using today to manage your HR departments and businesses in different branches. Mint is based on two popular, well-known business applications: SugarCRM Community Edition and SuiteCRM. This is why we often say that MintHCM is CRM reinvented. You all know how much goes into the technological development of this type of business software…"
+  description: "MintHCM is a powerful and innovative Human Capital Management (HCM) solution tailored to meet the needs of HR departments and businesses across multiple branches. Built on the trusted frameworks of SugarCRM Community Edition and SuiteCRM, MintHCM redefines the concept of CRM by focusing on the people who power your business. With MintHCM, you can streamline recruitment, enhance employee onboarding, and efficiently manage daily HR operations while fostering a culture of transparency and collaboration. Designed to simplify complex processes, MintHCM empowers organizations to manage employee performance, maintain comprehensive employment records, and ensure effective time and resource management—all within one intuitive platform. Experience the future of HR management with MintHCM, where technology meets human potential."
   features:
-    - title: Recruitment, Job Description, and Employer Branding
-      description: Effortless coordination of talent acquisition procedures, Keeping the responsibilities and career paths transparent,  and Ensuring the positive image of the company as a worthy employer.
-    - title: Onboarding, Employee Profile, and Competences & Skills
-      description: Getting the new joiners on board is easy, a Handy catalog of essential personnel information and a transparent overview of expertise and know-how in the organization.
-    - title: Employment History, Employee Performance, and Time Management
-      description: Keeping a comprehensive catalog of employment contracts, Evaluating employee performance, A way to efficiently manage daily tasks and perfect the work. On time.
-    - title: Calendar, Travel & Expenses, and Resources Booking
-      description: Meeting deadlines, and not in a hurry, Delegating employees to work outside the headquarters. Exchanging the material assets within the company. No problem.
+    - title: Effortless Recruitment and Employer Branding
+      description: "Streamline your talent acquisition process with MintHCM. Keep job responsibilities transparent, attract top talent, and enhance your company’s reputation as an employer of choice."
+    - title: Seamless Onboarding and Skill Management
+      description: "Simplify the onboarding experience for new employees with user-friendly tools. Manage employee profiles and maintain a clear overview of organizational competencies and skills."
+    - title: Comprehensive Employment Records and Performance Tracking
+      description: "Maintain detailed catalogs of employment contracts and evaluate employee performance with ease. Optimize daily tasks and ensure timely completion of projects."
+    - title: Integrated Time and Resource Management
+      description: "Efficiently manage work schedules, delegate tasks, and ensure seamless exchange of company assets and resources. Stay organized and on track, every day."
+    - title: Centralized Calendar and Expense Tracking
+      description: "Organize meetings, track travel expenses, and coordinate resource bookings without hassle. MintHCM ensures smooth operations across all business functions."
+    - title: Customizable and Scalable CRM-based Platform
+      description: "Built on the robust frameworks of SugarCRM and SuiteCRM, MintHCM is customizable to fit your organization’s unique HR needs, making it an adaptable solution for growing businesses."
   screenshots:
     - /images/applications/hcm/minthcm/screenshot-1.webp
     - /images/applications/hcm/minthcm/screenshot-2.webp
