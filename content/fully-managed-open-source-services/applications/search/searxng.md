@@ -4,8 +4,8 @@ title: SearXNG fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/search/SerpBear/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: SearXNG is a free, privacy-focused metasearch engine that aggregates results from 70+ search services, ensuring no tracking or profiling of users.
+  keywords: SearXNG, metasearch engine, privacy, no tracking, Tor, anonymous search, free search engine, decentralized search, secure search, privacy-focused search
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/applications/search/searxng/logo.png
   website: https://docs.searxng.org/index.html#
   iframe_website: /website/applications/search/searxng
-  description: "description"
+  description: "SearXNG is a free and open-source internet metasearch engine that prioritizes user privacy. It aggregates results from over 70 different search services, providing a comprehensive search experience without tracking or profiling users. With SearXNG, you can search the web anonymously, ensuring that your online activities are private and secure. The platform can even be used over Tor to further enhance anonymity. Say goodbye to invasive tracking and data collection with SearXNG, the search engine that truly respects your privacy."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Privacy
+      description: "SearXNG is designed to prioritize privacy, ensuring that your searches are not tracked, recorded, or shared with any third parties. You can browse with peace of mind knowing that your search history is kept private."
+    - title: No Tracking
+      description: "Unlike traditional search engines, SearXNG does not track or collect any personal data about its users. Your search activity remains completely anonymous."
+    - title: Decentralized
+      description: "Built on a decentralized infrastructure, SearXNG has no central entity controlling its operations. This ensures that the service remains open, transparent, and free from censorship."
+    - title: Tor Support
+      description: "SearXNG can be accessed via Tor for those who want to enhance their online privacy and anonymity. Whether you're looking to protect your identity or bypass geo-restrictions, SearXNG provides secure and anonymous searching."
+    - title: Dark Mode
+      description: "SearXNG offers a dark mode feature, providing a comfortable search experience in low-light environments. This is ideal for late-night searches or those who prefer a darker interface."
+    - title: Multiple Language Support
+      description: "SearXNG supports a wide range of languages, including English, Spanish, French, German, Russian, and many more. This ensures that users from different regions can enjoy a seamless search experience in their native language."
   screenshots:
     - /images/applications/search/searxng/screenshot-1.png
     - /images/applications/search/searxng/screenshot-2.png
 ---
-
-Write seo optimizaed content for "SearXNG" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: SearXNG is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, SearXNG can be used over Tor for online anonymity.
-  features:
-    - title: Privacy
-      description: SearXNG doesn’t care about what you search for, never shares anything with a third-party, and it can’t be used to compromise you.
-    - title: No Tracking
-      description: SearXNG will not track you or use your personal data.
-    - title: Decentralized
-      description: SearXNG is based on a decentralized infrastructure with no single entity controlling it.
-    - title: Dark Mode and Supported Languages
-      description: SearXNG supports dark mode for comfortable usage in low light conditions and supports English, French, German, Catalan; Valencian, Chinese, Czech, Danish, Dutch, Finnish, Hebrew, Hungarian, Indonesian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Swedish, Turkish, Arabic, Norwegian and Bokmål languages.
-```

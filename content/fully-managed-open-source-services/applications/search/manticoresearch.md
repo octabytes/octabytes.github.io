@@ -4,8 +4,8 @@ title: ManticoreSearch fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/search/manticoresearch/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: ManticoreSearch is an open-source, high-performance search engine offering advanced full-text search capabilities, scalability, and low resource consumption for efficient data management.
+  keywords: ManticoreSearch, full-text search engine, open-source database, high-performance search, scalable search engine, Sphinx Search, text search capabilities, search database, open-source search engine, C++ search engine, data analytics search
   breadcrumb:
     - name: Home
       url: /
@@ -24,37 +24,21 @@ content:
   logo: /images/applications/search/manticoresearch/logo.png
   website: https://manticoresearch.com/
   iframe_website: /website/applications/search/manticoresearch
-  description: "description"
+  description: "ManticoreSearch is a powerful open-source full-text search engine, created as a modern evolution of the Sphinx Search engine. Launched in 2017, it builds on the strengths of Sphinx, introducing major improvements in functionality, performance, and bug fixes, while retaining its open-source nature. ManticoreSearch offers a high-performance, scalable solution for handling search tasks of all sizes, from small websites to large-scale, multilingual data analytics. With its lightweight structure, powerful search capabilities, and easy scalability, ManticoreSearch is ideal for those seeking an efficient, open-source database solution for their search and data analytics needs."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Easy Scalability
+      description: "ManticoreSearch scales effortlessly, supporting search tasks ranging from small sites to large-scale multilingual directories with petabytes of data. Whether handling search for a small blog or processing analytics over billions of log records, ManticoreSearch delivers optimal performance at any scale."
+    - title: Performance and Resource Efficiency
+      description: "Written in C++, ManticoreSearch is designed for maximum performance and minimal resource consumption. Its low memory usage and efficient CPU utilization make it perfect for high-demand environments where speed and resource optimization are critical."
+    - title: Powerful Full-Text Search Capabilities
+      description: "ManticoreSearch excels at full-text search, featuring over 20 search operators and ranking factors. It includes built-in rankers, an expression-based custom ranker, and advanced features like stemming, lemmatization, stopwords, and multilingual support, making it ideal for sophisticated search and ranking tasks."
+    - title: Seamless Integrations
+      description: "ManticoreSearch integrates easily with your existing tech stack. It supports data import from MySQL, Postgres, MSSQL, ODBC, XML, CSV, and TSV formats. Additionally, it works seamlessly with MySQL as an engine or through ProxySQL for added flexibility."
+    - title: Customizable Ranking and Tokenization
+      description: "With ManticoreSearch, you can fine-tune how your data is ranked and tokenized. The engine offers customization options that allow you to adjust ranking algorithms and tokenize text for optimized search relevance, tailored to your specific needs."
+    - title: Multilingual Support and Chinese Segmentation
+      description: "ManticoreSearch provides excellent multilingual support, including proper segmentation for Chinese text. This makes it an excellent choice for global search applications, where diverse languages and scripts need to be processed and indexed effectively."
   screenshots:
     - /images/applications/search/manticoresearch/screenshot-1.png
     - /images/applications/search/manticoresearch/screenshot-2.png
 ---
-
-Write seo optimizaed content for "ManticoreSearch" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-
-description: Manticore Search is an open-source database that was created in 2017 as a continuation of Sphinx Search engine. it took all the best from it, significantly improved its functionality, fixed hundreds of bugs, rewrote the code almost completely and kept it open-source! That all has made Manticore Search a modern, fast, light-weight and full-featured database with outstanding full-text search capabilities.
-  features:
-    - title: Easy Scalability
-      description: "Driven by the industry’s high standards and our clients’ needs, we made Manticore easily scalable, so no matter what kind of search tasks you need to solve: search on a small site, analytics over billions of log records or building multilingual directory with petabyte data coming from different sources, you can do it with Manticore Search."
-    - title: Performance And Resource Consumption
-      description: Manticore Search is written in C++ - the programming language used to write operating systems, browsers and other software where performance and resource consumption is especially important. Writing in C++ is hard and takes time, but it allows us to make sure Manticore Search doesn’t consume more RAM than really needed and than it can use your CPU as efficiently as possible.
-    - title: Powerful Full-Text Capabilities
-      description: "Manticore Search, being a purely full-text search engine initially has outstanding full-text capabilities: over 20 full-text operators and more than 20 ranking factors, various built-in rankers and an expression-based custom ranker, text stemming, lemmatization, stopwords, synonyms, wordforms, low-level characters mapping, proper Chinese segmentation, easy text highlighting, ranking and tokenization plugins and many more."
-    - title: Integrations
-      description: It should be easy to integrate Manticore Search into your existing stack. That’s why Manticore can read data from MySQL, Postgres, MSSQL, ODBC, XML, CSV, TSV out of the box. It can also be integrated with MySQL as an engine or be accessed via ProxySQL.
-```

@@ -4,8 +4,8 @@ title: Leantime fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/OpenProject/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Leantime is an intuitive project management system designed for non-project managers. Offering features like task management, project planning, knowledge management, and more, it's a powerful alternative to ClickUp, Monday, and Asana.
+  keywords: Leantime, project management, task management, project planning, knowledge management, non-project managers, ClickUp alternative, Jira alternative, simple project management, kanban boards, Gantt charts, time tracking, business model canvas
   breadcrumb:
     - name: Home
       url: /
@@ -24,37 +24,21 @@ content:
   logo: /images/applications/project-management/leantime/logo.png
   website: https://leantime.io/
   iframe_website: /website/applications/project-management/leantime
-  description: "description"
+  description: "Leantime is a strategic project management tool designed specifically for non-project managers. Unlike complex platforms like Jira, Leantime provides an intuitive interface that simplifies project management while maintaining a rich set of features. It offers a variety of views, such as kanban boards, Gantt charts, and list views, allowing teams to manage tasks efficiently. With powerful tools for project planning, information management, and team collaboration, Leantime stands as a flexible and easy-to-use alternative to popular project management tools like ClickUp, Monday, and Asana. Whether you're tracking progress, managing resources, or collaborating with your team, Leantime simplifies project management, making it ideal for businesses of all sizes."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Task Management
+      description: "Leantime offers various views like Kanban boards, Gantt charts, and lists to help users manage tasks effectively. It includes unlimited subtasks, task dependencies, milestone management, sprint management, and built-in time tracking to keep projects on schedule and within scope."
+    - title: Project Planning
+      description: "With Leantime, you can plan your projects with ease. The platform includes dashboards, reports, and status updates to keep everyone aligned. Additionally, tools for goal tracking, SWOT analysis, and risk analysis ensure that teams can plan strategically and address potential challenges early."
+    - title: Information/Knowledge Management
+      description: "Leantime excels in organizing and storing your project information. It features Wikis, idea boards, retrospectives, and file storage, either through S3 or your local filesystem. Additionally, screen and webcam recording options, along with comments and discussions, promote seamless knowledge sharing."
+    - title: Administration
+      description: "Setting up and managing users is simple with Leantime. It includes easy installation, customizable user roles, and per-project permissions to ensure proper access control. Leantime also offers two-factor authentication, LDAP, and OIDC integration to boost security, alongside integrations with Mattermost, Slack, Discord, and Zulip."
+    - title: Customizable Dashboards
+      description: "Leantime's flexible dashboards can be customized to fit your team’s needs. Track your project's progress, see real-time updates, and easily switch between views to stay on top of tasks and deadlines, ensuring the team is always aligned and informed."
+    - title: Seamless Collaboration
+      description: "Foster team collaboration with Leantime’s built-in communication tools. Share ideas, provide feedback, and discuss project updates directly within the platform. Whether it's on a task, document, or retrospective, the commenting and discussion features ensure clear and efficient communication."
   screenshots:
     - /images/applications/project-management/leantime/screenshot-1.png
     - /images/applications/project-management/leantime/screenshot-2.webp
 ---
-
-Write seo optimizaed content for "Leantime" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Leantime is a strategic project management system for non-project managers. It's an alternative to ClickUp, Monday, or Asana. As simple as Trello but as feature-rich as Jira."
-  features:
-    - title: Task Management
-      description: kanban boards, Gantt, table, list, and calendar views, Unlimited subtasks and dependencies, Milestone management, Sprint Management, Time tracking & timesheets.
-    - title: Project Planning
-      description: Project Dashboards, reports & status updates, Goal & metrics tracking, Lean and Business Model Canvas, SWOT Analysis canvas, Risk Analysis, ... and more.
-    - title: Information/Knowledge Management
-      description: Wikis / Docs, Idea Boards, Retrospectives, File Storage via S3 or local filesystem, Screen & webcam recording, Comments/discussions on everything.
-    - title: Administration
-      description: Easy installation, Multiple user roles and per project permissions, Two-factor authentication, LDAP, OIDC integration, Integration with Mattermost, slack, discord, and Zulip (more coming soon)
-
-```

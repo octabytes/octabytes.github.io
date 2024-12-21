@@ -4,8 +4,8 @@ title: Typesense fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/search/typesense/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Typesense is a privacy-focused, open-source search engine that delivers fast, typo-tolerant search results with an intuitive developer experience. Build scalable, lightning-fast search solutions effortlessly.
+  keywords: Typesense, open-source search engine, fast search engine, typo-tolerant search, privacy-friendly search, instant search, developer-friendly search engine, search API, sub-50ms search, scalable search solutions
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/applications/search/typesense/logo.png
   website: https://typesense.org/
   iframe_website: /website/applications/search/typesense
-  description: "description"
+  description: "Typesense is a modern, open-source search engine designed for performance and privacy. Built from the ground up with cutting-edge search algorithms, Typesense delivers lightning-fast search experiences with sub-50ms response times. It's optimized for typo tolerance, meaning that even when users make spelling errors, they still get accurate results. Developers benefit from an intuitive API, reducing the time-to-market for building high-performance search functionality. Typesense allows businesses to offer search solutions that are both cost-effective and easy to scale, without compromising on user experience. Whether you're building an e-commerce platform, a knowledge base, or a content-driven website, Typesense provides the relevant, instant search results your users expect."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Typo Tolerance & Tunable Ranking
+      description: "Spelling mistakes are automatically corrected, and results can be fine-tuned to ensure relevant results with flexible, real-time ranking and sorting options."
+    - title: Result Pinning & Synonyms
+      description: "Pin records to specific positions in the search results, and define synonyms like 'pants' for 'trousers' to ensure users get the most relevant results every time."
+    - title: Multi-Tenant API Keys & Dynamic Sorting
+      description: "Store multiple users' data in a single index with unique API keys for each user, and sort search results dynamically based on any field, like price or popularity, without creating duplicate indices."
+    - title: Easy, High Availability & Federated Search
+      description: "Build a resilient, production-grade search service with minimal effort. Typesense supports federated search, allowing users to query multiple collections in a single search, such as searching for both products and brands simultaneously."
+    - title: Scalable Search Performance
+      description: "Typesense is designed to handle millions of records without compromising on speed. It scales effortlessly, ensuring consistent, lightning-fast search results, even as your dataset grows."
+    - title: Instant Search with Minimal Latency
+      description: "Achieve search responses in under 50 milliseconds, providing users with an ultra-fast search experience while keeping operational costs low."
   screenshots:
     - /images/applications/search/typesense/screenshot-1.png
     - /images/applications/search/typesense/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Typesense" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Typesense is a modern, privacy-friendly, open source search engine built from the ground up, using cutting-edge search algorithms that take advantage of the latest advances in hardware capabilities. It's typo-tolerant and optimized for instant sub-50ms searches, while providing an intuitive developer experience. The aim of the Typesense team is to reduce the time-to-market for developers to build a blazing-fast search experience that provides relevant results out-of-the-box, without breaking the bank and without operational overhead."
-  features:
-    - title: Typo tolerance & tunable ranking
-      description: Spelling mistakes are not a problem with Typesense. It automatically tries to correct typos. You can tailor your results to perfection via flexible and fast query-time sorting.
-    - title: Result pinning & synonyms
-      description: "Typesense allows you to pin specific records in a particular position to feature or merchandize them, and show results for 'pants' when users search for 'trousers', or vice-versa, when you define them as synonyms."
-    - title: Multi-tenant API keys & dynamic sorting
-      description: "You can store multiple users' data in a single index, create API keys for each user that restrict access to just their data, sort records on the fly by any fields in your document (eg, sort by price, popularity, etc). No duplicate indices are needed."
-    - title: Easy, high availability & federated search
-      description: With Typesense, you can build a resilient production-grade search service with a few simple steps, and search one or more collections in a single query – eg, search for both products and brands, given a single search query.
-```

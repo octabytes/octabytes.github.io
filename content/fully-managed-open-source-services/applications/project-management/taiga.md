@@ -4,8 +4,8 @@ title: Taiga fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/taiga/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Taiga is a powerful, intuitive project management tool designed for multi-functional agile teams. Organize, collaborate, and deliver with ease, no complex setup required.
+  keywords: Taiga, project management, agile teams, team collaboration, project tracker, task management, sprint management, agile tool, productivity tool, project management software
   breadcrumb:
     - name: Home
       url: /
@@ -25,37 +25,21 @@ content:
   website: https://www.taiga.io/
   iframe_website: /website/applications/project-management/taiga
   direct_link: true
-  description: "description"
+  description: "Taiga is the project management tool built for agile teams looking to optimize collaboration and productivity. It offers a rich feature set with an intuitive user interface, making it easy to organize projects, track progress, and communicate effectively. Whether you're managing a small startup or a large enterprise, Taiga adapts to your team's needs, providing flexibility for any stage of the project. With Taiga, you can prioritize deliverables, stay on track with real-time updates, and foster team collaboration for seamless project success. The tool requires no complex setup or training, allowing you to hit the ground running and evolve your workflows as your team grows."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Get Organized
+      description: "Define deliverables involving your full team to capture their knowledge and secure buy-in. Align and prioritize deliverables with the end-user, ensuring timely completion and the ability to pivot as necessary."
+    - title: Communicate Effectively
+      description: "Conduct daily stand-ups with your team to share progress, discuss bottlenecks, and promote risk-taking for individual and team growth. Clear communication ensures timely delivery and accountability."
+    - title: Stay on Track
+      description: "Taiga provides visibility into ongoing activities and completed deliverables, helping end-users understand the current status of tasks and resources. Real-time updates ensure your team stays aligned and focused on priorities."
+    - title: Start Easy and Evolve
+      description: "Taiga is easy to start with, thanks to its intuitive interface, and can be customized as your team evolves. Reflect on team performance and adjust workflows when necessary, all without requiring complex training or setup."
+    - title: Collaborative Workspaces
+      description: "Foster teamwork through shared workspaces, enabling better task coordination and collaboration across team members. Taiga helps manage multi-functional teams by keeping everything in one place."
+    - title: Customizable Workflows
+      description: "Tailor workflows to match your team's unique needs. With flexible task management options, you can set up and adjust workflows that align with the way your team works, ensuring efficiency and effectiveness."
   screenshots:
     - /images/applications/project-management/taiga/screenshot-1.jpg
     - /images/applications/project-management/taiga/screenshot-2.jpeg
 ---
-
-Write seo optimizaed content for "Taiga" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
-  features:
-    - title: Get organized
-      description: Define deliverables involving your full team to capture all team´s knowledge and secure buy in.  Align and (re)prioritize deliverables with the end user on an ongoing basis to allow for timely pivots and assure the highest priority ones are completed in time
-    - title: Communicate effectively
-      description: Have daily stand-ups with the whole team. Share progress on agreed end products and discuss bottlenecks for a timely delivery. Promote risk-taking from team members to benefit both the individual and the team
-    - title: Stay on track
-      description: Provide visibility of ongoing activities & completed deliverables to the end user. Greater transparency into current resource & time allocation gives the end user a better understanding of state of- and effort needed for each deliverable & potential changes
-    - title: Start easy and evolve
-      description: Easy to start with and intuitive user interface for multi functional teams. Reflect and improve with the team on performance and ways of working. When needed, change workflows and activate more features. No training and complex set up required
-
-```

@@ -4,8 +4,8 @@ title: Wekan fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/project-management/wekan/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: WeKan is an open-source, customizable, and privacy-focused Kanban tool that helps you organize tasks and manage projects effectively.
+  keywords: WeKan, Open-Source Kanban, Task Management, Kanban Board, Project Management, Privacy-Focused, Customizable Kanban, Task Tracking, Secure Kanban, Collaborative Task Management
   breadcrumb:
     - name: Home
       url: /
@@ -24,37 +24,27 @@ content:
   logo: /images/applications/project-management/wekan/logo.png
   website: https://wekan.github.io/
   iframe_website: /website/applications/project-management/wekan
-  description: "description"
+  description: "WeKan is a powerful open-source Kanban board that enables teams and individuals to manage tasks and projects with ease. With its intuitive and visual interface, WeKan helps you track progress through customizable boards, lists, and cards. Whether you're managing personal tasks or collaborating on team projects, WeKan offers a flexible solution that is both secure and private. Its robust features, including task tracking, easy customization, and real-time collaboration, make it an ideal choice for anyone looking to stay organized and boost productivity. As a privacy-conscious tool, WeKan allows users to keep full control of their data while enjoying the benefits of a modern task management system."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Boards
+      description: "Organize Projects Efficiently
+With WeKan, you can create multiple boards for different projects or tasks. Each board offers a visual overview with customizable columns to track your project's progress, from 'To Do' to 'Doing' and 'Done.' These boards allow you to see your tasks at a glance and easily manage them."
+    - title: Lists
+      description: "Streamline Workflow Stages
+Lists within WeKan represent different stages of your workflow, such as 'To Do,' 'In Progress,' and 'Completed.' You can move tasks seamlessly between lists by dragging and dropping, ensuring a clear and organized project flow."
+    - title: Cards
+      description: "Manage Tasks with Details
+Cards in WeKan represent individual tasks. You can add titles, descriptions, due dates, labels, and comments to each card. Cards can be customized further by adding checklists, files, and even notes for enhanced collaboration and task tracking."
+    - title: Security
+      description: "Keep Your Data Safe
+WeKan takes your privacy seriously. Designed with security in mind, it offers features to ensure that your data is always protected. Whether hosted on your own server or through a third-party provider, WeKan provides peace of mind with robust security measures."
+    - title: Customization
+      description: "Tailor the Board to Your Needs
+WeKan allows you to fully customize boards, lists, and cards to suit your project needs. You can adjust colors, labels, and even add custom fields to capture additional task details, giving you flexibility in organizing your projects."
+    - title: Real-Time Collaboration
+      description: "Stay in Sync with Team Members
+With WeKan, collaboration is made easy. Team members can work together in real-time, updating task statuses, adding comments, and making changes instantly. This ensures that everyone stays on the same page and can contribute effectively to the project's success."
   screenshots:
     - /images/applications/project-management/wekan/screenshot-1.png
     - /images/applications/project-management/wekan/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Wekan" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-
-description: Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.
-  features:
-    - title: Boards
-      description: "You can make many boards for different projects or tasks. Each board can have columns to show the different stages of your work, such as 'To Do,' 'Doing,' and 'Done.' You can also add cards to each board to represent tasks, with titles, descriptions, and due dates. WeKan helps you keep track of your tasks and projects visually, so you can see what needs to be done and what has been completed."
-    - title: Lists
-      description: "WeKan uses lists on a Kanban board to represent different stages of a workflow, such as 'To Do,' 'Doing,' and 'Done.' Lists help you organize and track tasks on the board. To add a new list, click 'Add a list' and give it a name. You can move tasks between lists by dragging and dropping them. Lists can be customized by changing their color or adding custom fields to capture more information about tasks."
-    - title: Cards
-      description: A card represents a task on a Kanban board. It includes a title, description, due date, labels, and comments. To create a new card, choose the board and column, and add the relevant details. As work progresses, move the card from one column to another. Cards can be customized by adding labels, files, and checklists. You can also comment on cards to provide updates or feedback.
-    - title: Security
-      description: WeKan is designed with security in mind, and its features and options are built to help you protect your data and keep it secure.
-```
