@@ -1,24 +1,43 @@
 ---
 draft: false
-title: HedgeDoc
+title: HedgeDoc fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/note-taking/hedgedoc/screenshot-1.jpg
+  description: HedgeDoc is an open-source, real-time collaborative markdown editor that enables easy collaboration on documents, notes, and presentations, all while being self-hosted for data security and control.
+  keywords: HedgeDoc, collaborative markdown editor, open-source markdown editor, real-time collaboration, self-hosted editor, markdown presentations, web-based editor, HackMD alternative, team collaboration tool, document sharing, markdown graphs, self-hosted notes editor
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: HedgeDoc
+      url: /fully-managed-open-source-services/applications/note-taking/hedgedoc
+
 content:
   id: hedgedoc
   name: HedgeDoc
   logo: /images/applications/note-taking/hedgedoc/logo.png
   website: https://hedgedoc.org/
   iframe_website: /website/applications/note-taking/hedgedoc
-  dashboardImage: /images/applications/note-taking/hedgedoc/screenshot-1.png
-  short_description: HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor
-  description: HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor. You can use it to easily collaborate on notes, graphs and even presentations in real-time. All you need to do is to share your note-link to your co-workers and they’re ready to go.
+  description: "HedgeDoc is an open-source, web-based, self-hosted markdown editor designed for seamless real-time collaboration. Whether you're working on notes, writing documents, or crafting presentations, HedgeDoc enables you and your team to collaborate effortlessly. With the ability to create and edit documents simultaneously, all you need to do is share a link, and your co-workers are ready to contribute. Built on HackMD's source code, it provides a fast, easy, and secure platform that puts control back in your hands with self-hosting options. HedgeDoc is the ultimate tool for collaborative writing and productivity."
   features:
-    - title: Real time collaboration
-      description: "HedgeDoc lets you collaborate in real-time with markdown. Built on HackMD source code, HedgeDoc lets you host and control your team's content with speed and ease."
-    - title: Web-based & Self-hosted
-      description: You don’t need extra software. The editor runs in your browser. Stay in control of your data. Keep it on your server.
-    - title: Presentation mode
-      description: "Use HedgeDoc to build and present slides in markdown. Powered by reveal.js! reveal.js is an open source HTML presentation framework. It's a tool that enables anyone with a web browser to create fully-featured and beautiful presentations for free."
-    - title: Graphs & diagrams
-      description: HedgeDoc supports many types of graphs, diagrams and embedded content. Chart.js is an open-source JavaScript library that allows you to draw different types of charts by using the HTML5 canvas element. MathJax is a cross-browser JavaScript library that displays mathematical notation in web browsers, using MathML, LaTeX and ASCIIMathML markup.
+    - title: Real-Time Collaboration
+      description: "HedgeDoc allows seamless real-time collaboration with markdown. Multiple team members can work together on documents, making changes simultaneously with instant updates."
+    - title: Web-Based & Self-Hosted
+      description: "Run HedgeDoc directly in your browser without additional software installations. Plus, keep your data secure by hosting it on your own server, ensuring complete control over your content."
+    - title: Presentation Mode
+      description: "Transform your markdown notes into professional presentations using HedgeDoc’s integrated presentation mode. Powered by reveal.js, you can create visually stunning presentations right from your markdown editor."
+    - title: Graphs & Diagrams
+      description: "HedgeDoc supports a variety of charts and diagrams, powered by Chart.js and MathJax. You can integrate graphs, mathematical equations, and data visualizations directly into your documents for enhanced communication."
+    - title: Markdown Simplicity
+      description: "HedgeDoc stays true to the simplicity of markdown, offering a clean and distraction-free writing environment. Easily format text, add links, images, and tables with simple markdown syntax."
+    - title: Real-Time Document Sharing
+      description: "Share your notes and documents instantly with a unique URL, allowing collaborators to view and edit in real time, ensuring everyone is on the same page and productive."
   screenshots:
     - /images/applications/note-taking/hedgedoc/screenshot-1.png
     - /images/applications/note-taking/hedgedoc/screenshot-2.png

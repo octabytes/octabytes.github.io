@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Rocket.Chat
+title: Rocket.Chat fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/live-chat/rocket.chat/screenshot-1.jpg
+  description: Rocket.Chat is a secure, customizable messaging platform that enables real-time, private communication across teams, customers, and partners. Trusted by leading organizations, it enhances productivity with features like group messaging, video calls, and integrations.
+  keywords: Rocket.Chat, customizable messaging platform, secure communication, real-time chat, data protection, group messaging, video conferencing, team collaboration, secure chat app, messaging for teams, enterprise chat solution, communication platform
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Rocket.Chat
+      url: /fully-managed-open-source-services/applications/live-chat/rocket.chat
+
 content:
   id: rocket.chat
   name: Rocket.Chat
   logo: /images/applications/live-chat/rocket.chat/logo.png
   website: https://rocket.chat/
   iframe_website: /website/applications/live-chat/rocket.chat
-  dashboardImage: /images/applications/live-chat/rocket.chat/screenshot-1.jpg
-  short_description: Rocket.Chat is an open-source communications platform for organizations with high standards of data protection.
-  description: Rocket.Chat is a fully customizable communications platform developed in JavaScript, with a focus on data protection. A MERN-based application, it enables real-time conversations with colleagues, other companies or customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates. Organizations such as Deutsche Bahn, the US Navy and Credit Suisse trust Rocket.Chat to keep their communications private and secure.
+  description: "Rocket.Chat is a powerful, fully customizable communication platform built with JavaScript, offering a robust solution for teams and businesses of all sizes. Developed as a MERN stack application, Rocket.Chat ensures that you can communicate securely, whether through direct messaging or group conversations, while keeping full control over your data. With a strong focus on privacy and security, Rocket.Chat enables seamless communication within teams, with external partners, and customers. Trusted by major organizations such as Deutsche Bahn, the US Navy, and Credit Suisse, Rocket.Chat is designed to boost productivity and customer satisfaction through reliable, real-time interactions. Whether you need one-on-one chats, group discussions, or team collaboration channels, Rocket.Chat has you covered."
   features:
-    - title: One-on-one or group messaging
-      description: You can use one-on-one messaging to communicate privately or group messaging to connect with teams.
+    - title: One-on-one or Group Messaging
+      description: "Communicate privately with one-on-one messages or collaborate with multiple team members through group messaging, ensuring that your conversations are always on point and private."
     - title: Channels
-      description: Rocket.Chat provides private channels to collaborate with your team and public channels for company-wide communications.
-    - title: Audio & video calls
-      description: With Rocket.Chat, you can leverage video conferencing integrations to share information more efficiently, so that work gets done faster.
-    - title: Talk to the apps you love
-      description: Explore our marketplace to find and build custom apps that streamline your workflows.
+      description: "Create private channels for your team or use public channels for company-wide communication. Rocket.Chat’s channel feature helps you stay organized and communicate effectively within your organization."
+    - title: Audio & Video Calls
+      description: "Enhance your communication with seamless audio and video calls. Rocket.Chat supports video conferencing integrations, allowing you to share ideas, hold meetings, and collaborate more efficiently."
+    - title: Talk to the Apps You Love
+      description: "Rocket.Chat offers a rich marketplace of apps to integrate with your workflow. Find and install custom apps that streamline tasks, enhance productivity, and simplify communication."
+    - title: End-to-End Encryption
+      description: "Ensure your conversations stay private with Rocket.Chat’s end-to-end encryption. Protect sensitive data and communications from unauthorized access, giving you peace of mind."
+    - title: Self-Hosting and Cloud Options
+      description: "Whether you prefer the flexibility of self-hosting or the convenience of a cloud-based solution, Rocket.Chat offers both options to meet your organization’s unique needs, ensuring scalability and control over your communication platform."
   screenshots:
     - /images/applications/live-chat/rocket.chat/screenshot-1.jpg
     - /images/applications/live-chat/rocket.chat/screenshot-2.jpg

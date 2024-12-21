@@ -1,6 +1,23 @@
 ---
 draft: false
-title: Affine
+title: Affine fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/note-taking/affine/screenshot-1.jpg
+  description: Affine is a powerful, privacy-first collaborative knowledge base designed for professionals. With versatile features like Markdown support, seamless transitions, and real-time collaboration, Affine is the perfect solution for managing your data securely and efficiently.
+  keywords: open-source knowledge base, collaborative workspace, privacy-first, alternative to Monday, alternative to Notion, alternative to Miro, data management, real-time collaboration, Markdown support, secure data storage
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Affine
+      url: /fully-managed-open-source-services/applications/note-taking/affine
+
 content:
   id: affine
   name: Affine
@@ -8,18 +25,20 @@ content:
   website: https://affine.pro/
   iframe_website: /website/applications/note-taking/affine
   direct_link: true
-  dashboardImage: /images/applications/note-taking/affine/screenshot-1.jpeg
-  short_description: "More than Notion and Miro's next-generation knowledge base, AFFiNE unifies planning, sorting, and creation."
-  description: "Open Source, Privacy First Monday, Notion and Miro's Alternative. Affine is the next-generation collaborative knowledge base for professionals. It's not just a collection of Docs, whiteboard, and tables. Transform any building block as you like. Say goodbye to redundancy. Store your data once, and keep your data as you like it."
+  description: "Affine is the next-generation open-source collaborative knowledge base that offers a comprehensive, privacy-first alternative to popular tools like Monday, Notion, and Miro. Unlike traditional platforms that rely on cloud storage, Affine ensures your data is locally stored and securely managed, putting your privacy first. Whether you're managing docs, whiteboards, or tables, Affine lets you transform any building block to meet your needs, creating a truly flexible workspace. Say goodbye to redundancy and enjoy a seamless experience with real-time editing, intuitive Markdown support, and effortless data organization."
   features:
     - title: Shape Your Page
-      description: Docs, Kanbans, and Databases are all fully functional anywhere, anytime. A truly what-you-see-is-what-you-get environment for your data. All pages come with a document (Paper Mode) and whiteboard (Edgeless Mode) view.
-    - title: Privacy-first, and collaborative.
-      description: Your data is yours;it is always locally stored and secured - available to you always. While still being able to enjoy collaboration features such as real-time editing and sharing with others, without any cloud setup.
-    - title: Markdown support
-      description: When you write in AFFiNE you can use Markdown syntax which helps create an easier editing experience, that can be experienced with just a keyboard. And this allows you to export your data cleanly into Markdown.
-    - title: Seamless transitions
-      description: However you want your data displayed, whichever viewing mode you use, AFFiNE supports easy transitions to allow you to quickly and effortlessly view your data in the way you want.
+      description: "Docs, Kanbans, and Databases are all fully functional anywhere, anytime. Affine offers a true what-you-see-is-what-you-get environment for your data. All pages feature two distinct views: a document (Paper Mode) and a whiteboard (Edgeless Mode), allowing you to switch between them effortlessly."
+    - title: Privacy-First and Collaborative
+      description: "Your data remains yours, stored locally and securely on your device. You can collaborate in real time with others, enjoying editing and sharing features without needing to set up a cloud. Affine ensures your data privacy while providing the flexibility of collaboration."
+    - title: Markdown Support
+      description: "Writing in Affine is a breeze with built-in Markdown syntax. This intuitive feature enhances your editing experience by allowing quick and clean formatting with just your keyboard. You can also export your data as Markdown for easy sharing and portability."
+    - title: Seamless Transitions
+      description: "Affine offers smooth transitions between different views, whether you’re working in document mode or whiteboard mode. This flexibility allows you to quickly adapt how your data is displayed, helping you stay productive without interruptions."
+    - title: Real-Time Collaboration
+      description: "Work alongside your team in real-time with Affine’s collaborative features. Multiple users can edit and view documents, Kanbans, and whiteboards simultaneously, making it easier than ever to coordinate on tasks and projects."
+    - title: Customizable Workspace
+      description: "Affine gives you the power to customize your workspace to suit your needs. With its adaptable interface, you can organize your documents, whiteboards, and databases in any way that enhances your workflow. Whether you’re managing personal projects or team collaborations, Affine provides the flexibility you need."
   screenshots:
     - /images/applications/note-taking/affine/screenshot-1.jpeg
     - /images/applications/note-taking/affine/screenshot-2.png

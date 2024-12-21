@@ -1,6 +1,23 @@
 ---
 draft: false
-title: LobeChat
+title: LobeChat fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/live-chat/lobechat/screenshot-1.jpg
+  description: LobeChat is an open-source, high-performance chatbot framework that supports multimodal interactions, including text-to-speech, visual recognition, and text-to-image generation, offering easy deployment of private ChatGPT and LLM applications.
+  keywords: open-source chatbot, chatbot framework, high-performance chatbot, ChatGPT, visual recognition, multimodal AI, text-to-speech, speech-to-text, text-to-image, AI assistant, LobeChat, private chatbot deployment, GPT-4-vision, AI plugins, conversational AI, open-source LLM
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: LobeChat
+      url: /fully-managed-open-source-services/applications/live-chat/lobechat
+
 content:
   id: lobechat
   name: LobeChat
@@ -8,18 +25,20 @@ content:
   website: https://github.com/lobehub/lobe-chat
   iframe_website: /website/applications/live-chat/lobechat
   direct_link: true
-  dashboardImage: /images/applications/live-chat/lobechat/screenshot-1.webp
-  short_description: An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
-  description: An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
+  description: "LobeChat is an advanced open-source, high-performance chatbot framework designed to empower users with intelligent, versatile, and interactive experiences. With built-in support for cutting-edge technologies like OpenAI's GPT-4-vision, LobeChat allows one-click free deployment of private ChatGPT, Gemini, and other large language model (LLM) applications. This powerful platform offers seamless integration of voice and visual recognition capabilities, allowing users to interact in diverse and innovative ways. Whether you're looking to create a custom chatbot for your website, deploy a sophisticated AI assistant, or build your own multimodal conversational agent, LobeChat provides the tools and flexibility you need to bring your vision to life."
   features:
     - title: Visual Model Support
-      description: "LobeChat now supports OpenAI's latest gpt-4-vision model with visual recognition capabilities, a multimodal intelligence that can perceive visuals. Users can easily upload or drag and drop images into the dialogue box, and the agent will be able to recognize the content of the images and engage in intelligent conversation based on this, creating smarter and more diversified chat scenarios."
+      description: "LobeChat supports OpenAI's GPT-4-vision model, enabling the chatbot to recognize and process images. Users can upload images into the chat, and the agent will engage in conversations based on the image content, creating rich and diverse interactions."
     - title: TTS & STT Voice Speech
-      description: LobeChat supports Text-to-Speech (TTS) and Speech-to-Text (STT) technologies, enabling our application to convert text messages into clear voice outputs, allowing users to interact with our conversational agent as if they were talking to a real person. Users can choose from a variety of voices to pair with the agent.
+      description: "With built-in Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities, LobeChat allows users to communicate with the chatbot using voice. Choose from a variety of voice options to enhance the natural interaction experience."
     - title: Text to Image
-      description: With support for the latest text-to-image generation technology, LobeChat now allows users to invoke image creation tools directly within conversations with the agent. By leveraging the capabilities of AI tools such as DALL-E 3, MidJourney, and Pollinations, the agents are now equipped to transform your ideas into images.
+      description: "Leverage the power of AI-driven image generation tools like DALL-E 3, MidJourney, and Pollinations to create images directly within the chat. LobeChat transforms your textual input into high-quality visual content, enriching your conversational experience."
     - title: Function Calling Plugin System
-      description: The plugin ecosystem of LobeChat is a significant extension of its core functionalities, greatly enhancing the practicality and flexibility of ChatGPT. By leveraging plugins, ChatGPT can perform real-time information retrieval and processing, such as automatically fetching the latest news headlines to provide users with immediate and relevant information. Moreover, these plugins are not limited to news aggregation but can also extend to other practical functions, such as quick document retrieval, e-commerce platform data access, and various third-party services.
+      description: "LobeChat's plugin system enhances the core functionality by enabling real-time information retrieval and processing. Plugins can fetch news headlines, access e-commerce platforms, retrieve documents, and much more, providing dynamic and immediate responses during conversations."
+    - title: One-Click Deployment
+      description: "LobeChat simplifies the deployment of private AI applications. With just a single click, users can launch their own personalized versions of ChatGPT, Gemini, or other LLM applications, without the need for complex setup."
+    - title: Customizable Chat Scenarios
+      description: "Tailor the chatbot's responses and behavior to fit your specific use case. LobeChat allows customization of conversational flows, personality, and engagement methods, ensuring that the chatbot meets the unique needs of your project or business."
   screenshots:
     - /images/applications/live-chat/lobechat/screenshot-1.webp
     - /images/applications/live-chat/lobechat/screenshot-2.png

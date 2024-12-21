@@ -3,8 +3,8 @@ draft: false
 title: "Live chat - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Effortlessly manage email marketing campaigns with OctaByte's open-source email marketing software and fully managed services.
-  keywords: open-source email marketing software, email marketing tools, email automation, subscriber management, campaign analytics, managed email services, hassle-free email marketing, OctaByte email software, fully managed services, email software installation, email marketing backup.
+  description: Explore OctaByte's managed open-source live chat software, including installation, backup, updates, and support for a hassle-free communication experience.
+  keywords: open-source live chat software, live chat solutions, managed live chat, live chat installation, live chat updates, live chat support, website communication, OctaByte services, customer support chat, open-source software management, website engagement tools, live chat maintenance
   breadcrumb:
     - name: Home
       url: /
@@ -12,13 +12,13 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Email marketing
-      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
 
 content:
   id: "live-chat"
   title: "'Live chat'"
   catalog: applications
   category: live-chat
-  description: Explore our range of open source live chat software on OctaByte. We handle installation, backup, updates, support, and maintenance, ensuring a smooth communication experience for your website or application.
+  description: Discover the best open-source live chat software options on OctaByte, where we provide fully managed services to ensure seamless communication on your website or application. Our platform takes care of everything from installation and backups to updates, support, and ongoing maintenance. With OctaByte, you can focus on your business while we handle the technical aspects, ensuring a smooth and uninterrupted live chat experience for your users. Whether you're looking to implement live chat for customer support, sales, or real-time engagement, OctaByte makes it easy with reliable, hassle-free solutions.
 ---

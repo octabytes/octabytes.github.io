@@ -1,24 +1,43 @@
 ---
 draft: false
-title: Revolt
+title: Revolt fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/applications/live-chat/revolt/screenshot-1.jpg
+  description: Revolt is a secure, privacy-focused chat app for friends and communities, offering customizable spaces with no ads and a commitment to confidentiality. Open-source and GDPR-compliant.
+  keywords: Revolt chat app, privacy-focused chat, secure messaging, customizable chat app, open-source chat app, GDPR compliant chat, community chat, secure DMs, private conversations, encrypted chat, personalized chat app
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Revolt
+      url: /fully-managed-open-source-services/applications/live-chat/revolt
+
 content:
   id: revolt
   name: Revolt
   logo: /images/applications/live-chat/revolt/logo.png
   website: https://revolt.chat/
   iframe_website: /website/applications/live-chat/revolt
-  dashboardImage: /images/applications/live-chat/revolt/screenshot-1.png
-  short_description: The Open Source Discord Alternative. Find your community, connect with the world
-  description: Revolt is one of the best ways to stay connected with your friends and community without sacrificing any usability. We focus only on the user, and you can be sure that your conversations are confidential and your data is secure.
+  description: "Revolt is a privacy-focused chat app designed to enhance communication with your friends and community while ensuring your data remains safe and secure. Unlike traditional chat apps that often compromise user privacy for profit, Revolt prioritizes confidentiality and security, making it a standout choice for those who value their privacy. The platform offers an array of customizable features, empowering users to build unique communities and personalized chat experiences. With an open-source codebase and strong commitment to GDPR compliance, Revolt ensures that your conversations are private and your data is never sold or exploited. Whether you’re creating a space for close friends or a dedicated community, Revolt allows you to manage everything with ease and without distractions."
   features:
-    - title: Create a space only for you and your friends
-      description: Revolt lets you create a private space for you and your friends to chat, without any of the distractions of other chat apps. You can customize your server however you want, and even invite any other friends to join you.
-    - title: Built even for the most dedicated communities.
-      description: Revolt is perfect for communities looking to chat with their members. With role-based access control and in-depth customization, you can get started from creation to invite in minutes.
-    - title: Talk without anyone else listening in.
-      description: Revolt will not sell your data or leak it to advertisers. Our code is open source and can be audited by anyone willing. Based in Europe and bound to the GDPR, we take your privacy very seriously. And with end-to-end encryption coming to DMs and group chats soon, you can be absolutely sure of it.
-    - title: Make it yours in minutes.
-      description: "Revolt's open architecture makes it easier than ever to build custom bots and clients for anything your heart desires. You can even make your own Revolt app if you want to. And with every single color customizable, you don't need to know how to program to make it feel like you want to."
+    - title: Create a Space Only for You and Your Friends
+      description: "Revolt lets you create private, distraction-free spaces for chatting with friends. You have full control over customization and can invite others to join your server whenever you wish."
+    - title: Built Even for the Most Dedicated Communities
+      description: "Revolt is designed with community management in mind, featuring role-based access control and deep customization options to help you quickly set up and manage your group, no matter how large or small."
+    - title: Talk Without Anyone Else Listening In
+      description: "With Revolt, your privacy is guaranteed. The platform doesn’t sell your data or share it with advertisers. It’s open-source and fully auditable, ensuring your conversations remain confidential and secure."
+    - title: Make It Yours in Minutes
+      description: "Revolt’s open architecture allows for easy creation of custom bots and clients. The platform is highly customizable, from its color scheme to its functionality, even for non-programmers."
+    - title: End-to-End Encryption Coming Soon
+      description: "Privacy is a top priority for Revolt. End-to-end encryption for direct messages and group chats will be available soon, ensuring that only you and your intended recipient can read your conversations."
+    - title: Fully Open Source and Transparent
+      description: "Revolt’s open-source nature means anyone can inspect the code. With no hidden agendas and complete transparency, Revolt ensures your data is safe, giving you peace of mind that your chat platform is trustworthy and secure."
   screenshots:
     - /images/applications/live-chat/revolt/screenshot-1.png
     - /images/applications/live-chat/revolt/screenshot-2.png
