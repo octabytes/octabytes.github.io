@@ -1,6 +1,23 @@
 ---
 draft: false
-title: MeshCentral
+title: MeshCentral fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/development/network/meshcentral/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: MeshCentral
+      url: /fully-managed-open-source-services/development/network/meshcentral
+
 content:
   id: meshcentral
   name: MeshCentral
@@ -8,9 +25,29 @@ content:
   website: https://www.meshcommander.com/meshcentral2
   iframe_website: /website/development/network/meshcentral
   direct_link: true
-  dashboardImage: /images/development/network/meshcentral/screenshot-1.png
-  short_description: MeshCentral is a full computer management web site
-  description: You can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, create device group and download and install an agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it. MeshCentral includes full web-based remote desktop, terminal and file management capability.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/development/network/meshcentral/screenshot-1.png
+    - /images/development/network/meshcentral/screenshot-2.png
+---
+
+Write seo optimizaed content for "MeshCentral" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: You can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, create device group and download and install an agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it. MeshCentral includes full web-based remote desktop, terminal and file management capability.
   features:
     - title: Remote Desktop & Terminal
       description: Possibly the most used feature, MeshCentral offers web based remote desktop and terminal. You can take control of any computer in the world from any web browser.
@@ -20,7 +57,4 @@ content:
       description: Real Time User Interface. The MeshCentral web interface is fully real-time so users never have to hit “refresh”. This makes it easy to see device connections to and activities has they happen.
     - title: Multi-User
       description: MeshCentral fully supports multi-user and multitenancy permitting servers to be used by many people at once with different permissions on device groups for efficient server use.
-  screenshots:
-    - /images/development/network/meshcentral/screenshot-1.png
-    - /images/development/network/meshcentral/screenshot-2.png
----
+```

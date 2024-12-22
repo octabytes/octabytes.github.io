@@ -1,15 +1,52 @@
 ---
 draft: false
-title: LocalStack
+title: LocalStack fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/hosting-and-infrastructure/infrastructure/dockerregistry/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+    - name: DockerRegistry
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/dockerregistry
+
 content:
   id: localstack
   name: LocalStack
   logo: /images/hosting-and-infrastructure/infrastructure/localstack/logo.png
   website: https://localstack.cloud/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/localstack
-  dashboardImage: /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
-  short_description: A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!
-  description: LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
+    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-2.png
+---
+
+Write seo optimizaed content for "LocalStack" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment.
   features:
     - title: Cloud Emulation
       description: LocalStack provides a fully functional local cloud stack - develop your cloud apps offline! Provides the same APIs as the real cloud, all on your local machine No need to write hand-crafted mocks for your unit and integration tests
@@ -19,7 +56,4 @@ content:
       description: Easily reproducible environments from local dev, across CI/CD, into prod. Set breakpoints in your local execution and hook into the in-memory state. Spin up ephemeral environments to test or showcase your changes. Directly reproduce red CI runs and build failures on your machine
     - title: Integrations
       description: LocalStack supports a wide range of tools from the cloud development ecosystem.  AWS CLI, Serverless Framework, Spring Cloud Function framework, Terraform, AWS SAM, Pulumi ... and more
-  screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-2.png
----
+```

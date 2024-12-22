@@ -1,15 +1,52 @@
 ---
 draft: false
-title: PowerDNS
+title: PowerDNS fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/hosting-and-infrastructure/infrastructure/dockerregistry/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+    - name: DockerRegistry
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/dockerregistry
+
 content:
   id: powerdns
   name: PowerDNS
   logo: /images/hosting-and-infrastructure/infrastructure/powerdns/logo.png
   website: https://www.powerdns.com/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/powerdns
-  dashboardImage: /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
-  short_description: PowerDNS is a premier supplier of open-source DNS software, services and support.
-  description: PowerDNS is a DNS server program, written in C++ and licensed under the GPL. It runs on most Unix derivatives. It features a large number of backends ranging from simple BIND style zonefiles to relational databases and load-balancing/failover algorithms.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
+    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-2.jpg
+---
+
+Write seo optimizaed content for "PowerDNS" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: PowerDNS is a DNS server program, written in C++ and licensed under the GPL. It runs on most Unix derivatives. It features a large number of backends ranging from simple BIND style zonefiles to relational databases and load-balancing/failover algorithms.
   features:
     - title: Complete suite of DNS-related software
       description: PowerDNS provides open-source (GPL) software to create authoritative DNS, recursive DNS, DNS loading balancer, debugging tools, and APIs to provision zones and records.
@@ -19,7 +56,4 @@ content:
       description: PowerDNS Recursor can use multiple processors. Like the Authoritative Server, it supports various scripts. It can be reconfigured without downtime.
     - title: Powerful load balancer
       description: Dnsdist (load balancer) can route traffic to optimal servers, delivering excellent performance. It also can block abusive traffic and provide DoS protection.
-  screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-2.jpg
----
+```

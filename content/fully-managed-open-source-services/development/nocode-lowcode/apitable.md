@@ -1,6 +1,23 @@
 ---
 draft: false
-title: APITable
+title: APITable fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/development/nocode-lowcode/apitable/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: APITable
+      url: /fully-managed-open-source-services/development/nocode-lowcode/apitable
+
 content:
   id: apitable
   name: APITable
@@ -8,9 +25,29 @@ content:
   website: https://apitable.com/
   iframe_website: /website/development/nocode-lowcode/apitable
   direct_link: true
-  dashboardImage: /images/development/nocode-lowcode/apitable/screenshot-1.png
-  short_description: APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.
-  description: APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/development/nocode-lowcode/apitable/screenshot-1.png
+    - /images/development/nocode-lowcode/apitable/screenshot-2.png
+---
+
+Write seo optimizaed content for "APITable" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: APITable is an API-oriented low-code platform for building collaborative apps and is better than all other Airtable open-source alternatives.
   features:
     - title: Advanced technology stack and open-source
       description: "Realtime collaboration allows multiple users to edit together in real time, or simultaneously with the Operational Transformation (OT) Algorithm. Extremely smooth, user-friendly, super-fast database-spreadsheet interface inRendering Engine. Database native architecture: Changeset / Operation / Action / Snapshot and so on. 100k+ data rows with real-time collaboration. Full-stack API access, from Data to Metadata. One-direction / Bi-direction Table Link and Infinite Cross Links. Community-friendly programming languages and framework, TypeScript (NextJS + NestJS) and Java (Spring Boot)."
@@ -20,7 +57,4 @@ content:
       description: Built-in 10+ official templates. Robot Automation and customization are available. BI dashboard. One-click auto-generated form. Shareable and embeddable page. Multi-language support. Integration with n8n.io / Zapier / Appsmith... and more.
     - title: Excellent extensibility
       description: Extensible Widget System with over 20 officials open-source widgets. Customizable Graph & Chart & Dashboard. Customizable Data Column Types. Customizable Formulas. Customizable Automation Robot Actions.
-  screenshots:
-    - /images/development/nocode-lowcode/apitable/screenshot-1.png
-    - /images/development/nocode-lowcode/apitable/screenshot-2.png
----
+```

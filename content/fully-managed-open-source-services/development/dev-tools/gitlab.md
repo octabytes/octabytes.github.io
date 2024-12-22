@@ -1,15 +1,52 @@
 ---
 draft: false
-title: Gitlab
+title: Gitlab fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/development/dev-tools/gitlab/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gitlab
+      url: /fully-managed-open-source-services/development/dev-tools/gitlab
+
 content:
   id: gitlab
   name: Gitlab
   logo: /images/development/dev-tools/gitlab/logo.png
   website: https://about.gitlab.com/
   iframe_website: /website/development/dev-tools/gitlab
-  dashboardImage: /images/development/dev-tools/gitlab/screenshot-1.jpg
-  short_description: GitLab enables you to deliver software faster with better security and collaboration in a single platform.
-  description: GitLab is the DevOps platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in an organization can collaboratively plan, build, secure and deploy software to drive business outcomes faster, with transparency, consistency and traceability.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/development/dev-tools/gitlab/screenshot-1.jpg
+    - /images/development/dev-tools/gitlab/screenshot-2.jpg
+---
+
+Write seo optimizaed content for "Gitlab" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: GitLab is the DevOps platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in an organization can collaboratively plan, build, secure and deploy software to drive business outcomes faster, with transparency, consistency and traceability.
   features:
     - title: Visibility and insight
       description: GitLab gives visibility and insight into how a business is performing. It helps teams manage and optimize their software delivery lifecycle with metrics and value-stream insight in order to streamline and increase their delivery velocity. Teams can organize, plan, align and track project work to ensure teams are working on the right things at the right time.
@@ -19,7 +56,4 @@ content:
       description: GitLab allows you to create, view and manage code and project data through powerful branching tools. It helps teams design, develop and securely manage code and project data from a single distributed version control system, enabling rapid iteration and delivery of business value. GitLab repositories provide a scalable, single source of truth for collaborating on projects and code which enables teams to be productive without disrupting their workflows.
     - title: Deliver better code faster
       description: GitLab allows you to maintain strict quality standards for production code with automatic testing and reporting. It helps delivery teams fully embrace continuous integration to automate the builds, integration and verification of their code. Its industry-leading CI capabilities enable automated testing, Static Analysis Security Testing, Dynamic Analysis Security testing and code quality analysis to provide fast feedback to developers and testers about the quality of their code. With pipelines that enable concurrent testing and parallel execution, teams can deliver better code faster.
-  screenshots:
-    - /images/development/dev-tools/gitlab/screenshot-1.jpg
-    - /images/development/dev-tools/gitlab/screenshot-2.jpg
----
+```

@@ -1,15 +1,52 @@
 ---
 draft: false
-title: Jitsu
+title: Jitsu fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+    - name: DockerRegistry
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/dockerregistry
+
 content:
   id: jitsu
   name: Jitsu
   logo: /images/hosting-and-infrastructure/monitoring/jitsu/logo.png
   website: https://jitsu.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/jitsu
-  dashboardImage: /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
-  short_description: Jitsu is an open-source web and app-event collection platform.
-  description: "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days."
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
+    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png
+---
+
+Write seo optimizaed content for "Jitsu" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days."
   features:
     - title: Send data from anywhere
       description: "To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team."
@@ -19,7 +56,4 @@ content:
       description: You can apply any transformation with Jitsu. Just write JavaScript code right in the UI to do anything with incoming data. The code editor supports code completion, debugging, etc. It feels like a full-featured IDE…
     - title: Enrich the data
       description: Jitsu will automatically resolve user geo-location based on IP address, and will parse user agent to filter out bots and understand the device type. It can also pull data from 140+ external services to build a 100% accurate profile of your users.
-  screenshots:
-    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png
----
+```

@@ -3,8 +3,8 @@ draft: false
 title: "Monitoring - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Empower your business with fully managed open-source applications. From content management to communication tools and e-commerce platforms, we offer seamless solutions with expert support.
-  keywords: open-source applications, managed services, content management, communication tools, e-commerce platforms, seamless solutions, expert support, timely updates, reliable services, user experience, open-source software, business solutions, productivity, reduce downtime, innovate with open-source
+  description: description
+  keywords: keywords
   breadcrumb:
     - name: Home
       url: /
@@ -13,7 +13,7 @@ meta:
     - name: Hosting and Infrastructure
       url: /fully-managed-open-source-services/hosting-and-infrastructure
     - name: Monitoring
-      url: /fully-managed-open-source-services/monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
 
 content:
   id: "monitoring"

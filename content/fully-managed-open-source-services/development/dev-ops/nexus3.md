@@ -1,15 +1,50 @@
 ---
 draft: false
-title: Nexus3
+title: Nexus3 fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/development/dev-ops/nexus3/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Nexus3
+      url: /fully-managed-open-source-services/development/dev-ops/nexus3
+
 content:
   id: nexus3
   name: Nexus3
   logo: /images/development/dev-ops/nexus3/logo.png
   website: https://www.sonatype.com/products/repository-oss
   iframe_website: /website/development/dev-ops/nexus3
-  dashboardImage:
-  short_description: The free artifact repository with universal format support.
-  description: World’s #1 Repository Manager. Single source of truth for all of your components, binaries, and build artifacts. Efficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+---
+
+Write seo optimizaed content for "Nexus3" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: World’s #1 Repository Manager. Single source of truth for all of your components, binaries, and build artifacts. Efficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.
   features:
     - title: Universal Support for All Popular Build Tools
       description: "Store and distribute Maven/Java, npm, NuGet, Helm, Docker, P2, OBR, APT, GO, R, Conan components and more. Manage components from dev through delivery: binaries, containers, assemblies, and finished goods. Awesome support for the Java Virtual Machine (JVM) ecosystem, including Gradle, Ant, Maven, and Ivy. Compatible with popular tools like Eclipse, IntelliJ, Hudson, Jenkins, Puppet, Chef, Docker, and more."
@@ -19,5 +54,4 @@ content:
       description: Single source of truth for all of your components, binaries, and build artifacts. Efficiently distribute parts and containers to developers. Deployed at more than 100,000 organizations globally.
     - title:
       description:
-  screenshots:
----
+```

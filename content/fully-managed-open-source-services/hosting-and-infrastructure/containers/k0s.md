@@ -1,15 +1,50 @@
 ---
 draft: false
-title: k0s
+title: k0s fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/hosting-and-infrastructure/containers/dockerregistry/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Containers
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
+    - name: DockerRegistry
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/dockerregistry
+
 content:
   id: k0s
   name: k0s
   logo: /images/hosting-and-infrastructure/containers/k0s/logo.png
   website: https://k0sproject.io/
   iframe_website: /website/hosting-and-infrastructure/containers/k0s
-  dashboardImage:
-  short_description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
-  description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+---
+
+Write seo optimizaed content for "k0s" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
   features:
     - title: Zero Friction
       description: k0s drastically reduces the complexity of installing and running a fully conformant Kubernetes distribution. New kube clusters can be bootstrapped in minutes. Developer friction is reduced to zero, allowing anyone, with no special skills or expertise in Kubernetes to easily get started.
@@ -19,5 +54,4 @@ content:
       description: "k0s is completely free for personal or commercial use, and it always will be. The source code is available on Github under Apache 2 license. It's a no brainer foundation for any Kubernetes projects and easy build upon."
     - title: Control Plane Datastore
       description: In-Cluster Elastic Etcd with TLS (default) In-Cluster SQLite (default for single node) External PostgreSQL External MySQL
-  screenshots:
----
+```

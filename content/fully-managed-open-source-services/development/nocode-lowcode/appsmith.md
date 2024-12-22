@@ -1,15 +1,52 @@
 ---
 draft: false
-title: Appsmith
+title: Appsmith fully managed open source service | OctaByte.io
+
+meta:
+  cover: /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
+  description: description
+  keywords: keywords
+  breadcrumb:
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Appsmith
+      url: /fully-managed-open-source-services/development/nocode-lowcode/appsmith
+
 content:
   id: appsmith
   name: Appsmith
   logo: /images/development/nocode-lowcode/appsmith/logo.png
   website: https://www.appsmith.com/
   iframe_website: /website/development/nocode-lowcode/appsmith
-  dashboardImage: /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
-  short_description: Appsmith is a powerful open-source framework to build internal tools.
-  description: Appsmith is a low-code, open-source framework to build internal applications. With the JavaScript-based visual development platform, you can rapidly build CRUD apps, dashboards, admin panels, etc. You can use the pre-built UI widgets, and connect them to your APIs and databases to build dynamic apps and complex workflows – and then deploy these apps on the technology you prefer.
+  description: "description"
+  features:
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+    - title: feature
+      description: "description"
+  screenshots:
+    - /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
+    - /images/development/nocode-lowcode/appsmith/screenshot-2.jpg
+---
+
+Write seo optimizaed content for "Appsmith" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
+
+```yml
+description: Appsmith is a low-code, open-source framework to build internal applications. With the JavaScript-based visual development platform, you can rapidly build CRUD apps, dashboards, admin panels, etc. You can use the pre-built UI widgets, and connect them to your APIs and databases to build dynamic apps and complex workflows – and then deploy these apps on the technology you prefer.
   features:
     - title: Use ready components
       description: Appsmith enables you to build workflows in record time. You can drag common elements (tables, charts, forms, etc) right into your app, including text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs and video.
@@ -19,7 +56,4 @@ content:
       description: You can code interactions between elements, update datasources or manipulate SQL queries. Every entity in Appsmith can be referenced as a JavaScript variable, and all JavaScript functions and operations can be performed on them. This means that all widgets, APIs, queries and their associated data and properties can be referenced anywhere in an application inside handlebars.
     - title: Deploy and share
       description: You can allow external users to access applications built using Appsmith by inviting them to the organization. Appsmith implements RBAC by assigning a set of permissions to different user roles. These permissions determine the actions users can take on the platform.
-  screenshots:
-    - /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
-    - /images/development/nocode-lowcode/appsmith/screenshot-2.jpg
----
+```
