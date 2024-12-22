@@ -4,8 +4,8 @@ title: Cronicle fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-ops/cronicle/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Cronicle is an advanced multi-server task scheduler that replaces Cron with a web-based UI, offering real-time stats, live logs, and the ability to run tasks on demand or on a schedule.
+  keywords: Cronicle, task scheduler, multi-server task runner, Cron replacement, job scheduler, real-time log viewer, Node.js scheduler, recurring tasks, server automation, task management, job automation
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/dev-ops/cronicle/logo.png
   website: http://cronicle.net/
   iframe_website: /website/development/dev-ops/cronicle
-  description: "description"
+  description: "Cronicle is a powerful and flexible task scheduler designed for modern server environments. Unlike traditional cron jobs, Cronicle supports both scheduled and on-demand tasks, allowing you to automate processes across multiple servers with ease. This open-source tool is built in Node.js and provides a sleek, web-based front-end UI for easy management. Cronicle offers features like automatic server discovery, failover support, and real-time job stats. With no need for a database, Cronicle is simple to set up, offering storage via JSON files. Whether you need recurring or one-time tasks, Cronicle helps you manage workloads efficiently, making it an ideal replacement for Cron in complex server setups."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Single or Multi-Server Setup
+      description: "Cronicle allows for auto-discovery of nearby servers and supports multi-server setups. It features automatic failover to backup servers, ensuring jobs are reliably retried when necessary, even if a server goes down."
+    - title: No Database Required
+      description: "Cronicle does not require any database to function. All job configurations, logs, and stats are stored as simple JSON files on disk, reducing overhead and simplifying setup."
+    - title: Visual Date/Time Picker
+      description: "The intuitive visual date/time picker makes scheduling easy. Events can be set to run at specific times or on recurring schedules—hourly, daily, weekly, monthly, or yearly—without needing complex commands."
+    - title: Real-Time Stats & Live Log View
+      description: "Monitor job progress in real-time with graphical progress bars and estimated completion times. The live log viewer offers instant updates on job execution, providing transparency and quick troubleshooting."
+    - title: Extensible Plugin Support
+      description: "Cronicle supports custom plugins written in virtually any programming language. Extend its functionality to meet your specific needs, integrating with other tools or systems in your workflow."
+    - title: Job Dependency Management
+      description: "Manage complex job chains by defining dependencies. Cronicle allows jobs to trigger other jobs based on success or failure, automating workflows and reducing manual intervention."
   screenshots:
     - /images/development/dev-ops/cronicle/screenshot-1.jpg
     - /images/development/dev-ops/cronicle/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Cronicle" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of worker servers, with real-time stats and live log viewer. It's basically a fancy Cron replacement written in Node.js. You can give it simple shell commands, or write Plugins in virtually any language."
-  features:
-    - title: Single or Multi-Server Setup
-      description: Auto-discovery of nearby servers, and auto-failover to backups. Jobs are automatically retried when applicable.
-    - title: No Database Required
-      description: No database is required to run Cronicle. Everything can be stored as JSON files on disk.
-    - title: Visual Date/Time Picker
-      description: Events can be single or recurring, and you can easily schedule them to run hourly, daily, weekly, monthly and/or yearly.
-    - title: Real-Time Stats & Live Log View
-      description: Graphical progress bars and estimated time remaining, with a real-time live log watcher for your jobs.
-```

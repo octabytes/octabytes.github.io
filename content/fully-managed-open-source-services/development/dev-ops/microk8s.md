@@ -4,8 +4,8 @@ title: Microk8s fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-ops/microk8s/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: MicroK8s is a lightweight, open-source Kubernetes solution for deploying and managing containerized applications, offering scalability, security, and ease of use.
+  keywords: MicroK8s, Kubernetes, container orchestration, lightweight Kubernetes, scalable Kubernetes, secure Kubernetes, cloud-native applications, DevOps, container management, local Kubernetes, production cluster, Kubernetes for developers
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,21 @@ content:
   website: https://microk8s.io
   iframe_website: /website/development/dev-ops/microk8s
   direct_link: true
-  description: "description"
+  description: "MicroK8s is an open-source, lightweight system designed to simplify the deployment, scaling, and management of containerized applications. Ideal for developers and DevOps engineers, MicroK8s provides the full power of Kubernetes in a small footprint, making it perfect for local development environments or production clusters. Whether you're running it on a single node or scaling it up to a high-availability cluster, MicroK8s offers the flexibility, security, and ease of use required for modern cloud-native applications. With seamless integration with major cloud providers like Azure AKS, Amazon EKS, and Google GKE, it ensures a consistent experience across platforms. MicroK8s keeps your workloads secure with automatic updates and a simple installation process that requires minimal maintenance."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Small Footprint
+      description: "MicroK8s is the smallest Kubernetes solution available, perfect for developers working with local environments on laptops or workstations. It offers compatibility with major cloud platforms like Azure AKS, Amazon EKS, and Google GKE, ensuring consistency across different environments."
+    - title: Simplified Installation
+      description: "The installation process is straightforward, with MicroK8s bundled into a single package that requires no complex configuration. All necessary dependencies are included, making setup quick and easy with minimal administrative overhead."
+    - title: Secure by Design
+      description: "Security is a top priority with MicroK8s, which regularly releases updates to address potential vulnerabilities. These updates can be applied instantly or scheduled according to your maintenance preferences, ensuring your clusters remain secure."
+    - title: Always Up-to-Date
+      description: "MicroK8s stays current with upstream Kubernetes releases, offering beta, release candidate, and final versions on the same day as upstream Kubernetes. You can always opt for the latest version or lock to a specific release, starting from version 1.10 onwards."
+    - title: High Scalability
+      description: "Whether you're running a small single-node instance or scaling out to a production-grade high-availability cluster, MicroK8s offers the flexibility to handle workloads of any size. Its architecture scales efficiently without compromising on performance or stability."
+    - title: Developer-Friendly
+      description: "Designed with developers in mind, MicroK8s streamlines the process of building, testing, and deploying containerized applications. Its simplicity and low resource usage make it a great choice for DevOps teams looking for a lightweight but fully functional Kubernetes solution."
   screenshots:
     - /images/development/dev-ops/microk8s/screenshot-1.png
     - /images/development/dev-ops/microk8s/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Microk8s" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: MicroK8s is an open-source system for automating deployment, scaling, and management of containerised applications. It provides the functionality of core Kubernetes components, in a small footprint, scalable from a single node to a high-availability production cluster.
-  features:
-    - title: Small
-      description: Developers want the smallest K8s for laptop and workstation development. MicroK8s provides a standalone K8s compatible with Azure AKS, Amazon EKS, Google GKE when you run it on Ubuntu.
-    - title: Simple
-      description: Minimize administration and operations with a single-package install that has no moving parts for simplicity and certainty. All dependencies and batteries included.
-    - title: Secure
-      description: Updates are available for all security issues and can be applied immediately or scheduled to suit your maintenance cycle.
-    - title: Current
-      description: MicroK8s tracks upstream and releases beta, RC and final bits the same day as upstream K8s. You can track latest K8s or stick to any release version from 1.10 onwards.
-```

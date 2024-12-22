@@ -4,8 +4,8 @@ title: Strapi fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/backend-as-a-service/strapi/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Strapi is the leading open-source headless CMS, fully customizable and developer-first. Create scalable, API-driven web applications with ease.
+  keywords: Strapi, headless CMS, open-source CMS, content management, JavaScript CMS, content delivery, API-first CMS, customizable CMS, scalable CMS
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/backend-as-a-service/strapi/logo.png
   website: https://strapi.io/
   iframe_website: /website/development/backend-as-a-service/strapi
-  description: "description"
+  description: "Strapi is the premier open-source headless CMS designed for developers and content teams. Built with 100% JavaScript, it offers unmatched flexibility and customization to streamline content management and delivery. Strapi empowers developers with a robust Content-Types Builder, seamless integrations, and advanced features like Dynamic Zones and Repeatable Components. Whether you're creating a blog, e-commerce site, or enterprise-grade application, Strapi's developer-first approach ensures efficiency, scalability, and excellent user experiences. Ideal for creating modern, API-first web applications, Strapi simplifies content modeling, management, and delivery, enabling businesses to focus on what matters—engaging their audiences."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Flexible Content Relationships
+      description: "Easily link content types with advanced relations in Strapi. Build taxonomies, categorize data, and create complex multi-criteria relationships to optimize user experience and SEO."
+    - title: Intuitive Fields Management
+      description: "Streamline content creation with configurable fields tailored to text, numbers, media, and more. Use the Content-Types Builder to set up fields effortlessly for any project."
+    - title: Reusable Repeatable Components
+      description: "Boost efficiency with reusable components that can be shared across content types. Ideal for meta information, links, or repeating sections, these structures enhance consistency and speed."
+    - title: Dynamic Zones for Custom Pages
+      description: "Create dynamic, customizable pages on the fly with Strapi’s Dynamic Zones feature. Save developer time while empowering content managers to seamlessly add new content."
+    - title: Developer-First Approach
+      description: "Strapi’s JavaScript-first design ensures smooth integration and customization, making it a developer-friendly choice for building API-driven web experiences."
+    - title: API-Ready and Scalable
+      description: "Deliver content through REST or GraphQL APIs with Strapi’s scalable and robust framework. Easily integrate with modern frontends and third-party tools."
   screenshots:
     - /images/development/backend-as-a-service/strapi/screenshot-1.jpg
     - /images/development/backend-as-a-service/strapi/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Strapi" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Strapi is the leading open-source headless CMS. It's 100% JavaScript, fully customizable and developer-first."
-  features:
-    - title: Relations
-      description: Link content types together with relations. Taxonomy is crucial for your user experience, SEO, or your content modeling. You can leverage Strapi to create categories, link authors to articles, or even more complex multi-criteria relationships.
-    - title: Fields
-      description: Writing content consists of filling up fields, which are meant to contain specific content (e.g. text, numbers, media, etc.). Easily configure them through the Content-Types Builder.
-    - title: Repeatable components
-      description: Components are reusable structures you can share between all your content types. Components can be included in any content type either as a single entry or a list of entries for meta information, links, sections list or any repeatable content.
-    - title: Dynamic Zones
-      description: "Dynamic Zones is a native feature in Strapi that lets teams build customizable pages on the fly and minimize the time it takes developers to add new content. It lets your developers build web experiences and have a good night's sleep without worrying about all the content being seamlessly added by the content managers."
-```

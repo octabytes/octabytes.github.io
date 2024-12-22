@@ -4,8 +4,8 @@ title: DbGate fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-ops/dbgate/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: DbGate is a cross-platform database manager supporting MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and more. It offers powerful features like data editing, import/export, and SSH tunneling for secure access.
+  keywords: DbGate, database manager, MySQL, PostgreSQL, MongoDB, SQL Server, SQLite, NoSQL, cross-platform, SSH tunnel, data editor, database import/export, Redis, Amazon Redshift, CockroachDB
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,25 @@ content:
   logo: /images/development/dev-ops/dbgate/logo.png
   website: https://dbgate.org/
   iframe_website: /website/development/dev-ops/dbgate
-  description: "description"
+  description: "DbGate is a powerful, cross-platform database management tool designed to handle a wide range of databases, including MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and more. It is available for Windows, Linux, Mac, or can be used as a web application, providing seamless support for database connections across different platforms.
+
+Whether you're working with relational databases like MySQL and PostgreSQL, or NoSQL databases like MongoDB and Redis, DbGate offers a user-friendly interface and robust features. It supports connection via SSH tunnel, making it ideal for accessing production databases behind firewalls. With its advanced data editor, users can quickly navigate complex relations and make necessary modifications with ease. DbGate also supports a variety of import/export formats, such as CSV, Excel, JSON, and XML, and offers extensibility with plugins and JavaScript scripting.
+
+This versatile tool is perfect for database administrators, developers, and anyone working with databases, providing both convenience and power to streamline workflow."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: DB Connections
+      description: "DbGate supports seamless connections to a variety of databases including MySQL, PostgreSQL, SQL Server (with Windows authentication), MongoDB, SQLite, Amazon Redshift, CockroachDB, and even Oracle (experimental). It also allows connections over an SSH tunnel, enabling secure access to production databases behind firewalls."
+    - title: Data Editor
+      description: "DbGate's data browser and editor provide an efficient way to navigate and modify complex data relationships. With this feature, you can quickly find and edit data, which is more efficient than writing queries manually. It supports multiple methods of interaction, such as query designers and direct editing."
+    - title: Export and Import
+      description: "DbGate supports a wide range of import/export formats, including CSV, Excel, JSON, XML, and more. It also allows users to extend formats through plugins and includes support for scripting with JavaScript, offering flexibility in automating data transfers."
+    - title: NoSQL Database Support
+      description: "DbGate excels in NoSQL database management with native support for MongoDB and Redis. Unlike other database tools that limit MongoDB to table-like views, DbGate uses a native MongoDB driver, allowing for more efficient and flexible interaction with the database."
+    - title: Cross-Platform Compatibility
+      description: "DbGate is available for Windows, Linux, and Mac, ensuring that developers and administrators can manage their databases on their preferred platform. Additionally, it can be used as a web application, offering even more flexibility for managing databases in the cloud."
+    - title: SSH Tunnel Support
+      description: "DbGate enables secure database management by supporting SSH tunnels. This feature allows users to access databases located behind firewalls or on private networks, ensuring that sensitive data is kept safe while still allowing seamless access to your databases."
   screenshots:
     - /images/development/dev-ops/dbgate/screenshot-1.png
     - /images/development/dev-ops/dbgate/screenshot-2.png
 ---
-
-Write seo optimizaed content for "DbGate" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and others. Runs under Windows, Linux, Mac, or as a web application
-  features:
-    - title: DB Connections
-      description: Connect to MySQL, PostgreSQL, Microsoft SQL Server (supports Windows authentication), MongoDB, SQLite (quick open files with drag & drop), Amazon Redshift, CockroachDB, MariaDB, and Oracle (experimental). Support connection over SSH tunnel, for accessing production databases behind the firewall.
-    - title: Data Editor
-      description: DbGate has a very powerful data browser and editor. It allows you to quickly find or modify, what you need, even when using complicated relations. In most cases, using a data browser is far more efficient than typing a query by hand or using a query designer (but you can of course use all these variants in DbGate too).
-    - title: Export and Import
-      description: Supported formats CSV, Excel, JSON lines, JSON, XML, and  Import/export formats are extensible with plugins. Support for scripting with JavaScript
-    - title: NoSQL Database Support
-      description: DbGate has wide support for the MongoDB database. It uses a native MongoDB driver, so it is not limited to table-like views like other SQL database tools supporting MongoDB. Also, it supports the most popular key-value database, Redis.
-```
