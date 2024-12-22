@@ -4,8 +4,8 @@ title: EMQX fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-tools/emqx/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: EMQX is a high-performance, scalable MQTT broker that supports multiple open protocols like MQTT, HTTP, QUIC, and WebSocket. It ensures secure communication for IoT, IIoT, and connected vehicles with full compliance to MQTT 5.0 and 3.x standards.
+  keywords: MQTT broker, IoT broker, IIoT communication, connected vehicles, EMQX, MQTT 5.0, scalable MQTT, IoT messaging, MQTT over TLS/SSL, SQL-based rule engine, high-performance MQTT
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,21 @@ content:
   website: https://www.emqx.io/
   iframe_website: /website/development/dev-tools/emqx
   direct_link: true
-  description: "description"
+  description: "EMQX is a powerful and scalable MQTT broker designed for the Internet of Things (IoT), Industrial Internet of Things (IIoT), and connected vehicles. It supports open protocols such as MQTT, HTTP, QUIC, and WebSocket, providing seamless communication across diverse systems and devices. Fully compliant with MQTT 5.0 and 3.x standards, EMQX ensures secure, bi-directional communication with MQTT over TLS/SSL and a wide range of authentication mechanisms. With unmatched scalability, performance, and flexibility, EMQX is an ideal solution for organizations seeking to deploy large-scale IoT systems with high messaging throughput and low latency."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Connectivity
+      description: "EMQX scales effortlessly to handle up to 100 million concurrent MQTT connections in a single EMQX 5.0 cluster, enabling robust connectivity for large IoT and IIoT deployments."
+    - title: Messaging
+      description: "Fully compliant with MQTT 5.0 and 3.x standards, EMQX ensures secure, reliable, and scalable messaging for IoT devices, offering enhanced scalability and security features."
+    - title: Transformation
+      description: "The powerful SQL-based rule engine allows for flexible data transformation, enabling filtering, condition-based processing, and data transformation, which simplifies IoT system integration."
+    - title: High Performance
+      description: "EMQX processes millions of MQTT messages per second, maintaining high throughput and low latency, which is crucial for performance-critical IoT applications."
+    - title: Security
+      description: "EMQX ensures secure data communication by supporting MQTT over TLS/SSL, encryption, and multiple authentication mechanisms, safeguarding sensitive information in IoT networks."
+    - title: Multi-Protocol Support
+      description: "In addition to MQTT, EMQX supports other protocols like HTTP, QUIC, and WebSocket, providing the flexibility to connect various devices and systems using different communication standards."
   screenshots:
     - /images/development/dev-tools/emqx/screenshot-1.webp
     - /images/development/dev-tools/emqx/screenshot-2.webp
 ---
-
-Write seo optimizaed content for "EMQX" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: MQTT broker for IoT, IIoT, and connected vehicles. it supports multiple open standard protocols like MQTT, HTTP, QUIC, and WebSocket. It’s 100% compliant with MQTT 5.0 and 3.x standard and secures bi-directional communication with MQTT over TLS/SSL and various authentication mechanisms.
-  features:
-    - title: Connectivity
-      description: Scale to 100 million concurrent MQTT connections with a single EMQX 5.0 cluster.
-    - title: Messaging
-      description: 100% compliant with MQTT 5.0 and 3.x standards for better scalability, security, and reliability.
-    - title: Transformation
-      description: Filter, condition judgment, and transform data through a powerful SQL-based rule engine.
-    - title: High Performance
-      description: Move and process millions of MQTT messages per second in a single broker.
-```

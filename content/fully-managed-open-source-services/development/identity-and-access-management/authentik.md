@@ -4,8 +4,8 @@ title: Authentik fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/identity-and-access-management/authentik/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Authentik is an open-source identity provider that simplifies authentication and access control with flexible integrations and custom workflows, offering seamless sign-on, user management, and more.
+  keywords: open-source identity provider, single sign-on, SSO, user authentication, access control, Authentik, authentication protocols, identity management, Python integrations, flexible authentication, user enrollment
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/identity-and-access-management/authentik/logo.png
   website: https://goauthentik.io/
   iframe_website: /website/development/identity-and-access-management/authentik
-  description: "description"
+  description: "Authentik is a powerful, open-source identity provider that simplifies user authentication and access control for your applications. With its robust features, Authentik allows you to seamlessly integrate authentication protocols into existing environments, manage user sign-ups and recoveries, and much more. Whether you’re developing an application from scratch or enhancing an existing platform, Authentik offers the flexibility to tailor your identity management processes to your needs. Its ease of use, workflow customization, and Python-powered logic integration make it an ideal solution for developers, businesses, and organizations looking for a secure, scalable identity provider."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Easy to Use
+      description: "Authentik makes identity management simple, enabling effortless single sign-on (SSO), streamlined user enrollment, and comprehensive access control, ensuring a user-friendly experience for both developers and end-users."
+    - title: Workflow Freedom
+      description: "With Authentik, you have complete control over your workflows. Create customized workflows without limitations, allowing you to tailor the authentication process according to your specific needs."
+    - title: Python Power
+      description: "Integrate custom logic with ease using Python. Authentik lets you implement custom verification or access control mechanisms, enhancing the flexibility and security of your identity management system."
+    - title: Utmost Flexibility
+      description: "Authentik is designed to adapt to any environment. Whether you need an Active Directory-integrated SSO provider or a custom user verification process, Authentik can handle it, offering the versatility you need for diverse use cases."
+    - title: Scalable Integration
+      description: "Easily scale Authentik across your application, providing a consistent authentication experience for all users. Its architecture supports various authentication protocols, ensuring that your platform grows without compromising security."
+    - title: Seamless User Management
+      description: "From sign-up to recovery, Authentik takes care of the entire user lifecycle. Manage user credentials, recovery options, and profiles, so you can focus on building your app without worrying about authentication challenges."
   screenshots:
     - /images/development/identity-and-access-management/authentik/screenshot-1.jpg
     - /images/development/identity-and-access-management/authentik/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Authentik" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "An open-source identity provider, authentik can be used in an existing environment to add support for new protocols, implement sign-up, recovery, etc. in your application so you don't have to deal with that, and many other things. It has great flexibility. Whatever your requirements, you can adopt authentik to your environment."
-  features:
-    - title: Easy to use
-      description: Identity made easy... authentik simplifies single sign-on (SSO), user enrollment and access control.
-    - title: Workflow freedom
-      description: authentik lets you build your workflow as you need it, with no limitations.
-    - title: Python power
-      description: You can implement custom verification or access control logic using Python code.
-    - title: Utmost flexibility
-      description: "You can adopt authentik to your environment, regardless of your requirements – whether you need an Active-Directory integrated SSO provider, want to implement a custom enrollment process for your customers, or are developing an application and don't want to deal with user verification and recovery. authentik can do all of that, and more."
-```

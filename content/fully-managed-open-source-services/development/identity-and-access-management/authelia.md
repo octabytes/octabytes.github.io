@@ -4,8 +4,8 @@ title: Authelia fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/identity-and-access-management/authelia/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Authelia is a robust authentication and authorization server offering secure multi-factor authentication and single sign-on (SSO) solutions for your web applications. Enhance security and streamline access management with this IAM solution.
+  keywords: Authelia, multi-factor authentication, SSO, identity and access management, IAM, single sign-on, reverse proxy, web security, OpenID Connect, web authentication, authorization server, secure login
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/identity-and-access-management/authelia/logo.png
   website: https://www.authelia.com/
   iframe_website: /website/development/identity-and-access-management/authelia
-  description: "description"
+  description: "Authelia is a powerful authentication and authorization server designed to provide comprehensive identity and access management (IAM) solutions for your applications. It supports multi-factor authentication (MFA) and single sign-on (SSO), ensuring that your web applications are secure while offering users a seamless login experience. Authelia integrates effortlessly with reverse proxies, providing a unified security solution for a wide range of applications. Whether you need to manage user access, implement robust security measures, or ensure compliance with modern authentication standards, Authelia has you covered."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Single Sign-On
+      description: "Authelia provides a convenient single sign-on (SSO) experience, allowing users to log in once and gain access to multiple applications through a session cookie, OpenID Connect 1.0, or Trusted Headers. Simplify user authentication and enhance the user experience across your services."
+    - title: Security by Design
+      description: "Authelia is built with security in mind. Every feature and component is designed to prioritize the protection of your applications and data. From encryption to user access policies, security is at the core of Authelia’s framework."
+    - title: Authorization Policies
+      description: "Authelia offers fine-grained authorization control, enabling administrators to define access rules based on users, groups, and specific resources. Create and enforce customized policies for who can access what within your application environment."
+    - title: Multi-Factor Authentication
+      description: "Enhance security with support for a variety of second-factor authentication methods, including One Time Passwords (OTPs), mobile push notifications, and WebAuthn. Authelia ensures that your applications are protected from unauthorized access by requiring additional verification."
+    - title: Seamless Reverse Proxy Integration
+      description: "Designed to work seamlessly with popular reverse proxies, Authelia makes it easy to integrate multi-factor authentication and authorization into your existing infrastructure. Streamline your authentication management without disrupting your workflow."
+    - title: Comprehensive Access Logs
+      description: "Authelia logs all access attempts, providing administrators with detailed insights into user authentication and authorization activities. Monitor and audit who accessed what, when, and from where to maintain security and compliance across your applications."
   screenshots:
     - /images/development/identity-and-access-management/authelia/screenshot-1.png
     - /images/development/identity-and-access-management/authelia/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Authelia" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Authelia is an authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for common reverse proxies.
-  features:
-    - title: Single Sign-On 🎟️
-      description: Allow your users the convenience of just being required to log in once to a wide range of web applications via a session cookie, OpenID Connect 1.0, or Trusted Headers.
-    - title: Security by Design 🔒
-      description: Not just another IAM portal, security is heavily considered as part of our design process.
-    - title: Authorization Policies 👮
-      description: Control which users and groups have access to which specific resources or domains with incredibly granular policy definitions.
-    - title: Multi-Factor Authentication 🗝️
-      description: Support for multiple second-factor methods including One Time Passwords, Mobile Push Notifications, and WebAuthn.
-```

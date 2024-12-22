@@ -4,8 +4,8 @@ title: Nebula fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/network/nebula/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Nebula is an open-source networking tool that enables seamless and secure connections between computers worldwide, supporting a range of platforms and offering scalability and flexibility for any network setup.
+  keywords: Nebula, open-source networking, VPN, overlay network, scalable network, secure connections, global connectivity, mesh VPN, IoT connectivity, encryption, networking tool
   breadcrumb:
     - name: Home
       url: /
@@ -25,34 +25,19 @@ content:
   website: https://github.com/slackhq/nebula
   iframe_website: /website/development/network/nebula
   direct_link: true
-  description: "description"
+  description: "Nebula is an innovative open-source overlay networking tool designed to provide seamless connectivity for computers anywhere in the world. With Nebula, users can easily establish secure, scalable, and flexible networks, whether you're connecting just a few devices or tens of thousands. It’s compatible with various platforms, including Linux, OSX, Windows, iOS, and Android. Featuring encryption, security groups, certificates, and tunneling, Nebula combines these technologies in a unique way to create a cohesive and efficient solution. Unlike traditional networking tools, Nebula simplifies connectivity and security while delivering robust performance for a wide range of use cases, from cloud instances to IoT devices. Whether you're deploying it on small devices or large-scale systems, Nebula's node-to-node architecture ensures secure and reliable connections for any network infrastructure."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Highly Scalable
+      description: "Nebula's node-to-node model ensures that it can scale from simple configurations to large deployments. Whether you're connecting a small number of devices or tens of thousands, Nebula adapts to meet your needs, making it perfect for IoT devices and cloud-based networks."
+    - title: Trusted, Stable, and Secure
+      description: "Built with security in mind, Nebula is trusted by leading companies for its reliability and high availability. Developed by security engineers and open-sourced by Slack, it integrates trusted crypto libraries like Noise, includes a built-in firewall with granular security groups, and leverages PKI for host authentication."
+    - title: Cross-Platform Support
+      description: "Nebula is a lightweight and versatile tool that runs across various operating systems, including Linux, OSX, Windows, iOS, and Android. Its compatibility with different hardware architectures, such as x86, ARM, and MIPS, ensures it can be deployed on a wide range of devices and systems."
+    - title: Mesh VPN Architecture
+      description: "Unlike traditional VPNs that often suffer from performance and availability bottlenecks, Nebula employs a decentralized mesh VPN model. This architecture ensures that encrypted tunnels are created per-host and on-demand, optimizing performance and reliability across your network."
+    - title: Ease of Deployment
+      description: "Nebula is easy to distribute and configure, making it an excellent choice for rapid deployment. Whether you’re setting up a small network or scaling to meet larger demands, Nebula simplifies the process, allowing for quick and seamless installation on a wide variety of systems."
+    - title: Optimized for IoT
+      description: "With its lightweight nature and scalable design, Nebula is an ideal solution for Internet of Things (IoT) devices. It offers secure, private networking for IoT environments, ensuring that devices can communicate without the need for open ports or complicated firewall rules, enhancing both security and flexibility."
   screenshots:
 ---
-
-Write seo optimizaed content for "Nebula" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Nebula, an open-source overlay networking tool, lets you seamlessly connect computers anywhere in the world. It's portable, and runs on Linux, OSX, Windows, iOS and  Android. It includes encryption, security groups, certificates and tunneling, but what makes Nebula different is that it brings all of these ideas together, resulting in a sum greater than its individual parts. It can be used to connect a small number or tens of thousands of computers as required."
-  features:
-    - title: Highly scalable
-      description: The Nebula model is node-to-node, and can be used in as simple a configuration as installing on a computer that connects to a compute instance on DigitalOcean, or some other cloud provider. This scalability offers flexibility for internet of things (IoT) devices, providing public internet access but without explicitly allowing traffic in or out on predefined ports as a firewall rule.
-    - title: Trusted, stable, secure
-      description: Innovative companies with high expectations of availability and reliability run their networks with Nebula. Slack open-sourced the project after years of R&D and deploying it at scale. Created by security engineers, Nebula leverages trusted crypto libraries (Noise), includes a built-in firewall with granular security groups, and uses the best parts of PKI to authenticate hosts.
-    - title: Runs everywhere
-      description: Nebula is a lightweight service that’s easy to distribute and configure on modern operating systems. It runs on a wide variety of hardware including x86, arm, mips, and ppc.
-    - title: Mesh VPN architecture
-      description: "Traditional VPNs come with availability and performance bottlenecks. Nebula is decentralized: encrypted tunnels are created per-host and on-demand as needed."
-```

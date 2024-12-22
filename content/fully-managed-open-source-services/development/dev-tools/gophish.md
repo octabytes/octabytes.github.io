@@ -4,8 +4,8 @@ title: Gophish fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-tools/gophish/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Gophish is an open-source phishing framework that helps organizations test and improve their defense against phishing attacks. Its powerful features include a beautiful web interface, real-time results, and a REST API for seamless integration.
+  keywords: Gophish, open-source phishing framework, phishing testing, security testing, cybersecurity, email phishing simulation, phishing defense, phishing awareness, phishing attack prevention, REST API, phishing campaign management
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/dev-tools/gophish/logo.png
   website: https://getgophish.com/
   iframe_website: /website/development/dev-tools/gophish
-  description: "description"
+  description: "Gophish is a comprehensive, open-source phishing framework designed to help organizations evaluate and strengthen their security posture against phishing attacks. This tool provides a user-friendly experience with a stunning web interface that allows users to easily manage phishing campaigns, track emails, and monitor results in real-time. With its robust REST API, Gophish makes it easy to automate and integrate phishing testing into existing security workflows. Whether you're testing employee awareness or simulating advanced phishing threats, Gophish is the ideal tool for any organization looking to improve its cybersecurity defenses."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Full REST API
+      description: "Gophish is powered by a fully functional REST API, enabling seamless automation and integration with other security tools. The Python client simplifies working with the API, making it easier than ever to customize phishing tests and automate tasks."
+    - title: Beautiful Web UI
+      description: "Gophish offers an intuitive and visually appealing web interface, making phishing testing accessible to users of all technical levels. With features like email tracking and website import, users can quickly create and manage phishing campaigns with a few clicks."
+    - title: Real-Time Results
+      description: "Get up-to-the-minute data with Gophish's real-time results feature. As phishing campaigns progress, you can track metrics such as email opens, link clicks, and credential submissions, providing immediate feedback for analyzing the success of your campaigns."
+    - title: Just Works
+      description: "Gophish is designed to be easy to use right out of the box. With minimal setup, users can launch phishing campaigns, track results, and gather critical data without the need for complex configurations or training. It's a quick and reliable tool for improving your security awareness."
+    - title: Customizable Templates
+      description: "Gophish allows users to customize phishing email templates and landing pages, giving you the flexibility to create realistic phishing scenarios tailored to your organization's needs. This enables more accurate testing and a better understanding of potential vulnerabilities."
+    - title: Detailed Reporting
+      description: "With Gophish, you can generate comprehensive reports that highlight key metrics such as user interaction with phishing emails, submission rates, and individual responses. These reports help identify areas of weakness and provide actionable insights for improving security training."
   screenshots:
     - /images/development/dev-tools/gophish/screenshot-1.png
     - /images/development/dev-tools/gophish/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Gophish" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing."
-  features:
-    - title: Full REST API
-      description: Gophish is powered by a REST API. Our Python client makes working with the API a breeze.
-    - title: Beautiful Web UI
-      description: Gophish has a gorgeous web interface. Import existing websites and emails, enable email open tracking, and more with a single click.
-    - title: Real-Time Results
-      description: Gophish updates results automatically. Using the UI, you can view a timeline for each recipient, track email opens, link clicks, submitted credentials, and more.
-    - title: Just Works
-      description: "Everything in Gophish is designed to 'just work'. It's so easy to set up, easy to use, and quick to give powerful results that you'll think it's magic."
-```

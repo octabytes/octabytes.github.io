@@ -4,8 +4,8 @@ title: OpenResty fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-ops/openresty/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: OpenResty is a robust, NGINX-based platform enabling developers to build scalable, high-performance web applications and services using Lua scripting and enhanced modules.
+  keywords: OpenResty, NGINX-based platform, scalable web applications, Lua scripting, high-performance web apps, automated SSL termination, web services
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/dev-ops/openresty/logo.png
   website: https://openresty.org/
   iframe_website: /website/development/dev-ops/openresty
-  description: "description"
+  description: "OpenResty is a high-performance web platform built on an enhanced version of the NGINX core. It integrates LuaJIT, numerous carefully crafted Lua libraries, and high-quality third-party NGINX modules to deliver a powerful and scalable solution for building modern web applications, services, and dynamic gateways. OpenResty empowers developers to create extremely high-performance web apps capable of handling over 1,000,000 connections on a single server. Its built-in features, such as automated SSL termination, extensibility through Lua scripting, and seamless integration with NGINX, make OpenResty an ideal choice for developers and enterprises looking to optimize performance without sacrificing flexibility."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Powerful Web Application Server
+      description: "OpenResty turns the NGINX server into a robust web application server. Using Lua programming, developers can leverage well-designed NGINX modules and Lua modules to create web apps capable of managing over a million simultaneous connections on a single server."
+    - title: Automated SSL Termination
+      description: "With OpenResty, managing SSL certificates is seamless. The platform automatically creates and renews SSL certificates, ensuring secure and reliable connections with minimal effort."
+    - title: Built on NGINX Core
+      description: "OpenResty is based on the NGINX core, allowing users to retain the familiarity of NGINX while benefiting from enhanced performance and features. Developers can also utilize third-party NGINX modules for extended functionality."
+    - title: Ideal for Dynamic Web Gateways
+      description: "OpenResty’s powerful combination of Lua scripting, enhanced modules, and scalability makes it an excellent choice for building dynamic web gateways and API endpoints."
+    - title: High-Performance Scalability
+      description: "Designed for performance, OpenResty can handle millions of connections on a single server. It is optimized for applications requiring exceptional scalability and reliability."
+    - title: Extensibility with Lua Plugins
+      description: "OpenResty supports a vast range of Lua plugins and allows developers to write their own Lua code. This flexibility ensures rapid development and customization to meet specific application requirements."
   screenshots:
     - /images/development/dev-ops/openresty/screenshot-1.png
     - /images/development/dev-ops/openresty/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "OpenResty" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: OpenResty is a full-fledged web platform that integrates our enhanced version of the Nginx core, our enhanced version of LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
-  features:
-    - title: Powerful web app server
-      description: By taking advantage of various well-designed Nginx modules (most of which are developed by the OpenResty team themselves), OpenResty effectively turns the nginx server into a powerful web app server, in which the web developers can use the Lua programming language to script various existing nginx C modules and Lua modules and construct extremely high-performance web applications that are capable to handle 1000K+ connections in a single box.
-    - title: Automated SSL Termination
-      description: OpenResty will automatically create and renew SSL certificates
-    - title: Extensible
-      description: "Leverage tons of LUA plugins available or write your own LUA code. It's easy and very fast."
-    - title: Based on Nginx
-      description: Switching from nginx to OpenResty is not such a paradigm shift as moving to, say, Apache or Microsoft IIS. The OpenResty web application platform is built around the standard nginx core, which offers some familiarity, as well as allowing the use of third-party nginx modules.
-```

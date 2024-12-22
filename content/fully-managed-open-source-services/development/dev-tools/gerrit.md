@@ -4,8 +4,8 @@ title: Gerrit fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-tools/gerrit/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Gerrit is a code review and Git management tool that streamlines collaboration and simplifies project maintainership through a side-by-side change display, inline commenting, and easy Git repository management.
+  keywords: Gerrit, code review, Git management, project collaboration, Git repositories, inline comments, open-source projects, scalable, Git-enabled SSH, plugins, extensible code review, software development
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/dev-tools/gerrit/logo.png
   website: https://www.gerritcodereview.com/
   iframe_website: /website/development/dev-tools/gerrit
-  description: "description"
+  description: "Gerrit is an advanced code review tool that simplifies Git-based project management and enhances collaboration among developers. By offering a side-by-side display of changes and enabling inline comments, Gerrit makes the review process more efficient and transparent. It allows authorized users to directly submit changes to the master Git repository, eliminating the need for project maintainers to manually merge approved changes. Widely used by large open-source projects and major tech companies like Google, Gerrit is built for scalability, making it an ideal solution for teams of any size."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Discuss Code
+      description: "Gerrit allows developers to view changes in a side-by-side display, making it easy to compare old and new versions of files. With syntax highlighting and colored differences, teams can efficiently discuss specific sections of code and make informed decisions on the necessary changes."
+    - title: Manage and Serve Git Repositories
+      description: "With support for both Git-enabled SSH and HTTPS servers, Gerrit simplifies Git repository management by hosting multiple repositories together. It’s compatible with all Git clients, ensuring smooth integration with existing workflows."
+    - title: Extensible Through Plugins
+      description: "Gerrit can be customized and extended with a variety of server-side plugins, enabling teams to tailor the platform to meet their specific needs. Additional plugins are available through the project's listings, allowing you to enhance functionality as your team grows."
+    - title: Used at Scale
+      description: "Gerrit is trusted by some of the largest open-source projects, including Android, Chromium, OpenDev, and OpenStack. It is also used by major tech companies such as Google, SAP, Ericsson, and Qualcomm, demonstrating its capability to scale for large teams and projects."
+    - title: Integrated with Continuous Integration Systems
+      description: "Gerrit integrates seamlessly with popular continuous integration (CI) tools, allowing for automated testing and build verification before changes are merged. This ensures that only high-quality code gets pushed to the main repository."
+    - title: Secure and Permission-Based Workflow
+      description: "Gerrit provides a secure, permission-based workflow where only authorized users can submit changes to the master Git repository. This ensures that project maintainers have full control over which contributions are merged, fostering a secure and organized project environment."
   screenshots:
     - /images/development/dev-tools/gerrit/screenshot-1.png
     - /images/development/dev-tools/gerrit/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Gerrit" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Gerrit makes reviews easier by showing changes in a side-by-side display, and allowing inline comments to be added by any reviewer. Gerrit simplifies Git based project maintainership by permitting any authorized user to submit changes to the master Git repository, rather than requiring all approved changes to be merged in by hand by the project maintainer.
-  features:
-    - title: Discuss code
-      description: Read old and new versions of files with syntax highlighting and colored differences. Discuss specific sections with others to make the right changes.
-    - title: Manage and serve Git repositories
-      description: Gerrit includes Git-enabled SSH and HTTPS servers compatible with all Git clients. Simplify management by hosting many Git repositories together.
-    - title: Extensible through plugins
-      description: Gerrit Code Review can be extended and further customized by installing server-side plugins. Source code for additional plugins can be found through the project listing
-    - title: Used at scale
-      description: "Gerrit is heavily used by some of the world's biggest Open Source software projects (e.g. Android, Chromium, OpenDev including OpenStack), and by some of the world's biggest tech companies, including Google (who maintain Gerrit and invest heavily in it), SAP, Ericsson, Qualcomm, and others."
-```

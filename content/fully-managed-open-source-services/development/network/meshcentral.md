@@ -4,8 +4,8 @@ title: MeshCentral fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/network/meshcentral/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: MeshCentral is a self-hosted, web-based remote management solution that provides secure access to remote desktops, terminals, and files, all in real time. Perfect for managing devices on local or global networks.
+  keywords: MeshCentral, remote management, remote desktop, multi-user, file access, self-hosted solution, terminal access, device control, web-based interface, network management, real-time access
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,21 @@ content:
   website: https://www.meshcommander.com/meshcentral2
   iframe_website: /website/development/network/meshcentral
   direct_link: true
-  description: "description"
+  description: "MeshCentral is a powerful, self-hosted remote management solution that enables users to securely manage and control computers from anywhere, whether on a local network or over the internet. With MeshCentral, you can easily deploy a server, organize your devices into groups, and install an agent on each device you want to manage. Once set up, you gain instant access to remote desktops, terminals, and file systems. Whether you're managing a handful of computers or an entire network, MeshCentral provides a user-friendly, web-based interface that supports real-time remote management with powerful features like multi-user access and remote file management."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Remote Desktop & Terminal
+      description: "MeshCentral offers robust web-based remote desktop and terminal access, allowing users to take full control of any computer, anywhere in the world, directly from their web browser."
+    - title: Remote File Access
+      description: "Access and manage files remotely with MeshCentral, enabling tasks like downloading, uploading, renaming files, and creating new folders. It allows full control of your devices' storage from anywhere."
+    - title: Real-Time User Interface
+      description: "The MeshCentral interface is fully real-time, ensuring that users can monitor and interact with devices without needing to refresh the page. This feature provides seamless, immediate feedback on device activity and status."
+    - title: Multi-User & Multi-Tenancy Support
+      description: "MeshCentral supports multiple users with different permissions, making it ideal for environments with varied access needs. This feature ensures efficient management by allowing administrators to assign roles and access rights for different user groups."
+    - title: Cross-Platform Compatibility
+      description: "MeshCentral works across various operating systems, including Windows, macOS, and Linux, ensuring that you can manage all your devices from a single platform regardless of the OS."
+    - title: Secure Access
+      description: "With built-in encryption and secure authentication, MeshCentral ensures that remote connections to your devices are protected from unauthorized access, giving you peace of mind while managing sensitive systems."
   screenshots:
     - /images/development/network/meshcentral/screenshot-1.png
     - /images/development/network/meshcentral/screenshot-2.png
 ---
-
-Write seo optimizaed content for "MeshCentral" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: You can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, create device group and download and install an agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it. MeshCentral includes full web-based remote desktop, terminal and file management capability.
-  features:
-    - title: Remote Desktop & Terminal
-      description: Possibly the most used feature, MeshCentral offers web based remote desktop and terminal. You can take control of any computer in the world from any web browser.
-    - title: Remote File Access
-      description: Fully access files on any system remotely including download, upload, rename, creating new folders and more. The storage of your own devices accessible from anywhere.
-    - title: Real time
-      description: Real Time User Interface. The MeshCentral web interface is fully real-time so users never have to hit “refresh”. This makes it easy to see device connections to and activities has they happen.
-    - title: Multi-User
-      description: MeshCentral fully supports multi-user and multitenancy permitting servers to be used by many people at once with different permissions on device groups for efficient server use.
-```

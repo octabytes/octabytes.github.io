@@ -4,8 +4,8 @@ title: Centrifugo fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/network/centrifugo/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Centrifugo is a high-performance, self-hosted real-time messaging server that integrates seamlessly with any programming language, delivering real-time communication with low latency and impressive scalability.
+  keywords: Centrifugo, real-time messaging, PUB/SUB server, scalable messaging server, WebSocket integration, real-time applications, low latency messaging, self-hosted server, Go language, real-time presence, scalable server, messaging API, instant messaging
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/network/centrifugo/logo.png
   website: https://centrifugal.dev/
   iframe_website: /website/development/network/centrifugo
-  description: "description"
+  description: "Centrifugo is an advanced, scalable real-time messaging server designed to work effortlessly with any programming language, making it the ideal solution for implementing PUB/SUB (publish/subscribe) messaging in modern web applications. By enabling seamless communication between the frontend and backend of your application, Centrifugo provides the perfect infrastructure for delivering real-time updates to your users. It broadcasts events to all connected clients subscribed to a specific event channel, ensuring an interactive and dynamic experience. Built with Go, Centrifugo offers remarkable performance, handling millions of messages per minute with low latency. Its out-of-the-box features, such as multiple subscription types, channel history, and real-time presence, make it easier to develop and scale your application without altering the core architecture. Whether you're building a chat application, a live data feed, or any other real-time system, Centrifugo ensures reliable communication and high availability."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Integrates with Everything
+      description: "Centrifugo works with any application architecture and integrates seamlessly with multiple real-time transport protocols. Its simple publish API allows for easy integration into existing systems without the need for major changes. This flexibility makes it the perfect choice for developers looking to add real-time features without disruption."
+    - title: Great Performance
+      description: "Built in the Go programming language, Centrifugo boasts impressive performance, delivering up to 500k messages per second with sub-200ms latency in 99th percentile under heavy load. It is optimized for scalability, making it capable of handling millions of WebSocket connections simultaneously with minimal delay."
+    - title: Feature-Rich
+      description: "Centrifugo provides a wide range of built-in features to enhance the real-time experience, such as multiple subscription types, hot channel history, instant presence, and remote procedure calls (RPC). It also supports event proxying to backend systems via HTTP or GRPC, making it a versatile choice for developers."
+    - title: Out-of-the-Box Scalability
+      description: "With support for Redis, KeyDB, Tarantool, and Nats brokers, Centrifugo can scale effortlessly across multiple machines. Its consistent sharding system allows for efficient management of millions of active connections, ensuring high availability even under heavy traffic loads."
+    - title: Easy to Deploy and Manage
+      description: "Centrifugo is designed to be self-hosted, providing full control over your messaging infrastructure. It’s simple to deploy and manage, allowing you to focus on building your application without worrying about the complexities of managing third-party real-time services."
+    - title: Real-Time Presence and Channel History
+      description: "Centrifugo offers built-in support for real-time presence tracking, allowing you to easily see which users are currently connected to specific channels. It also provides a hot channel history feature, enabling you to access past events in real-time for a richer user experience."
   screenshots:
     - /images/development/network/centrifugo/screenshot-1.jpg
     - /images/development/network/centrifugo/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Centrifugo" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Centrifugo, a scalable real-time messaging server, works in conjunction with whatever programming language your application uses on frontend or backend sides. Centrifugo broadcasts the event to all connected clients subscribed to the event channel. In brief, Centrifugo is a user-facing PUB/SUB server.
-  features:
-    - title: Integrates with everything
-      description: "Centrifugo, a self-hosted service, can handle connections over a variety of real-time transports and provides a simple publish API. It integrates well with any application. There's no need to change an application architecture to introduce real-time features; you just let Centrifugo deal with persistent connections."
-    - title: Great performance
-      description: Centrifugo, built in Go language, has some smart optimizations inside. It performs very well; a test stand, with 1m WebSocket connections, showed that about 30m messages per minute (500k messages per second) would be delivered to connected clients and latency would not be greater than 200ms in 99 percentile.
-    - title: Feature-rich
-      description: "Centrifugo's many built-in features can help you to build an attractive real-time application in a short time. Centrifugo provides different types of subscriptions, hot channel history, instant presence and RPC calls. There is also the option to proxy connection events to the application backend over HTTP or GRPC."
-    - title: Out-of-the-box scalability
-      description: "Built-in Redis, KeyDB, Tarantool engines or Nats broker make it possible to scale connections over different machines. With consistent sharding of Redis, KeyDB and Tarantool, it's possible to handle millions of active connections with reasonable hardware requirements."
-```

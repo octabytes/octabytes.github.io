@@ -4,8 +4,8 @@ title: draw fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/dev-tools/draw/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Draw.io is a versatile, client-side diagramming and whiteboarding tool, enabling users to create, store, and collaborate on diagrams across multiple platforms.
+  keywords: Draw.io, diagramming tool, whiteboarding software, online diagramming, cloud storage, Google Drive integration, Microsoft OneDrive, Atlassian Confluence, real-time collaboration, GitHub, GitLab, wireframing, network diagrams
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/dev-tools/draw/logo.png
   website: https://www.drawio.com/
   iframe_website: /website/development/dev-tools/draw
-  description: "description"
+  description: "Draw.io is a powerful and flexible JavaScript-based diagramming tool that allows users to create, edit, and share diagrams directly from their browser. Whether you're mapping out workflows, creating wireframes, or designing complex network diagrams, Draw.io provides an intuitive, client-side editor suitable for any project. The tool is highly customizable and integrates seamlessly with popular cloud platforms like Google Drive, Microsoft OneDrive, Dropbox, and GitHub/GitLab. It also supports collaboration through shared cursors, real-time editing, and easy integration with platforms like Atlassian Confluence and Jira. Whether you're an individual, a small team, or a large enterprise, Draw.io offers all the features you need to visualize your ideas with ease."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Diagram Wherever You Want
+      description: "Use any cloud platform of your choice—Google Drive, Microsoft OneDrive, Dropbox, GitHub/GitLab, or even store diagrams directly in your browser or on your device. This flexibility allows you to choose the most convenient option for storing and sharing your diagrams."
+    - title: Integrate Diagrams with Other Software
+      description: "Draw.io integrates seamlessly with Atlassian Confluence and Jira, allowing users to store and manage their diagrams within these platforms. Collaborators don’t need to create accounts or worry about file format conversion to view or edit shared diagrams."
+    - title: Collaborate in Real-Time with Shared Cursors
+      description: "Collaborating on diagrams is made easy with real-time synchronization. Multiple editors can make changes simultaneously, and the shared cursor feature ensures everyone stays on the same page, whether using Google Drive, Microsoft OneDrive, Dropbox, or Confluence."
+    - title: Create a Wide Range of Diagrams
+      description: "Draw.io offers a comprehensive set of shape libraries for creating any type of diagram you need, from flowcharts and mind maps to complex technical diagrams like network infrastructures or UML diagrams."
+    - title: No Account Needed for External Collaboration
+      description: "Share your diagrams with anyone, even if they don’t have a Draw.io account. The online editor allows external collaborators to edit and view diagrams without any registration, simplifying the process and fostering easier collaboration."
+    - title: Browser-Based Editor for Ultimate Accessibility
+      description: "With its browser-based editor, Draw.io can be accessed from anywhere with an internet connection, eliminating the need for installation or setup. This feature ensures your diagrams are always available on-the-go, with no barriers to access."
   screenshots:
     - /images/development/dev-tools/draw/screenshot-1.png
     - /images/development/dev-tools/draw/screenshot-2.png
 ---
-
-Write seo optimizaed content for "draw" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: draw.io is a JavaScript, client-side editor for general diagramming. this project is a configurable diagramming/whiteboarding visualization application.
-  features:
-    - title: Diagram wherever you want
-      description: "Use whichever cloud platform you prefer to store your diagram files: Google Drive, Microsoft OneDrive, DropBox, GitHub/GitLab, in your browser, or on your device."
-    - title: Integrate diagrams with other software
-      description: Store and work with diagrams in Atlassian Confluence and Jira with our draw.io apps, available from the Atlassian Marketplace. External collaborators don’t need to join your instance, they can view and edit diagram files that you share with them using our online editor - no account or diagram format conversion is needed.
-    - title: Collaborate in real-time with shared cursors
-      description: Multiple editors see changes synchronized in real-time using Google Drive or Microsoft OneDrive, DropBox, and draw.io in Confluence.
-    - title: Create a wide range of diagrams
-      description: "Our shape libraries let you create whatever type of diagram you need:"
-```
