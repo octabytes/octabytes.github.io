@@ -4,8 +4,8 @@ title: k0s fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/containers/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: k0s is a simple, open-source Kubernetes distribution designed to deploy and run Kubernetes workloads with ease on any infrastructure. Enjoy zero complexity, zero dependencies, and zero costs.
+  keywords: k0s, Kubernetes distribution, open-source Kubernetes, simplified Kubernetes, scalable Kubernetes, certified Kubernetes, zero friction Kubernetes, Kubernetes clusters, Kubernetes workloads, Kubernetes management, easy Kubernetes setup, free Kubernetes, Kubernetes deployment
   breadcrumb:
     - name: Home
       url: /
@@ -24,34 +24,19 @@ content:
   logo: /images/hosting-and-infrastructure/containers/k0s/logo.png
   website: https://k0sproject.io/
   iframe_website: /website/hosting-and-infrastructure/containers/k0s
-  description: "description"
-  features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-  screenshots:
----
-
-Write seo optimizaed content for "k0s" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: The Simple, Solid & Certified Kubernetes Distribution. Deploy and run Kubernetes workloads at any scale on any infrastructure. All batteries included. 100% open source & free.
+  description: "k0s is a certified, fully open-source Kubernetes distribution that provides a streamlined, frictionless experience for deploying and managing Kubernetes clusters at any scale. With k0s, users can easily run Kubernetes workloads on any infrastructure without the complexities and dependencies typically associated with Kubernetes setups. It's the perfect solution for businesses and developers looking to simplify their Kubernetes deployments with an all-inclusive, reliable, and cost-free platform. Whether you're a beginner or a seasoned developer, k0s offers the simplicity, scalability, and flexibility needed to build powerful Kubernetes projects from the ground up. And with its open-source nature, k0s ensures complete transparency and freedom for your Kubernetes needs."
   features:
     - title: Zero Friction
-      description: k0s drastically reduces the complexity of installing and running a fully conformant Kubernetes distribution. New kube clusters can be bootstrapped in minutes. Developer friction is reduced to zero, allowing anyone, with no special skills or expertise in Kubernetes to easily get started.
-    - title: Zero Deps
-      description: k0s is distributed as a single binary with zero host OS dependencies besides the host OS kernel. It works with any operating system without additional software packages or configuration. Any security vulnerabilities or performance issues can be fixed directly in the k0s distribution.
+      description: "k0s dramatically reduces the complexity of Kubernetes installation and management. New Kubernetes clusters can be bootstrapped in minutes, and with its user-friendly design, it eliminates the need for specialized knowledge, allowing developers to get started instantly with minimal overhead."
+    - title: Zero Dependencies
+      description: "Distributed as a single binary, k0s requires no additional software or host OS dependencies, except for the OS kernel. This makes it highly portable and ensures that there are no compatibility issues, security vulnerabilities, or performance drawbacks that require separate configuration or management."
     - title: Zero Cost
-      description: "k0s is completely free for personal or commercial use, and it always will be. The source code is available on Github under Apache 2 license. It's a no brainer foundation for any Kubernetes projects and easy build upon."
-    - title: Control Plane Datastore
-      description: In-Cluster Elastic Etcd with TLS (default) In-Cluster SQLite (default for single node) External PostgreSQL External MySQL
-```
+      description: "Completely free for both personal and commercial use, k0s is open-source and licensed under the Apache 2 license. Whether you're developing a small app or building enterprise-level solutions, k0s offers a solid foundation for Kubernetes projects without any hidden costs."
+    - title: Certified Kubernetes Conformance
+      description: "k0s is certified by the Cloud Native Computing Foundation (CNCF), ensuring that it adheres to the highest Kubernetes standards. This means you can deploy workloads with confidence, knowing that k0s is fully compliant with Kubernetes' best practices"
+    - title: Flexible Control Plane
+      description: "k0s supports multiple control plane datastores, including in-cluster Elastic Etcd (default), in-cluster SQLite (default for single-node clusters), and external databases such as PostgreSQL and MySQL, offering flexibility and adaptability for various deployment scenarios."
+    - title: Seamless Scalability
+      description: "Whether running on a single node or at massive scale, k0s is designed for seamless scaling. It ensures that Kubernetes workloads can scale effortlessly without requiring complex configurations, making it ideal for both development environments and large-scale production deployments."
+  screenshots:
+---

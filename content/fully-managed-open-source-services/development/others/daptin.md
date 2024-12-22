@@ -4,8 +4,8 @@ title: Daptin fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/daptin/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Daptin is an open-source backend framework that simplifies building and deploying production-ready JSONAPI microservices with cloud storage integration and flexible API handling.
+  keywords: Daptin, backend framework, JSONAPI, open-source, microservices, cloud storage, OAuth2, GraphQL, API development, production-ready, authentication, authorization, JSONAPI.org, flexible APIs
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,23 @@ content:
   logo: /images/development/others/daptin/logo.png
   website: https://daptin.github.io/daptin/
   iframe_website: /website/development/others/daptin
-  description: "description"
+  description: "Daptin is an innovative open-source backend development framework designed for building and deploying production-ready JSONAPI microservices in minutes. With Daptin, you can easily design your data model, define relationships, and have a fully functional JSON API live in no time. This framework follows standardized conventions, enhancing productivity and streamlining development processes. It integrates seamlessly with cloud servers and is compatible with essential libraries and tools such as JSONAPI.org/implementations and OAuth2, allowing you to focus on what matters most—your application.
+
+Daptin supports a wide range of features that make backend development faster, more efficient, and secure. It offers flexible data handling through configuration files or API calls, robust authentication and authorization systems, and both JSON API and GraphQL endpoints. The platform is fully capable of cloud storage management and integrates with over 30 storage providers, providing an all-in-one solution for backend development."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Define Data Tables and Relations from Config Files or API Calls
+      description: "Daptin allows you to define data tables and their relationships easily via configuration files or API calls. With built-in middleware for data normalization and conformance, you can create indexes and apply constraints on columns. It also supports various data types, including images, videos, audio, and BLOB attachments."
+    - title: Authentication and Authorization on APIs
+      description: "Daptin provides a comprehensive authentication and authorization system for your APIs. It supports user management, with features like user sign-in, sign-up, and password reset flows. The permission system is based on RWX for rows and tables, and JWT tokens can be configured with customizable expiry times."
+    - title: JSON API and GraphQL API
+      description: "Daptin offers full JSONAPI.org compliant endpoints along with a powerful GraphQL API. With Daptin, you can leverage Data/Query and Mutations, along with pagination (page number or cursor-based) and filtering. Fetching related data in a single call ensures better performance and user experience."
+    - title: Cloud Storage Integration and API-Driven File Management
+      description: "With Daptin, you can easily connect to over 30 cloud storage providers, including local storage, HTTP, FTP, GDrive, Dropbox, S3, and more. You can manage your files and perform automated file synchronization every hour using Daptin’s robust API actions."
+    - title: Production-Ready Deployment
+      description: "Daptin is designed to help you rapidly deploy production-ready APIs with minimal configuration. Its adherence to standardized conventions and automated processes ensures faster, hassle-free deployments while maintaining high-quality code and system reliability."
+    - title: Seamless Integration with OAuth2
+      description: "Daptin is fully compatible with OAuth2, enabling secure authentication for your applications. With this feature, you can seamlessly integrate third-party authentication providers, ensuring that your APIs are both secure and easily accessible to users and services."
   screenshots:
     - /images/development/others/daptin/screenshot-1.jpg
     - /images/development/others/daptin/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Daptin" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Daptin is an open-source backend development framework to develop and deploy production-ready JSONAPI microservices. You can design your data model and have a production-ready JSON API online in minutes. By following shared conventions, you can increase productivity, avail of generalized tooling, and focus on your application. The framework integrates with cloud servers and is compatible with libraries and tools like JSONAPI.org/implementations and OAuth2.
-  features:
-    - title: Define data tables and relations from config files or API calls
-      description: Daptin provides middleware for handling data normalizations and conformations. You can create indexes, with constraints on columns. Columns can have images, video, audio, and BLOB attachments.
-    - title: Authentication and authorization on APIs
-      description: "You can add users and user groups. There's an RWX-based permission system for rows and tables; JWT token with configurable expiry time, and user sign-in/sign-up/password reset flows."
-    - title: JSON API and GraphQL API
-      description: With Daptin, you get JSONAPI.org complaint endpoints; GraphQL endpoint with Data/Query and Mutations available; pagination and filtering using page number or cursor-based, and fetch relationships in a single call.
-    - title: Cloud storage, create storage using API
-      description: You can connect to over 30 storage providers – including localhost, HTTP, FTP, Gdrive, Dropbox, S3, and many more) – and manage files using Daptin actions, with automated 1 hour sync.
-```

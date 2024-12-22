@@ -4,8 +4,8 @@ title: Node-red fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/node-red/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Node-RED is an open-source tool that lets you wire together hardware devices, APIs, and services visually using a browser-based editor, perfect for IoT and cloud automation.
+  keywords: Node-RED, visual programming, hardware integration, APIs, automation, Node.js, IoT, Raspberry Pi, cloud services, open-source, event-driven, low-cost hardware
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/nocode-lowcode/node-red/logo.png
   website: https://nodered.org/
   iframe_website: /website/development/nocode-lowcode/node-red
-  description: "description"
+  description: "Node-RED is a powerful open-source visual programming tool that simplifies the integration of hardware devices, APIs, and online services. It allows users to create interactive flows using a browser-based editor, making it easier than ever to wire together complex systems and automate processes. Built on Node.js, Node-RED takes advantage of its event-driven, non-blocking model, making it suitable for both low-cost hardware, like Raspberry Pi, and cloud-based applications. With an extensive library of nodes and modules, Node-RED enables seamless connectivity and automation across a wide range of technologies, from IoT devices to cloud services."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Browser-based Flow Editing
+      description: "Node-RED provides a simple and intuitive browser-based editor that enables users to create and edit flows effortlessly. With a variety of nodes available, you can wire your devices, APIs, and services together visually. Deploying changes is as simple as a single click."
+    - title: Built on Node.js
+      description: "The Node-RED runtime is built on Node.js, which leverages the power of its event-driven, non-blocking architecture. This makes it perfect for edge computing on low-cost hardware like Raspberry Pi or for cloud-based deployments, allowing for fast and efficient processing."
+    - title: Social Development
+      description: "Node-RED supports collaborative development through its JSON-based flow storage, enabling easy import/export of flows. The platform includes an online flow library where users can share their creations, helping others to easily reuse and build upon existing workflows."
+    - title: Runs on Low-Cost Hardware
+      description: "Due to its lightweight and event-driven architecture, Node-RED is ideal for running on budget-friendly hardware like Raspberry Pi. It allows users to integrate hardware and cloud-based services without the need for expensive infrastructure."
+    - title: Extensive Node Library
+      description: "Node-RED comes with an extensive library of pre-built nodes for various services and devices. Whether you are connecting IoT sensors, APIs, or cloud services, you’ll find a node to meet your needs. You can also create custom nodes to further extend its functionality."
+    - title: Real-Time Data Processing
+      description: "Node-RED excels in real-time data processing, making it an ideal choice for applications that require quick, event-driven responses. With its non-blocking nature, you can process large amounts of data without delays, ensuring seamless operation even in resource-constrained environments."
   screenshots:
     - /images/development/nocode-lowcode/node-red/screenshot-1.jpg
     - /images/development/nocode-lowcode/node-red/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Node-red" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. Its browser-based editor makes it easy to wire together flows. It lets you draw a visual representation of how messages should flow through the application.
-  features:
-    - title: Browser-based flow editing
-      description: Node-RED makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be deployed to the runtime in a single click. JavaScript functions can be created using a rich text editor. A built-in library allows you to save useful functions, templates or flows for reuse.
-    - title: Built on Node.js
-      description: "The light-weight runtime is built on Node.js, taking full advantage of its event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi as well as in the cloud. With over 225,000 modules in Node's package repository, it is easy to extend the range of palette nodes to add new capabilities."
-    - title: Social development
-      description: The flows created in Node-RED are stored using JSON which can be easily imported and exported for sharing with others. An online flow library allows you to share your best flows with the world.
-    - title: Runs on low-cost hardware
-      description: Node-RED takes full advantage of the Node.js event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi, as well as in the cloud.
-```

@@ -4,8 +4,8 @@ title: LibreTranslate fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/libretranslate/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: LibreTranslate is a free, open-source, and self-hosted machine translation API that supports 29 languages and ensures full privacy without relying on proprietary services like Google or Azure.
+  keywords: LibreTranslate, open-source translation, free translation API, self-hosted machine translation, Argos Translate, multilingual API, privacy-focused translation, language translation API
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/others/libretranslate/logo.png
   website: https://libretranslate.com/
   iframe_website: /website/development/others/libretranslate
-  description: "description"
+  description: "LibreTranslate is a powerful, open-source machine translation API that offers completely self-hosted translation services, ensuring that your data is always private. Unlike other APIs that depend on proprietary translation engines like Google Translate or Microsoft Azure, LibreTranslate is powered by the open-source Argos Translate library. This unique approach allows users to perform translations without any usage fees, data sharing, or reliance on third-party providers. Supporting 29 languages, LibreTranslate provides seamless integration with your own software through a REST API, making it an ideal solution for developers and businesses looking for a cost-effective and secure translation service."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Free & Open Source
+      description: "LibreTranslate is completely free to use and open-source, meaning there are no hidden costs or restrictions. You have unlimited access to the translation engine without any per-use fees."
+    - title: 100% Self-Hosted
+      description: "With LibreTranslate, you can host the translation API on your own server, ensuring that no data is shared with third parties. All translations are performed in your own environment, giving you full control over your data."
+    - title: 29 Languages Supported
+      description: "LibreTranslate supports 29 languages, including popular ones like English, German, French, Spanish, Italian, Hebrew, Japanese, and more. This diverse language support makes it suitable for a wide range of applications and users."
+    - title: REST API Integration
+      description: "LibreTranslate provides a REST API, allowing you to integrate translation capabilities directly into your own software or platform. This flexibility makes it easy to automate and scale translations across various use cases."
+    - title: No Third-Party Dependencies
+      description: "Unlike other translation services that rely on Google or Azure, LibreTranslate operates independently, ensuring that all translations are handled within your own infrastructure, reducing reliance on external providers."
+    - title: Fully Customizable
+      description: "LibreTranslate can be customized to fit your specific needs. You have the ability to tweak the system or even extend its capabilities, giving you complete control over the translation process and its integration into your workflows."
   screenshots:
     - /images/development/others/libretranslate/screenshot-1.png
     - /images/development/others/libretranslate/screenshot-2.png
 ---
-
-Write seo optimizaed content for "LibreTranslate" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open-source Argos Translate library."
-  features:
-    - title: Free & Open Source
-      description: "Unlike online services, there is no cost per usage, it's unlimited"
-    - title: 100% Self hosted
-      description: Your data is not shared with anyone, all translations are done in your own VM
-    - title: 29 languages supported
-      description: English, German, French, Spanish, Italian, Hebrew, Japanese and many more languages supported
-    - title: REST API
-      description: There is a REST API available, this way you can directly integrate translations within you own software
-```

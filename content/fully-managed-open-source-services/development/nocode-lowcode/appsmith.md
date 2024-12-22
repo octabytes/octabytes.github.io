@@ -4,8 +4,8 @@ title: Appsmith fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Appsmith is a powerful, open-source low-code platform that lets you build internal applications rapidly. Create dynamic CRUD apps, dashboards, and admin panels with ease.
+  keywords: Appsmith, open-source low-code platform, build internal apps, low-code development, open-source framework, CRUD apps, dashboards, admin panels
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/nocode-lowcode/appsmith/logo.png
   website: https://www.appsmith.com/
   iframe_website: /website/development/nocode-lowcode/appsmith
-  description: "description"
+  description: "Appsmith is a leading low-code, open-source framework designed to simplify the process of building internal applications. With a JavaScript-based visual development platform, you can rapidly create CRUD apps, dashboards, admin panels, and more. Leverage pre-built UI components and connect them to your APIs and databases to develop dynamic apps and complex workflows. Deploy these applications on your preferred technology stack, whether it's cloud, on-premises, or hybrid environments. Appsmith supports a wide range of databases and APIs, enabling seamless integration and scalability for internal business needs."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Use Ready Components
+      description: "Appsmith accelerates development by offering a range of ready-made UI components, such as tables, charts, forms, buttons, and more. These components can be quickly dragged into your app, enabling rapid development of dynamic user interfaces and complex workflows."
+    - title: Automagically Works with Any Database
+      description: "Whether you're using PostgreSQL, MongoDB, MySQL, Firestore, or other popular databases, Appsmith supports integration with all major data sources, including Rest APIs and GraphQL. It also offers seamless support for OAuth 2.0 and CURL, ensuring smooth data connections and scalability."
+    - title: Control and Connect with JavaScript
+      description: "With Appsmith, you can control interactions between UI components, manipulate data queries, and handle database operations using JavaScript. Every entity within Appsmith can be accessed and controlled through JavaScript variables, allowing developers to perform complex data manipulations and custom logic."
+    - title: Deploy and Share Applications
+      description: "Appsmith allows you to invite external users to access the applications you build, implementing role-based access control (RBAC) for managing user permissions and access levels. This feature makes it easy for organizations to share internal apps with external stakeholders securely."
+    - title: Integrate Real-time Data
+      description: "Appsmith supports integration with real-time data sources, allowing users to connect their apps with live data from databases, APIs, and cloud services. This capability enables businesses to develop apps that provide up-to-date insights and enhance decision-making."
+    - title: Flexible Deployment Options
+      description: "Whether you prefer deploying apps on cloud platforms, on-premises servers, or hybrid environments, Appsmith supports flexible deployment options. This adaptability allows businesses to leverage Appsmith in a way that suits their internal infrastructure and scaling needs."
   screenshots:
     - /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
     - /images/development/nocode-lowcode/appsmith/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Appsmith" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Appsmith is a low-code, open-source framework to build internal applications. With the JavaScript-based visual development platform, you can rapidly build CRUD apps, dashboards, admin panels, etc. You can use the pre-built UI widgets, and connect them to your APIs and databases to build dynamic apps and complex workflows – and then deploy these apps on the technology you prefer.
-  features:
-    - title: Use ready components
-      description: Appsmith enables you to build workflows in record time. You can drag common elements (tables, charts, forms, etc) right into your app, including text, forms, inputs, buttons, tables, images, charts, checkboxes, switches, radio buttons, datepickers, dropdowns, filepickers, containers, maps, modals, rich text editors, tabs and video.
-    - title: Automagically works using any DB
-      description: Appsmith integrates with any DB, Rest API or GraphQL as a datasource, with support for OAuth 2.0 and CURL. It works with PostgreSQL, MongoDB, MySQL, Firestore, S3, Redshift, Elastic Search, DynamoDB, Redis, and MSFT SQL Server.
-    - title: Control and connect with JS
-      description: You can code interactions between elements, update datasources or manipulate SQL queries. Every entity in Appsmith can be referenced as a JavaScript variable, and all JavaScript functions and operations can be performed on them. This means that all widgets, APIs, queries and their associated data and properties can be referenced anywhere in an application inside handlebars.
-    - title: Deploy and share
-      description: You can allow external users to access applications built using Appsmith by inviting them to the organization. Appsmith implements RBAC by assigning a set of permissions to different user roles. These permissions determine the actions users can take on the platform.
-```

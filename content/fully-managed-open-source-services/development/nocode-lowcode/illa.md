@@ -4,8 +4,8 @@ title: ILLA fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/illa/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: ILLA Cloud is a powerful low-code platform that enables you to quickly build internal tools and applications with ease, using AI-driven SQL generation, real-time collaboration, and seamless data source integration.
+  keywords: low-code platform, build internal tools, AI SQL generation, real-time collaboration, integrate data sources, ILLA Cloud, application development, easy-to-use platform, file storage solution, no-code development, business applications
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,27 @@ content:
   logo: /images/development/nocode-lowcode/illa/logo.png
   website: https://www.illacloud.com/
   iframe_website: /website/development/nocode-lowcode/illa
-  description: "description"
+  description: "ILLA Cloud is a revolutionary low-code platform designed to help businesses and teams create powerful internal tools and applications in minutes. Whether you're looking to automate workflows, manage data, or enhance team collaboration, ILLA Cloud streamlines the development process with its intuitive interface and AI-powered features. With ILLA, anyone—regardless of technical expertise—can design and deploy applications that integrate seamlessly with existing data sources and provide real-time collaboration capabilities. Say goodbye to long development cycles and hello to rapid application building with ILLA Cloud."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Generate SQL with AI
+      description: "Easily Create SQL Queries with Natural Language
+ILLA Cloud’s GPT-based AI SQL Generation allows you to input your requirements in natural language, making it easier than ever to generate complex SQL queries. Skip the coding and let AI handle the heavy lifting!"
+    - title: Real-time Collaboration
+      description: "Work Simultaneously with Your Team
+Collaborate effortlessly with team members in real-time. With ILLA Cloud, everyone can work on the same application, no matter their location, fostering enhanced productivity and faster development cycles."
+    - title: Connect to Any Data Source
+      description: "Seamless Integration with Your Existing Systems
+ILLA Cloud’s powerful GUI connector lets you quickly and easily connect to all your data sources. Whether you're working with databases, APIs, or third-party services, integration is a breeze."
+    - title: ILLA Drive
+      description: "Simplified File Storage Solution
+Keep all your files organized with ILLA Drive. This easy-to-use file storage system helps you manage and share files without hassle, ensuring your team has quick access to the resources they need."
+    - title: Customizable UI Components
+      description: "Design Tailored Interfaces with Ease
+Customize your application's UI with ILLA’s wide range of pre-built components. Tailor the design and layout to your specific needs, all without writing a single line of code."
+    - title: Automated Workflows
+      description: "Streamline Tasks with Automation
+Save time by automating routine tasks and workflows in ILLA Cloud. Automate data processing, notifications, and more to ensure your team remains focused on high-priority tasks."
   screenshots:
     - /images/development/nocode-lowcode/illa/screenshot-1.png
     - /images/development/nocode-lowcode/illa/screenshot-2.png
 ---
-
-Write seo optimizaed content for "ILLA" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: ILLA Cloud is a low-code platform. Anyone can build internal tools with ILLA Cloud in minutes.
-  features:
-    - title: Generate SQL with AI
-      description: With our GPT-based AI SQL Generation, you can input your requirements in natural language, then generate SQL with AI.
-    - title: Real-time collaboration
-      description: Collaborate with your team members simultaneously, working together on the same application, regardless of geographical location
-    - title: Connect to any data source
-      description: "With ILLA's GUI connector, you can quickly connect to all data sources"
-    - title: ILLA Drive
-      description: File storage and Easy to use
-```

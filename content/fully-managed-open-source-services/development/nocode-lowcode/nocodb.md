@@ -4,8 +4,8 @@ title: NocoDB fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/nocodb/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: NocoDB is an open-source Airtable alternative that turns relational databases into a smart, collaborative no-code spreadsheet interface for building applications effortlessly.
+  keywords: NocoDB, Airtable alternative, open-source, no-code, database management, workflow automation, collaborative tools, relational databases, team collaboration, API integrations, custom views
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/nocode-lowcode/nocodb/logo.png
   website: https://www.nocodb.com/
   iframe_website: /website/development/nocode-lowcode/nocodb
-  description: "description"
+  description: "NocoDB is a powerful open-source platform designed as a seamless alternative to Airtable. By connecting to any relational database, NocoDB transforms it into an intuitive, smart spreadsheet interface that is perfect for building no-code applications. Whether you're a small team or a large organization, NocoDB offers a flexible, collaborative environment that enhances productivity and simplifies database management. With its rich features like integration capabilities, team collaboration tools, business workflow automation, and custom views, NocoDB is the ideal tool for teams looking to streamline their processes without needing to write any code."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Integration with APIs
+      description: "NocoDB offers programmatic access to APIs, allowing you to integrate with tools like Zapier, Integromat, or build custom integrations for your specific applications."
+    - title: Seamless Team Collaboration
+      description: "Invite your team with fine-grained access control, share database views publicly or privately, and protect them with password security for collaborative, secure teamwork."
+    - title: Business Workflow Automation
+      description: "Automate workflows with popular apps such as Slack, Microsoft Teams, Discord, WhatsApp, Twilio, and more, to streamline your business operations effortlessly."
+    - title: Rich Spreadsheet Interface
+      description: "Enjoy a flexible spreadsheet experience with options to search, sort, filter, hide columns, and create and share multiple views like Grid, Gallery, Kanban, Gantt, and Forms with ease."
+    - title: Role-based Access Control
+      description: "Manage access at every level of your database, from table to column, with customizable roles such as Owner, Creator, Editor, Viewer, and more, ensuring secure and efficient data management."
+    - title: Advanced Customization Options
+      description: "Upload images to cells, customize views with personal and locked settings, and utilize password protection for added privacy and control over your data."
   screenshots:
     - /images/development/nocode-lowcode/nocodb/screenshot-1.png
     - /images/development/nocode-lowcode/nocodb/screenshot-2.webp
 ---
-
-Write seo optimizaed content for "NocoDB" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: NocoDB, an open-source Airtable alternative, works by connecting to any relational database and transforming it into a smart spreadsheet interface. This allows you to build no-code applications collaboratively with teams.
-  features:
-    - title: Integration
-      description: NocoDB provides programmatic access to APIs so that you can build integrations with Zapier/Integromat and custom applications too.
-    - title: Collaborate easily
-      description: You can invite your team, with fine-grained access control, and share views publicly, also with password protection.
-    - title: Automate business workflows
-      description: NocoDB allows you to build automations with your favourite apps such as Microsoft Teams Slack, Discord, WhatsApp, Twilio, email and SMS.
-    - title: Rich spreadsheet interface
-      description: With NocoDB, you can search, sort, filter, hide columns with ease; create and share Grid, Gallery, Kanban, Gantt and Form views (both public and password-protected; personal and locked); upload images to cells; include roles (Owner, Creator, Editor, Viewer, Commenter, Custom Roles), and use fine-grained access control even at database, table and column level.
-```

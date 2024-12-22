@@ -4,8 +4,8 @@ title: TotaljsFlow fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: TotaljsFlow is an intuitive, web-based visual programming interface designed for low-code development, allowing you to create, edit, and manage real-time data integrations and event transformations with ease.
+  keywords: TotaljsFlow, low-code development, visual programming, real-time data integration, web-based programming, Total.js components, worker threads, PUB/SUB, message service, event-driven applications
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/nocode-lowcode/totaljsflow/logo.png
   website: https://www.totaljs.com/flow/
   iframe_website: /website/development/nocode-lowcode/totaljsflow
-  description: "description"
+  description: "TotaljsFlow is a powerful, modern visual programming tool that simplifies low-code development. Designed for developers and non-developers alike, it provides a user-friendly interface to build complex workflows and integrate various data sources effortlessly. Accessible through a web browser, TotaljsFlow allows you to create, modify, and deploy real-time event-driven applications without writing extensive code. By using components, workers, and a message service, TotaljsFlow enables seamless integration and real-time data processing. Whether you're building automation systems, IoT applications, or data pipelines, TotaljsFlow is a versatile platform that accelerates development while reducing the complexity of traditional coding."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Component's Editor
+      description: "Create and modify Total.js Flow components in real-time directly within the flow interface. The editor also allows seamless editing of imported components, making it easy to customize and enhance your projects dynamically."
+    - title: Worker-Thread
+      description: "Each flow in TotaljsFlow runs independently in a child process (worker-thread), separate from the main thread. This architecture ensures enhanced performance and memory efficiency, with each worker thread consuming around 5-15 MB of RAM."
+    - title: Total.js Message Service
+      description: "TotaljsFlow integrates seamlessly with the Total.js Message Service, enabling efficient communication through PUB/SUB and RPC architecture. This feature allows you to easily connect multiple Total.js applications, facilitating smooth data exchange."
+    - title: Real-Time Traffic Indicator
+      description: "Monitor the data flow in real-time with the built-in traffic indicator. It displays the real-time input and output data of each component, allowing you to track and optimize data processing instantly."
+    - title: Drag-and-Drop Interface
+      description: "TotaljsFlow features an intuitive drag-and-drop interface that enables users to quickly build and modify their workflows without the need for extensive coding. This feature speeds up development and makes it accessible for users of all skill levels."
+    - title: Integrated Debugging Tools
+      description: "The platform includes built-in debugging tools that allow users to test, troubleshoot, and refine their flows. With real-time logs and error tracing, you can quickly identify issues and enhance the reliability of your application."
   screenshots:
     - /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
     - /images/development/nocode-lowcode/totaljsflow/screenshot-2.png
 ---
-
-Write seo optimizaed content for "TotaljsFlow" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "It's a friendly, modern, straightforward Visual Programming Interface for Low-code Development accessible through a web browser. The tool integrates, processes, and transforms various events and data in real-time."
-  features:
-    - title: "Component's editor"
-      description: You can create and modify Total.js Flow components in real-time directly in the Flow. Also, Total.js Flow allows you to edit imported components as well.
-    - title: Worker-Thread
-      description: By default, each Total.js Flow is running as an independent Child Process/Worker-Thread (outside of the main thread). Each worker thread takes around 5-15 MB of RAM.
-    - title: Total.js Message Service
-      description: Total.js Flow can be used as an integrator for Total.js Message Service (PUB/SUB/RPC architecture). You can easily integrate multiple Total.js Apps together directly in the Total.js Flow.
-    - title: Real-time traffic indicator
-      description: With the real-time traffic indicator, you can watch the real-time data on the INPUT and OUTPUT of the component.
-```

@@ -4,8 +4,8 @@ title: Hop fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/hop/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Apache Hop is a metadata-driven data orchestration and engineering platform that simplifies the creation and execution of data workflows and pipelines. Its visual interface, cross-platform support, and lifecycle management make it ideal for data integration and automation.
+  keywords: Apache Hop, data orchestration, data engineering, data integration, metadata-driven, workflow automation, data pipeline, visual development, cross-platform execution, lifecycle management
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/nocode-lowcode/hop/logo.png
   website: https://hop.apache.org/
   iframe_website: /website/development/nocode-lowcode/hop
-  description: "description"
+  description: "Apache Hop is an advanced data orchestration and data engineering platform designed to streamline data integration and metadata management. With its metadata-driven architecture, Apache Hop empowers users to create, manage, and execute data workflows and pipelines with ease. Whether you're handling data ingestion, transformation, or integration tasks, Hop simplifies the entire process, allowing you to focus on solving the business problem at hand instead of getting bogged down by technology complexities. With its intuitive visual development environment, cross-platform execution, and built-in lifecycle management tools, Apache Hop is the go-to solution for efficient and scalable data engineering projects."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Metadata-Driven
+      description: "Apache Hop is entirely metadata-driven, meaning every object type in Hop is defined by its metadata. This approach ensures that data is processed consistently and efficiently, regardless of how it is read, manipulated, or written."
+    - title: Design Once, Run Anywhere
+      description: "With Apache Hop, workflows and pipelines are defined through metadata, enabling seamless execution across various supported runtimes. Once designed, data processes can be run on any platform without additional reconfiguration."
+    - title: Visual Development
+      description: "Apache Hop provides an intuitive drag-and-drop interface for developing workflows and pipelines. This visual development approach makes it easier to design, test, and deploy complex data processes without needing extensive coding knowledge."
+    - title: Built-in Life Cycle Management
+      description: "Managing the full lifecycle of data workflows and pipelines, including testing, deployment, and version control, can be challenging. Apache Hop simplifies this by offering built-in tools that help manage the entire lifecycle from design to execution."
+    - title: Scalable Data Integration
+      description: "Apache Hop is designed to handle large-scale data integration tasks. Its architecture supports the integration of diverse data sources and formats, making it suitable for complex data workflows and enterprise-level data engineering needs."
+    - title: Extensible Architecture
+      description: "Apache Hop's extensible framework allows users to customize and extend the platform to meet their specific needs. Whether through custom plugins or integrations, users can enhance Hop's functionality to fit their unique use cases."
   screenshots:
     - /images/development/nocode-lowcode/hop/screenshot-1.jpeg
     - /images/development/nocode-lowcode/hop/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Hop" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Apache Hop is a data orchestration and data engineering platform that aims to facilitate all aspects of data and metadata orchestration. Apache Hop lets you focus on the problem you're trying to solve without technology getting in the way."
-  features:
-    - title: Metadata Driven
-      description: Apache Hop is entirely metadata-driven. Every object type in Hop describes how data is read, manipulated or written, or how workflows and pipelines need to be orchestrated.
-    - title: Design Once, Run Anywhere
-      description: Apache Hop workflows and pipelines are definitions of how data needs to be processed. Once designed, a pipeline can be executed on any supported runtime.
-    - title: Visual Development
-      description: Apache Hop workflows and pipelines are developed visually through an intuitive drag and drop interface.
-    - title: Built-in Life Cycle Management
-      description: Managing, testing, and deploying workflows and pipelines can be a daunting task.
-```

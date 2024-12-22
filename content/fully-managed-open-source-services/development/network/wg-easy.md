@@ -4,8 +4,8 @@ title: WG-Easy fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/network/wg-easy/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: WG-Easy is a user-friendly VPN solution that combines WireGuard’s speed and security with a simple web interface for quick and easy setup on any device.
+  keywords: WG-Easy, WireGuard, VPN, WireGuard web UI, secure VPN, high-speed VPN, easy VPN setup, VPN solution, cross-platform VPN, secure networking, VPN client QR code, WireGuard performance, VPN installation, WireGuard interface, fast VPN solution
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,23 @@ content:
   website: https://hub.docker.com/r/weejewel/wg-easy
   iframe_website: /website/development/network/wg-easy
   direct_link: true
-  description: "description"
+  description: "WG-Easy is an easy-to-use, highly efficient VPN solution built around WireGuard, one of the most secure and fast VPN protocols available today. By combining the simplicity and speed of WireGuard with a powerful web-based interface, WG-Easy allows users to set up and manage their VPN connections with minimal effort and maximum security. Whether you are a beginner or an experienced user, WG-Easy streamlines the process of configuring WireGuard, making it easy to connect devices across various platforms, including Linux, Windows, macOS, BSD, iOS, and Android.
+
+Built with performance in mind, WG-Easy offers the highest level of cryptographic security without sacrificing speed. It leverages the power of WireGuard’s native integration with the Linux kernel, ensuring ultra-fast networking for seamless and secure internet access. With WG-Easy, VPN setup has never been so simple and effective, allowing users to harness the power of WireGuard without the technical complexity traditionally associated with VPN configurations."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: All-in-one Solution
+      description: "WG-Easy seamlessly integrates WireGuard with an intuitive web UI, providing a unified interface for managing and configuring your VPN connections effortlessly."
+    - title: Easy Installation
+      description: "With a simple, no-fuss installation process, WG-Easy allows users to get started quickly without complicated setups or technical hurdles."
+    - title: QR Code Support
+      description: "WG-Easy generates a QR code for easy configuration of client devices, allowing you to quickly scan and connect your devices to the VPN, making setup even simpler."
+    - title: High Performance
+      description: "Leveraging the WireGuard protocol's native integration with the Linux kernel, WG-Easy ensures lightning-fast, secure networking that delivers high-speed VPN connections for seamless browsing and streaming."
+    - title: Cross-Platform Compatibility
+      description: "WG-Easy works across a wide range of platforms, including Linux, Windows, macOS, BSD, iOS, and Android, providing secure VPN connectivity wherever you go."
+    - title: Robust Security
+      description: "Built on state-of-the-art cryptographic principles, WG-Easy ensures the highest level of security for your network traffic, keeping your data safe from unauthorized access while providing unmatched speed."
   screenshots:
     - /images/development/network/wg-easy/screenshot-1.jpg
     - /images/development/network/wg-easy/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "WG-Easy" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "WireGuard is an extremely simple, fast VPN that uses state-of-the-art cryptography. It aims to be faster, simpler, leaner and more useful than IPsec, and more performant than OpenVPN. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It's claimed to be the most secure, easiest to use, and simplest VPN solution in the industry."
-  features:
-    - title: All-in-one
-      description: WG-easy is a combination of WireGaurd and Web UI
-    - title: Easy Installation
-      description: WireGuard Easy is less complicated which makes it very easy to install and simple to run
-    - title: QR Code
-      description: WireGuard Easy shows QR code of the client which can me copied or taken screenshot.
-    - title: High performance
-      description: WireGuard lives inside the Linux kernel means that secure networking can be very high-speed.
-```

@@ -4,8 +4,8 @@ title: FlowiseAI fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/flowiseai/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: FlowiseAI is an open-source visual tool that allows you to create personalized LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS and TypeScript/JavaScript. Build intelligent AI-driven applications quickly and efficiently with FlowiseAI.
+  keywords: FlowiseAI, LangchainJS, open-source AI tool, LLM flow builder, conversational agent, NodeJS AI, AI workflow, LangchainJS integration, customizable AI flows, open-source AI platform, NodeJS TypeScript AI
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/others/flowiseai/logo.png
   website: https://flowiseai.com/
   iframe_website: /website/development/others/flowiseai
-  description: "description"
+  description: "FlowiseAI is a powerful open-source visual tool designed to help developers create custom Large Language Model (LLM) flows using LangchainJS. Built with NodeJS and TypeScript/JavaScript, FlowiseAI makes it easy to integrate various AI models and workflows without needing to write complex code. Whether you're building a conversational agent, a question-answering system, or a language translation tool, FlowiseAI provides an intuitive interface and robust features to accelerate development. Its extensible components and real-time preview functionality ensure that your LLM apps are deployed efficiently. FlowiseAI simplifies the process of creating tailored AI flows, enabling developers to focus on building smarter, more responsive applications."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Conversational Agent with Memory
+      description: "Create advanced conversational agents that utilize specialized chat prompts and buffer memory. This feature enables your AI to remember prior interactions, allowing it to provide more contextually relevant responses in future conversations."
+    - title: QnA Retrieval Chain
+      description: "Build a QnA retrieval system with conversational retrieval QA chains. This feature helps in generating precise answers to user queries by effectively utilizing AI-powered question-answering techniques."
+    - title: Language Translation Chain
+      description: "Effortlessly translate text across multiple languages using the LLM Chain combined with a Chat Prompt Template and Chat Model. This feature provides multilingual support, making it easy to integrate language translation capabilities into your application."
+    - title: Extensible Component & Build Fast
+      description: "FlowiseAI supports the integration of custom components, allowing you to tailor your LLM applications to your specific needs. With real-time previews, you can quickly see how your app performs, speeding up development time."
+    - title: NodeJS & TypeScript Integration
+      description: "Seamlessly integrate your custom flows with NodeJS and TypeScript, leveraging the power of modern JavaScript for building fast, scalable, and efficient AI-driven applications."
+    - title: Real-time App Preview
+      description: "See your AI applications in action as you build them. FlowiseAI offers real-time app previews, allowing you to test your custom LLM flows instantly and make improvements on the fly for a smoother development experience."
   screenshots:
     - /images/development/others/flowiseai/screenshot-1.png
     - /images/development/others/flowiseai/screenshot-2.png
 ---
-
-Write seo optimizaed content for "FlowiseAI" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript
-  features:
-    - title: Conversational Agent with Memory
-      description: Conversational agent for a chat model which utilizes chat-specific prompts and buffer memory
-    - title: QnA Retrieval Chain
-      description: Generate QnA using conversational retrieval QA chain
-    - title: Language Translation Chain
-      description: Translate  any language using LLM Chain with a Chat Prompt Template and Chat Model
-    - title: Extensible Component & Build Fast
-      description: Custom component integrations and See your LLM apps running live
-```

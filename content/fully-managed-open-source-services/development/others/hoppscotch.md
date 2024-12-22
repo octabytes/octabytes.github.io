@@ -4,8 +4,8 @@ title: Hoppscotch fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/development/nocode-lowcode/hoppscotch/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Hoppscotch is a free, open-source API development tool that offers a fast, lightweight, and user-friendly interface for building and testing APIs.
+  keywords: API development, Hoppscotch, open-source, lightweight API tool, fast API testing, API suite, developer tool, HTTP methods, API debugging, real-time API testing, collaboration tool, team workspaces, free API tool, web-based API suite
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/development/others/hoppscotch/logo.png
   website: https://hoppscotch.com/
   iframe_website: /website/development/others/hoppscotch
-  description: "description"
+  description: "Hoppscotch is a modern, open-source API development platform designed with a minimalist and user-friendly interface. It offers an intuitive experience for developers by providing all the essential tools needed to build, test, and debug APIs. Hoppscotch supports various HTTP methods, enables seamless collaboration through teams and workspaces, and ensures fast real-time responses. Whether you are working solo or in a team, Hoppscotch helps streamline the development process with its simple, fast, and efficient features. Completely free-to-use, Hoppscotch is a powerful alternative for developers who want a lightweight API development suite."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Lightweight & Fast
+      description: "Crafted with minimalistic UI design, Hoppscotch allows developers to send requests and receive real-time responses effortlessly, ensuring speed and simplicity in every action."
+    - title: HTTP Methods
+      description: "Supports a wide range of HTTP methods such as GET, POST, PUT, PATCH, DELETE, HEAD, CONNECT, OPTIONS, TRACE, and custom methods, offering flexibility for every type of API request."
+    - title: Teams & Workspaces
+      description: "Hoppscotch enables collaboration across teams by organizing environments and collections into workspaces. Easily switch between different workspaces to manage multiple projects and improve productivity."
+    - title: Other Features
+      description: "Includes a variety of advanced features such as proxy, i18n (internationalization), themes, authentication + sync, data synchronization, post-request tests, environments, bulk edit, and more for a comprehensive development experience."
+    - title: Authentication & Authorization
+      description: "With support for various authentication mechanisms, Hoppscotch allows you to test APIs securely by easily handling tokens, credentials, and other authentication methods for your requests."
+    - title: History & Admin Dashboard
+      description: "Keep track of all your API requests and responses with Hoppscotch’s detailed history feature. The admin dashboard allows easy management of teams, workspaces, and settings for efficient project handling."
   screenshots:
     - /images/development/others/hoppscotch/screenshot-1.jpg
     - /images/development/others/hoppscotch/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Hoppscotch" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Hoppscotch is a lightweight, web-based API development suite. Hoppscotch was built from the ground up with ease of use and accessibility in mind. Hoppscotch provides all the functionality needed for developers with a minimalist and unobtrusive UI. Hoppscotch is free-to-use and as an added perk completely open source.
-  features:
-    - title: ❤️ Lightweight & ⚡️ Fast
-      description: Crafted with minimalistic UI design & Send requests and get responses in real-time.
-    - title: 🗄️ HTTP Methods
-      description: It supports, GET, POST, PUT, PATCH, DELETE, HEAD, CONNECT, OPTIONS, TRACE, and custom.
-    - title: 👨‍👩‍👧‍👦 Teams & 👥 Workspaces
-      description: Helps you collaborate across your teams to design, develop, and test APIs faster and organize your personal and team collections environments into workspaces. Easily switch between workspaces to manage multiple projects.
-    - title: 📦 Others Features
-      description: Proxy, i18n, Themes, Auth + Sync,  Data Synchronization, Post-Request Tests, Environments, Bulk Edit, Admin dashboard, History, Collection and many more.
-```
