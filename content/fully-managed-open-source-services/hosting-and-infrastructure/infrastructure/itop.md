@@ -4,8 +4,8 @@ title: iTop fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/infrastructure/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: iTop is a fully customizable IT service management platform designed for businesses to streamline operations, enhance customer satisfaction, and manage complex infrastructures with ease.
+  keywords: iTop, IT service management, ITSM, customizable IT solution, ERP for IT, incident management, workflow management, IT infrastructure, problem management, service contracts, IT operations, business IT solutions, shared infrastructures
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/hosting-and-infrastructure/infrastructure/itop/logo.png
   website: https://www.combodo.com/?lang=en
   iframe_website: /website/hosting-and-infrastructure/infrastructure/itop
-  description: "description"
+  description: "iTop is a comprehensive IT service management (ITSM) platform tailored to meet the dynamic needs of businesses. Designed by IT service professionals, iTop helps you manage the complexities of shared infrastructures while offering seamless integration with your existing processes. Whether you're dealing with incidents, changes, or service contracts, iTop enables you to analyze impacts, track workflows, and improve customer satisfaction with no coding required. Perfect for organizations looking for an ERP solution for IT, iTop's flexibility and powerful features make it the go-to platform for IT operations management."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: 100% Customizable
+      description: "iTop adapts to your business needs and processes without the need for any coding. Tailor the platform to fit your unique requirements and ensure a perfect match with your IT operations."
+    - title: An ERP for IT
+      description: "iTop integrates shared referential data with industrialized services, offering an ERP-like solution for IT departments to manage their operations efficiently and improve customer satisfaction."
+    - title: Problem Management
+      description: "This module helps prevent recurring incidents by providing analysts with the tools to identify common issues and add them to a knowledge base, reducing future disruptions and improving operational efficiency."
+    - title: Customizable Workflow
+      description: "With iTop, you can easily define the lifecycle of tickets or tasks according to your organization's processes. Customizable workflows allow for tailored task management and efficient ticket resolution."
+    - title: Impact Analysis
+      description: "Analyze the effects of incidents or changes across multiple services and contracts, ensuring that your organization can make informed decisions and minimize service disruptions."
+    - title: Seamless Integration
+      description: "iTop integrates smoothly with existing tools and systems, allowing you to enhance your IT operations without major disruptions. It works with your current infrastructure to ensure a smooth transition and faster implementation."
   screenshots:
     - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png
     - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-2.png
 ---
-
-Write seo optimizaed content for "iTop" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Designed by experienced IT service professionals, iTop has been created to manage the complexity of shared infrastructures. iTop gives you the ability to analyze the impact of an incident or a change on the various services and contracts that you have to fulfil.
-  features:
-    - title: 100% Customizable
-      description: Ready to use, iTop adapts to your needs and processes without writing a single line of code
-    - title: An ERP for IT
-      description: Shared referential + Industrialized services = Best Customer Satisfaction
-    - title: Problem Management
-      description: "To avoid repetition of incidents, the problem management module is the analysts' tool, contributing to the pool of knowledge for common mistakes"
-    - title: Customizable Workflow
-      description: The life cycle of the tickets or the list of tasks to perform for the achievement of a process can be set to fit each organization
-```

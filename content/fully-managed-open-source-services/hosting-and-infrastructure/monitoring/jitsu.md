@@ -4,8 +4,8 @@ title: Jitsu fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Jitsu is a fast, open-source replacement for proprietary analytics stacks, enabling real-time data pipelines with ease. It's perfect for modern data teams seeking to quickly send, transform, and enrich data.
+  keywords: Jitsu, open-source analytics, real-time data pipeline, data ingestion, data transformation, data enrichment, framework-agnostic, modern data teams, alternative to Google Analytics, alternative to Segment, data integration, Snowflake, BigQuery, Redshift, data warehouse, HTTP API integration
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,25 @@ content:
   logo: /images/hosting-and-infrastructure/monitoring/jitsu/logo.png
   website: https://jitsu.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/jitsu
-  description: "description"
+  description: "Jitsu is a powerful, open-source alternative to proprietary analytics solutions like Google Analytics and Segment. It offers a fully scriptable data ingestion engine designed to streamline the data pipeline process for modern data teams. Whether you're building a real-time analytics stack or simply need an efficient way to collect and process data, Jitsu makes it easier to set up a scalable solution in minutes, not days.
+
+With its framework-agnostic approach, Jitsu seamlessly integrates into any technology stack, allowing your team to collect data from anywhere and send it to your preferred destination. You can connect data warehouses like Snowflake, BigQuery, or Redshift, or send data to third-party services such as Amplitude and HubSpot. Jitsu also includes advanced data transformation and enrichment capabilities, giving you complete control over your data pipeline.
+
+Jitsu offers an intuitive user interface and powerful features that enable your team to build a customized, real-time analytics pipeline in no time. Whether you're enriching data with geo-location, filtering bots, or transforming incoming data with JavaScript, Jitsu provides the tools you need for a seamless data experience."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Send Data from Anywhere
+      description: "Jitsu's framework-agnostic setup allows you to send data from any application with just a few lines of code. No matter your stack, Jitsu offers a solution that integrates seamlessly with your existing technology."
+    - title: Connect Destination
+      description: "Easily connect your data warehouse, such as Snowflake, BigQuery, or Redshift, and query your data instantly. Jitsu supports real-time data streaming or micro-batch processing, enabling flexible data delivery to any destination."
+    - title: Transform the Data
+      description: "Apply custom transformations with Jitsu’s built-in JavaScript editor. The editor features code completion, debugging tools, and a full IDE-like experience, making data manipulation both simple and powerful."
+    - title: Enrich the Data
+      description: "Jitsu automatically resolves user geo-location based on IP addresses and filters out bots using user-agent parsing. Additionally, it can pull data from 140+ external services, creating a more accurate and detailed user profile."
+    - title: Support for Multiple Integrations
+      description: "Jitsu supports integrations with a wide variety of services, including Amplitude, HubSpot, and Google Analytics, making it easy to push data from your data pipeline to multiple destinations."
+    - title: Seamless Data Scaling
+      description: "Jitsu is designed to scale effortlessly, whether you're dealing with small datasets or large volumes of real-time data. Its robust infrastructure ensures your data pipeline runs smoothly as your business grows."
   screenshots:
     - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
     - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Jitsu" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Jitsu is a fast and easy open-source replacement for proprietary analytics stacks such as Google Analytics and Segment. It's a fully scriptable data ingestion engine for modern data teams. It enables you to set up a real-time data pipeline in minutes rather than days."
-  features:
-    - title: Send data from anywhere
-      description: "To instal Jitsu you just select your framework and add a few lines of code to your app. It is built to be framework-agnostic, so regardless of your stack it will provide a solution that'll work for your team."
-    - title: Connect destination
-      description: When you connect the data warehouse (Snowflake, Clickhouse, BigQuery, S3, Redshift or Postgres), you can query your data instantly. Jitsu can either stream data in real time or send it in micro-batches (up to once a minute). In addition to DWHs, Jitsu can push data to other services (Amplitude, Hubspot, Google Analytics, etc) or call any HTTP-api.
-    - title: Transform the data
-      description: You can apply any transformation with Jitsu. Just write JavaScript code right in the UI to do anything with incoming data. The code editor supports code completion, debugging, etc. It feels like a full-featured IDE…
-    - title: Enrich the data
-      description: Jitsu will automatically resolve user geo-location based on IP address, and will parse user agent to filter out bots and understand the device type. It can also pull data from 140+ external services to build a 100% accurate profile of your users.
-```

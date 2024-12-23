@@ -4,8 +4,8 @@ title: Zabbix fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Zabbix is an open-source network monitoring software that offers real-time monitoring, problem detection, flexible alert systems, and powerful data visualization to help businesses manage their IT infrastructure effectively.
+  keywords: Zabbix, network monitoring, IT infrastructure, server monitoring, virtual machine monitoring, real-time alerts, data visualization, open-source monitoring, IT management software, problem detection, customizable dashboards
   breadcrumb:
     - name: Home
       url: /
@@ -25,34 +25,19 @@ content:
   website: https://www.zabbix.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/zabbix
   direct_link: true
-  description: "description"
+  description: "Zabbix is a powerful open-source software solution designed to monitor and manage the health and performance of IT infrastructures, including servers, virtual machines, applications, websites, databases, cloud environments, and more. With its robust set of features, Zabbix ensures real-time monitoring, quick problem detection, and seamless issue resolution. The software offers highly flexible notification mechanisms, including email and SMS alerts, to keep you informed of critical issues as they arise. Zabbix's advanced data visualization tools and customizable dashboards help you gain valuable insights into your environment, allowing for informed decision-making and proactive management."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Detect Problems Instantly
+      description: "Zabbix offers high-performance problem detection in real-time, automatically identifying issues within incoming metrics. With highly flexible definition options, users can customize problem and resolution conditions and prioritize problems based on severity levels."
+    - title: Get Alerted on Critical Issues
+      description: "Stay informed with multiple messaging channels for notifications, including email, SMS, and online SMS gateways. Zabbix ensures that the right people are alerted promptly about critical events, helping to mitigate risks quickly."
+    - title: Gain Additional Insights with Powerful Data Visualization
+      description: "Zabbix provides a range of widgets to create customizable dashboards. With drag-and-drop functionality and scalable widgets, users can design tailored dashboards to track relevant information in a clear and visually engaging manner."
+    - title: Create Flexible Widget-Based Dashboards
+      description: "The Zabbix web UI allows users to configure multi-page dashboards that provide a visual overview of their IT environment. These dashboards are easily customizable with widgets that can be placed, scaled, and refreshed at defined intervals for real-time monitoring."
+    - title: Customizable Alerts and Notifications
+      description: "Zabbix provides customizable notification triggers based on user-defined parameters, ensuring alerts are sent when predefined conditions are met. The flexible notification system allows for SMS, email, or other integrations to suit your organizational needs."
+    - title: Extensive Integration Options
+      description: "Zabbix supports seamless integration with other software and services, allowing users to enhance its monitoring capabilities. Whether integrating with cloud platforms, virtual machines, or custom applications, Zabbix adapts to diverse IT environments."
   screenshots:
 ---
-
-Write seo optimizaed content for "Zabbix" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Zabbix is a software that monitors numerous parameters of a network and the health and integrity of servers, virtual machines, applications, services, databases, websites, the cloud and more. Zabbix uses a flexible notification mechanism that allows users to configure e-mail based alerts for virtually any event. This allows a fast reaction to server problems. Zabbix offers excellent reporting and data visualization features based on the stored data.
-  features:
-    - title: Detect problems instantly
-      description: "Forget about tracking your metrics manually. With Zabbix you can detect problem states within the incoming metric flow automatically:  High performance problem detection in real-time, Highly flexible definition options, Separate problem and problem resolution conditions, Multiple severity levels."
-    - title: Get alerted on critical issues
-      description: "Use multiple messaging channels to notify the responsible person or people about the different kinds of events occurring in your environment: Email, SMS for reliable alerts using USB modems, Online SMS gateways."
-    - title: Gain additional insights by powerful data visualization
-      description: "Define widget-based dashboards displaying relevant information:  Large selection of many different widgets, Simple drag and drop placement and scaling of widgets, Each widget is highly customizable to fit your needs."
-    - title: Create flexible widget based dashboards
-      description: "Zabbix web UI provides multiple ways of presenting a visual overview of your IT environment: Widget-based multi-page dashboards, Easy drag and drop widget placement, Configure automatic dashboard refresh intervals."
-```

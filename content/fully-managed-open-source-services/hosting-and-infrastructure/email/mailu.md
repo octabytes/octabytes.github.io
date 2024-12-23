@@ -4,8 +4,8 @@ title: Mailu fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/email/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Mailu is a simple, full-featured, open-source mail server with advanced email functionalities, web access, and strong security measures.
+  keywords: Mailu, open-source mail server, Docker mail server, IMAP, SMTP, secure email, email management, DKIM, TLS encryption, email web access
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/hosting-and-infrastructure/email/mailu/logo.png
   website: https://mailu.io
   iframe_website: /website/hosting-and-infrastructure/email/mailu
-  description: "description"
+  description: "Mailu is a robust, open-source mail server that simplifies email management by providing a comprehensive suite of features packaged as Docker images. Designed for ease of use and flexibility, Mailu includes support for standard email protocols like IMAP and SMTP, advanced functionalities such as aliases and custom routing, and a user-friendly web interface for email access and administration. With a strong focus on security, Mailu integrates enforced TLS, LetsEncrypt!, DKIM for outgoing emails, and an anti-virus scanner. Whether you’re managing emails for personal use, small businesses, or enterprise needs, Mailu offers a free and collaborative platform that empowers users to take control of their email services."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Standard Email Server
+      description: "Supports standard email protocols including IMAP, IMAP+, SMTP, and Submission, ensuring compatibility with popular email clients and seamless communication."
+    - title: Advanced Email Functionalities
+      description: "Leverage features like email aliases, domain aliases, and custom routing to tailor your email setup to specific requirements."
+    - title: Web Access
+      description: "Access emails conveniently via multiple webmail interfaces and a comprehensive administration panel, offering flexibility for both users and administrators."
+    - title: Robust Security Measures
+      description: "Protect your email communications with enforced TLS encryption, automated LetsEncrypt! integration, outgoing DKIM signatures, and a built-in anti-virus scanner."
+    - title: Fully Open Source
+      description: "Mailu is open-source software, encouraging contributions and customization from the community while offering a cost-effective solution for email management."
+    - title: Docker-Based Deployment
+      description: "Easily deploy Mailu using Docker images, ensuring a streamlined setup process and scalability for various use cases."
   screenshots:
     - /images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg
     - /images/hosting-and-infrastructure/email/mailu/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Mailu" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Mailu is a simple yet full-featured mail server as a set of Docker images. It is free software (both as in free beer and as in free speech), open to suggestions and external contributions.
-  features:
-    - title: Standard email server
-      description: IMAP and IMAP+, SMTP and Submission
-    - title: Advanced email features
-      description: Advanced email features, aliases, domain aliases, custom routing
-    - title: Web Access
-      description: Web access, multiple Webmails and administration interface
-    - title: Security
-      description: Security, enforced TLS, Letsencrypt!, outgoing DKIM, anti-virus scanner
-```

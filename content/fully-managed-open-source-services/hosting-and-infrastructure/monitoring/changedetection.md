@@ -4,8 +4,8 @@ title: ChangeDetection fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Monitor website changes effortlessly with ChangeDetection.io. Get notified instantly with unlimited checks, automated backups, and powerful filtering.
+  keywords: website change detection, self-hosted monitoring, open-source monitoring service, track website changes, ChangeDetection, website notifications, text change monitoring, site update alerts, XPath filtering, custom notifications
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,21 @@ content:
   website: https://github.com/dgtlmoon/changedetection.io
   iframe_website: /website/hosting-and-infrastructure/monitoring/changedetection
   direct_link: true
-  description: "description"
+  description: "ChangeDetection.io is a powerful, open-source, self-hosted solution designed to help you monitor changes on any website with ease. Whether you're tracking price drops, content updates, or any other changes, ChangeDetection simplifies the process by providing a straightforward way to monitor text changes across websites. It is the best alternative to services like Visualping and Watchtower, offering unlimited checks, robust notification options, and powerful filtering capabilities. Built with simplicity in mind, ChangeDetection makes it easy to stay informed about the websites that matter most to you, ensuring you never miss an important update. Enjoy peace of mind with automatic backups, updates, and detailed change tracking without the complexities."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Backup and Updates
+      description: "ChangeDetection.io ensures you never miss an important update with automatic backups and updates. Say goodbye to downtime and manual maintenance!"
+    - title: Unlimited Checks and Watches
+      description: "Unlike other services, ChangeDetection provides unlimited checks and watches for all your monitored websites. Enjoy comprehensive monitoring without restrictions."
+    - title: Notifications
+      description: "Stay informed with a variety of notification options, including email, Office365, and custom APIs. Customize notifications for each website with ease using the Apprise library."
+    - title: Filters
+      description: "Advanced filtering options like XPath, JSONPath, and CSS selectors allow you to monitor specific parts of a webpage. Get the precision you need for accurate change detection."
+    - title: User-Friendly Interface
+      description: "Designed for simplicity, ChangeDetection.io offers an intuitive interface, making it easy to set up and manage your website monitoring tasks without any technical expertise."
+    - title: Self-Hosting Flexibility
+      description: "Enjoy full control over your monitoring service with the self-hosted version of ChangeDetection.io. Host it on your own server, and manage your own data securely."
   screenshots:
     - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg
     - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "ChangeDetection" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change.
-  features:
-    - title: Backup and Updates
-      description: "Automatic Updates, Automatic Backups, No Heroku 'paused application', don't miss a change!"
-    - title: Unlimited checks and watches!
-      description: Changedetection provides unlimited checks where user can access without limiting down to few.
-    - title: Notifications
-      description: "ChangeDetection.io supports a massive amount of notifications (including email, office365, custom APIs, etc) when a web-page has a change detected thanks to the apprise library. Simply set one or more notification URL's in the tab of that watch."
-    - title: Filters
-      description: XPath, JSONPath and CSS support comes baked in! You can be as specific as you need, use XPath exported from various XPath element query creation tools.
-```

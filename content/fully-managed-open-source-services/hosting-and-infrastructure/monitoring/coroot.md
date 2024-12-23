@@ -4,8 +4,8 @@ title: Coroot fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Coroot is a powerful observability tool that collects and analyzes metrics, logs, and traces automatically to give you actionable insights, ensuring 100% coverage and easy anomaly detection without manual configuration.
+  keywords: Coroot, observability, zero-instrumentation, eBPF, metrics, logs, traces, application health, distributed tracing, SLOs, performance monitoring, real-time insights
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,21 @@ content:
   logo: /images/hosting-and-infrastructure/monitoring/coroot/logo.png
   website: https://coroot.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/coroot
-  description: "description"
+  description: "Coroot is an advanced observability platform that turns your application data—metrics, logs, traces, and profiles—into actionable insights without the need for complex configurations or code changes. By leveraging eBPF technology, Coroot automatically gathers and processes essential performance data, offering a comprehensive service map with 100% coverage of your systems. It helps you monitor application health, track service-level objectives (SLOs), and easily detect and resolve anomalies with minimal effort. Whether you're working with legacy systems or modern cloud-native applications, Coroot provides a unified view of your application's performance, enabling rapid issue resolution and optimized operations."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Zero-Instrumentation Observability
+      description: "Coroot collects metrics, logs, traces, and profiles automatically using eBPF, ensuring seamless observability with no blind spots. It offers a detailed Service Map covering your entire system, accompanied by predefined inspections that audit applications with zero configuration."
+    - title: Application Health Summary
+      description: "With Coroot, you can quickly assess the health of your applications, even when dealing with hundreds of services. The platform provides comprehensive insights into logs and tracks SLOs, so you can effortlessly monitor and maintain the health of your entire infrastructure."
+    - title: Explore Any Outlier Requests with Distributed Tracing
+      description: "Investigate any anomalies or performance issues with just one click using Coroot's distributed tracing capabilities. The vendor-neutral OpenTelemetry instrumentation enables easy tracking of requests across various services, even legacy or third-party applications, without requiring code modifications."
+    - title: Grasp Insights from Logs with a Quick Glance
+      description: "Coroot allows you to quickly identify log patterns through out-of-the-box event clustering. The seamless correlation between logs and traces enables faster troubleshooting, while the lightning-fast search capabilities powered by ClickHouse ensure you never miss critical details."
+    - title: Seamless Logs-to-Traces Correlation
+      description: "Coroot offers integrated logs-to-traces correlation, making it simple to trace issues from logs all the way through to the root cause, eliminating the need for manual tracking and making performance monitoring more efficient."
+    - title: Lightning-Fast Search Based on ClickHouse
+      description: "Experience unparalleled search speed and accuracy with Coroot's use of ClickHouse. This technology ensures that you can quickly retrieve relevant logs and traces to diagnose issues, significantly reducing the time spent troubleshooting and enhancing your system’s overall reliability."
   screenshots:
     - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png
     - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Coroot" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: "Collecting metrics, logs, and traces alone doesn't make your applications observable. Coroot turns that data into actionable insights for you!"
-  features:
-    - title: Zero-instrumentation observability
-      description: Metrics, logs, traces, and profiles are gathered automatically by using eBPF Coroot provides you with a Service Map that covers 100% of your system with no blind spots Predefined inspections audit each application without any configuration
-    - title: Application Health Summary
-      description: Easily understand the status of your services, even when dealing with hundreds of them Gain insight into application logs without the need to manually inspect each one SLOs (Service Level Objectives) tracking
-    - title: Explore any outlier requests with distributed tracing
-      description: "Investigate any anomaly with just one click Vendor-neutral instrumentation with OpenTelemetry Are you unable to instrument legacy or third-party services? Coroot's eBPF-based instrumentation can capture requests without requiring any code changes."
-    - title: Grasp insights from logs with just a quick glance
-      description: "Log patterns: out-of-the-box event clustering Seamless logs-to-traces correlation Lightning-fast search based on ClickHouse"
-```

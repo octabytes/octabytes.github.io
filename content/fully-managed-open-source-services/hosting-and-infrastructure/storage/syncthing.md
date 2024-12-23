@@ -4,8 +4,8 @@ title: Syncthing fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/storage/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Syncthing is an open-source, peer-to-peer file synchronization tool offering secure, real-time syncing across all devices without relying on cloud services.
+  keywords: Syncthing, peer-to-peer file synchronization, secure file sync, real-time file sync, cross-platform file sync, open-source file sync, privacy-first file sync, file synchronization tool, device-to-device sync
   breadcrumb:
     - name: Home
       url: /
@@ -25,36 +25,21 @@ content:
   website: https://forum.syncthing.net/
   iframe_website: /website/hosting-and-infrastructure/storage/syncthing
   direct_link: true
-  description: "description"
+  description: "Syncthing is a free, open-source, peer-to-peer file synchronization application that enables seamless synchronization of files across multiple devices. Available for Windows, macOS, Linux, Android, Solaris, Darwin, and BSD, Syncthing empowers users to sync files both locally and remotely, ensuring efficient real-time transfers. Unlike traditional cloud services, Syncthing never uploads your data, giving you complete control and ensuring your data stays private and secure. Its built-in security features and transparent design guarantee that your files remain protected from unauthorized access while providing a fast and reliable synchronization experience."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Data Secure
+      description: "Syncthing ensures complete privacy by syncing files directly between devices without the need for cloud storage. This peer-to-peer approach guarantees that your data remains under your control and free from third-party interference."
+    - title: Transparent
+      description: "Built on an open and documented protocol, Syncthing’s security mechanisms are visible and defined in the source code. Users can review and understand how data is exchanged, ensuring full transparency in the syncing process."
+    - title: In Control
+      description: "Syncthing puts you in control of your file synchronization. Devices must be added and authorized on both ends before syncing can begin, protecting against unauthorized access, even if one of your devices is compromised."
+    - title: Rapid Synchronization
+      description: "Using a block-based approach, Syncthing segments files into smaller pieces, enabling fast and efficient data transfer across devices. The more devices connected, the faster the synchronization, as data is fetched from multiple devices in parallel."
+    - title: Cross-Platform Compatibility
+      description: "Syncthing works on a wide range of platforms, including Windows, macOS, Linux, Android, Solaris, Darwin, and BSD, ensuring you can sync your files across various devices seamlessly."
+    - title: Offline Synchronization
+      description: "Syncthing can sync files even when devices are not connected to the internet, as long as they are on the same local network. This ensures that you can synchronize your files safely and securely, whether you're online or offline."
   screenshots:
     - /images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg
     - /images/hosting-and-infrastructure/storage/syncthing/screenshot-2.jpg
 ---
-
-Write seo optimizaed content for "Syncthing" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Syncthing is a free, open-source, peer-to-peer file synchronization application available for Windows, macOS, Linux, Android, Solaris, Darwin, and BSD. It can sync files between devices on a local network, or between remote devices over the Internet. Data security and data safety are built into the design of the software. It synchronizes files in real time, safely protected from prying eyes.
-  features:
-    - title: Data secure
-      description: Syncthing does not upload your data to the cloud but exchanges it across your machines as soon as they are online at the same time.
-    - title: Transparent
-      description: Syncthing uses an open and documented protocol. The security mechanisms in use are well defined and visible in the source code.
-    - title: In control
-      description: In Syncthing, you set up both sides to connect two devices. An attacker can’t do much with a stolen device ID, because you have to add the device on the other side too. You have better control where your files are transferred.
-    - title: Rapid synchronization
-      description: Syncthing segments files into pieces, called blocks, to transfer data from one device to another. Therefore, multiple devices can share the synchronization load, in a similar way to the Torrent protocol. The more devices you have online, the faster an additional device will receive the data because small blocks will be fetched from all devices in parallel.
-```

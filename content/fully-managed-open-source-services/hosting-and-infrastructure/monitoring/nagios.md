@@ -4,8 +4,8 @@ title: Nagios fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/dockerregistry/screenshot-1.jpg
-  description: description
-  keywords: keywords
+  description: Nagios is a powerful monitoring system that tracks applications, services, systems, and network protocols, helping businesses ensure the health of their mission-critical infrastructure with advanced scalability and flexibility.
+  keywords: Nagios monitoring, system monitoring, network monitoring, infrastructure monitoring, open-source monitoring, scalable monitoring, service monitoring, application monitoring, network protocol monitoring, Nagios features
   breadcrumb:
     - name: Home
       url: /
@@ -24,36 +24,23 @@ content:
   logo: /images/hosting-and-infrastructure/monitoring/nagios/logo.png
   website: https://www.nagios.org/
   iframe_website: /website/hosting-and-infrastructure/monitoring/nagios
-  description: "description"
+  description: "Nagios is a leading open-source monitoring tool designed to monitor every aspect of your mission-critical infrastructure. From applications and services to operating systems and network protocols, Nagios provides real-time tracking of system metrics and network infrastructure. Its extensible architecture supports a wide variety of third-party addons, enabling you to monitor both in-house and external applications, services, and systems.
+
+With a highly scalable design, Nagios can be customized to meet the unique needs of any organization. Its extensive range of features includes check scheduling, alerting, and event handling, which can be expanded through various addons and frontends. Whether you're managing a small network or a large enterprise infrastructure, Nagios ensures that you are always in control of your system's performance and health. By providing valuable insights and immediate alerts, it helps you resolve potential issues before they impact your operations."
   features:
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
-    - title: feature
-      description: "description"
+    - title: Architectural Overview
+      description: "Nagios Core’s architecture is designed with extensibility and scalability in mind. It features APIs that allow seamless integration with addons, making it a versatile tool for businesses of all sizes. The modular design has inspired a wide range of addon projects that expand the core functionalities of Nagios."
+    - title: General Scope
+      description: "Nagios Core focuses on critical tasks like check scheduling, execution, processing, event handling, and alerting. While many advanced tasks, such as performance data processing, are handled by additional Nagios projects, the core ensures robust and reliable monitoring."
+    - title: Frontends
+      description: "Nagios Core includes a default CGI interface for basic monitoring and management. However, many users enhance their experience by deploying additional frontends to improve the interface’s look, feel, and functionality. Nagios V-Shell, a new PHP frontend, is also being developed as the official interface for Nagios Core."
+    - title: Extended Features
+      description: "A wealth of third-party addons is available for Nagios, extending its capabilities beyond the core. These include tools for performance graphing, configuration management, auto-discovery, and distributed monitoring, all of which can be found in the Nagios Exchange."
+    - title: Scalable and Flexible
+      description: "Designed to scale from small businesses to large enterprises, Nagios can handle a vast range of monitoring needs, from basic system health checks to advanced infrastructure monitoring. Its flexible architecture supports easy customization and integration with other tools."
+    - title: Addons and Integrations
+      description: "Nagios’ vast ecosystem of plugins and third-party addons allows you to monitor virtually every system component. Whether it's tracking cloud services, network devices, or external applications, Nagios makes it easy to integrate with a wide range of systems for comprehensive monitoring coverage."
   screenshots:
     - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png
     - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-2.png
 ---
-
-Write seo optimizaed content for "Nagios" write a title, long description, short description, keywords and 6 features(with title and medium description) below is some content for your knowledge.
-
-```yml
-description: Nagios provides monitoring of all mission-critical infrastructure components including applications, services, operating systems, network protocols, systems metrics, and network infrastructure. Hundreds of third-party addons provide for monitoring of virtually all in-house and external applications, services, and systems.
-  features:
-    - title: Architectural Overview
-      description: Nagios Core has been designed with a focused, extensible architecture that is designed for flexibility and scalability. It provides several APIs to allow its feature-set to be easily extended through additional addons. This architecture has proved to be successful and has spawned the creation of thousands of addon projects that extend its core feature set.
-    - title: General Scope
-      description: The scope of Nagios Core is primarily focused the duties of check scheduling, check execution, check processing, event handling, and alerting. Performing checks, sending notifications, processing performance data, and many other tasks are generally out-of-scope for Nagios Core and are handled by other Nagios projects.
-    - title: Frontends
-      description: Nagios Core has historically and still does ship with a default CGI interface. The CGIs provide Nagios users with the basic functionality required to view and manage elements that are monitored by Nagios Core. The CGIs have become the standard Nagios Core interface and are often used as an API by many Nagios extensions. Many users deploy additional frontends to customize the look, feel, and functionality of their Nagios UI. Nagios V-Shell is a new frontend that is currently being developed as the official PHP frontend to Nagios Core.
-    - title: Extended Features
-      description: There is a rich variety of addons that provide additional features that are out-of-scope for Nagios Core itself, including configuration frontends, performance graphing, auto-discovery, and distributed monitoring, among others. These features are implemented in different Nagios projects, which are developed independently and can be found at Nagios Exchange.
-```
