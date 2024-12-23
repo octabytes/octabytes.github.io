@@ -3,8 +3,8 @@ draft: false
 title: "Backend-as-a-Service - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: description
-  keywords: keywords
+  description: Explore OctaByte’s open-source BaaS solutions, where we manage installation, backups, updates, and support for a seamless backend development experience.
+  keywords: open source BaaS, backend as a service, backend development, OctaByte, BaaS software, hassle-free backend, open-source backend solutions, software management, backend infrastructure, backend support, server maintenance
   breadcrumb:
     - name: Home
       url: /
@@ -20,5 +20,5 @@ content:
   title: "'Backend-as-a-Service'"
   catalog: development
   category: backend-as-a-service
-  description: Explore our collection of open source backend-as-a-service (BaaS) software on OctaByte. We manage installation, backup, updates, support, and maintenance, ensuring a hassle-free experience for your backend development needs.
+  description: Discover a wide range of open-source Backend-as-a-Service (BaaS) software on OctaByte, designed to streamline your backend development process. We handle the installation, backups, updates, support, and ongoing maintenance, allowing you to focus on building your application without worrying about infrastructure management. Whether you're looking to scale your application or need a reliable backend service, OctaByte offers hassle-free BaaS solutions to ensure your project's success. Explore our curated collection of open-source tools, backed by expert management and dedicated support.
 ---

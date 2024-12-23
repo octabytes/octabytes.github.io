@@ -3,8 +3,8 @@ draft: false
 title: "Hosting - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Empower your business with fully managed open-source applications. From content management to communication tools and e-commerce platforms, we offer seamless solutions with expert support.
-  keywords: open-source applications, managed services, content management, communication tools, e-commerce platforms, seamless solutions, expert support, timely updates, reliable services, user experience, open-source software, business solutions, productivity, reduce downtime, innovate with open-source
+  description: Effortlessly manage your infrastructure with scalable, secure hosting solutions, whether on the cloud or on-premise.
+  keywords: infrastructure management, scalable hosting, secure hosting, cloud hosting, on-premise hosting, hosting solutions, reliable infrastructure, secure applications, infrastructure support, flexible hosting services, cloud infrastructure, hosting services for businesses
   breadcrumb:
     - name: Home
       url: /
@@ -17,5 +17,5 @@ content:
   id: "hosting-and-infrastructure"
   title: "'Hosting and Infrastructure'"
   catalog: hosting-and-infrastructure
-  description: Take the hassle out of infrastructure management with our hosting and infrastructure services. We offer scalable and secure hosting solutions on any cloud or on-premise, providing a reliable foundation for your applications to thrive.
+  description: Take the hassle out of infrastructure management with our comprehensive hosting and infrastructure services. Whether you need scalable hosting solutions on the cloud or prefer an on-premise setup, we provide secure and reliable infrastructure that ensures your applications perform optimally. Our services are designed to give you peace of mind with 24/7 support, enhanced security measures, and the flexibility to scale resources as your business grows. We tailor each solution to meet your specific requirements, offering the reliability and efficiency you need to focus on what matters most—growing your business.
 ---

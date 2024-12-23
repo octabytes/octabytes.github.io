@@ -3,8 +3,8 @@ draft: false
 title: "Development - Fully managed open-source catalog | OctaByte.io"
 
 meta:
-  description: Empower your business with fully managed open-source applications. From content management to communication tools and e-commerce platforms, we offer seamless solutions with expert support.
-  keywords: open-source applications, managed services, content management, communication tools, e-commerce platforms, seamless solutions, expert support, timely updates, reliable services, user experience, open-source software, business solutions, productivity, reduce downtime, innovate with open-source
+  description: Streamline your development process with our comprehensive tools, libraries, and resources for building and deploying applications, from DevOps to API gateways.
+  keywords: development services, developer tools, DevOps solutions, API gateways, application deployment, development resources, software development, build tools, deployment tools, developer libraries, efficient application building
   breadcrumb:
     - name: Home
       url: /
@@ -17,5 +17,5 @@ content:
   id: "development"
   title: "'Development'"
   catalog: development
-  description: Our development services cater to developers' needs, providing tools, libraries, and resources to streamline the development process. From DevOps to API gateways, we have you covered to build and deploy applications efficiently.
+  description: Our development services are designed to support developers in every stage of the application lifecycle. We offer a wide range of tools, libraries, and resources that streamline the development process, from DevOps solutions to API gateways. Whether you're building, testing, or deploying applications, we provide the essential infrastructure to ensure efficiency and scalability. Our comprehensive approach helps developers reduce time-to-market while enhancing the quality and reliability of their applications.
 ---
