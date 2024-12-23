@@ -4,8 +4,8 @@ title: PhpBB fully managed open source service | OctaByte.io
 
 meta:
   cover: /images/applications/forum-community/phpbb/screenshot-1.jpg
-  description: Photon is an advanced image management and optimization tool, providing fast and efficient image handling capabilities for developers and content creators.
-  keywords: Photon, image management, image optimization, open-source image tool, image delivery, image processing, web optimization, image handling, media management, scalable image solution
+  description: phpBB is a free and secure forum software solution to build and manage online communities effortlessly.
+  keywords: phpBB, open-source forum software, free forum software, online community builder, phpBB features, secure forum software, forum management tool
   breadcrumb:
     - name: Home
       url: /
@@ -21,25 +21,25 @@ meta:
 content:
   id: phpbb
   name: PhpBB
-  title: title
+  title: Free Open-Source Forum Software for Your Community
   logo: /images/applications/forum-community/phpbb/logo.png
   website: https://www.phpbb.com/
   iframe_website: /website/applications/forum-community/phpbb
   direct_link: true
-  description: "Photon is an open-source image optimization and management tool designed for both developers and content creators. It offers a robust set of features for processing, optimizing, and delivering high-quality images at lightning-fast speeds. Photon ensures a streamlined process for handling large-scale image libraries, enhancing performance without compromising on visual quality. Perfect for websites, applications, and digital platforms that require efficient media management, Photon integrates seamlessly into your existing workflows. Whether you're managing a few images or thousands, Photon offers scalability, flexibility, and ease of use."
+  description: "phpBB is a versatile and free open-source forum software that provides a robust platform for building online communities. Designed to suit various purposes, from small groups to large-scale websites, phpBB delivers exceptional features for organizing discussions, managing users, and ensuring top-notch security. With support for multiple database servers and advanced administrative tools, phpBB enables you to create a seamless and engaging forum experience. Whether you're running a personal blog or managing a thriving community, phpBB is the ultimate solution for staying connected."
   features:
-    - title: Image Optimization
-      description: "Photon optimizes images for faster loading times, ensuring a better user experience without sacrificing image quality."
-    - title: Seamless Integration
-      description: "Easily integrate Photon with existing web platforms and applications, providing a smooth and hassle-free experience for developers."
-    - title: Scalability
-      description: "Photon can handle everything from small websites to large digital platforms, offering scalability that grows with your needs."
-    - title: Customizable Settings
-      description: "Fine-tune image settings such as compression, format conversion, and resolution adjustments to meet specific requirements"
-    - title: Advanced Security
-      description: "Photon implements industry-leading security practices to protect image data and prevent unauthorized access."
-    - title: Real-Time Image Processing
-      description: "Process images in real-time as they are uploaded, optimizing and delivering them instantly for a smooth browsing experience."
+    - title: Unmatched Security
+      description: "phpBB leads the industry in security, providing tools to protect your forum from unauthorized access and vulnerabilities. Its frequent updates and robust security measures ensure your community remains safe."
+    - title: Organized Forums
+      description: "Forums serve as the backbone of phpBB, offering a structured way to organize discussions across various topics. Create an intuitive and accessible space for your users to engage and interact."
+    - title: Comprehensive Data Management
+      description: "phpBB supports a wide range of database storage servers, enabling flexibility and reliability in managing your forum’s data. Enjoy seamless compatibility with MySQL, PostgreSQL, SQLite, and more."
+    - title: Advanced Administration Tools
+      description: "phpBB simplifies forum management with extensive permissions, private messaging, and moderator tools. Admins can efficiently customize and maintain the platform to suit their needs."
+    - title: Efficient Search System
+      description: "phpBB’s powerful search system allows users to quickly find relevant discussions, posts, or topics, enhancing the user experience and engagement on your forum."
+    - title: Customizable and Extensible
+      description: "phpBB offers an array of extensions and themes, allowing you to personalize the look and functionality of your forum. Adapt the platform to meet your unique community needs with ease."
   screenshots:
     - /images/applications/forum-community/phpbb/screenshot-1.png
     - /images/applications/forum-community/phpbb/screenshot-2.jpg
