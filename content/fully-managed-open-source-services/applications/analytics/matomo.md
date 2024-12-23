@@ -21,6 +21,7 @@ meta:
 content:
   id: matomo
   name: Matomo
+  title: Open-Source Web Analytics for Accurate, Privacy-Compliant Data Tracking
   logo: /images/applications/analytics/matomo/logo.png
   website: https://matomo.org/
   iframe_website: /website/applications/analytics/matomo

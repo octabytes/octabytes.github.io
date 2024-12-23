@@ -21,6 +21,7 @@ meta:
 content:
   id: zammad
   name: Zammad
+  title: The Ultimate Free Helpdesk and Issue-Tracking System
   logo: /images/applications/customer-support/zammad/logo.png
   website: https://zammad.org/
   iframe_website: /website/applications/customer-support/zammad

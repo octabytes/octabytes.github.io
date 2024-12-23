@@ -21,6 +21,7 @@ meta:
 content:
   id: crater
   name: Crater
+  title: Simplify Invoicing, Payments, and Expense Management
   logo: /images/applications/invoicing-and-payments/crater/logo.png
   website: https://crater.financial/
   iframe_website: /website/applications/invoicing-and-payments/crater

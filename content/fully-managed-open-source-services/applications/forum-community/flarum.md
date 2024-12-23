@@ -21,6 +21,7 @@ meta:
 content:
   id: flarum
   name: Flarum
+  title: The Ultimate Open-Source Discussion Platform for Your Community
   logo: /images/applications/forum-community/flarum/logo.png
   website: https://flarum.org/
   iframe_website: /website/applications/forum-community/flarum

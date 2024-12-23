@@ -21,6 +21,7 @@ meta:
 content:
   id: surrealdb
   name: SurrealDB
+  title: Cloud-Native Database for Modern Applications
   logo: /images/databases/specialized-databases/surrealdb/logo.png
   website: https://surrealdb.com/
   iframe_website: /website/databases/specialized-databases/surrealdb

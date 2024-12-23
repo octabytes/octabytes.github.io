@@ -21,6 +21,7 @@ meta:
 content:
   id: libretranslate
   name: LibreTranslate
+  title: Free & Open Source Self-Hosted Machine Translation API
   logo: /images/development/others/libretranslate/logo.png
   website: https://libretranslate.com/
   iframe_website: /website/development/others/libretranslate

@@ -21,6 +21,7 @@ meta:
 content:
   id: openblocks
   name: OpenBlocks
+  title: A Developer-Friendly Open-Source Low-Code Platform for Building Internal Apps
   logo: /images/development/nocode-lowcode/openblocks/logo.png
   website: https://openblocks.dev/
   iframe_website: /website/development/nocode-lowcode/openblocks

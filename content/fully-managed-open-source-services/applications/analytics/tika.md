@@ -21,6 +21,7 @@ meta:
 content:
   id: tika
   name: Tika
+  title: titleComprehensive Content Analysis Toolkit for File Metadata and Text Extraction
   logo: /images/applications/analytics/tika/logo.png
   website: https://tika.apache.org/
   iframe_website: /website/applications/analytics/tika

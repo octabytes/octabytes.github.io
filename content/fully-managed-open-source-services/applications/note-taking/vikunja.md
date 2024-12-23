@@ -21,6 +21,7 @@ meta:
 content:
   id: vikunja
   name: Vikunja
+  title: "Effortless Task Management with Vikunja: The Open-Source To-Do App"
   logo: /images/applications/note-taking/vikunja/logo.png
   website: https://vikunja.io/
   iframe_website: /website/applications/note-taking/vikunja

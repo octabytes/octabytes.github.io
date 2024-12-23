@@ -21,6 +21,7 @@ meta:
 content:
   id: filestash
   name: Filestash
+  title: A Seamless and Secure File Management Solution for Modern Businesses
   logo: /images/hosting-and-infrastructure/storage/filestash/logo.png
   website: https://www.filestash.app/
   iframe_website: /website/hosting-and-infrastructure/storage/filestash

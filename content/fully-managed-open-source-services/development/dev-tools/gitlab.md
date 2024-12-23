@@ -21,6 +21,7 @@ meta:
 content:
   id: gitlab
   name: Gitlab
+  title: Maximize Your Software Development Efficiency with GitLab - The Ultimate DevOps Platform
   logo: /images/development/dev-tools/gitlab/logo.png
   website: https://about.gitlab.com/
   iframe_website: /website/development/dev-tools/gitlab

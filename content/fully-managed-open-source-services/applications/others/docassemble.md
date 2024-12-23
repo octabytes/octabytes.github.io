@@ -21,6 +21,7 @@ meta:
 content:
   id: docassemble
   name: Docassemble
+  title: A Powerful Open-Source Tool for Guided Interviews and Document Assembly
   logo: /images/applications/others/docassemble/logo.png
   website: https://docassemble.org/
   iframe_website: /website/applications/others/docassemble

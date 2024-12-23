@@ -21,6 +21,7 @@ meta:
 content:
   id: totaljsflow
   name: TotaljsFlow
+  title: The Visual Programming Interface for Low-Code Development
   logo: /images/development/nocode-lowcode/totaljsflow/logo.png
   website: https://www.totaljs.com/flow/
   iframe_website: /website/development/nocode-lowcode/totaljsflow

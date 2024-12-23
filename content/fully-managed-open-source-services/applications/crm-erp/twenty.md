@@ -21,6 +21,7 @@ meta:
 content:
   id: twenty
   name: Twenty
+  title: The Open-Source Salesforce Alternative for Effortless Customer Relationship Management
   logo: /images/applications/crm-erp/twenty/logo.png
   website: https://twenty.com/
   iframe_website: /website/applications/crm-erp/twenty

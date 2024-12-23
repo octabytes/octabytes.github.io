@@ -21,6 +21,7 @@ meta:
 content:
   id: vaultwarden
   name: Vaultwarden
+  title: The Lightweight, Secure, Open-Source Password Manager
   logo: /images/applications/password-manager/vaultwarden/logo.png
   website: https://github.com/dani-garcia/vaultwarden
   iframe_website: /website/applications/password-manager/vaultwarden

@@ -21,6 +21,7 @@ meta:
 content:
   id: memos
   name: Memos
+  title: Your Lightweight and Secure Self-Hosted Memo Hub
   logo: /images/applications/note-taking/memos/logo.png
   website: https://usememos.com/
   iframe_website: /website/applications/note-taking/memos

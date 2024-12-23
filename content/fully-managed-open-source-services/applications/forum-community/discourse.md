@@ -21,6 +21,7 @@ meta:
 content:
   id: discourse
   name: Discourse
+  title: Modern Open-Source Forum Software for Seamless Online Discussions
   logo: /images/applications/forum-community/discourse/logo.png
   website: https://www.discourse.org/plugins/github.html
   iframe_website: /website/applications/forum-community/discourse

@@ -21,6 +21,7 @@ meta:
 content:
   id: openresty
   name: OpenResty
+  title: The Ultimate Platform for Scalable and Dynamic Web Applications
   logo: /images/development/dev-ops/openresty/logo.png
   website: https://openresty.org/
   iframe_website: /website/development/dev-ops/openresty

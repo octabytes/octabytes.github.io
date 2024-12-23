@@ -21,6 +21,7 @@ meta:
 content:
   id: shopware
   name: Shopware
+  title: The Ultimate Open-Source E-commerce Platform for B2C and B2B Success
   logo: /images/applications/e-commerce/shopware/logo.png
   website: https://www.shopware.com/
   iframe_website: /website/applications/e-commerce/shopware

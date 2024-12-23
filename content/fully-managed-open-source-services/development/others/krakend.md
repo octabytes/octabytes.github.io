@@ -21,6 +21,7 @@ meta:
 content:
   id: krakend
   name: KrakenD
+  title: High-Performance API Gateway for Effortless Microservices Adoption
   logo: /images/development/others/krakend/logo.png
   website: https://www.krakend.io/
   iframe_website: /website/development/others/krakend

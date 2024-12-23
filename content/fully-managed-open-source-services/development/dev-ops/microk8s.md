@@ -21,6 +21,7 @@ meta:
 content:
   id: microk8s
   name: Microk8s
+  title: Simplified, Scalable, and Secure Kubernetes for Developers
   logo: /images/development/dev-ops/microk8s/logo.png
   website: https://microk8s.io
   iframe_website: /website/development/dev-ops/microk8s

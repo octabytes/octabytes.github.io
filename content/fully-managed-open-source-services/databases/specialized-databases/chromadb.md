@@ -21,6 +21,7 @@ meta:
 content:
   id: chromadb
   name: Chromadb
+  title: The Open-Source AI Application Database for Seamless Retrieval
   logo: /images/databases/specialized-databases/chromadb/logo.png
   website: www.trychroma.com/
   iframe_website: /website/databases/specialized-databases/chromadb

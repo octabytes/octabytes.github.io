@@ -21,6 +21,7 @@ meta:
 content:
   id: qdrant
   name: Qdrant
+  title: High-Performance Vector Search Engine for Semantic Matching and Recommendations
   logo: /images/development/others/qdrant/logo.png
   website: https://qdrant.tech/#
   iframe_website: /website/development/others/qdrant

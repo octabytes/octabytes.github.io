@@ -21,6 +21,7 @@ meta:
 content:
   id: leantime
   name: Leantime
+  title: A Simple Yet Powerful Project Management Tool for Non-Project Managers
   logo: /images/applications/project-management/leantime/logo.png
   website: https://leantime.io/
   iframe_website: /website/applications/project-management/leantime

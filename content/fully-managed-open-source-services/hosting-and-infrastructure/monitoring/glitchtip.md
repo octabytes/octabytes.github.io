@@ -21,6 +21,7 @@ meta:
 content:
   id: glitchtip
   name: GlitchTip
+  title: "Simplified Error Tracking, Performance Monitoring, and Uptime Monitoring"
   logo: /images/hosting-and-infrastructure/monitoring/glitchtip/logo.png
   website: https://glitchtip.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/glitchtip

@@ -21,6 +21,7 @@ meta:
 content:
   id: erpnext
   name: ErpNext
+  title: Effortlessly Manage Your Business with ERPNext – The Open-Source ERP Solution
   logo: /images/applications/crm-erp/erpnext/logo.png
   website: https://erpnext.com/
   iframe_website: /website/applications/crm-erp/erpnext

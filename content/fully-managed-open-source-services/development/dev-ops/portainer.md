@@ -21,6 +21,7 @@ meta:
 content:
   id: portainer
   name: Portainer
+  title: Effortlessly Manage Containers with Portainer - Your Lightweight UI Solution
   logo: /images/development/dev-ops/portainer/logo.png
   website: https://www.portainer.io/
   iframe_website: /website/development/dev-ops/portainer

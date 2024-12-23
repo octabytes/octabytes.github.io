@@ -21,6 +21,7 @@ meta:
 content:
   id: kanboard
   name: Kanboard
+  title: Powerful Kanban Project Management Software
   logo: /images/applications/project-management/kanboard/logo.png
   website: https://kanboard.org/
   iframe_website: /website/applications/project-management/kanboard

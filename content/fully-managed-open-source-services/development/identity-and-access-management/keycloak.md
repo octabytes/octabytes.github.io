@@ -21,6 +21,7 @@ meta:
 content:
   id: keycloak
   name: Keycloak
+  title: The Ultimate Open-Source Identity and Access Management Solution
   logo: /images/development/identity-and-access-management/keycloak/logo.png
   website: https://www.keycloak.org/
   iframe_website: /website/development/identity-and-access-management/keycloak

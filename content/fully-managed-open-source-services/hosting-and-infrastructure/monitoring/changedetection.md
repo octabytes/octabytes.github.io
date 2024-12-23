@@ -21,6 +21,7 @@ meta:
 content:
   id: changedetection
   name: ChangeDetection
+  title: "The Ultimate Self-Hosted Website Change Detection and Notification Service"
   logo: /images/hosting-and-infrastructure/monitoring/changedetection/logo.png
   website: https://github.com/dgtlmoon/changedetection.io
   iframe_website: /website/hosting-and-infrastructure/monitoring/changedetection

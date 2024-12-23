@@ -21,6 +21,7 @@ meta:
 content:
   id: immudb
   name: ImmuDB
+  title: The Immutable Ledger Database for Secure, High-Performance Data Management
   logo: /images/databases/specialized-databases/immudb/logo.png
   website: https://codenotary.com/technologies/immudb/
   iframe_website: /website/databases/specialized-databases/immudb

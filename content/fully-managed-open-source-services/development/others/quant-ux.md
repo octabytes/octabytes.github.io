@@ -21,6 +21,7 @@ meta:
 content:
   id: quant-ux
   name: Quant-UX
+  title: "Streamline User Experience Design with Quant-UX: Effortless Prototyping & Usability Testing"
   logo: /images/development/others/quant-ux/logo.png
   website: https://quant-ux.com/
   iframe_website: /website/development/others/quant-ux

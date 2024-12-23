@@ -21,6 +21,7 @@ meta:
 content:
   id: ackee
   name: Ackee
+  title: Privacy-Focused Website Analytics with Open-Source, Self-Hosted Solution
   logo: /images/applications/analytics/ackee/logo.png
   website: https://ackee.electerious.com/
   iframe_website: /website/applications/analytics/ackee

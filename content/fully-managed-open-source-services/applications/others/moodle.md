@@ -21,6 +21,7 @@ meta:
 content:
   id: moodle
   name: Moodle
+  title: "Empower Education with Moodle: The World’s Leading Learning Management System"
   logo: /images/applications/others/moodle/logo.png
   website: https://moodle.org/
   iframe_website: /website/applications/others/moodle

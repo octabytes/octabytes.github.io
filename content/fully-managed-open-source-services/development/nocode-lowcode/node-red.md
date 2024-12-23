@@ -21,6 +21,7 @@ meta:
 content:
   id: node-red
   name: Node-red
+  title: Visual Programming for Integrating Hardware Devices, APIs, and Services
   logo: /images/development/nocode-lowcode/node-red/logo.png
   website: https://nodered.org/
   iframe_website: /website/development/nocode-lowcode/node-red

@@ -21,6 +21,7 @@ meta:
 content:
   id: kroki
   name: Kroki
+  title: Unified API for Creating and Rendering Diagrams Quickly and Easily
   logo: /images/development/dev-tools/kroki/logo.png
   website: https://kroki.io/
   iframe_website: /website/development/dev-tools/kroki

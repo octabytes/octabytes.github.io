@@ -21,6 +21,7 @@ meta:
 content:
   id: langflow
   name: Langflow
+  title: The Visual Framework for Multi-Agent and RAG Applications
   logo: /images/development/others/langflow/logo.png
   website: https://www.langflow.org/
   iframe_website: /website/development/others/langflow

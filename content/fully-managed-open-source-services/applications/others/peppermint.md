@@ -21,6 +21,7 @@ meta:
 content:
   id: peppermint
   name: Peppermint
+  title: The Open-Source Helpdesk Solution Redefining Customer Support
   logo: /images/applications/others/peppermint/logo.png
   website: https://peppermint.sh/
   iframe_website: /website/applications/others/peppermint

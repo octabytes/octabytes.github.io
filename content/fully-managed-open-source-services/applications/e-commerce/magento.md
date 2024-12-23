@@ -21,6 +21,7 @@ meta:
 content:
   id: magento
   name: Magento
+  title: Powerful Open-Source E-Commerce Platform for Seamless Online Stores
   logo: /images/applications/e-commerce/magento/logo.png
   website: https://magento.com/
   iframe_website: /website/applications/e-commerce/magento

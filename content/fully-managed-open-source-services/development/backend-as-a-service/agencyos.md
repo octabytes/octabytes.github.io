@@ -21,6 +21,7 @@ meta:
 content:
   id: agencyos
   name: AgencyOS
+  title: "Boost Your Agency’s Efficiency with AgencyOS: The Ultimate Solution for Modern Agencies"
   logo: /images/development/backend-as-a-service/agencyos/logo.png
   website: https://www.agencyos.dev/
   iframe_website: /website/development/backend-as-a-service/agencyos

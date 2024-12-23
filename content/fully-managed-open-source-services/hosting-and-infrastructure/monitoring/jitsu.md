@@ -21,6 +21,7 @@ meta:
 content:
   id: jitsu
   name: Jitsu
+  title: "Open-Source Real-Time Data Ingestion Engine for Modern Data Teams"
   logo: /images/hosting-and-infrastructure/monitoring/jitsu/logo.png
   website: https://jitsu.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/jitsu

@@ -21,6 +21,7 @@ meta:
 content:
   id: nomad
   name: Nomad
+  title: "Flexible and Performant Workload Orchestration for Any Application"
   logo: /images/hosting-and-infrastructure/containers/nomad/logo.png
   website: https://www.nomadproject.io/
   iframe_website: /website/hosting-and-infrastructure/containers/nomad

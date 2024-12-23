@@ -21,6 +21,7 @@ meta:
 content:
   id: uptime-kuma
   name: Uptime-kuma
+  title: "Powerful Self-Hosted Uptime Monitoring & Alerting System"
   logo: /images/hosting-and-infrastructure/monitoring/uptime-kuma/logo.png
   website: https://uptime.kuma.pet/
   iframe_website: /website/hosting-and-infrastructure/monitoring/uptime-kuma

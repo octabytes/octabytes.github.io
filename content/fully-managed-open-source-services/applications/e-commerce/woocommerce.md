@@ -21,6 +21,7 @@ meta:
 content:
   id: woocommerce
   name: WooCommerce
+  title: The Ultimate Open-Source eCommerce Solution
   logo: /images/applications/e-commerce/woocommerce/logo.png
   website: https://woocommerce.com/
   iframe_website: /website/applications/e-commerce/woocommerce

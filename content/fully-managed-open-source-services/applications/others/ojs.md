@@ -21,6 +21,7 @@ meta:
 content:
   id: ojs
   name: OJS
+  title: Open Journal Systems (OJS) - Empowering Scholarly Publishing Worldwide
   logo: /images/applications/others/ojs/logo.png
   website: https://pkp.sfu.ca/software/ojs/
   iframe_website: /website/applications/others/ojs

@@ -21,6 +21,7 @@ meta:
 content:
   id: pleroma
   name: Pleroma
+  title: Decentralized Microblogging Software for Privacy and Freedom
   logo: /images/applications/fediverse/pleroma/logo.png
   website: https://pleroma.social/
   iframe_website: /website/applications/fediverse/pleroma

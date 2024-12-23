@@ -21,6 +21,7 @@ meta:
 content:
   id: mautic
   name: Mautic
+  title: Empower Your Marketing with Open-Source Automation
   logo: /images/applications/email-marketing/mautic/logo.png
   website: https://www.mautic.org/
   iframe_website: /website/applications/email-marketing/mautic

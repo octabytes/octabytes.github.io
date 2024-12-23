@@ -21,6 +21,7 @@ meta:
 content:
   id: btcpay
   name: BTCPay
+  title: The Ultimate Open-Source Cryptocurrency Payment Processor
   logo: /images/applications/invoicing-and-payments/btcpay/logo.png
   website: https://btcpayserver.org/
   iframe_website: /website/applications/invoicing-and-payments/btcpay

@@ -21,6 +21,7 @@ meta:
 content:
   id: ollama
   name: Ollama
+  title: ChatGPT-Style Open Web UI Client for LLMs
   logo: /images/applications/search/ollama/logo.png
   website: https://openwebui.com/
   iframe_website: /website/applications/search/ollama

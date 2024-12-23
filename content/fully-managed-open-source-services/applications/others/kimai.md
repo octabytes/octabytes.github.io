@@ -21,6 +21,7 @@ meta:
 content:
   id: kimai
   name: Kimai
+  title: "Track Time Efficiently with Kimai: The Ultimate Multi-User Time-Tracking Solution"
   logo: /images/applications/others/kimai/logo.png
   website: https://www.kimai.org/
   iframe_website: /website/applications/others/kimai

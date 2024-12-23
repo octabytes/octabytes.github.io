@@ -21,6 +21,7 @@ meta:
 content:
   id: clickhouses3
   name: ClickHouseS3
+  title: High-Performance Real-Time Analytics with Seamless Scalability
   logo: /images/databases/relational-databases/clickhouses3/logo.png
   website: https://clickhouse.com/
   iframe_website: /website/databases/relational-databases/clickhouses3

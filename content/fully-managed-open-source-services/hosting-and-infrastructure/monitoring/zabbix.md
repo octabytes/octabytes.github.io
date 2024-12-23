@@ -21,6 +21,7 @@ meta:
 content:
   id: zabbix
   name: Zabbix
+  title: "Comprehensive Network Monitoring and IT Infrastructure Management"
   logo: /images/hosting-and-infrastructure/monitoring/zabbix/logo.png
   website: https://www.zabbix.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/zabbix

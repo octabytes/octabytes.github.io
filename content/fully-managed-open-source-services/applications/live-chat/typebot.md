@@ -21,6 +21,7 @@ meta:
 content:
   id: typebot
   name: Typebot
+  title: Create Powerful, Interactive Chat Experiences with Ease
   logo: /images/applications/live-chat/typebot/logo.png
   website: https://www.typebot.io/
   iframe_website: /website/applications/live-chat/typebot

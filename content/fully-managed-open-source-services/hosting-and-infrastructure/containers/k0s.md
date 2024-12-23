@@ -21,6 +21,7 @@ meta:
 content:
   id: k0s
   name: k0s
+  title: "The Simplified, Certified Kubernetes Distribution for Seamless Scalability and Flexibility"
   logo: /images/hosting-and-infrastructure/containers/k0s/logo.png
   website: https://k0sproject.io/
   iframe_website: /website/hosting-and-infrastructure/containers/k0s

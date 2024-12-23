@@ -21,6 +21,7 @@ meta:
 content:
   id: saleor
   name: Saleor
+  title: High-Performance, Headless E-Commerce Platform for Modern Businesses
   logo: /images/applications/others/saleor/logo.png
   website: https://saleor.io/open-source
   iframe_website: /website/applications/others/saleor

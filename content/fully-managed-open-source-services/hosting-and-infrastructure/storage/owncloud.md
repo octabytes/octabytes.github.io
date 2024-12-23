@@ -21,6 +21,7 @@ meta:
 content:
   id: owncloud
   name: ownCloud
+  title: Unlock Seamless File Hosting and Collaboration with ownCloud
   logo: /images/hosting-and-infrastructure/storage/owncloud/logo.png
   website: https://owncloud.com/
   iframe_website: /website/hosting-and-infrastructure/storage/owncloud

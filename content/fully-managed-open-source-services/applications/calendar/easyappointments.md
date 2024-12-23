@@ -21,6 +21,7 @@ meta:
 content:
   id: easyappointments
   name: EasyAppointments
+  title: Effortless Appointment Booking and Management Software
   logo: /images/applications/calendar/easyappointments/logo.png
   website: https://easyappointments.org/
   iframe_website: /website/applications/calendar/easyappointments

@@ -21,6 +21,7 @@ meta:
 content:
   id: huly
   name: Huly
+  title: "Streamline Your Workflow with Huly: The All-in-One Project Management Platform"
   logo: /images/applications/note-taking/huly/logo.png
   website: https://huly.io/
   iframe_website: /website/applications/note-taking/huly

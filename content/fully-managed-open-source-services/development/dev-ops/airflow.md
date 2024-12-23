@@ -21,6 +21,7 @@ meta:
 content:
   id: airflow
   name: Airflow
+  title: Effortlessly Orchestrate Workflows with Apache Airflow
   logo: /images/development/dev-ops/airflow/logo.png
   website: https://airflow.apache.org/
   iframe_website: /website/development/dev-ops/airflow

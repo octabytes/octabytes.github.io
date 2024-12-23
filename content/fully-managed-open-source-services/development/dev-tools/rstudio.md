@@ -21,6 +21,7 @@ meta:
 content:
   id: rstudio
   name: Rstudio
+  title: The Ultimate IDE for R Programming and Data Science
   logo: /images/development/dev-tools/rstudio/logo.png
   website: https://www.rstudio.com/
   iframe_website: /website/development/dev-tools/rstudio

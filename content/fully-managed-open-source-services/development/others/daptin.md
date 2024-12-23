@@ -21,6 +21,7 @@ meta:
 content:
   id: daptin
   name: Daptin
+  title: Open-Source Backend Framework for Production-Ready JSONAPI Microservices
   logo: /images/development/others/daptin/logo.png
   website: https://daptin.github.io/daptin/
   iframe_website: /website/development/others/daptin

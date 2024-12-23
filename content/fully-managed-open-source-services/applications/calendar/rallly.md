@@ -21,6 +21,7 @@ meta:
 content:
   id: rallly
   name: Rallly
+  title: "Streamline Event Scheduling with Rallly: The Best Doodle Alternative"
   logo: /images/applications/calendar/rallly/logo.png
   website: https://rallly.co/
   iframe_website: /website/applications/calendar/rallly

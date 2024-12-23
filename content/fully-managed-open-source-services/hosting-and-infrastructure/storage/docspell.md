@@ -21,6 +21,7 @@ meta:
 content:
   id: docspell
   name: Docspell
+  title: "Efficient Document Management with Docspell: Organize, Search, and Automate Your Digital Files"
   logo: /images/hosting-and-infrastructure/storage/docspell/logo.png
   website: https://docspell.org/
   iframe_website: /website/hosting-and-infrastructure/storage/docspell

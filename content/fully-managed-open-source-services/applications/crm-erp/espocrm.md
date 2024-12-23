@@ -21,6 +21,7 @@ meta:
 content:
   id: espocrm
   name: EspoCRM
+  title: Streamline Your Business Relationships with Ease
   logo: /images/applications/crm-erp/espocrm/logo.png
   website: https://www.espocrm.com/
   iframe_website: /website/applications/crm-erp/espocrm

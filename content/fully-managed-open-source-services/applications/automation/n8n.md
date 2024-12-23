@@ -21,6 +21,7 @@ meta:
 content:
   id: n8n
   name: N8N
+  title: Automate Your Workflows with N8N - No Code, Fully Customizable Automation
   logo: /images/applications/automation/n8n/logo.png
   website: https://n8n.io/
   iframe_website: /website/applications/automation/n8n

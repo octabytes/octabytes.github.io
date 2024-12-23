@@ -21,6 +21,7 @@ meta:
 content:
   id: dashy
   name: Dashy
+  title: The Ultimate Self-Hostable Personal Dashboard for Monitoring and Customization
   logo: /images/applications/others/dashy/logo.png
   website: https://dashy.to/
   iframe_website: /website/applications/others/dashy

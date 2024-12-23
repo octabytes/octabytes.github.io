@@ -21,6 +21,7 @@ meta:
 content:
   id: yopass
   name: Yopass
+  title: Secure and Transparent End-to-End Encryption for File Sharing
   logo: /images/applications/password-manager/yopass/logo.png
   website: https://yopass.se/
   iframe_website: /website/applications/password-manager/yopass

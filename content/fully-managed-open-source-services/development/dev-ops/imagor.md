@@ -21,6 +21,7 @@ meta:
 content:
   id: imagor
   name: Imagor
+  title: High-Performance Go-Based Image Processing for Web Applications
   logo: /images/development/dev-ops/imagor/logo.png
   website: https://github.com/cshum/imagor
   iframe_website: /website/development/dev-ops/imagor

@@ -21,6 +21,7 @@ meta:
 content:
   id: searxng
   name: SearXNG
+  title: Privacy-Focused Metasearch Engine for Secure and Anonymous Web Searches
   logo: /images/applications/search/searxng/logo.png
   website: https://docs.searxng.org/index.html#
   iframe_website: /website/applications/search/searxng

@@ -21,6 +21,7 @@ meta:
 content:
   id: rocket.chat
   name: Rocket.Chat
+  title: The Secure and Customizable Communication Platform
   logo: /images/applications/live-chat/rocket.chat/logo.png
   website: https://rocket.chat/
   iframe_website: /website/applications/live-chat/rocket.chat

@@ -21,6 +21,7 @@ meta:
 content:
   id: immich
   name: Immich
+  title: The Self-Hosted Google Photos Alternative with AI-Powered Photo Management
   logo: /images/hosting-and-infrastructure/storage/immich/logo.png
   website: https://immich.app/
   iframe_website: /website/hosting-and-infrastructure/storage/immich

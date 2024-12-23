@@ -21,6 +21,7 @@ meta:
 content:
   id: rabbitmq
   name: RabbitMQ
+  title: "Scalable and Robust Messaging for Distributed Systems"
   logo: /images/hosting-and-infrastructure/infrastructure/rabbitmq/logo.png
   website: https://www.rabbitmq.com/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/rabbitmq

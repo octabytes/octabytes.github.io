@@ -21,6 +21,7 @@ meta:
 content:
   id: nagios
   name: Nagios
+  title: "Comprehensive Monitoring for Your Critical Infrastructure"
   logo: /images/hosting-and-infrastructure/monitoring/nagios/logo.png
   website: https://www.nagios.org/
   iframe_website: /website/hosting-and-infrastructure/monitoring/nagios

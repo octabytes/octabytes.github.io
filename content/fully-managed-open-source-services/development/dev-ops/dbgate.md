@@ -21,6 +21,7 @@ meta:
 content:
   id: dbgate
   name: DbGate
+  title: A Comprehensive Database Management Tool for SQL and NoSQL Databases
   logo: /images/development/dev-ops/dbgate/logo.png
   website: https://dbgate.org/
   iframe_website: /website/development/dev-ops/dbgate

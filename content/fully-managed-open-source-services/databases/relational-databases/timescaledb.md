@@ -21,6 +21,7 @@ meta:
 content:
   id: timescaledb
   name: TimescaleDB
+  title: The Scalable SQL Solution for Time-Series Data
   logo: /images/databases/relational-databases/timescaledb/logo.png
   website: https://www.timescale.com/
   iframe_website: /website/databases/relational-databases/timescaledb

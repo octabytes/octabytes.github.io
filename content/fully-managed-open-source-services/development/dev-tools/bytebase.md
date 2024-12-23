@@ -21,6 +21,7 @@ meta:
 content:
   id: bytebase
   name: Bytebase
+  title: Streamline Your Database Workflow with Bytebase - The Open-Source CI/CD Tool for Modern Databases
   logo: /images/development/dev-tools/bytebase/logo.png
   website: https://www.bytebase.com/
   iframe_website: /website/development/dev-tools/bytebase

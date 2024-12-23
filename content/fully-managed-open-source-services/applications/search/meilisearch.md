@@ -21,6 +21,7 @@ meta:
 content:
   id: meilisearch
   name: Meilisearch
+  title: The Fast and Relevant Open-Source Search Engine for Developers
   logo: /images/applications/search/meilisearch/logo.png
   website: https://www.meilisearch.com/
   iframe_website: /website/applications/search/meilisearch

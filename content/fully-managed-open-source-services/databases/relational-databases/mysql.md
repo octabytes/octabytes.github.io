@@ -21,6 +21,7 @@ meta:
 content:
   id: mysql
   name: MySQL
+  title: The Reliable and Scalable Open-Source RDBMS
   logo: /images/databases/relational-databases/mysql/logo.png
   website: https://www.mysql.com/
   iframe_website: /website/databases/relational-databases/mysql

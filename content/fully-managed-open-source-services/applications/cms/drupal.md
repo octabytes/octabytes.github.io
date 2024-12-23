@@ -21,6 +21,7 @@ meta:
 content:
   id: drupal
   name: Drupal
+  title: The Ultimate Content Management System for Flexibility, Customization, and Scalability
   logo: /images/applications/cms/drupal/logo.png
   website: https://www.drupal.org/project/drupal
   iframe_website: /website/applications/cms/drupal

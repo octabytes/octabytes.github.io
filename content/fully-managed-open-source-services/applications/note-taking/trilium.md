@@ -21,6 +21,7 @@ meta:
 content:
   id: trilium
   name: Trilium
+  title: The Ultimate Open-Source Hierarchical Note-Taking Application
   logo: /images/applications/note-taking/trilium/logo.png
   website: https://github.com/zadam/trilium
   iframe_website: /website/applications/note-taking/trilium

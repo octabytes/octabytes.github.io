@@ -21,6 +21,7 @@ meta:
 content:
   id: healthchecks
   name: Healthchecks
+  title: "Ultimate Cron Job Monitoring Service for Reliability and Control"
   logo: /images/hosting-and-infrastructure/monitoring/healthchecks/logo.png
   website: https://healthchecks.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/healthchecks

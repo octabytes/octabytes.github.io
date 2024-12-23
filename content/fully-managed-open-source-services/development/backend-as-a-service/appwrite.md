@@ -21,6 +21,7 @@ meta:
 content:
   id: appwrite
   name: Appwrite
+  title: The Ultimate Self-Hosted Backend Solution for Developers
   logo: /images/development/backend-as-a-service/appwrite/logo.png
   website: https://appwrite.io/
   iframe_website: /website/development/backend-as-a-service/appwrite

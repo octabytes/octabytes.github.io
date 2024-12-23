@@ -21,6 +21,7 @@ meta:
 content:
   id: freescout
   name: FreeScout
+  title: Powerful, Lightweight, and Free Open Source Help Desk Solution
   logo: /images/applications/customer-support/freescout/logo.png
   website: https://freescout.net/
   iframe_website: /website/applications/customer-support/freescout

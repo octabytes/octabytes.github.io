@@ -21,6 +21,7 @@ meta:
 content:
   id: affine
   name: Affine
+  title: The Ultimate Open-Source, Privacy-First Alternative to Monday, Notion, and Miro
   logo: /images/applications/note-taking/affine/logo.png
   website: https://affine.pro/
   iframe_website: /website/applications/note-taking/affine

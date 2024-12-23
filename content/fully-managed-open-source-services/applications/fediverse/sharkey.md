@@ -21,6 +21,7 @@ meta:
 content:
   id: sharkey
   name: Sharkey
+  title: A Feature-Packed Misskey Fork for the Fediverse
   logo: /images/applications/fediverse/sharkey/logo.png
   website: https://docs.joinsharkey.org/docs/getting-started/overview/
   iframe_website: /website/applications/fediverse/sharkey

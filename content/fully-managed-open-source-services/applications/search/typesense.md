@@ -21,6 +21,7 @@ meta:
 content:
   id: typesense
   name: Typesense
+  title: The Fast, Privacy-Friendly Open-Source Search Engine
   logo: /images/applications/search/typesense/logo.png
   website: https://typesense.org/
   iframe_website: /website/applications/search/typesense

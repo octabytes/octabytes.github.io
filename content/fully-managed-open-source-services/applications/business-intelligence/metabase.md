@@ -21,6 +21,7 @@ meta:
 content:
   id: metabase
   name: Metabase
+  title: "Unlock Powerful Data Insights with Metabase: The Easy Business Intelligence Tool"
   logo: /images/applications/business-intelligence/metabase/logo.png
   website: https://www.metabase.com/
   iframe_website: /website/applications/business-intelligence/metabase

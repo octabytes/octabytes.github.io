@@ -21,6 +21,7 @@ meta:
 content:
   id: wordpress-multisites
   name: Wordpress-Multisites
+  title: "Unlock the Power of WordPress Multisite: Manage Multiple Websites Effortlessly"
   logo: /images/applications/cms/wordpress-multisites/logo.png
   website: https://wordpress.org
   iframe_website: /website/applications/cms/wordpress-multisites

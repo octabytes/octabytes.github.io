@@ -21,6 +21,7 @@ meta:
 content:
   id: weaviate
   name: Weaviate
+  title: Open-Source Vector Database for ML Models and Scalable Data Storage
   logo: /images/databases/specialized-databases/weaviate/logo.png
   website: https://weaviate.io/
   iframe_website: /website/databases/specialized-databases/weaviate

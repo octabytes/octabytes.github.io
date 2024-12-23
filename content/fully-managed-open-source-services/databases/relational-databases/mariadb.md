@@ -21,6 +21,7 @@ meta:
 content:
   id: mariadb
   name: MariaDB
+  title: The Open-Source Relational Database for Modern Applications
   logo: /images/databases/relational-databases/mariadb/logo.png
   website: https://mariadb.org/
   iframe_website: /website/databases/relational-databases/mariadb

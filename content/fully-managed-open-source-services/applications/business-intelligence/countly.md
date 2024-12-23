@@ -21,6 +21,7 @@ meta:
 content:
   id: countly
   name: Countly
+  title: Product Analytics Platform for Mobile, Web, and Desktop Applications
   logo: /images/applications/business-intelligence/countly/logo.png
   website: https://countly.com/
   iframe_website: /website/applications/business-intelligence/countly

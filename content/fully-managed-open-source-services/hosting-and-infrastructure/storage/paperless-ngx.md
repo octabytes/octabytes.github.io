@@ -21,6 +21,7 @@ meta:
 content:
   id: paperless-ngx
   name: Paperless-ngx
+  title: "The Ultimate Document Management System for a Paperless Office"
   logo: /images/hosting-and-infrastructure/storage/paperless-ngx/logo.png
   website: https://paperless-ngx.readthedocs.io/en/latest/
   iframe_website: /website/hosting-and-infrastructure/storage/paperless-ngx

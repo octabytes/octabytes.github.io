@@ -21,6 +21,7 @@ meta:
 content:
   id: umami
   name: Umami
+  title: Simple, Self-Hosted Web Analytics Solution
   logo: /images/applications/analytics/umami/logo.png
   website: https://umami.is/
   iframe_website: /website/applications/analytics/umami

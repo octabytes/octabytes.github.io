@@ -21,6 +21,7 @@ meta:
 content:
   id: openresty
   name: OpenResty
+  title: "Powerful Web Platform for Scalable Web Applications and Services"
   logo: /images/hosting-and-infrastructure/infrastructure/openresty/logo.png
   website: https://openresty.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/openresty

@@ -21,6 +21,7 @@ meta:
 content:
   id: tolgee
   name: Tolgee
+  title: The Ultimate Localization Platform for Effortless Translation Management
   logo: /images/applications/others/tolgee/logo.png
   website: https://tolgee.io/
   iframe_website: /website/applications/others/tolgee

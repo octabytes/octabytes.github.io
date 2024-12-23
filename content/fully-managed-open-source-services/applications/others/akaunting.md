@@ -21,6 +21,7 @@ meta:
 content:
   id: akaunting
   name: Akaunting
+  title: Open-Source Accounting Software for Small Businesses
   logo: /images/applications/others/akaunting/logo.png
   website: https://akaunting.com/open-source-accounting-software
   iframe_website: /website/applications/others/akaunting

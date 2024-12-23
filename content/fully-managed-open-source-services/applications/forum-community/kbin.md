@@ -21,6 +21,7 @@ meta:
 content:
   id: kbin
   name: KBIN
+  title: A Decentralized Content Aggregator and Microblogging Platform
   logo: /images/applications/forum-community/kbin/logo.png
   website: https://kbin.pub
   iframe_website: /website/applications/forum-community/kbin

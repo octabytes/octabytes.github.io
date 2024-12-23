@@ -21,6 +21,7 @@ meta:
 content:
   id: supabase
   name: Supabase
+  title: The Open-Source Backend-as-a-Service for Your Modern Applications
   logo: /images/development/backend-as-a-service/supabase/logo.png
   website: https://supabase.com/
   iframe_website: /website/development/backend-as-a-service/supabase

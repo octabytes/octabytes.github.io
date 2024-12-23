@@ -21,6 +21,7 @@ meta:
 content:
   id: hasura
   name: Hasura
+  title: Instant, Real-time GraphQL API for Your Databases and Services
   logo: /images/development/nocode-lowcode/hasura/logo.png
   website: https://hasura.io/
   iframe_website: /website/development/nocode-lowcode/hasura

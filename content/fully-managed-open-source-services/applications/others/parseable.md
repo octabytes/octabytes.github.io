@@ -21,6 +21,7 @@ meta:
 content:
   id: parseable
   name: Parseable
+  title: A Cloud-Native, High-Performance Log Analytics Platform
   logo: /images/applications/others/parseable/logo.png
   website: https://www.parseable.com/
   iframe_website: /website/applications/others/parseable

@@ -21,6 +21,7 @@ meta:
 content:
   id: scylladb
   name: ScyllaDB
+  title: High-Performance NoSQL Database for Big Data
   logo: /images/databases/nosql/scylladb/logo.png
   website: https://www.scylladb.com/
   iframe_website: /website/databases/nosql/scylladb

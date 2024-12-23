@@ -21,6 +21,7 @@ meta:
 content:
   id: ragflow
   name: Ragflow
+  title: "Unlock the Power of RAGFlow: The Open-Source Retrieval-Augmented Generation Engine"
   logo: /images/applications/others/ragflow/logo.png
   website: https://ragflow.io/
   iframe_website: /website/applications/others/ragflow

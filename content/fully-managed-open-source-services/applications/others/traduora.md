@@ -21,6 +21,7 @@ meta:
 content:
   id: traduora
   name: Traduora
+  title: A Modern Translation Management System for Enterprises
   logo: /images/applications/others/traduora/logo.png
   website: https://traduora.co/
   iframe_website: /website/applications/others/traduora

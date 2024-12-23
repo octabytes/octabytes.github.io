@@ -21,6 +21,7 @@ meta:
 content:
   id: apitable
   name: APITable
+  title: A Powerful API-Oriented Low-Code Platform for Building Collaborative Apps
   logo: /images/development/nocode-lowcode/apitable/logo.png
   website: https://apitable.com/
   iframe_website: /website/development/nocode-lowcode/apitable

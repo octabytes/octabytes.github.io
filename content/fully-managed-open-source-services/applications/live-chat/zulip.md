@@ -21,6 +21,7 @@ meta:
 content:
   id: zulip
   name: Zulip
+  title: The Ultimate Open-Source Team Collaboration Tool with Topic-Based Threading
   logo: /images/applications/live-chat/zulip/logo.png
   website: https://zulip.com/
   iframe_website: /website/applications/live-chat/zulip

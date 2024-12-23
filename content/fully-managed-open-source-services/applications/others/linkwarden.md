@@ -21,6 +21,7 @@ meta:
 content:
   id: linkwarden
   name: Linkwarden
+  title: Collaborative Bookmark Manager for Teams and Individuals
   logo: /images/applications/others/linkwarden/logo.png
   website: https://linkwarden.app/
   iframe_website: /website/applications/others/linkwarden

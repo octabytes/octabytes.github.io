@@ -21,6 +21,7 @@ meta:
 content:
   id: photon
   name: Photon
+  title: A Powerful Open-Source Solution for Efficient Image Management
   logo: /images/applications/forum-community/photon/logo.png
   website: https://phtn.app/
   iframe_website: /website/applications/forum-community/photon

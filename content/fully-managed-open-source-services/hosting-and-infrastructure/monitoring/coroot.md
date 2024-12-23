@@ -21,6 +21,7 @@ meta:
 content:
   id: coroot
   name: Coroot
+  title: "Comprehensive Observability with Zero-Instrumentation for Real-Time Insights"
   logo: /images/hosting-and-infrastructure/monitoring/coroot/logo.png
   website: https://coroot.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/coroot

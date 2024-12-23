@@ -21,6 +21,7 @@ meta:
 content:
   id: lightdash
   name: Lightdash
+  title: Simplify Data Analytics and Build a Single Source of Truth
   logo: /images/applications/business-intelligence/lightdash/logo.png
   website: https://www.lightdash.com/
   iframe_website: /website/applications/business-intelligence/lightdash

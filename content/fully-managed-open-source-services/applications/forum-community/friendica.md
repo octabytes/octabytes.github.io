@@ -21,6 +21,7 @@ meta:
 content:
   id: friendica
   name: Friendica
+  title: A Decentralized Social Network for Building Your Own Fediverse
   logo: /images/applications/forum-community/friendica/logo.png
   website: https://friendi.ca/
   iframe_website: /website/applications/forum-community/friendica

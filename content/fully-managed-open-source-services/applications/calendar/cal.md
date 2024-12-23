@@ -21,6 +21,7 @@ meta:
 content:
   id: cal
   name: Cal
+  title: The Ultimate Scheduling Solution for Effortless Meetings
   logo: /images/applications/calendar/cal/logo.png
   website: https://cal.com/
   iframe_website: /website/applications/calendar/cal

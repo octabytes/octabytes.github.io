@@ -21,6 +21,7 @@ meta:
 content:
   id: flagsmith
   name: Flagsmith
+  title: Simplify Feature Flag Management for Seamless App Deployment and Testing
   logo: /images/development/dev-tools/flagsmith/logo.png
   website: https://www.flagsmith.com/
   iframe_website: /website/development/dev-tools/flagsmith

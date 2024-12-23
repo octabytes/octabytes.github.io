@@ -21,6 +21,7 @@ meta:
 content:
   id: azuracast
   name: AzuraCast
+  title: Self-Hosted Web Radio Management Solution for Seamless Broadcasting
   logo: /images/applications/forum-community/azuracast/logo.png
   website: https://www.azuracast.com/
   iframe_website: /website/applications/forum-community/azuracast

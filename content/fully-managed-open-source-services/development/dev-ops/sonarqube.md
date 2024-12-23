@@ -21,6 +21,7 @@ meta:
 content:
   id: sonarqube
   name: SonarQube
+  title: "Elevate Your Code Quality with SonarQube: Continuous Inspection Made Easy"
   logo: /images/development/dev-ops/sonarqube/logo.png
   website: https://www.sonarqube.org/
   iframe_website: /website/development/dev-ops/sonarqube

@@ -21,6 +21,7 @@ meta:
 content:
   id: nocobase
   name: NocoBase
+  title: A Scalable Open-Source No-Code Platform for Building Custom Collaboration Systems
   logo: /images/development/nocode-lowcode/nocobase/logo.png
   website: https://www.nocobase.com/
   iframe_website: /website/development/nocode-lowcode/nocobase

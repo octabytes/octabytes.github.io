@@ -21,6 +21,7 @@ meta:
 content:
   id: prometheus
   name: Prometheus
+  title: "A Powerful Open-Source Monitoring and Alerting Toolkit for Cloud-Native Environments"
   logo: /images/hosting-and-infrastructure/monitoring/prometheus/logo.png
   website: https://prometheus.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/prometheus

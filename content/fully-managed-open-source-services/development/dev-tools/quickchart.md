@@ -21,6 +21,7 @@ meta:
 content:
   id: quickchart
   name: QuickChart
+  title: Effortless API for Generating Chart Images, PDFs, and QR Codes
   logo: /images/development/dev-tools/quickchart/logo.png
   website: https://quickchart.io/
   iframe_website: /website/development/dev-tools/quickchart

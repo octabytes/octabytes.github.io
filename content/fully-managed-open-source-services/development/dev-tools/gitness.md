@@ -21,6 +21,7 @@ meta:
 content:
   id: gitness
   name: Gitness
+  title: The Open Source Developer Platform for CI/CD, Source Control, and Automation
   logo: /images/development/dev-tools/gitness/logo.png
   website: https://gitness.com/
   iframe_website: /website/development/dev-tools/gitness

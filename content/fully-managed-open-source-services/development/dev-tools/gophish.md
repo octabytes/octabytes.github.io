@@ -21,6 +21,7 @@ meta:
 content:
   id: gophish
   name: Gophish
+  title: The Ultimate Open-Source Phishing Framework for Security Testing
   logo: /images/development/dev-tools/gophish/logo.png
   website: https://getgophish.com/
   iframe_website: /website/development/dev-tools/gophish

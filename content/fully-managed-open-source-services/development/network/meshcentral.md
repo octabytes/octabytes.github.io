@@ -21,6 +21,7 @@ meta:
 content:
   id: meshcentral
   name: MeshCentral
+  title: Comprehensive Remote Management for Computers Across the World
   logo: /images/development/network/meshcentral/logo.png
   website: https://www.meshcommander.com/meshcentral2
   iframe_website: /website/development/network/meshcentral

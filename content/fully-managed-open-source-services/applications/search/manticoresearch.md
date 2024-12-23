@@ -21,6 +21,7 @@ meta:
 content:
   id: manticoresearch
   name: ManticoreSearch
+  title: The Open-Source Full-Text Search Engine for High-Performance Data Management
   logo: /images/applications/search/manticoresearch/logo.png
   website: https://manticoresearch.com/
   iframe_website: /website/applications/search/manticoresearch

@@ -21,6 +21,7 @@ meta:
 content:
   id: hyperswitch
   name: Hyperswitch
+  title: Revolutionizing Payment Processing with Speed, Reliability, and Affordability
   logo: /images/applications/invoicing-and-payments/hyperswitch/logo.png
   website: https://hyperswitch.io/
   iframe_website: /website/applications/invoicing-and-payments/hyperswitch

@@ -21,6 +21,7 @@ meta:
 content:
   id: baserow
   name: Baserow
+  title: The No-Code Online Database Platform for Seamless Project Management
   logo: /images/development/nocode-lowcode/baserow/logo.png
   website: https://baserow.io/
   iframe_website: /website/development/nocode-lowcode/baserow

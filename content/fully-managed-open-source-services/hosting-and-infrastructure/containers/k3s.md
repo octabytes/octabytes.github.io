@@ -21,6 +21,7 @@ meta:
 content:
   id: k3s
   name: K3S
+  title: "Lightweight Kubernetes for Edge, IoT, and ARM Environments"
   logo: /images/hosting-and-infrastructure/containers/k3s/logo.png
   website: https://k3s.io/
   iframe_website: /website/hosting-and-infrastructure/containers/k3s

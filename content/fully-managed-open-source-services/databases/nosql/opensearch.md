@@ -21,6 +21,7 @@ meta:
 content:
   id: opensearch
   name: OpenSearch
+  title: Powerful, Open-Source Search & Analytics Solution
   logo: /images/databases/nosql/opensearch/logo.png
   website: https://opensearch.org/
   iframe_website: /website/databases/nosql/opensearch

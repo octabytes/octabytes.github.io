@@ -21,6 +21,7 @@ meta:
 content:
   id: nexus3
   name: Nexus3
+  title: "The World’s Leading Repository Manager for Seamless Software Development"
   logo: /images/hosting-and-infrastructure/containers/nexus3/logo.png
   website: https://www.sonatype.com/products/repository-oss
   iframe_website: /website/hosting-and-infrastructure/containers/nexus3

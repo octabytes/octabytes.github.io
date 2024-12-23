@@ -21,6 +21,7 @@ meta:
 content:
   id: draw
   name: draw
+  title: Powerful Online Diagramming and Whiteboarding Tool
   logo: /images/development/dev-tools/draw/logo.png
   website: https://www.drawio.com/
   iframe_website: /website/development/dev-tools/draw

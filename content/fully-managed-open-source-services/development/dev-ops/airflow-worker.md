@@ -21,6 +21,7 @@ meta:
 content:
   id: airflow-worker
   name: Airflow-worker
+  title: Scalable and Flexible Apache Airflow Worker Instance
   logo: /images/development/dev-ops/airflow-worker/logo.png
   website: https://airflow.apache.org/
   iframe_website: /website/development/dev-ops/airflow-worker

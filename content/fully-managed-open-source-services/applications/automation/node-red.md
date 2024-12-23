@@ -21,6 +21,7 @@ meta:
 content:
   id: node-red
   name: Node-red
+  title: "Effortlessly Wire Hardware and APIs with Node-RED: A Powerful Programming Tool for the Internet of Things (IoT)"
   logo: /images/applications/automation/node-red/logo.png
   website: https://nodered.org/
   iframe_website: /website/applications/automation/node-red

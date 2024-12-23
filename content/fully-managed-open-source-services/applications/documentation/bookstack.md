@@ -21,6 +21,7 @@ meta:
 content:
   id: bookstack
   name: BookStack
+  title: Open-Source Wiki System for Efficient Documentation and Knowledge Management
   logo: /images/applications/documentation/bookstack/logo.png
   website: https://www.bookstackapp.com/
   iframe_website: /website/applications/documentation/bookstack

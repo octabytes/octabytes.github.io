@@ -21,6 +21,7 @@ meta:
 content:
   id: mage
   name: Mage AI
+  title: The Modern Data Pipeline Orchestration Solution
   logo: /images/development/dev-ops/mage/logo.png
   website: https://www.mage.ai/
   iframe_website: /website/development/dev-ops/mage

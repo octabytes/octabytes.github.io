@@ -21,6 +21,7 @@ meta:
 content:
   id: budibase
   name: Budibase
+  title: The Ultimate Open-Source Low-Code Platform for Building Internal Tools, Admin Panels, and Dashboards
   logo: /images/development/nocode-lowcode/budibase/logo.png
   website: https://budibase.com/
   iframe_website: /website/development/nocode-lowcode/budibase

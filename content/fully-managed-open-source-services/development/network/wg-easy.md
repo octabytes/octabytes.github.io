@@ -21,6 +21,7 @@ meta:
 content:
   id: wg-easy
   name: WG-Easy
+  title: Simplified WireGuard VPN with Web UI for Effortless Setup and High-Speed Performance
   logo: /images/development/network/wg-easy/logo.png
   website: https://hub.docker.com/r/weejewel/wg-easy
   iframe_website: /website/development/network/wg-easy

@@ -21,6 +21,7 @@ meta:
 content:
   id: huginn
   name: Huginn
+  title: Automate Your Online Tasks with Huginn – The Ultimate Self-Hosted Agent Platform
   logo: /images/applications/automation/huginn/logo.png
   website: https://github.com/huginn/huginn
   iframe_website: /website/applications/automation/huginn

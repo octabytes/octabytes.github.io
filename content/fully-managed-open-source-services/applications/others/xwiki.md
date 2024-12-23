@@ -21,6 +21,7 @@ meta:
 content:
   id: xwiki
   name: XWiki
+  title: The Ultimate Collaboration and Knowledge Management Platform
   logo: /images/applications/others/xwiki/logo.png
   website: https://xwiki.com/en/
   iframe_website: /website/applications/others/xwiki

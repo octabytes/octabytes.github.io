@@ -21,6 +21,7 @@ meta:
 content:
   id: dify
   name: Dify
+  title: Open-Source LLM App Development Platform for Seamless AI Integration
   logo: /images/development/nocode-lowcode/dify/logo.png
   website: https://dify.ai/
   iframe_website: /website/development/nocode-lowcode/dify

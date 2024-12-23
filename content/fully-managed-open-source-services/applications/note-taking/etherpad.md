@@ -21,6 +21,7 @@ meta:
 content:
   id: etherpad
   name: Etherpad
+  title: "Collaborative Real-Time Document Editing with Etherpad: Perfect for Teams and Groups"
   logo: /images/applications/note-taking/etherpad/logo.png
   website: https://etherpad.org/
   iframe_website: /website/applications/note-taking/etherpad

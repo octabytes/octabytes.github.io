@@ -21,6 +21,7 @@ meta:
 content:
   id: cells
   name: Cells
+  title: Powerful Document Sharing, Management, and Collaboration Platform
   logo: /images/applications/documentation/cells/logo.png
   website: https://pydio.com/en
   iframe_website: /website/applications/documentation/cells

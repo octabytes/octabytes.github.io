@@ -21,6 +21,7 @@ meta:
 content:
   id: guacamole
   name: Guacamole
+  title: The Ultimate Clientless Remote Desktop Gateway
   logo: /images/development/dev-ops/guacamole/logo.png
   website: http://guacamole.apache.org/
   iframe_website: /website/development/dev-ops/guacamole

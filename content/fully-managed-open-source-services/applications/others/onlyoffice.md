@@ -21,6 +21,7 @@ meta:
 content:
   id: onlyoffice
   name: OnlyOffice
+  title: "Boost Productivity with OnlyOffice: The Ultimate Open-Source Office Suite"
   logo: /images/applications/others/onlyoffice/logo.png
   website: https://www.onlyoffice.com/
   iframe_website: /website/applications/others/onlyoffice

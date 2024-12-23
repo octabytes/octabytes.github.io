@@ -21,6 +21,7 @@ meta:
 content:
   id: hop
   name: Hop
+  title: A Powerful Data Orchestration and Engineering Platform for Seamless Data Integration
   logo: /images/development/nocode-lowcode/hop/logo.png
   website: https://hop.apache.org/
   iframe_website: /website/development/nocode-lowcode/hop

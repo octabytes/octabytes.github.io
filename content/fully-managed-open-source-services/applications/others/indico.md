@@ -21,6 +21,7 @@ meta:
 content:
   id: indico
   name: Indico
+  title: "Organize, Manage, and Collaborate with Indico: The Open-Source Event Management System"
   logo: /images/applications/others/indico/logo.png
   website: https://getindico.io/
   iframe_website: /website/applications/others/indico

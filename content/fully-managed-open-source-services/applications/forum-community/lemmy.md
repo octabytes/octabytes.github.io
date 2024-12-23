@@ -21,6 +21,7 @@ meta:
 content:
   id: lemmy
   name: Lemmy
+  title: Decentralized Link Aggregator and Social Media Platform
   logo: /images/applications/forum-community/lemmy/logo.png
   website: https://join-lemmy.org/
   iframe_website: /website/applications/forum-community/lemmy

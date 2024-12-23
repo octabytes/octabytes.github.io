@@ -21,6 +21,7 @@ meta:
 content:
   id: yourls
   name: YOURLS
+  title: The Best Self-Hosted URL Shortener for Full Control and Customization
   logo: /images/applications/others/yourls/logo.png
   website: https://yourls.org/
   iframe_website: /website/applications/others/yourls

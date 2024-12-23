@@ -21,6 +21,7 @@ meta:
 content:
   id: powerdns
   name: PowerDNS
+  title: The Versatile Open-Source DNS Solution for Performance and Scalability
   logo: /images/development/dev-ops/powerdns/logo.png
   website: https://www.powerdns.com/
   iframe_website: /website/development/dev-ops/powerdns

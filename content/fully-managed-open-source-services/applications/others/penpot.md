@@ -21,6 +21,7 @@ meta:
 content:
   id: penpot
   name: Penpot
+  title: The Ultimate Open-Source Design and Prototyping Platform
   logo: /images/applications/others/penpot/logo.png
   website: https://penpot.app/
   iframe_website: /website/applications/others/penpot

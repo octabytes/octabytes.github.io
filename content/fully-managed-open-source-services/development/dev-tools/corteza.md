@@ -21,6 +21,7 @@ meta:
 content:
   id: corteza
   name: Corteza
+  title: The Ultimate Low-Code Platform for Business Process Automation and CRM
   logo: /images/development/dev-tools/corteza/logo.png
   website: https://cortezaproject.org/
   iframe_website: /website/development/dev-tools/corteza

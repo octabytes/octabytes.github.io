@@ -21,6 +21,7 @@ meta:
 content:
   id: pixelfed
   name: Pixelfed
+  title: Decentralized Image Sharing Network
   logo: /images/applications/fediverse/pixelfed/logo.png
   website: https://pixelfed.org/
   iframe_website: /website/applications/fediverse/pixelfed

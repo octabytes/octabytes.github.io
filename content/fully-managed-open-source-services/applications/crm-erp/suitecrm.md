@@ -21,6 +21,7 @@ meta:
 content:
   id: suitecrm
   name: SuiteCRM
+  title: Powerful Open-Source Customer Relationship Management (CRM) Solution
   logo: /images/applications/crm-erp/suitecrm/logo.png
   website: https://suitecrm.com/
   iframe_website: /website/applications/crm-erp/suitecrm

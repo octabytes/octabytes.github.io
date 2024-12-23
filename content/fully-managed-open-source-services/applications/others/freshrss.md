@@ -21,6 +21,7 @@ meta:
 content:
   id: freshrss
   name: FreshRSS
+  title: The Ultimate Self-Hosted RSS & Atom Feed Aggregator
   logo: /images/applications/others/freshrss/logo.png
   website: https://freshrss.org/
   iframe_website: /website/applications/others/freshrss

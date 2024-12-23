@@ -21,6 +21,7 @@ meta:
 content:
   id: portainer
   name: Portainer
+  title: "Simplify and Secure Your Docker and Kubernetes Management"
   logo: /images/hosting-and-infrastructure/containers/portainer/logo.png
   website: https://www.portainer.io/
   iframe_website: /website/hosting-and-infrastructure/containers/portainer

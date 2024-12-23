@@ -21,6 +21,7 @@ meta:
 content:
   id: dockerregistry
   name: DockerRegistry
+  title: The Ultimate Solution for Secure and Efficient Image Storage and Distribution
   logo: /images/development/dev-ops/dockerregistry/logo.png
   website: https://docs.docker.com/registry/
   iframe_website: /website/development/dev-ops/dockerregistry

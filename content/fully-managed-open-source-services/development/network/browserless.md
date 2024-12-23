@@ -21,6 +21,7 @@ meta:
 content:
   id: browserless
   name: Browserless
+  title: Browserless - High-Speed Web Browser Automation for Developers
   logo: /images/development/network/browserless/logo.png
   website: https://www.browserless.io/
   iframe_website: /website/development/network/browserless

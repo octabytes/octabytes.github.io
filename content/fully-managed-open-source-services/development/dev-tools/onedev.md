@@ -21,6 +21,7 @@ meta:
 content:
   id: onedev
   name: Onedev
+  title: The Ultimate All-in-One DevOps Platform for Simplified CI/CD and Git Management
   logo: /images/development/dev-tools/onedev/logo.png
   website: https://onedev.io/
   iframe_website: /website/development/dev-tools/onedev

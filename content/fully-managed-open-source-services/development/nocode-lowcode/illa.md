@@ -21,6 +21,7 @@ meta:
 content:
   id: illa
   name: ILLA
+  title: The Ultimate Low-Code Platform to Build Internal Tools in Minutes
   logo: /images/development/nocode-lowcode/illa/logo.png
   website: https://www.illacloud.com/
   iframe_website: /website/development/nocode-lowcode/illa

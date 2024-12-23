@@ -21,6 +21,7 @@ meta:
 content:
   id: peertube
   name: PeerTube
+  title: The Free and Decentralized Alternative to Video Platforms
   logo: /images/applications/fediverse/peertube/logo.png
   website: https://joinpeertube.org/
   iframe_website: /website/applications/fediverse/peertube

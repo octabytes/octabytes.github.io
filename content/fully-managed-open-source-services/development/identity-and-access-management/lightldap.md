@@ -21,6 +21,7 @@ meta:
 content:
   id: lightldap
   name: LightLDAP
+  title: A Simplified and Lightweight LDAP Authentication Server
   logo: /images/development/identity-and-access-management/lightldap/logo.png
   website: https://github.com/lldap/lldap
   iframe_website: /website/development/identity-and-access-management/lightldap

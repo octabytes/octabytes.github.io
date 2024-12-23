@@ -21,6 +21,7 @@ meta:
 content:
   id: sensu
   name: Sensu
+  title: "Scalable Monitoring and Observability Solution for Your Infrastructure"
   logo: /images/hosting-and-infrastructure/monitoring/sensu/logo.png
   website: https://sensu.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/sensu

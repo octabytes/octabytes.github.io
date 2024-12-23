@@ -21,6 +21,7 @@ meta:
 content:
   id: agencyos
   name: AgencyOS
+  title: The Ultimate Solution for Agency Management and Growth
   logo: /images/applications/cms/agencyos/logo.png
   website: https://www.agencyos.dev/
   iframe_website: /website/applications/cms/agencyos

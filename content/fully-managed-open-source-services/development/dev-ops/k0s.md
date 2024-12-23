@@ -21,6 +21,7 @@ meta:
 content:
   id: k0s
   name: k0s
+  title: The Simple, Solid, and Certified Kubernetes Distribution
   logo: /images/development/dev-ops/k0s/logo.png
   website: https://k0sproject.io/
   iframe_website: /website/development/dev-ops/k0s

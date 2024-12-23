@@ -21,6 +21,7 @@ meta:
 content:
   id: jitsi
   name: Jitsi
+  title: Free and Open-Source Video Conferencing for Seamless Communication
   logo: /images/applications/live-chat/jitsi/logo.png
   website: https://jitsi.org/jitsi-meet/
   iframe_website: /website/applications/live-chat/jitsi

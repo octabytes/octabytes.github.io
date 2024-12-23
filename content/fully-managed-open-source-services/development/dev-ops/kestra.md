@@ -21,6 +21,7 @@ meta:
 content:
   id: kestra
   name: Kestra
+  title: The Infinite Scalable Data Orchestration and Scheduling Platform
   logo: /images/development/dev-ops/kestra/logo.png
   website: https://kestra.io/
   iframe_website: /website/development/dev-ops/kestra

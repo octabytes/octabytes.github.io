@@ -21,6 +21,7 @@ meta:
 content:
   id: labelstudio
   name: LabelStudio
+  title: The Ultimate Data Labeling and Annotation Tool for AI & Machine Learning
   logo: /images/development/others/labelstudio/logo.png
   website: https://labelstud.io/
   iframe_website: /website/development/others/labelstudio

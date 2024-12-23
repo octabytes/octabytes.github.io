@@ -21,6 +21,7 @@ meta:
 content:
   id: growthbook
   name: GrowthBook
+  title: Open-Source Platform for Feature Flags and A/B Testing
   logo: /images/development/dev-tools/growthbook/logo.png
   website: https://www.growthbook.io/
   iframe_website: /website/development/dev-tools/growthbook

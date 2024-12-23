@@ -21,6 +21,7 @@ meta:
 content:
   id: redis
   name: Redis
+  title: High-Performance In-Memory Data Store for Real-Time Applications
   logo: /images/databases/nosql/redis/logo.png
   website: https://redis.io/
   iframe_website: /website/databases/nosql/redis

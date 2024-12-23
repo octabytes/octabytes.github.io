@@ -21,6 +21,7 @@ meta:
 content:
   id: mediacms
   name: MediaCMS
+  title: Open-Source Content Management System for Media Sharing and Community Building
   logo: /images/applications/cms/mediacms/logo.png
   website: https://mediacms.io/
   iframe_website: /website/applications/cms/mediacms

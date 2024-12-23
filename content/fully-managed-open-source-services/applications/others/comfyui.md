@@ -21,6 +21,7 @@ meta:
 content:
   id: comfyui
   name: ComfyUi
+  title: Unlock the Power of Stable Diffusion with ComfyUI
   logo: /images/applications/others/comfyui/logo.avif
   website: https://useanything.com/
   iframe_website: /website/applications/others/comfyui

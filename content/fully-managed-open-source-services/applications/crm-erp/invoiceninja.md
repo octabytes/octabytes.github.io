@@ -21,6 +21,7 @@ meta:
 content:
   id: invoiceninja
   name: InvoiceNinja
+  title: Complete Invoicing, Payments, and Time-Tracking Solution for Freelancers and Businesses
   logo: /images/applications/crm-erp/invoiceninja/logo.png
   website: https://invoiceninja.com/
   iframe_website: /website/applications/crm-erp/invoiceninja

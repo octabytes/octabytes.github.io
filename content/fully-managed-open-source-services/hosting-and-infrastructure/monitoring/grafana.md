@@ -21,6 +21,7 @@ meta:
 content:
   id: grafana
   name: Grafana
+  title: "Powerful Open-Source Data Visualization and Observability Platform"
   logo: /images/hosting-and-infrastructure/monitoring/grafana/logo.png
   website: https://grafana.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/grafana

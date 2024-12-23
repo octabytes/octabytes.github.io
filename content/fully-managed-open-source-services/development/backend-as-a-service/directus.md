@@ -21,6 +21,7 @@ meta:
 content:
   id: directus
   name: Directus
+  title: Effortlessly Manage Your Data with Directus - The Open-Source Data Platform
   logo: /images/development/backend-as-a-service/directus/logo.png
   website: https://directus.io/
   iframe_website: /website/development/backend-as-a-service/directus

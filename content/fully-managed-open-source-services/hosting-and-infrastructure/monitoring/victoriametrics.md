@@ -21,6 +21,7 @@ meta:
 content:
   id: victoriametrics
   name: VictoriaMetrics
+  title: "Fast, Scalable, and Cost-Effective Time Series Database for Efficient Monitoring"
   logo: /images/hosting-and-infrastructure/monitoring/victoriametrics/logo.png
   website: https://victoriametrics.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/victoriametrics

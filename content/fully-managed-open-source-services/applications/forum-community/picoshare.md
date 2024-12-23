@@ -21,6 +21,7 @@ meta:
 content:
   id: picoshare
   name: Picoshare
+  title: Effortless File Sharing with Direct Downloads and No Restrictions
   logo: /images/applications/forum-community/picoshare/logo.png
   website: https://pico.rocks/
   iframe_website: /website/applications/forum-community/picoshare

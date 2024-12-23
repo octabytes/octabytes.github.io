@@ -21,6 +21,7 @@ meta:
 content:
   id: pritunl
   name: Pritunl
+  title: The Open-Source VPN Solution for Secure and Scalable Remote Access
   logo: /images/development/network/pritunl/logo.png
   website: https://pritunl.com/
   iframe_website: /website/development/network/pritunl

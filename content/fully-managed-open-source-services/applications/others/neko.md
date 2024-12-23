@@ -21,6 +21,7 @@ meta:
 content:
   id: neko
   name: Neko Rooms
+  title: Effortlessly Collaborate and Share with Neko Rooms - The Ultimate Self-Hosted Alternative to Rabb.it
   logo: /images/applications/others/neko/logo.png
   website: https://github.com/m1k1o/neko-rooms
   iframe_website: /website/applications/others/neko

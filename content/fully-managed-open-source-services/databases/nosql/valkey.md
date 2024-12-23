@@ -21,6 +21,7 @@ meta:
 content:
   id: valkey
   name: Valkey
+  title: High-Performance Key/Value Datastore for Efficient Caching and Message Queues
   logo: /images/databases/nosql/valkey/logo.png
   website: https://valkey.io/
   iframe_website: /website/databases/nosql/valkey

@@ -21,6 +21,7 @@ meta:
 content:
   id: papermerge
   name: Papermerge
+  title: Open-Source Document Management System with OCR and Full-Text Search
   logo: /images/applications/documentation/papermerge/logo.png
   website: https://papermerge.com/
   iframe_website: /website/applications/documentation/papermerge

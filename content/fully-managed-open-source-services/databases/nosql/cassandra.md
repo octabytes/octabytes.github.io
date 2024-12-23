@@ -21,6 +21,7 @@ meta:
 content:
   id: cassandra
   name: Cassandra
+  title: Fully Managed Apache Cassandra Database Services – High Availability and Scalability
   logo: /images/databases/nosql/cassandra/logo.png
   website: https://cassandra.apache.org/_/index.html
   iframe_website: /website/databases/nosql/cassandra

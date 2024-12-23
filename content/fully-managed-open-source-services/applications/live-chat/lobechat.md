@@ -21,6 +21,7 @@ meta:
 content:
   id: lobechat
   name: LobeChat
+  title: High-Performance Open-Source Chatbot Framework with Multimodal Support
   logo: /images/applications/live-chat/lobechat/logo.png
   website: https://github.com/lobehub/lobe-chat
   iframe_website: /website/applications/live-chat/lobechat

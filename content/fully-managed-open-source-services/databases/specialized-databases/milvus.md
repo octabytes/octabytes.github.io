@@ -21,6 +21,7 @@ meta:
 content:
   id: milvus
   name: Milvus
+  title: Scalable, High-Speed Open-Source Vector Database for GenAI Applications
   logo: /images/databases/specialized-databases/milvus/logo.png
   website: https://milvus.io/
   iframe_website: /website/databases/specialized-databases/milvus

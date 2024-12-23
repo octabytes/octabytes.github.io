@@ -21,6 +21,7 @@ meta:
 content:
   id: misskey
   name: Misskey
+  title: A Decentralized Social Network for the Fediverse
   logo: /images/applications/fediverse/misskey/logo.png
   website: https://misskey-hub.net/en/
   iframe_website: /website/applications/fediverse/misskey

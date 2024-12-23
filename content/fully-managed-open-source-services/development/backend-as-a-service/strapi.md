@@ -21,6 +21,7 @@ meta:
 content:
   id: strapi
   name: Strapi
+  title: Effortlessly Build and Manage Content with Strapi – The Leading Open-Source Headless CMS
   logo: /images/development/backend-as-a-service/strapi/logo.png
   website: https://strapi.io/
   iframe_website: /website/development/backend-as-a-service/strapi

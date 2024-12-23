@@ -21,6 +21,7 @@ meta:
 content:
   id: centrifugo
   name: Centrifugo
+  title: Scalable Real-Time Messaging Server for Seamless PUB/SUB Integration
   logo: /images/development/network/centrifugo/logo.png
   website: https://centrifugal.dev/
   iframe_website: /website/development/network/centrifugo

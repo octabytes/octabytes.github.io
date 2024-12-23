@@ -21,6 +21,7 @@ meta:
 content:
   id: lobsters
   name: Lobsters
+  title: A Community-Driven Platform for Computing Enthusiasts
   logo: /images/applications/forum-community/lobsters/logo.png
   website: https://lobste.rs/
   iframe_website: /website/applications/forum-community/lobsters

@@ -21,6 +21,7 @@ meta:
 content:
   id: vault
   name: Vault
+  title: Your Trusted Solution for Secure Secret Management
   logo: /images/development/dev-ops/vault/logo.png
   website: https://www.vaultproject.io/
   iframe_website: /website/development/dev-ops/vault

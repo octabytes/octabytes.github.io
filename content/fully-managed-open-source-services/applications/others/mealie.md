@@ -21,6 +21,7 @@ meta:
 content:
   id: mealie
   name: Mealie
+  title: The Ultimate Open-Source Recipe Management App
   logo: /images/applications/others/mealie/logo.png
   website: https://mealie.io/
   iframe_website: /website/applications/others/mealie

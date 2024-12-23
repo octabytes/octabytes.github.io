@@ -21,6 +21,7 @@ meta:
 content:
   id: zitadel
   name: Zitadel
+  title: Simplifying Identity Management with Serverless, Open-Source Solutions
   logo: /images/development/identity-and-access-management/zitadel/logo.png
   website: https://zitadel.com/
   iframe_website: /website/development/identity-and-access-management/zitadel

@@ -21,6 +21,7 @@ meta:
 content:
   id: password
   name: Password Pusher
+  title: Secure & Temporary Password Sharing for Safe Online Communication
   logo: /images/applications/password-manager/password/logo.png
   website: https://pwpush.com/
   iframe_website: /website/applications/password-manager/password

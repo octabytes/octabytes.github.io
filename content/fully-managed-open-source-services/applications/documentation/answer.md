@@ -21,6 +21,7 @@ meta:
 content:
   id: answer
   name: Answer
+  title: Open-Source Knowledge Base & Q&A Community Platform
   logo: /images/applications/documentation/answer/logo.png
   website: https://answer.dev/
   iframe_website: /website/applications/documentation/answer

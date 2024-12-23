@@ -21,6 +21,7 @@ meta:
 content:
   id: mailcow
   name: MailCow
+  title: The Ultimate Docker-based Email Server for Seamless Email Management
   logo: /images/development/dev-ops/mailcow/logo.png
   website: https://mailcow.email/
   iframe_website: /website/development/dev-ops/mailcow

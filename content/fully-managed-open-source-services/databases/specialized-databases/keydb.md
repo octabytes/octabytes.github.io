@@ -21,6 +21,7 @@ meta:
 content:
   id: keydb
   name: KeyDB
+  title: High-Performance, Scalable, and Open-Source Solution
   logo: /images/databases/specialized-databases/keydb/logo.png
   website: https://docs.keydb.dev/docs/cluster-tutorial/
   iframe_website: /website/databases/specialized-databases/keydb

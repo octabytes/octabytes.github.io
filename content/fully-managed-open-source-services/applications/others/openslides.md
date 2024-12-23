@@ -21,6 +21,7 @@ meta:
 content:
   id: openslides
   name: OpenSlides
+  title: Streamline Your Meetings with OpenSlides - The Ultimate Digital Meeting Solution
   logo: /images/applications/others/openslides/logo.png
   website: https://openslides.com/
   iframe_website: /website/applications/others/openslides

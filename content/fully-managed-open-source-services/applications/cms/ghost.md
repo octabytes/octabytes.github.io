@@ -21,6 +21,7 @@ meta:
 content:
   id: ghost
   name: Ghost
+  title: The Ultimate Platform for Content Creators and Business Growth
   logo: /images/applications/cms/ghost/logo.png
   website: https://ghost.org/
   iframe_website: /website/applications/cms/ghost

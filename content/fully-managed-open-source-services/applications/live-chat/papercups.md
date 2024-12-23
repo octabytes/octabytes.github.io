@@ -21,6 +21,7 @@ meta:
 content:
   id: papercups
   name: Papercups
+  title: The Privacy-Focused, Open-Source Alternative for Customer Support
   logo: /images/applications/live-chat/papercups/logo.png
   website: https://papercups.io/
   iframe_website: /website/applications/live-chat/papercups

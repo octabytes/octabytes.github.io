@@ -21,6 +21,7 @@ meta:
 content:
   id: dolibarr
   name: Dolibarr
+  title: Streamline Your Business Operations with Dolibarr - The All-in-One Open Source ERP & CRM
   logo: /images/applications/crm-erp/dolibarr/logo.png
   website: https://www.dolibarr.org/
   iframe_website: /website/applications/crm-erp/dolibarr

@@ -21,6 +21,7 @@ meta:
 content:
   id: quickwit
   name: Quickwit
+  title: The Fastest Cloud-Native Search Engine for Logs and Traces
   logo: /images/applications/analytics/quickwit/logo.png
   website: https://quickwit.io/
   iframe_website: /website/applications/analytics/quickwit

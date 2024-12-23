@@ -21,6 +21,7 @@ meta:
 content:
   id: ubuntu-desktop
   name: Ubuntu-Desktop
+  title: Ubuntu Virtual Desktop by OctaByte - Your Browser-Based Desktop Experience
   logo: /images/development/dev-ops/ubuntu-desktop/logo.png
   website: https://ubuntu.com/download/desktop
   iframe_website: /website/development/dev-ops/ubuntu-desktop

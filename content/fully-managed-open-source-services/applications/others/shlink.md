@@ -21,6 +21,7 @@ meta:
 content:
   id: shlink
   name: Shlink
+  title: The Ultimate Self-Hosted URL Shortener with Analytics and Multi-Domain Support
   logo: /images/applications/others/shlink/logo.png
   website: https://shlink.io/
   iframe_website: /website/applications/others/shlink

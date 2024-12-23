@@ -21,6 +21,7 @@ meta:
 content:
   id: formbricks
   name: Formbricks
+  title: "Boost User Engagement with Formbricks: Powerful In-Product Micro-Surveys"
   logo: /images/applications/customer-support/formbricks/logo.png
   website: https://formbricks.com/
   iframe_website: /website/applications/customer-support/formbricks

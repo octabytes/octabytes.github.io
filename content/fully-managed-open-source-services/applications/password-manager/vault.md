@@ -21,6 +21,7 @@ meta:
 content:
   id: vault
   name: Vault
+  title: "Secure Secrets Management with Vault: Protect Your Sensitive Data"
   logo: /images/applications/password-manager/vault/logo.png
   website: https://www.vaultproject.io/
   iframe_website: /website/applications/password-manager/vault

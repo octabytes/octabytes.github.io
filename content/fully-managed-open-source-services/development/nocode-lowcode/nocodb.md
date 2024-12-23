@@ -21,6 +21,7 @@ meta:
 content:
   id: nocodb
   name: NocoDB
+  title: The Open-Source Airtable Alternative for No-Code Database Management
   logo: /images/development/nocode-lowcode/nocodb/logo.png
   website: https://www.nocodb.com/
   iframe_website: /website/development/nocode-lowcode/nocodb

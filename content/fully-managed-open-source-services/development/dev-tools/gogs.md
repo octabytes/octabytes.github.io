@@ -21,6 +21,7 @@ meta:
 content:
   id: gogs
   name: Gogs
+  title: A Simple, Lightweight, and Cross-Platform Self-Hosted Git Service
   logo: /images/development/dev-tools/gogs/logo.png
   website: https://gogs.io/
   iframe_website: /website/development/dev-tools/gogs

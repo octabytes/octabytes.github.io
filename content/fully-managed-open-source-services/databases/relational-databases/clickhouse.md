@@ -21,6 +21,7 @@ meta:
 content:
   id: clickhouse
   name: ClickHouse
+  title: High-Performance Real-Time Analytics for Big Data
   logo: /images/databases/relational-databases/clickhouse/logo.png
   website: https://clickhouse.com/
   iframe_website: /website/databases/relational-databases/clickhouse

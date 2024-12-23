@@ -21,6 +21,7 @@ meta:
 content:
   id: wikijs
   name: Wikijs
+  title: The Ultimate Open-Source Wiki Engine for Node.js
   logo: /images/applications/documentation/wikijs/logo.png
   website: https://js.wiki/
   iframe_website: /website/applications/documentation/wikijs

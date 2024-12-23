@@ -21,6 +21,7 @@ meta:
 content:
   id: phpbb
   name: PhpBB
+  title: title
   logo: /images/applications/forum-community/phpbb/logo.png
   website: https://www.phpbb.com/
   iframe_website: /website/applications/forum-community/phpbb

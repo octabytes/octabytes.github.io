@@ -21,6 +21,7 @@ meta:
 content:
   id: rustdeskserver
   name: RustdeskServer
+  title: Secure, Open-Source Remote Desktop Solution for Complete Control
   logo: /images/development/network/rustdeskserver/logo.png
   website: https://rustdesk.com/
   iframe_website: /website/development/network/rustdeskserver

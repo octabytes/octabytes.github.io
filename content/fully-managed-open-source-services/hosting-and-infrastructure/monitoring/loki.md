@@ -21,6 +21,7 @@ meta:
 content:
   id: loki
   name: Loki
+  title: "Cost-Effective, Scalable Log Aggregation System for Modern Environments"
   logo: /images/hosting-and-infrastructure/monitoring/loki/logo.png
   website: https://grafana.com/oss/loki/
   iframe_website: /website/hosting-and-infrastructure/monitoring/loki

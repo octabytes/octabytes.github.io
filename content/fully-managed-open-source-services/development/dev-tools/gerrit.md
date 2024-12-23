@@ -21,6 +21,7 @@ meta:
 content:
   id: gerrit
   name: Gerrit
+  title: Streamlined Code Review and Git Management for Better Collaboration
   logo: /images/development/dev-tools/gerrit/logo.png
   website: https://www.gerritcodereview.com/
   iframe_website: /website/development/dev-tools/gerrit

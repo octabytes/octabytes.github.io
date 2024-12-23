@@ -21,6 +21,7 @@ meta:
 content:
   id: botpress
   name: Botpress
+  title: The Next-Generation Chatbot Builder Powered by OpenAI
   logo: /images/applications/live-chat/botpress/logo.png
   website: https://botpress.com/
   iframe_website: /website/applications/live-chat/botpress

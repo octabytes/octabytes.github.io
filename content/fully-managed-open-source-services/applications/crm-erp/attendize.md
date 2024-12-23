@@ -21,6 +21,7 @@ meta:
 content:
   id: attendize
   name: Attendize
+  title: Your Ultimate Ticket-Selling & Event Management Solution
   logo: /images/applications/crm-erp/attendize/logo.png
   website: https://www.attendize.com/
   iframe_website: /website/applications/crm-erp/attendize

@@ -21,6 +21,7 @@ meta:
 content:
   id: gitea
   name: Gitea
+  title: Open-Source Git Hosting Solution for Software Development
   logo: /images/development/dev-tools/gitea/logo.png
   website: https://gitea.io/
   iframe_website: /website/development/dev-tools/gitea

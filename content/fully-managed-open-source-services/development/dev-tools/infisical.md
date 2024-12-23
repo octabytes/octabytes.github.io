@@ -21,6 +21,7 @@ meta:
 content:
   id: infisical
   name: Infisical
+  title: Secure and Open-Source Secret Management Platform for Teams and Infrastructure
   logo: /images/development/dev-tools/infisical/logo.png
   website: https://infisical.com/
   iframe_website: /website/development/dev-tools/infisical

@@ -21,6 +21,7 @@ meta:
 content:
   id: focalboard
   name: FocalBoard
+  title: The Open-Source Project and Task Management Tool for Teams and Developers
   logo: /images/applications/project-management/focalboard/logo.png
   website: https://www.focalboard.com/
   iframe_website: /website/applications/project-management/focalboard

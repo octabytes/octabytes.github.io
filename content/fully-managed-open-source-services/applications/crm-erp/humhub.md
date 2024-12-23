@@ -21,6 +21,7 @@ meta:
 content:
   id: humhub
   name: HumHub
+  title: The Ultimate Open-Source Platform for Collaboration and Networking
   logo: /images/applications/crm-erp/humhub/logo.png
   website: https://www.humhub.com/en/
   iframe_website: /website/applications/crm-erp/humhub

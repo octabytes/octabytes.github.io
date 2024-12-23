@@ -21,6 +21,7 @@ meta:
 content:
   id: frappehr
   name: FrappeHR
+  title: Open-Source HRMS for Seamless HR & Payroll Management
   logo: /images/applications/crm-erp/frappehr/logo.png
   website: https://frappehr.com/
   iframe_website: /website/applications/crm-erp/frappehr

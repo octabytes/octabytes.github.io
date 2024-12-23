@@ -21,6 +21,7 @@ meta:
 content:
   id: n8n
   name: N8N
+  title: "Automate Workflows with N8N: No-Code Integration for 200+ Apps"
   logo: /images/development/nocode-lowcode/n8n/logo.png
   website: https://n8n.io/
   iframe_website: /website/development/nocode-lowcode/n8n

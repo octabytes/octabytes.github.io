@@ -21,6 +21,7 @@ meta:
 content:
   id: centrifugo
   name: Centrifugo
+  title: "Real-Time Messaging Simplified"
   logo: /images/hosting-and-infrastructure/infrastructure/centrifugo/logo.png
   website: https://centrifugal.dev/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/centrifugo

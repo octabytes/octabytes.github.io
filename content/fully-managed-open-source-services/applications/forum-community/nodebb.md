@@ -21,6 +21,7 @@ meta:
 content:
   id: nodebb
   name: NodeBB
+  title: The High-Performance Community Forum Platform
   logo: /images/applications/forum-community/nodebb/logo.png
   website: https://nodebb.org/
   iframe_website: /website/applications/forum-community/nodebb

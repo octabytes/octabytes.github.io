@@ -21,6 +21,7 @@ meta:
 content:
   id: couchbase
   name: Couchbase
+  title: Unlock the Power of Couchbase – The Ultimate Cloud-Native Distributed Database
   logo: /images/development/dev-ops/couchbase/logo.png
   website: https://www.couchbase.com/products/server
   iframe_website: /website/development/dev-ops/couchbase

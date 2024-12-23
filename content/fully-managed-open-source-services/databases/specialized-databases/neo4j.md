@@ -21,6 +21,7 @@ meta:
 content:
   id: neo4j
   name: Neo4j
+  title: The Leading Graph Database for Unmatched Performance and Deep Insights
   logo: /images/databases/specialized-databases/neo4j/logo.png
   website: https://neo4j.com/
   iframe_website: /website/databases/specialized-databases/neo4j

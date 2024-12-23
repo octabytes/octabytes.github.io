@@ -21,6 +21,7 @@ meta:
 content:
   id: maybe
   name: Maybe
+  title: The Ultimate Personal Finance & Wealth Management App
   logo: /images/applications/others/maybe/logo.png
   website: https://maybe.co/
   iframe_website: /website/applications/others/maybe

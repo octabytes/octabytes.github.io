@@ -21,6 +21,7 @@ meta:
 content:
   id: wekan
   name: Wekan
+  title: "Efficient Task Management with WeKan: The Open-Source Kanban Solution"
   logo: /images/applications/project-management/wekan/logo.png
   website: https://wekan.github.io/
   iframe_website: /website/applications/project-management/wekan

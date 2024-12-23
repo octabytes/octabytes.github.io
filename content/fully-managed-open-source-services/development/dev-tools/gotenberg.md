@@ -21,6 +21,7 @@ meta:
 content:
   id: gotenberg
   name: Gotenberg
+  title: Powerful API for Converting Documents to PDFs and More
   logo: /images/development/dev-tools/gotenberg/logo.png
   website: https://gotenberg.dev/
   iframe_website: /website/development/dev-tools/gotenberg

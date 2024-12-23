@@ -21,6 +21,7 @@ meta:
 content:
   id: parse
   name: Parse
+  title: The Ultimate Open-Source Backend for Faster App Development
   logo: /images/development/backend-as-a-service/parse/logo.png
   website: https://parseplatform.org/
   iframe_website: /website/development/backend-as-a-service/parse

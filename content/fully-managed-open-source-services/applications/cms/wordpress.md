@@ -21,6 +21,7 @@ meta:
 content:
   id: wordpress
   name: Wordpress
+  title: The Ultimate Open-Source CMS for Building Powerful Websites
   logo: /images/applications/cms/wordpress/logo.png
   website: https://wordpress.org/
   iframe_website: /website/applications/cms/wordpress

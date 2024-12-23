@@ -21,6 +21,7 @@ meta:
 content:
   id: mastodon
   name: Mastodon
+  title: The Open-Source Social Network for a Safer, Customizable Experience
   logo: /images/applications/forum-community/mastodon/logo.png
   website: https://mastodon.social
   iframe_website: /website/applications/forum-community/mastodon

@@ -21,6 +21,7 @@ meta:
 content:
   id: stirling-pdf
   name: Stirling-PDF
+  title: The Ultimate Locally Hosted PDF Manipulation Tool with Docker
   logo: /images/development/dev-tools/stirling-pdf/logo.png
   website: https://github.com/Stirling-Tools/Stirling-PDF
   iframe_website: /website/development/dev-tools/stirling-pdf

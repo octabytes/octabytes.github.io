@@ -21,6 +21,7 @@ meta:
 content:
   id: automatisch
   name: Automatisch
+  title: The Best Open-Source Alternative to Zapier for Seamless Business Automation
   logo: /images/development/nocode-lowcode/automatisch/logo.png
   website: https://automatisch.io/
   iframe_website: /website/development/nocode-lowcode/automatisch

@@ -21,6 +21,7 @@ meta:
 content:
   id: directus
   name: Directus
+  title: Open Data Platform for SQL Database Management
   logo: /images/applications/cms/directus/logo.png
   website: https://directus.io/
   iframe_website: /website/applications/cms/directus

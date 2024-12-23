@@ -21,6 +21,7 @@ meta:
 content:
   id: wger
   name: Wger
+  title: "Wger Workout Manager: The Ultimate Open-Source Fitness Tracker and Gym Management Tool"
   logo: /images/applications/others/wger/logo.png
   website: https://wger.de/en/software/features
   iframe_website: /website/applications/others/wger

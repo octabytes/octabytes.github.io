@@ -22,6 +22,7 @@ meta:
 content:
   id: zincsearch
   name: ZincSearch
+  title: A Lightweight and Efficient Alternative to Elasticsearch
   logo: /images/applications/search/zincsearch/logo.png
   website: https://github.com/zincsearch/zincsearch
   iframe_website: /website/applications/search/zincsearch

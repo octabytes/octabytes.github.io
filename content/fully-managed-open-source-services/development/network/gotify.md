@@ -21,6 +21,7 @@ meta:
 content:
   id: gotify
   name: Gotify
+  title: "Efficient Real-Time Messaging with Gotify: A Simple, Self-Hosted Push Notification Server"
   logo: /images/development/network/gotify/logo.png
   website: https://gotify.net/
   iframe_website: /website/development/network/gotify

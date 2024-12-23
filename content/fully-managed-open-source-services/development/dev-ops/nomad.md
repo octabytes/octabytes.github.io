@@ -21,6 +21,7 @@ meta:
 content:
   id: nomad
   name: Nomad
+  title: Simplified Workload Orchestration for Any Application Type
   logo: /images/development/dev-ops/nomad/logo.png
   website: https://www.nomadproject.io/
   iframe_website: /website/development/dev-ops/nomad

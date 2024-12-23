@@ -21,6 +21,7 @@ meta:
 content:
   id: mantisbt
   name: MantisBT
+  title: The Ultimate Open-Source Issue Tracker for Effective Project Management
   logo: /images/applications/customer-support/mantisbt/logo.png
   website: https://www.mantisbt.org/
   iframe_website: /website/applications/customer-support/mantisbt

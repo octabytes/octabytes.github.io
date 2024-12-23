@@ -21,6 +21,7 @@ meta:
 content:
   id: mssql
   name: MSSQL
+  title: Fully Managed MSSQL Database Hosting
   logo: /images/databases/relational-databases/mssql/logo.png
   website: https://www.microsoft.com/en-us/sql-server/sql-server-2019
   iframe_website: /website/databases/relational-databases/mssql

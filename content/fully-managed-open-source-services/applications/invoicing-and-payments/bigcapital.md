@@ -21,6 +21,7 @@ meta:
 content:
   id: bigcapital
   name: Bigcapital
+  title: The Open-Source Alternative for Smarter Financial Accounting
   logo: /images/applications/invoicing-and-payments/bigcapital/logo.png
   website: https://bigcapital.ly/
   iframe_website: /website/applications/invoicing-and-payments/bigcapital

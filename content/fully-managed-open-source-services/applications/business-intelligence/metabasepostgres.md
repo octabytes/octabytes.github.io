@@ -21,6 +21,7 @@ meta:
 content:
   id: metabasepostgres
   name: MetabasePostgres
+  title: Simplified Data Exploration with Seamless PostgreSQL Integration
   logo: /images/applications/business-intelligence/metabasepostgres/logo.png
   website: https://www.metabase.com/
   iframe_website: /website/applications/business-intelligence/metabasepostgres

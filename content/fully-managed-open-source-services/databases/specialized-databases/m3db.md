@@ -21,6 +21,7 @@ meta:
 content:
   id: m3db
   name: M3DB
+  title: Scalable and Efficient Cloud-Native Solution for Prometheus Monitoring
   logo: /images/databases/specialized-databases/m3db/logo.png
   website: https://m3db.io/
   iframe_website: /website/databases/specialized-databases/m3db

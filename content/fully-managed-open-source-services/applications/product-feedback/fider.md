@@ -21,6 +21,7 @@ meta:
 content:
   id: fider
   name: Fider
+  title: Streamline Customer Feedback with an Engaging Portal for Idea Sharing and Voting
   logo: /images/applications/product-feedback/fider/logo.png
   website: https://fider.io/
   iframe_website: /website/applications/product-feedback/fider

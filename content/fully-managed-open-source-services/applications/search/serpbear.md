@@ -21,6 +21,7 @@ meta:
 content:
   id: serpbear
   name: SerpBear
+  title: Open Source SEO Tool for Keyword Position Tracking & Google Analytics
   logo: /images/applications/search/serpbear/logo.png
   website: https://serpbear.com/
   iframe_website: /website/applications/search/serpbear

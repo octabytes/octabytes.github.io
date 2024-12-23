@@ -21,6 +21,7 @@ meta:
 content:
   id: dremio
   name: Dremio
+  title: Revolutionizing Data Lakes with Self-Service SQL Analytics
   logo: /images/applications/analytics/dremio/logo.png
   website: https://www.dremio.com/
   iframe_website: /website/applications/analytics/dremio

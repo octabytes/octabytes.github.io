@@ -21,6 +21,7 @@ meta:
 content:
   id: airflow
   name: Airflow
+  title: Automate and Manage Complex Workflows with Ease
   logo: /images/applications/automation/airflow/logo.png
   website: https://airflow.apache.org/
   iframe_website: /website/applications/automation/airflow

@@ -21,6 +21,7 @@ meta:
 content:
   id: hoppscotch
   name: Hoppscotch
+  title: A Fast and Lightweight Web-Based API Development Suite
   logo: /images/development/others/hoppscotch/logo.png
   website: https://hoppscotch.com/
   iframe_website: /website/development/others/hoppscotch

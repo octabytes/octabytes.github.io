@@ -21,6 +21,7 @@ meta:
 content:
   id: apachenifi
   name: ApacheNiFi
+  title: Seamless Data Flow Automation for Efficient Integration
   logo: /images/applications/automation/apachenifi/logo.png
   website: https://nifi.apache.org/
   iframe_website: /website/applications/automation/apachenifi

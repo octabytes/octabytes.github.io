@@ -21,6 +21,7 @@ meta:
 content:
   id: openldap
   name: OpenLDAP
+  title: A Flexible, Cost-Effective LDAP Solution for Seamless Authentication
   logo: /images/development/dev-ops/openldap/logo.png
   website: https://www.openldap.org/
   iframe_website: /website/development/dev-ops/openldap

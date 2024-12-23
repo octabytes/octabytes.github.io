@@ -21,6 +21,7 @@ meta:
 content:
   id: nopcommerce
   name: nopCommerce
+  title: The Leading Open-Source eCommerce Platform for ASP.NET
   logo: /images/applications/e-commerce/nopcommerce/logo.png
   website: https://www.nopcommerce.com
   iframe_website: /website/applications/e-commerce/nopcommerce

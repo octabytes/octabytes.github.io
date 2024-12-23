@@ -21,6 +21,7 @@ meta:
 content:
   id: authelia
   name: Authelia
+  title: Secure Authentication and Authorization with Multi-Factor Authentication and Single Sign-On
   logo: /images/development/identity-and-access-management/authelia/logo.png
   website: https://www.authelia.com/
   iframe_website: /website/development/identity-and-access-management/authelia

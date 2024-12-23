@@ -21,6 +21,7 @@ meta:
 content:
   id: tooljet
   name: ToolJet
+  title: Build Internal Tools Fast with a Visual Builder and Custom JS Code
   logo: /images/development/nocode-lowcode/tooljet/logo.png
   website: https://tooljet.com/
   iframe_website: /website/development/nocode-lowcode/tooljet

@@ -21,6 +21,7 @@ meta:
 content:
   id: librechat
   name: LibreChat
+  title: The Ultimate Open-Source AI Chat Platform for Seamless Conversations
   logo: /images/applications/others/librechat/logo.png
   website: https://www.librechat.ai/
   iframe_website: /website/applications/others/librechat

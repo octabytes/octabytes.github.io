@@ -21,6 +21,7 @@ meta:
 content:
   id: passit
   name: Passit
+  title: "Secure Your Digital Life with Passit: The Ultimate Password Manager"
   logo: /images/applications/password-manager/passit/logo.png
   website: https://passit.io/
   iframe_website: /website/applications/password-manager/passit

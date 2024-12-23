@@ -21,6 +21,7 @@ meta:
 content:
   id: lago
   name: Lago
+  title: The Open-Source Alternative to Stripe Billing and Chargebee for Usage-Based Billing
   logo: /images/applications/invoicing-and-payments/lago/logo.png
   website: https://www.getlago.com/
   iframe_website: /website/applications/invoicing-and-payments/lago

@@ -21,6 +21,7 @@ meta:
 content:
   id: influxdb
   name: InfluxDB
+  title: The Time Series Database for Real-Time Analytics, IoT, and Cloud-Native Services
   logo: /images/databases/specialized-databases/influxdb/logo.png
   website: https://www.influxdata.com/
   iframe_website: /website/databases/specialized-databases/influxdb

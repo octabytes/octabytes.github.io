@@ -21,6 +21,7 @@ meta:
 content:
   id: hedgedoc
   name: HedgeDoc
+  title: Open-Source Real-Time Collaborative Markdown Editor
   logo: /images/applications/note-taking/hedgedoc/logo.png
   website: https://hedgedoc.org/
   iframe_website: /website/applications/note-taking/hedgedoc

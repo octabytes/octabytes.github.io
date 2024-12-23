@@ -21,6 +21,7 @@ meta:
 content:
   id: metatrader5
   name: MetaTrader5
+  title: Advanced Trading Platform for Modern Traders
   logo: /images/applications/others/metatrader5/logo.png
   website: https://www.metatrader5.com/
   iframe_website: /website/applications/others/metatrader5

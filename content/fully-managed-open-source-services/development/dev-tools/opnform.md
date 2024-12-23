@@ -21,6 +21,7 @@ meta:
 content:
   id: opnform
   name: OpnForm
+  title: The Ultimate Open-Source Form Builder for Effortless Data Collection
   logo: /images/development/dev-tools/opnform/logo.png
   website: https://opnform.com/
   iframe_website: /website/development/dev-tools/opnform

@@ -21,6 +21,7 @@ meta:
 content:
   id: infisical
   name: Infisical
+  title: Open-Source End-to-End Encrypted Secret Management Platform
   logo: /images/applications/password-manager/infisical/logo.png
   website: https://infisical.com/
   iframe_website: /website/applications/password-manager/infisical

@@ -21,6 +21,7 @@ meta:
 content:
   id: jenkins
   name: Jenkins
+  title: The Leading Open-Source Automation Server for Continuous Integration and Delivery
   logo: /images/development/dev-ops/jenkins/logo.png
   website: https://www.jenkins.io/
   iframe_website: /website/development/dev-ops/jenkins

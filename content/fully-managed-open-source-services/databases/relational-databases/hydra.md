@@ -21,6 +21,7 @@ meta:
 content:
   id: hydra
   name: Hydra
+  title: The Ultimate Open-Source Data Warehouse for High-Performance Analytics
   logo: /images/databases/relational-databases/hydra/logo.png
   website: https://hydra.so/
   iframe_website: /website/databases/relational-databases/hydra

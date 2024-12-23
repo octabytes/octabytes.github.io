@@ -21,6 +21,7 @@ meta:
 content:
   id: mailu
   name: Mailu
+  title: "Effortlessly Manage Emails with Mailu: A Full-Featured Open-Source Mail Server"
   logo: /images/hosting-and-infrastructure/email/mailu/logo.png
   website: https://mailu.io
   iframe_website: /website/hosting-and-infrastructure/email/mailu

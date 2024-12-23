@@ -21,6 +21,7 @@ meta:
 content:
   id: traggo
   name: Traggo
+  title: Tag-Based Time Tracking Tool for Seamless Productivity
   logo: /images/applications/others/traggo/logo.png
   website: https://traggo.net/
   iframe_website: /website/applications/others/traggo

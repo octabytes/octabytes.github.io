@@ -21,6 +21,7 @@ meta:
 content:
   id: plane
   name: Plane
+  title: Open-Source Project and Product Management Tool
   logo: /images/applications/project-management/plane/logo.png
   website: https://plane.so/
   iframe_website: /website/applications/project-management/plane

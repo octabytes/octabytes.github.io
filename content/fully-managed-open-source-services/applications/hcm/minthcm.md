@@ -21,6 +21,7 @@ meta:
 content:
   id: minthcm
   name: MintHCM
+  title: Revolutionizing Human Resource Management for Modern Businesses
   logo: /images/applications/hcm/minthcm/logo.png
   website: https://minthcm.org/
   iframe_website: /website/applications/hcm/minthcm

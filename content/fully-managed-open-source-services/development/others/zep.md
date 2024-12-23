@@ -21,6 +21,7 @@ meta:
 content:
   id: zep
   name: Zep
+  title: Enhance AI Experiences with Zep's Long-Term Memory for Assistants
   logo: /images/development/others/zep/logo.png
   website: https://www.getzep.com/
   iframe_website: /website/development/others/zep

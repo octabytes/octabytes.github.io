@@ -21,6 +21,7 @@ meta:
 content:
   id: nextcloud
   name: Nextcloud
+  title: "Boost Your Productivity and Privacy with Nextcloud: The Ultimate Self-Hosted Solution"
   logo: /images/hosting-and-infrastructure/storage/nextcloud/logo.png
   website: https://nextcloud.com/
   iframe_website: /website/hosting-and-infrastructure/storage/nextcloud

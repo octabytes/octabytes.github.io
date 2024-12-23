@@ -21,6 +21,7 @@ meta:
 content:
   id: syncthing
   name: Syncthing
+  title: Syncthing - Secure, Real-Time Peer-to-Peer File Synchronization for All Your Devices
   logo: /images/hosting-and-infrastructure/storage/syncthing/logo.png
   website: https://forum.syncthing.net/
   iframe_website: /website/hosting-and-infrastructure/storage/syncthing

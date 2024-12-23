@@ -21,6 +21,7 @@ meta:
 content:
   id: anythingllm
   name: AnythingLLM
+  title: The Ultimate AI-Powered Document and Resource Chat Solution
   logo: /images/applications/others/anythingllm/logo.png
   website: https://useanything.com/
   iframe_website: /website/applications/others/anythingllm

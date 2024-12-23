@@ -21,6 +21,7 @@ meta:
 content:
   id: appsmith
   name: Appsmith
+  title: Build Powerful Internal Applications with Ease
   logo: /images/development/nocode-lowcode/appsmith/logo.png
   website: https://www.appsmith.com/
   iframe_website: /website/development/nocode-lowcode/appsmith

@@ -21,6 +21,7 @@ meta:
 content:
   id: odoo
   name: Odoo ERP & CRM
+  title: "Boost Your Business with Odoo ERP & CRM: Seamlessly Integrated Solutions for Efficiency and Growth"
   logo: /images/applications/crm-erp/odoo/logo.png
   website: https://www.odoo.com/
   iframe_website: /website/applications/crm-erp/odoo

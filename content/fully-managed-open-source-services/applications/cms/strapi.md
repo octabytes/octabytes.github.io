@@ -21,6 +21,7 @@ meta:
 content:
   id: strapi
   name: Strapi
+  title: The Leading Open-Source Headless CMS for Developers
   logo: /images/applications/cms/strapi/logo.png
   website: https://strapi.io/
   iframe_website: /website/applications/cms/strapi

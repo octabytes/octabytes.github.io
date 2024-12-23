@@ -21,6 +21,7 @@ meta:
 content:
   id: docuseal
   name: DocuSeal
+  title: Streamline Document Filling and Signing with Ease
   logo: /images/applications/documentation/docuseal/logo.png
   website: https://www.docuseal.co/
   iframe_website: /website/applications/documentation/docuseal

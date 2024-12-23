@@ -21,6 +21,7 @@ meta:
 content:
   id: element
   name: Element
+  title: The Secure, Decentralized Messaging and Collaboration Platform
   logo: /images/applications/forum-community/element/logo.png
   website: https://element.io/
   iframe_website: /website/applications/forum-community/element

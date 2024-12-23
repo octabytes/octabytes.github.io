@@ -21,6 +21,7 @@ meta:
 content:
   id: hi-events
   name: Hi-events
+  title: The Ultimate Self-Hosted Event Management and Ticketing Platform
   logo: /images/applications/others/hi-events/logo.png
   website: https://hi.events/
   iframe_website: /website/applications/others/hi-events

@@ -21,6 +21,7 @@ meta:
 content:
   id: fugu
   name: Fugu
+  title: Simple, Privacy-Friendly, Open-Source Product Analytics for Self-Hosting
   logo: /images/applications/analytics/fugu/logo.png
   website: https://fugu.lol/
   iframe_website: /website/applications/analytics/fugu

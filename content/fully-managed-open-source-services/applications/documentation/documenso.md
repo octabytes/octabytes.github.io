@@ -21,6 +21,7 @@ meta:
 content:
   id: documenso
   name: Documenso
+  title: Open Source DocuSign Alternative for Effortless Document Signing
   logo: /images/applications/documentation/documenso/logo.png
   website: https://documenso.com/
   iframe_website: /website/applications/documentation/documenso

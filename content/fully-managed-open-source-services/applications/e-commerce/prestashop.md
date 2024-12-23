@@ -21,6 +21,7 @@ meta:
 content:
   id: prestashop
   name: Prestashop
+  title: The Best Open-Source E-Commerce Platform for Your Online Store
   logo: /images/applications/e-commerce/prestashop/logo.png
   website: https://www.prestashop-project.org/
   iframe_website: /website/applications/e-commerce/prestashop

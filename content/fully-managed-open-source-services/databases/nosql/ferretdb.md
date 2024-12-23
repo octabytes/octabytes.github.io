@@ -21,6 +21,7 @@ meta:
 content:
   id: ferretdb
   name: FerretDB
+  title: Effortlessly Deploy and Manage FerretDB Database with OctaByte
   logo: /images/databases/nosql/ferretdb/logo.png
   website: https://www.ferretdb.com/
   iframe_website: /website/databases/nosql/ferretdb

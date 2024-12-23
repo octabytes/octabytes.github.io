@@ -21,6 +21,7 @@ meta:
 content:
   id: authentik
   name: Authentik
+  title: Open-Source Identity Provider for Seamless Authentication & Access Control
   logo: /images/development/identity-and-access-management/authentik/logo.png
   website: https://goauthentik.io/
   iframe_website: /website/development/identity-and-access-management/authentik

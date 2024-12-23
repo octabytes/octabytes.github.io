@@ -21,6 +21,7 @@ meta:
 content:
   id: kellnr
   name: Kellnr
+  title: Host Private Rust Crates on Your Own Hardware with Full Control
   logo: /images/development/dev-ops/kellnr/logo.png
   website: https://kellnr.io/
   iframe_website: /website/development/dev-ops/kellnr

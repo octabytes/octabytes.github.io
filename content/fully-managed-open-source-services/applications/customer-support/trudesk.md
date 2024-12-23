@@ -21,6 +21,7 @@ meta:
 content:
   id: trudesk
   name: Trudesk
+  title: Simplified Task and Issue Management for Better Productivity
   logo: /images/applications/customer-support/trudesk/logo.png
   website: https://trudesk.io/
   iframe_website: /website/applications/customer-support/trudesk

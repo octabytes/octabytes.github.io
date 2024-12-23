@@ -21,6 +21,7 @@ meta:
 content:
   id: lowcoder
   name: Lowcoder
+  title: The Ultimate Low-Code Platform for Building Software Applications
   logo: /images/development/nocode-lowcode/lowcoder/logo.png
   website: https://lowcoder.cloud/
   iframe_website: /website/development/nocode-lowcode/lowcoder

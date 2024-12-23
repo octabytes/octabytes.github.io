@@ -21,6 +21,7 @@ meta:
 content:
   id: wazuh
   name: Wazuh
+  title: Open-Source Security Platform for Unified XDR and SIEM Protection
   logo: /images/applications/others/wazuh/logo.png
   website: https://wazuh.com/
   iframe_website: /website/applications/others/wazuh

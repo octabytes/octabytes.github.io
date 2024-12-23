@@ -21,6 +21,7 @@ meta:
 content:
   id: mapzy
   name: Mapzy
+  title: The Effortless, Privacy-Friendly Store Locator for Your Website
   logo: /images/applications/others/mapzy/logo.png
   website: https://mapzy.io/
   iframe_website: /website/applications/others/mapzy

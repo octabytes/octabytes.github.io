@@ -21,6 +21,7 @@ meta:
 content:
   id: snipe-it
   name: Snipe-it
+  title: Streamlined IT Asset Management Solution for Enhanced Efficiency
   logo: /images/applications/others/snipe-it/logo.png
   website: https://snipeitapp.com/support
   iframe_website: /website/applications/others/snipe-it

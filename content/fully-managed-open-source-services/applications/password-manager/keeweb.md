@@ -21,6 +21,7 @@ meta:
 content:
   id: keeweb
   name: KeeWeb
+  title: Open-Source Password Manager for Secure and Convenient Password Management
   logo: /images/applications/password-manager/keeweb/logo.png
   website: https://keeweb.info/
   iframe_website: /website/applications/password-manager/keeweb

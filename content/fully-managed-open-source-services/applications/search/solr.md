@@ -21,6 +21,7 @@ meta:
 content:
   id: solr
   name: Solr
+  title: High-Performance, Open-Source Enterprise Search Platform
   logo: /images/applications/search/solr/logo.png
   website: https://solr.apache.org/
   iframe_website: /website/applications/search/solr

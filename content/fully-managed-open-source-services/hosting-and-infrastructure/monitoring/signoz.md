@@ -21,6 +21,7 @@ meta:
 content:
   id: signoz
   name: SigNoz
+  title: "Open-Source Application Performance Management (APM) for Seamless Monitoring and Control"
   logo: /images/hosting-and-infrastructure/monitoring/signoz/logo.png
   website: https://signoz.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/signoz

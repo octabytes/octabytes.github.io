@@ -21,6 +21,7 @@ meta:
 content:
   id: gitlab-runner
   name: Gitlab-runner
+  title: Optimize Your CI/CD Pipeline for Faster and More Secure Software Delivery
   logo: /images/development/dev-ops/gitlab-runner/logo.png
   website: https://gitlab.com/
   iframe_website: /website/development/dev-ops/gitlab-runner

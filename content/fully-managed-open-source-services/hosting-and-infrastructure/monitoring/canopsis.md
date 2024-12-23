@@ -21,6 +21,7 @@ meta:
 content:
   id: canopsis
   name: Canopsis
+  title: "Centralized Event Management and Customizable Real-Time Dashboards"
   logo: /images/hosting-and-infrastructure/monitoring/canopsis/logo.png
   website: https://www.capensis.fr/canopsis/
   iframe_website: /website/hosting-and-infrastructure/monitoring/canopsis

@@ -21,6 +21,7 @@ meta:
 content:
   id: siglens
   name: SigLens
+  title: Revolutionizing Log Management with 100x Efficiency
   logo: /images/applications/project-management/siglens/logo.png
   website: https://www.siglens.com/index.html
   iframe_website: /website/applications/project-management/siglens

@@ -21,6 +21,7 @@ meta:
 content:
   id: posthog
   name: PostHog
+  title: Comprehensive Product Analytics and Data Infrastructure for Engineers
   logo: /images/applications/analytics/posthog/logo.png
   website: https://posthog.com/
   iframe_website: /website/applications/analytics/posthog

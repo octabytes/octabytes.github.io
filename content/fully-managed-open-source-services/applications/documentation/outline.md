@@ -21,6 +21,7 @@ meta:
 content:
   id: outline
   name: Outline
+  title: The Ultimate Knowledge Base and Wiki Software for Teams
   logo: /images/applications/documentation/outline/logo.png
   website: https://www.getoutline.com/
   iframe_website: /website/applications/documentation/outline

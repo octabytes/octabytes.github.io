@@ -21,6 +21,7 @@ meta:
 content:
   id: docmost
   name: Docmost
+  title: Open-Source Collaborative Wiki and Documentation Software
   logo: /images/applications/note-taking/docmost/logo.png
   website: https://docmost.com/
   iframe_website: /website/applications/note-taking/docmost

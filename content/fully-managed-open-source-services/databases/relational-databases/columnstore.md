@@ -21,6 +21,7 @@ meta:
 content:
   id: columnstore
   name: ColumnStore
+  title: Open-Source Columnar Storage for Advanced Analytics
   logo: /images/databases/relational-databases/columnstore/logo.png
   website: https://mariadb.org/
   iframe_website: /website/databases/relational-databases/columnstore

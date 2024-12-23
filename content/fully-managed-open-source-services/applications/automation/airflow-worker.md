@@ -21,6 +21,7 @@ meta:
 content:
   id: airflow-worker
   name: Airflow-worker
+  title: Apache Airflow Worker - Simplified Workflow Management and Automation
   logo: /images/applications/automation/airflow-worker/logo.png
   website: https://airflow.apache.org/
   iframe_website: /website/applications/automation/airflow-worker

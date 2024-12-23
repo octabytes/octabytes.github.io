@@ -21,6 +21,7 @@ meta:
 content:
   id: openproject
   name: OpenProject
+  title: Open-Source Project Management Software for Efficient Team Collaboration and Timely Project Delivery
   logo: /images/applications/project-management/openproject/logo.png
   website: https://www.openproject.org/
   iframe_website: /website/applications/project-management/openproject

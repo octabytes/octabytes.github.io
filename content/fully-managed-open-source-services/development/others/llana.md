@@ -21,6 +21,7 @@ meta:
 content:
   id: llana
   name: Llana
+  title: No-Code API Wrapper for Databases – Effortless REST API Generation
   logo: /images/development/others/llana/logo.png
   website: https://llana.io/
   iframe_website: /website/development/others/llana

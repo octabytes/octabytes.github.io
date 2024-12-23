@@ -21,6 +21,7 @@ meta:
 content:
   id: jellyfin
   name: Jellyfin
+  title: The Ultimate Free Software Media Server for Streaming Movies, Music, and More
   logo: /images/development/dev-tools/jellyfin/logo.png
   website: https://jellyfin.org/
   iframe_website: /website/development/dev-tools/jellyfin

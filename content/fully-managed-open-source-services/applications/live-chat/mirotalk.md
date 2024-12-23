@@ -21,6 +21,7 @@ meta:
 content:
   id: mirotalk
   name: MiroTalk
+  title: Secure & High-Quality WebRTC Video Conferencing
   logo: /images/applications/live-chat/mirotalk/logo.png
   website: https://p2p.mirotalk.com/
   iframe_website: /website/applications/live-chat/mirotalk

@@ -21,6 +21,7 @@ meta:
 content:
   id: glpi
   name: GLPI
+  title: Powerful IT Asset Management & Service Desk Software for Efficient Operations
   logo: /images/applications/customer-support/glpi/logo.png
   website: https://glpi-project.org/
   iframe_website: /website/applications/customer-support/glpi

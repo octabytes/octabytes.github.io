@@ -21,6 +21,7 @@ meta:
 content:
   id: joplin
   name: Joplin
+  title: The Ultimate Open-Source Note-Taking and To-Do App
   logo: /images/applications/note-taking/joplin/logo.png
   website: https://joplinapp.org/
   iframe_website: /website/applications/note-taking/joplin

@@ -21,6 +21,7 @@ meta:
 content:
   id: taiga
   name: Taiga
+  title: The Ultimate Project Management Tool for Agile Teams
   logo: /images/applications/project-management/taiga/logo.png
   website: https://www.taiga.io/
   iframe_website: /website/applications/project-management/taiga

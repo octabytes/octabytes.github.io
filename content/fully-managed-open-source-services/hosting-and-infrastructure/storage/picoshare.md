@@ -21,6 +21,7 @@ meta:
 content:
   id: picoshare
   name: Picoshare
+  title: "PicoShare: Effortless File Sharing with Direct Download Links"
   logo: /images/hosting-and-infrastructure/storage/picoshare/logo.png
   website: https://pico.rocks/
   iframe_website: /website/hosting-and-infrastructure/storage/picoshare

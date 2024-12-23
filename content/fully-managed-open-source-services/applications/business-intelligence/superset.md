@@ -21,6 +21,7 @@ meta:
 content:
   id: superset
   name: Superset
+  title: Powerful Data Visualization and Exploration for Modern Businesses
   logo: /images/applications/business-intelligence/superset/logo.png
   website: https://superset.apache.org/
   iframe_website: /website/applications/business-intelligence/superset

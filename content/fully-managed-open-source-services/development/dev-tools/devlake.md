@@ -21,6 +21,7 @@ meta:
 content:
   id: devlake
   name: DevLake
+  title: Unify and Optimize Your DevOps Data for Engineering Excellence
   logo: /images/development/dev-tools/devlake/logo.png
   website: https://devlake.apache.org/
   iframe_website: /website/development/dev-tools/devlake

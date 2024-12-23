@@ -21,6 +21,7 @@ meta:
 content:
   id: dittofeed
   name: Dittofeed
+  title: Boost Customer Engagement with Dittofeed – Automate and Personalize Communications
   logo: /images/applications/customer-support/dittofeed/logo.png
   website: https://dittofeed.com/
   iframe_website: /website/applications/customer-support/dittofeed

@@ -21,6 +21,7 @@ meta:
 content:
   id: saltcorn
   name: Saltcorn
+  title: Build Powerful Database Web Applications with Saltcorn – No Code Required
   logo: /images/applications/others/saltcorn/logo.png
   website: https://saltcorn.com/
   iframe_website: /website/applications/others/saltcorn

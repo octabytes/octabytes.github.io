@@ -21,6 +21,7 @@ meta:
 content:
   id: postgresql
   name: PostgreSQL
+  title: Reliable, Extensible, and Secure Open-Source Database Solution
   logo: /images/databases/relational-databases/postgresql/logo.png
   website: https://www.postgresql.org/
   iframe_website: /website/databases/relational-databases/postgresql

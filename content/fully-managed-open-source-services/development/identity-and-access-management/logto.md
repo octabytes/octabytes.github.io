@@ -21,6 +21,7 @@ meta:
 content:
   id: logto
   name: Logto
+  title: The Ultimate Auth0 Alternative for Modern Customer Identity Management
   logo: /images/development/identity-and-access-management/logto/logo.png
   website: https://logto.io/
   iframe_website: /website/development/identity-and-access-management/logto

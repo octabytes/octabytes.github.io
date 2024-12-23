@@ -21,6 +21,7 @@ meta:
 content:
   id: flowiseai
   name: FlowiseAI
+  title: Build Customizable AI Flows with LangchainJS in NodeJS
   logo: /images/development/others/flowiseai/logo.png
   website: https://flowiseai.com/
   iframe_website: /website/development/others/flowiseai

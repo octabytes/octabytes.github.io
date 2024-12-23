@@ -21,6 +21,7 @@ meta:
 content:
   id: cryptpad
   name: CryptPad
+  title: Secure, Open-Source Collaboration Suite
   logo: /images/applications/crm-erp/cryptpad/logo.png
   website: https://cryptpad.fr/
   iframe_website: /website/applications/crm-erp/cryptpad

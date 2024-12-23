@@ -21,6 +21,7 @@ meta:
 content:
   id: joomla
   name: Joomla
+  title: A Powerful, Open-Source CMS for Effortless Web Publishing
   logo: /images/applications/cms/joomla/logo.png
   website: https://www.joomla.org/
   iframe_website: /website/applications/cms/joomla

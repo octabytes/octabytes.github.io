@@ -21,6 +21,7 @@ meta:
 content:
   id: documize
   name: Documize
+  title: The Free, Enterprise-Ready Wiki and Knowledge-Base Software
   logo: /images/applications/documentation/documize/logo.png
   website: https://www.documize.com/community
   iframe_website: /website/applications/documentation/documize

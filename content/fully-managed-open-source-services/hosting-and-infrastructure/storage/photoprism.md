@@ -21,6 +21,7 @@ meta:
 content:
   id: photoprism
   name: PhotoPrism
+  title: PhotoPrism – AI-Powered Photo Management & Organization Tool
   logo: /images/hosting-and-infrastructure/storage/photoprism/logo.png
   website: https://photoprism.app/
   iframe_website: /website/hosting-and-infrastructure/storage/photoprism

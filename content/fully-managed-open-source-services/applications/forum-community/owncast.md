@@ -21,6 +21,7 @@ meta:
 content:
   id: owncast
   name: Owncast
+  title: Open-Source Self-Hosted Live Streaming and Chat Platform for Total Control
   logo: /images/applications/forum-community/owncast/logo.png
   website: https://owncast.online/
   iframe_website: /website/applications/forum-community/owncast

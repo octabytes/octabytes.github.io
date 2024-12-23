@@ -21,6 +21,7 @@ meta:
 content:
   id: listmonk
   name: Listmonk
+  title: Self-Hosted Newsletter and Mailing List Manager
   logo: /images/applications/email-marketing/listmonk/logo.png
   website: https://listmonk.app/
   iframe_website: /website/applications/email-marketing/listmonk

@@ -21,6 +21,7 @@ meta:
 content:
   id: kafka
   name: Kafka
+  title: High-Throughput, Real-Time Data Streaming for Businesses
   logo: /images/databases/specialized-databases/kafka/logo.png
   website: https://kafka.apache.org/
   iframe_website: /website/databases/specialized-databases/kafka

@@ -21,6 +21,7 @@ meta:
 content:
   id: chiefonboarding
   name: ChiefOnboarding
+  title: Simplify and Enhance Employee Onboarding with ChiefOnboarding
   logo: /images/applications/crm-erp/chiefonboarding/logo.png
   website: https://chiefonboarding.com/
   iframe_website: /website/applications/crm-erp/chiefonboarding

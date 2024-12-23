@@ -21,6 +21,7 @@ meta:
 content:
   id: k3s
   name: K3S
+  title: The Lightweight Kubernetes Distribution for Edge, ARM, and IoT Environments
   logo: /images/development/dev-ops/k3s/logo.png
   website: https://k3s.io/
   iframe_website: /website/development/dev-ops/k3s

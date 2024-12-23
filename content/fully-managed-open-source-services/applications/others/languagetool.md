@@ -21,6 +21,7 @@ meta:
 content:
   id: languagetool
   name: LanguageTool
+  title: Multilingual Grammar, Style, and Spell Checker for Effortless Writing
   logo: /images/applications/others/languagetool/logo.png
   website: https://languagetool.org/
   iframe_website: /website/applications/others/languagetool

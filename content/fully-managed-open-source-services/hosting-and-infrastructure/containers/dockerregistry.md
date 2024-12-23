@@ -21,6 +21,7 @@ meta:
 content:
   id: dockerregistry
   name: DockerRegistry
+  title: "Secure and Efficient Image Storage and Distribution"
   logo: /images/hosting-and-infrastructure/containers/dockerregistry/logo.png
   website: https://docs.docker.com/registry/
   iframe_website: /website/hosting-and-infrastructure/containers/dockerregistry

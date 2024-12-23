@@ -21,6 +21,7 @@ meta:
 content:
   id: castopod
   name: Castopod
+  title: The Ultimate Open-Source Podcast Hosting Solution
   logo: /images/applications/fediverse/castopod/logo.png
   website: https://castopod.org/
   iframe_website: /website/applications/fediverse/castopod

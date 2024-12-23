@@ -21,6 +21,7 @@ meta:
 content:
   id: microk8s
   name: Microk8s
+  title: "Effortless Kubernetes Management with MicroK8s"
   logo: /images/hosting-and-infrastructure/containers/microk8s/logo.png
   website: https://microk8s.io
   iframe_website: /website/hosting-and-infrastructure/containers/microk8s

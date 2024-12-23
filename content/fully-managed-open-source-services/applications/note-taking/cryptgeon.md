@@ -21,6 +21,7 @@ meta:
 content:
   id: cryptgeon
   name: Cryptgeon
+  title: Secure File and Note Sharing with Cryptgeon - Open-Source, Client-Side Encrypted Service
   logo: /images/applications/note-taking/cryptgeon/logo.png
   website: https://cryptgeon.org/
   iframe_website: /website/applications/note-taking/cryptgeon

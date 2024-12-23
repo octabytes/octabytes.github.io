@@ -21,6 +21,7 @@ meta:
 content:
   id: revolt
   name: Revolt
+  title: A Secure and Customizable Chat App for Communities and Friends
   logo: /images/applications/live-chat/revolt/logo.png
   website: https://revolt.chat/
   iframe_website: /website/applications/live-chat/revolt

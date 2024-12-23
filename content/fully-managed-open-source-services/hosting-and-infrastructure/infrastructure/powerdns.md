@@ -21,6 +21,7 @@ meta:
 content:
   id: powerdns
   name: PowerDNS
+  title: "High-Performance DNS Server with Flexible Backends"
   logo: /images/hosting-and-infrastructure/infrastructure/powerdns/logo.png
   website: https://www.powerdns.com/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/powerdns

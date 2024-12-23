@@ -21,6 +21,7 @@ meta:
 content:
   id: localstack
   name: LocalStack
+  title: "Powerful Local Cloud Emulation for Seamless Development and Testing"
   logo: /images/hosting-and-infrastructure/infrastructure/localstack/logo.png
   website: https://localstack.cloud/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/localstack

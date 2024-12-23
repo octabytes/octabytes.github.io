@@ -21,6 +21,7 @@ meta:
 content:
   id: healthchecks
   name: Healthchecks
+  title: Cron Job Monitoring and Alerts Service
   logo: /images/development/dev-ops/healthchecks/logo.png
   website: https://healthchecks.io/
   iframe_website: /website/development/dev-ops/healthchecks

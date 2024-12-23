@@ -21,6 +21,7 @@ meta:
 content:
   id: activepieces
   name: Activepieces
+  title: The Ultimate No-Code Automation Tool for Effortless Workflow Management
   logo: /images/applications/automation/activepieces/logo.png
   website: https://www.activepieces.com/
   iframe_website: /website/applications/automation/activepieces

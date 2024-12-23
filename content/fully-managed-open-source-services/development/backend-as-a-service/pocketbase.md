@@ -21,6 +21,7 @@ meta:
 content:
   id: pocketbase
   name: PocketBase
+  title: The Open-Source Backend for Real-Time Apps
   logo: /images/development/backend-as-a-service/pocketbase/logo.png
   website: https://pocketbase.io/
   iframe_website: /website/development/backend-as-a-service/pocketbase

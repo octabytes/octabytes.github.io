@@ -21,6 +21,7 @@ meta:
 content:
   id: tracardi
   name: Tracardi
+  title: The API-First, Low-Code/No-Code Customer Data Platform for E-commerce Businesses
   logo: /images/applications/customer-support/tracardi/logo.png
   website: https://tracardi.com/
   iframe_website: /website/applications/customer-support/tracardi

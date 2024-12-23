@@ -21,6 +21,7 @@ meta:
 content:
   id: mattermost
   name: Mattermost Team Edition
+  title: Unlock Seamless Team Collaboration with Mattermost Team Edition
   logo: /images/applications/live-chat/mattermost/logo.png
   website: https://mattermost.com/pricing-self-managed/
   iframe_website: /website/applications/live-chat/mattermost

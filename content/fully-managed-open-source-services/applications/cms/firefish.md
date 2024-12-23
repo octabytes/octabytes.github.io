@@ -21,6 +21,7 @@ meta:
 content:
   id: firefish
   name: Firefish
+  title: A Powerful Microblogging Platform in the Fediverse
   logo: /images/applications/cms/firefish/logo.png
   website: https://joinfirefish.org/
   iframe_website: /website/applications/cms/firefish

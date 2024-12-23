@@ -21,6 +21,7 @@ meta:
 content:
   id: limesurvey
   name: LimeSurvey
+  title: The Ultimate Free Open-Source Survey Tool for Insights and Feedback
   logo: /images/applications/product-feedback/limesurvey/logo.png
   website: https://www.limesurvey.org/
   iframe_website: /website/applications/product-feedback/limesurvey

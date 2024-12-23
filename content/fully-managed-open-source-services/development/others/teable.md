@@ -21,6 +21,7 @@ meta:
 content:
   id: teable
   name: Teable
+  title: Super-Fast, No-Code Database Built on PostgreSQL for Seamless App Development
   logo: /images/development/others/teable/logo.png
   website: https://teable.io/
   iframe_website: /website/development/others/teable

@@ -21,6 +21,7 @@ meta:
 content:
   id: squid
   name: Squid
+  title: "High-Performance Caching Proxy Server for Web Acceleration"
   logo: /images/hosting-and-infrastructure/infrastructure/squid/logo.png
   website: http://www.squid-cache.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/squid

@@ -21,6 +21,7 @@ meta:
 content:
   id: minio
   name: MinIO
+  title: High-Performance Cloud-Native Object Storage for Modern Applications
   logo: /images/hosting-and-infrastructure/storage/minio/logo.png
   website: https://min.io/
   iframe_website: /website/hosting-and-infrastructure/storage/minio

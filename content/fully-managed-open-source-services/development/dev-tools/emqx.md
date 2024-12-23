@@ -21,6 +21,7 @@ meta:
 content:
   id: emqx
   name: EMQX
+  title: Scalable MQTT Broker for IoT, IIoT, and Connected Vehicles
   logo: /images/development/dev-tools/emqx/logo.png
   website: https://www.emqx.io/
   iframe_website: /website/development/dev-tools/emqx

@@ -21,6 +21,7 @@ meta:
 content:
   id: haproxy
   name: HAProxy
+  title: "The Ultimate Open-Source Solution for Load Balancing and High Availability"
   logo: /images/hosting-and-infrastructure/infrastructure/haproxy/logo.png
   website: https://www.haproxy.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/haproxy

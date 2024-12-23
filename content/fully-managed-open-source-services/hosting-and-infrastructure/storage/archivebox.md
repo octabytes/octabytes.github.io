@@ -21,6 +21,7 @@ meta:
 content:
   id: archivebox
   name: ArchiveBox
+  title: "ArchiveBox - The Ultimate Self-Hosted Internet Archiving Solution"
   logo: /images/hosting-and-infrastructure/storage/archivebox/logo.png
   website: https://archivebox.io/
   iframe_website: /website/hosting-and-infrastructure/storage/archivebox

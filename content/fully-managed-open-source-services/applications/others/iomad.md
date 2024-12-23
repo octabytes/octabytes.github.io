@@ -21,6 +21,7 @@ meta:
 content:
   id: iomad
   name: IOMAD
+  title: Open-Source Multi-Tenancy Solution for Moodle
   logo: /images/applications/others/iomad/logo.png
   website: https://www.iomad.org/
   iframe_website: /website/applications/others/iomad

@@ -21,6 +21,7 @@ meta:
 content:
   id: mailcow
   name: MailCow
+  title: "Simplify Email Server Management with Docker-Based Efficiency"
   logo: /images/hosting-and-infrastructure/email/mailcow/logo.png
   website: https://mailcow.email/
   iframe_website: /website/hosting-and-infrastructure/email/mailcow

@@ -21,6 +21,7 @@ meta:
 content:
   id: itop
   name: iTop
+  title: "The Ultimate IT Service Management Solution for Businesses"
   logo: /images/hosting-and-infrastructure/infrastructure/itop/logo.png
   website: https://www.combodo.com/?lang=en
   iframe_website: /website/hosting-and-infrastructure/infrastructure/itop

@@ -21,6 +21,7 @@ meta:
 content:
   id: chatwoot
   name: Chatwoot
+  title: The Ultimate Open-Source Customer Support Platform
   logo: /images/applications/live-chat/chatwoot/logo.png
   website: https://www.chatwoot.com/
   iframe_website: /website/applications/live-chat/chatwoot

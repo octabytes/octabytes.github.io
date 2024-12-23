@@ -21,6 +21,7 @@ meta:
 content:
   id: postal
   name: Postal
+  title: "A Powerful Open-Source Mail Server for Reliable Email Delivery"
   logo: /images/hosting-and-infrastructure/email/postal/logo.png
   website: https://docs.postalserver.io/
   iframe_website: /website/hosting-and-infrastructure/email/postal

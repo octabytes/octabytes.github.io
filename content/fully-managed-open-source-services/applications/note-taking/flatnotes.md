@@ -21,6 +21,7 @@ meta:
 content:
   id: flatnotes
   name: Flatnotes
+  title: A Simple and Secure Self-Hosted Markdown Note-Taking App
   logo: /images/applications/note-taking/flatnotes/logo.png
   website: https://github.com/dullage/flatnotes
   iframe_website: /website/applications/note-taking/flatnotes

@@ -21,6 +21,7 @@ meta:
 content:
   id: cronicle
   name: Cronicle
+  title: Powerful Multi-Server Task Scheduler with Real-Time Monitoring
   logo: /images/development/dev-ops/cronicle/logo.png
   website: http://cronicle.net/
   iframe_website: /website/development/dev-ops/cronicle

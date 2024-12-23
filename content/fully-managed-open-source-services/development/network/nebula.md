@@ -21,6 +21,7 @@ meta:
 content:
   id: nebula
   name: Nebula
+  title: A Powerful Open-Source Overlay Networking Tool for Seamless Global Connectivity
   logo: /images/development/network/nebula/logo.png
   website: https://github.com/slackhq/nebula
   iframe_website: /website/development/network/nebula

@@ -21,6 +21,7 @@ meta:
 content:
   id: pretix
   name: Pretix
+  title: The Ultimate Ticket Shop Application for Events, Conferences, Festivals, and More
   logo: /images/applications/crm-erp/pretix/logo.png
   website: https://pretix.eu/about/en/
   iframe_website: /website/applications/crm-erp/pretix
