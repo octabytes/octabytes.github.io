@@ -21,7 +21,7 @@ meta:
 content:
   id: sftpgo
   name: SFTPGo
-  title: SFTPGo: A Fully Configurable and Feature-Rich SFTP Server
+  title: A Fully Configurable and Feature-Rich SFTP Server
   logo: /images/hosting-and-infrastructure/storage/sftpgo/logo.png
   website: https://github.com/drakkan/sftpgo
   iframe_website: /website/hosting-and-infrastructure/storage/sftpgo

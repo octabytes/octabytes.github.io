@@ -3,177 +3,398 @@
   {{ if .Params.content.direct_link }}
     {{ $url = .Params.content.website }}
   {{ end }}
-  <section>
-    <div class="p-4 mt-10 w-full">
-      <div class="w-full grid gap-16 items-center sm:grid-cols-[1fr_1.3fr]">
-        <div>
-          <div class="flex items-center gap-5">
-            <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
-              <img
-                src="{{ .Params.content.logo }}"
-                alt="{{ .Title }} logo"
-                style="width: 90px; aspect-ratio: 1; object-fit: contain" />
-            </div>
 
-            <h1 class="text-xl font-extrabold">
-              <span
-                class="text-4xl bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
-                {{ .Params.content.name }}
-              </span>
-              <br />
-              fully managed by OctaByte
-            </h1>
-          </div>
 
-          <div class="ml-4">
-            <p class="mt-2 text-base">
-              {{ .Params.content.description | safeHTML }}
-            </p>
-            <p class="mt-4">
-              Start free {{ .Params.content.name }} trial with OctaByte. Simple
-              no-tricks Pricing, Scalable &amp; Secure, just in
-              <span
-                class="bg-gradient-to-r font-extrabold from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
-                $9.
-              </span>
-            </p>
-            <div class="flex items-center justify-start gap-3 my-5 flex-wrap">
-              <a
-                href="/start-trial?service={{ .Params.content.name }}"
-                class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                Start Free Trial
-              </a>
-
-              <a
-                href="{{ $url }}"
-                target="_blank"
-                class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
-                {{ .Params.content.name }} website
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="-m-2 lg:mr-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
+  <div class="px-20 mt-24">
+    <div class="flex gap-5">
+      <div>
+        <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
           <img
-            class="rounded-md shadow-2xl relative ring-1 ring-gray-900/10"
-            src="{{ index .Params.content.screenshots 0 }}"
-            alt="{{ .Params.content.name }} dashboard"
-            width="100%" />
+            src="{{ .Params.content.logo }}"
+            alt="{{ .Title }} logo"
+            style="width: 90px; aspect-ratio: 1; object-fit: contain" />
         </div>
       </div>
-    </div>
-  </section>
-
-  <section class="bg-white py-24 sm:py-32">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:text-center">
-        <h2
-          class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-          Benefits of Fully Managed {{ .Params.content.name }} by
+      <div>
+        <h1 class="text-xl font-extrabold">
           <span
-            class="bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
-            OctaByte
-          </span>
-        </h2>
-        <p class="mt-6 text-lg leading-8 text-gray-600">
-          Deploy a fully managed
-          <a class="font-extrabold" href="{{ $url }}" target="_blank">
+            class="text-4xl bg-gradient-to-r from-[#ff80b5] to-[#9089fc] bg-clip-text text-transparent">
             {{ .Params.content.name }}
+          </span>
+          <br />
+          fully managed by OctaByte
+        </h1>
+
+        <h2 class="text-xl mt-9">{{ .Params.content.title }}</h2>
+
+        <div class="flex items-center justify-start gap-3 my-5 flex-wrap">
+          <a
+            href="/start-trial?service={{ .Params.content.name }}"
+            class="rounded-md isolate bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+            Start Free Trial
           </a>
-          instance for just
-          <span class="font-extrabold">$9.</span>
 
-          Let OctaByte handle installation, configuration, encryption, security,
-          backups, live monitoring, and software & OS updates—so you can focus
-          on your work stress-free.
+          <a
+            href="{{ $url }}"
+            target="_blank"
+            class="rounded-md isolate bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+            {{ .Params.content.name }} website
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-9 isolate">
+    <div class="sm:hidden">
+      <label for="tabs" class="sr-only">Select a tab</label>
+      <!-- Use an "onChange" listener to redirect the user to the selected tab URL. -->
+      <select
+        id="tabs"
+        name="tabs"
+        class="block w-full rounded-md border-gray-300 py-2 pl-3 pr-10 text-base focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
+        <option>My Account</option>
+
+        <option>Company</option>
+
+        <option selected>Team Members</option>
+
+        <option>Billing</option>
+      </select>
+    </div>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
+    <div class="hidden sm:block border-b border-gray-200">
+      <div class="px-20">
+        <nav class="-mb-px flex space-x-8" aria-label="Tabs">
+          <!-- Current: "border-indigo-500 text-indigo-600", Default: "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300" -->
+          <a
+            href="#overview"
+            class="border-indigo-500 text-indigo-600 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
+            Overview
+          </a>
+
+          <a
+            href="#features"
+            class="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
+            Features
+          </a>
+
+          <a
+            href="#benefits-of-octabyte"
+            class="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm"
+            aria-current="page">
+            Benefits of OctaByte
+          </a>
+
+          <a
+            href="#screenshots"
+            class="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
+            Screenshots
+          </a>
+
+          <a
+            href="#related-softwares"
+            class="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
+            Related Softwares
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <div class="px-20 grid grid-cols-5 gap-36">
+    <div class="col-span-3">
+      <div
+        class="
+        [&_h2]:text-xl [&_h2]:py-4 [&_h2]:font-semibold [&_h2]:tracking-tight [&_h2]:text-gray-900
+        [&_h3]:text-base [&_h3]:pt-2 [&_h3]:font-semibold [&_h3]:tracking-tight [&_h3]:text-gray-900
+        [&_ul]:list-disc [&_ul]:ml-8
+        [&_p]:mt-2 [&_p]:text-gray-500
+        [&_a]:font-semibold [&_a]:text-indigo-600">
+        {{ .Content }}
+
+
+        <h2 id="benefits-of-octabyte" class="mt-4">
+          Benefits of using OctaByte
+        </h2>
+        <p>
+          At OctaByte, we make deploying and managing open-source software
+          effortless, ensuring you can focus on your core business without
+          getting bogged down by technical complexities. Our fully managed
+          service provides a streamlined solution for hosting over 350+
+          open-source applications. From initial setup to ongoing maintenance,
+          we handle everything so that you can enjoy a worry-free experience.
         </p>
-      </div>
-      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
-        <dl
-          class="grid max-w-xl grid-cols-1 gap-y-10 gap-x-8 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
-          {{ with .Site.GetPage "home" }}
-            {{ range .Params.features.features }}
-              <div class="relative pl-16">
-                <dt class="text-base font-semibold leading-7 text-gray-900">
-                  <div
-                    class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-r from-[#ff80b5] to-[#9089fc]">
-                    {{ partial "utils/icon" (dict "name" .icon "class" "h-6 w-6 text-white") }}
-                  </div>
-                  {{ .title }}
-                </dt>
-                <dd class="mt-2 text-base leading-7 text-gray-600">
-                  {{ .description }}
-                </dd>
-              </div>
-            {{ end }}
-          {{ end }}
-        </dl>
+        <p>
+          Managing open-source software independently can be time-consuming and
+          require technical expertise. OctaByte eliminates these hurdles,
+          offering a hassle-free experience with top-notch infrastructure and
+          proactive support. Whether you're a startup, a growing enterprise, or
+          an individual user, our fully managed service is tailored to simplify
+          your open-source software management needs.
+        </p>
+        <h2>Key Benefits</h2>
+        <ul>
+          <li>
+            <h3>Time Savings</h3>
+            <p>
+              Skip the steep learning curve of deploying and maintaining
+              open-source software. Let our experts handle the heavy lifting.
+            </p>
+          </li>
+          <li>
+            <h3>Cost-Effective Solution</h3>
+            <p>
+              Avoid hiring specialized IT staff or investing in expensive
+              infrastructure. OctaByte provides an all-in-one solution at an
+              affordable price.
+            </p>
+          </li>
+          <li>
+            <h3>Automatic Backups & Restores</h3>
+            <p>
+              Your data is safe with us. We provide regular automated backups
+              and easy restoration options for peace of mind.
+            </p>
+          </li>
+          <li>
+            <h3>Seamless SSL Management</h3>
+            <p>
+              Enjoy secure connections with automatically managed SSL
+              certificates, ensuring your software is always up-to-date with the
+              latest security standards.
+            </p>
+          </li>
+          <li>
+            <h3>Support</h3>
+            <p>
+              Our dedicated support team is always available to address your
+              concerns and provide expert guidance.
+            </p>
+          </li>
+        </ul>
       </div>
     </div>
-  </section>
-
-  <section id="features">
-    <div class="bg-white py-24">
-      <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto max-w-2xl sm:text-center">
-          <h2
-            class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            {{ partial "utils/highlight" (printf "Key features of '%s'" .Params.content.name) }}
-          </h2>
+    <div class="mt-9 col-span-2">
+      <div>
+        <h2 class="text-xl pt-4 font-semibold tracking-tight text-gray-900">
+          Category
+        </h2>
+        <div class="mt-4 flex gap-2 flex-wrap">
+          {{ range .Params.meta.breadcrumb | last 3 | first 2 }}
+            <a
+              href="{{ .url }}"
+              class="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-xs font-medium text-gray-800">
+              {{ .name }}
+            </a>
+          {{ end }}
         </div>
       </div>
-      <div class="relative overflow-hidden pt-16">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div>
+        <h2 class="text-xl pt-8 font-semibold tracking-tight text-gray-900">
+          Tags
+        </h2>
+        <div class="mt-4 flex gap-2 flex-wrap">
+          {{ range split .Params.meta.keywords "," }}
+            <span
+              class="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-xs font-medium text-gray-800">
+              {{ . }}
+            </span>
+          {{ end }}
+        </div>
+      </div>
+      <div>
+        <h2 class="text-xl pt-8 font-semibold tracking-tight text-gray-900">
+          Navigation
+        </h2>
+        <div class="border-b border-gray-200 hidden lg:block">
+          <nav aria-label="Breadcrumb">
+            <ol role="list" class="flex flex-wrap items-center gap-4 py-4">
+              {{ range $index, $breadcrumb := .Params.meta.breadcrumb }}
+                {{ $isLast := eq $index (sub (len $.Params.meta.breadcrumb) 1) }}
+                {{ $linkClass := "text-gray-900" }}
+                {{ if $isLast }}
+                  {{ $linkClass = "text-gray-500 hover:text-gray-600" }}
+                {{ end }}
+                <li class="flex items-center">
+                  <a
+                    href="{{ $breadcrumb.url }}"
+                    class="mr-4 text-sm font-medium {{ $linkClass }}">
+                    {{ $breadcrumb.name }}
+                  </a>
+                  {{ if not $isLast }}
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                      aria-hidden="true"
+                      data-slot="icon"
+                      class="h-5 w-auto text-gray-300">
+                      <path
+                        fill-rule="evenodd"
+                        d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z"
+                        clip-rule="evenodd"></path>
+                    </svg>
+                  {{ end }}
+                </li>
+              {{ end }}
+            </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="screenshots" class="px-20 mt-4">
+    <h2 class="text-xl py-4 font-semibold tracking-tight text-gray-900">
+      Screenshots
+    </h2>
+    <div class="flex gap-12">
+      {{ range .Params.content.screenshots }}
+        <div
+          class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
           <div
-            class="rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
-            <img
-              src="{{ index .Params.content.screenshots 1 }}"
-              alt="App screenshot"
-              class="mb-[-12%] rounded-md shadow-2xl relative ring-1 ring-gray-900/10" />
-          </div>
-
-          <div class="relative" aria-hidden="true">
-            <div
-              class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]"></div>
-          </div>
+            class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
+          <img src="{{ . }}" alt="{{ $.Title }} screenshot" width="100%" />
         </div>
-      </div>
-      <div class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
-        <dl
-          class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16">
-          {{ range .Params.content.features }}
-            <div class="relative pl-9">
-              <dt class="inline font-semibold text-gray-900">
-                <svg
-                  class="absolute top-1 left-1 h-5 w-5 text-indigo-600"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 20 20"
-                  fill="currentColor"
-                  aria-hidden="true">
-                  <path
-                    fill-rule="evenodd"
-                    d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z"
-                    clip-rule="evenodd"></path>
-                </svg>
-                {{ .title }}
-              </dt>
-              <dd class="inline">
-                {{ .description }}
-              </dd>
-            </div>
-          {{ end }}
-        </dl>
-      </div>
+      {{ end }}
     </div>
-  </section>
+  </div>
 
-  <section id="get-started-trial">
+  <div id="start-trial" class="relative isolate">
     {{ $title := printf "Start your %s trial now!" .Params.content.name }}
     {{ $description := printf "Easily deploy and manage your %s instance with just a click." .Params.content.name }}
     {{ $url := printf "/start-trial?service=%s" .Params.content.name }}
     {{ $button := (dict "label" "Get Started Free Trial" "url" $url) }}
-    {{ partial "home/cta" (dict "title" $title "description" $description "button" $button ) }}
-  </section>
+    <div
+      class="absolute bottom-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:bottom-[-4rem]">
+      <svg
+        class="relative left-[calc(50%-11rem)] -z-10 h-[21.1875rem] max-w-none -translate-x-1/2 rotate-[30deg] sm:left-[calc(50%-30rem)] sm:h-[42.375rem]"
+        viewBox="0 0 1155 678">
+        <path
+          fill="url(#9b2541ea-d39d-499b-bd42-aeea3e93f5ff)"
+          fill-opacity=".3"
+          d="M317.219 518.975L203.852 678 0 438.341l317.219 80.634 204.172-286.402c1.307 132.337 45.083 346.658 209.733 145.248C936.936 126.058 882.053-94.234 1031.02 41.331c119.18 108.451 130.68 295.337 121.53 375.223L855 299l21.173 362.054-558.954-142.079z" />
+        <defs>
+          <linearGradient
+            id="9b2541ea-d39d-499b-bd42-aeea3e93f5ff"
+            x1="1155.49"
+            x2="-78.208"
+            y1=".177"
+            y2="474.645"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9089FC"></stop>
+            <stop offset="1" stop-color="#FF80B5"></stop>
+          </linearGradient>
+        </defs>
+      </svg>
+    </div>
+    <div class="py-24 px-6 sm:px-6 sm:py-32 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-4xl font-bold tracking-tight text-gray-900">
+          {{ partial "utils/highlight" $title }}
+        </h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
+          {{ $description }}
+        </p>
+        <div class="mt-10 flex items-center justify-center gap-x-6">
+          <a
+            href="{{ $button.url }}"
+            class="rounded-md bg-gradient-to-r from-[#ff80b5] to-[#9089fc] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">
+            {{ $button.label }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="related-softwares" class="px-20 mt-9">
+    {{- $services := .Site.Data.services.catalog_list -}}
+    {{- $currentID := .Params.content.id -}}
+    {{- $allServices := slice -}}
+
+    {{- range $services -}}
+      {{- range .services -}}
+        {{- $allServices = $allServices | append . -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $currentService := (index (where $allServices "id" $currentID) 0) -}}
+
+    {{- if $currentService -}}
+      {{- $categories := split $currentService.category " " -}}
+      {{- $relatedServices := slice -}}
+
+      {{- range $categories -}}
+        {{ $category := . }}
+        {{- range $allServices -}}
+          {{- if in (split .category " ") $category -}}
+            {{- if ne .id $currentID -}}
+              {{- $relatedServices = $relatedServices | append . -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $relatedServices = $relatedServices | uniq | first 6 -}}
+
+
+      <h3 class="text-xl py-4 font-semibold tracking-tight text-gray-900">
+        Related Softwares
+      </h3>
+      <div
+        class="grid grid-cols-1 auto-rows-min gap-y-10 gap-x-6 sm:grid-cols-3 lg:col-span-3 lg:gap-x-8">
+        {{ range $relatedServices }}
+          <div
+            class="group relative flex flex-col overflow-hidden rounded-lg border border-gray-200 bg-white">
+            <div class="px-4 py-5 sm:px-6">
+              <div class="-ml-4 -mt-4 flex items-center justify-between">
+                <div class="ml-4 mt-4">
+                  <img
+                    class="w-12"
+                    src="{{ .image }}"
+                    loading="lazy"
+                    alt="{{ .title }}" />
+                </div>
+                <div class="ml-4 mt-4 flex gap-2 flex-wrap justify-end">
+                  {{ $categories := split .category " " }}
+                  {{ range $categories }}
+                    <span
+                      class="inline-flex items-center rounded-full border border-gray-200 bg-white px-2.5 py-0.5 text-xs font-medium text-gray-800">
+                      {{ replace (title (replace . "-" " ")) " " " " }}
+                    </span>
+                  {{ end }}
+
+                </div>
+              </div>
+            </div>
+
+            <div class="flex flex-1 flex-col space-y-2 p-4">
+              <h3 class="text-sm font-medium text-gray-900">
+                <a href="/fully-managed-open-source-services{{ .url }}">
+                  <span aria-hidden="true" class="absolute inset-0"></span>
+                  {{ .title }}
+                </a>
+              </h3>
+              <p class="text-sm text-gray-500">
+                {{ .description }}
+              </p>
+              <div class="!mt-auto pt-2">
+                <a
+                  href="/fully-managed-open-source-services{{ .url }}"
+                  class="relative flex items-center justify-center rounded-md border border-transparent bg-gray-100 py-2 px-8 text-sm font-medium text-gray-900 hover:bg-gray-200">
+                  Use
+                  {{ .title }}
+                </a>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{- end -}}
+  </div>
 {{ end }}
