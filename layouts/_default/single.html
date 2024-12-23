@@ -224,7 +224,11 @@
                   <a
                     href="{{ $breadcrumb.url }}"
                     class="mr-4 text-sm font-medium {{ $linkClass }}">
-                    {{ $breadcrumb.name }}
+                    {{ if eq $breadcrumb.name "Fully managed Open-Source Services" }}
+                      All softwares
+                    {{ else }}
+                      {{ $breadcrumb.name }}
+                    {{ end }}
                   </a>
                   {{ if not $isLast }}
                     <svg
