@@ -30,8 +30,11 @@ def process_markdown_file(file_path):
     # Update YAML content without description and features
     updated_yaml_content = yaml.dump(yaml_data, sort_keys=False)
 
+    description_paragraphs = description.split("\n")
+    formatted_description = "\n\n".join([f"{paragraph.strip()}" for paragraph in description_paragraphs])
+
     # Prepare markdown content
-    description_md = f"## Overview\n\n{description}\n" if description else ""
+    description_md = f"## Overview\n\n{formatted_description}\n" if formatted_description else ""
     features_md = "## Features\n\n" + "\n\n".join(
         f"- ### {feature['title']}\n\n  {feature['description']}"
         for feature in features
