@@ -28,6 +28,8 @@ for root, _, files in os.walk(content_dir):
             if yaml_data and 'content' in yaml_data and 'description' in yaml_data.get('meta', {}):
                 entry = {
                     "id": yaml_data['content'].get('id', ''),
+                    "name": yaml_data['content'].get('name', ''),
+                    "title": yaml_data['content'].get('title', ''),
                     "description": yaml_data['meta']['description']
                 }
                 data.append(entry)

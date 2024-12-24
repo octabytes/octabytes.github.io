@@ -1,1426 +1,2138 @@
 [
     {
         "id": "filestash",
+        "name": "Filestash",
+        "title": "A Seamless and Secure File Management Solution for Modern Businesses",
         "description": "Filestash is an open-source web app that allows businesses to manage their data efficiently across various storage backends, with a focus on security and seamless collaboration. It can be self-hosted or cloud-based, offering businesses the flexibility they need."
     },
     {
         "id": "paperless-ngx",
+        "name": "Paperless-ngx",
+        "title": "The Ultimate Document Management System for a Paperless Office",
         "description": "Paperless-ngx is a powerful document management system that transforms physical documents into a searchable digital archive, making it easy to scan, index, and organize your paperwork with OCR and full-text search functionality."
     },
     {
         "id": "photoprism",
+        "name": "PhotoPrism",
+        "title": "AI-Powered Photo Management & Organization Tool",
         "description": "PhotoPrism is an AI-driven app that helps you organize, browse, and share your photo collection effortlessly. Experience intelligent photo tagging and easy search features while running it on your server, private cloud, or at home."
     },
     {
         "id": "sftpgo",
+        "name": "SFTPGo",
+        "title": "A Fully Configurable and Feature-Rich SFTP Server",
         "description": "SFTPGo is a powerful and highly configurable SFTP server that supports a wide range of protocols, including SFTP, HTTP/S, FTP/S, and WebDAV. With multiple storage backend options, it offers an intuitive web UI, robust API, and a wide range of features to ensure secure and efficient file management."
     },
     {
         "id": "minio",
+        "name": "MinIO",
+        "title": "High-Performance Cloud-Native Object Storage for Modern Applications",
         "description": "MinIO offers the fastest, most scalable object storage solution designed for cloud-native environments, providing seamless support across hybrid, multi-cloud, and edge use cases. Perfect for AI/ML, analytics, backups, and modern web apps."
     },
     {
         "id": "picoshare",
+        "name": "Picoshare",
+        "title": "Effortless File Sharing with Direct Download Links",
         "description": "PicoShare allows you to upload and share files with anyone via direct download links, no sign-ups required. Share files of any type and size, with no re-encoding or restrictions."
     },
     {
         "id": "docspell",
+        "name": "Docspell",
+        "title": "Efficient Document Management with Docspell: Organize, Search, and Automate Your Digital Files",
         "description": "Docspell is an open-source document management tool that uses OCR, text analysis, and automated categorization to help you organize and manage your digital files with ease."
     },
     {
         "id": "syncthing",
+        "name": "Syncthing",
+        "title": "Secure, Real-Time Peer-to-Peer File Synchronization for All Your Devices",
         "description": "Syncthing is an open-source, peer-to-peer file synchronization tool offering secure, real-time syncing across all devices without relying on cloud services."
     },
     {
         "id": "nextcloud",
+        "name": "Nextcloud",
+        "title": "Boost Your Productivity and Privacy with Nextcloud: The Ultimate Self-Hosted Solution",
         "description": "Nextcloud is a self-hosted productivity platform offering the perfect balance of ease of use and enterprise-level security. Control, protect, and access your data from anywhere with the flexibility and privacy you need."
     },
     {
         "id": "immich",
+        "name": "Immich",
+        "title": "The Self-Hosted Google Photos Alternative with AI-Powered Photo Management",
         "description": "Immich is a self-hosted photo management solution that mimics Google Photos' UI and features. With TensorFlow-based machine learning, Immich offers powerful auto-tagging and reverse geocoding, all while keeping your photos private and secure."
     },
     {
         "id": "archivebox",
+        "name": "ArchiveBox",
+        "title": "ArchiveBox - The Ultimate Self-Hosted Internet Archiving Solution",
         "description": "ArchiveBox is a self-hosted tool for archiving websites offline. Capture and preserve web pages with an intuitive command-line interface and scheduled archiving features, supporting various formats for long-term storage."
     },
     {
         "id": "owncloud",
+        "name": "ownCloud",
+        "title": "Unlock Seamless File Hosting and Collaboration with ownCloud",
         "description": "ownCloud is a powerful, open-source file hosting software offering secure, flexible, and scalable data storage and collaboration solutions for teams, enterprises, and individuals."
     },
     {
         "id": "microk8s",
+        "name": "Microk8s",
+        "title": "Effortless Kubernetes Management with MicroK8s",
         "description": "MicroK8s is a lightweight, open-source Kubernetes platform for effortless containerized app management, scalable from single-node to high-availability clusters."
     },
     {
         "id": "nomad",
+        "name": "Nomad",
+        "title": "Flexible and Performant Workload Orchestration for Any Application",
         "description": "Nomad is a versatile workload orchestrator for microservices, containers, and legacy apps, offering secure, scalable, and lightweight deployment solutions."
     },
     {
         "id": "k3s",
+        "name": "K3S",
+        "title": "Lightweight Kubernetes for Edge, IoT, and ARM Environments",
         "description": "K3s is a lightweight Kubernetes distribution optimized for edge computing, IoT, and ARM devices, offering simplicity, efficiency, and powerful features."
     },
     {
         "id": "k0s",
+        "name": "k0s",
+        "title": "The Simplified, Certified Kubernetes Distribution for Seamless Scalability and Flexibility",
         "description": "k0s is a simple, open-source Kubernetes distribution designed to deploy and run Kubernetes workloads with ease on any infrastructure. Enjoy zero complexity, zero dependencies, and zero costs."
     },
     {
         "id": "portainer",
+        "name": "Portainer",
+        "title": "Simplify and Secure Your Docker and Kubernetes Management",
         "description": "Simplify containerized app management with Portainer, the lightweight, secure, and easy-to-use solution for Docker, Kubernetes, and ACI environments."
     },
     {
         "id": "dockerregistry",
+        "name": "DockerRegistry",
+        "title": "Secure and Efficient Image Storage and Distribution",
         "description": "DockerRegistry provides full control over image storage and distribution, making it ideal for tight integration into in-house development workflows."
     },
     {
         "id": "nexus3",
+        "name": "Nexus3",
+        "title": "The World’s Leading Repository Manager for Seamless Software Development",
         "description": "Nexus3 is the #1 repository manager, providing a single source of truth for components and build artifacts. Trusted by 100,000+ organizations globally, it supports universal tools, enhances collaboration, and ensures secure, efficient development."
     },
     {
         "id": "healthchecks",
+        "name": "Healthchecks",
+        "title": "Ultimate Cron Job Monitoring Service for Reliability and Control",
         "description": "Healthchecks is a cron job monitoring service that helps you track the status of your scheduled tasks and cron jobs. It sends alerts when pings are missing and offers a web dashboard, 25+ integrations, WebAuthn 2FA, and team management features."
     },
     {
         "id": "prometheus",
+        "name": "Prometheus",
+        "title": "A Powerful Open-Source Monitoring and Alerting Toolkit for Cloud-Native Environments",
         "description": "Prometheus is a robust monitoring and alerting system, part of the Cloud Native Computing Foundation, designed for collecting and storing time-series data, querying metrics in real-time, and generating alerts based on user-defined conditions."
     },
     {
         "id": "victoriametrics",
+        "name": "VictoriaMetrics",
+        "title": "Fast, Scalable, and Cost-Effective Time Series Database for Efficient Monitoring",
         "description": "VictoriaMetrics is a fast, scalable, and cost-effective monitoring solution that excels in handling high volumes of time series data, offering efficient long-term storage and minimal operational complexity."
     },
     {
         "id": "loki",
+        "name": "Loki",
+        "title": "Cost-Effective, Scalable Log Aggregation System for Modern Environments",
         "description": "Loki is a highly scalable, multi-tenant log aggregation tool inspired by Prometheus, designed to provide cost-effective log management with easy operation."
     },
     {
         "id": "coroot",
+        "name": "Coroot",
+        "title": "Comprehensive Observability with Zero-Instrumentation for Real-Time Insights",
         "description": "Coroot is a powerful observability tool that collects and analyzes metrics, logs, and traces automatically to give you actionable insights, ensuring 100% coverage and easy anomaly detection without manual configuration."
     },
     {
         "id": "signoz",
+        "name": "SigNoz",
+        "title": "Open-Source Application Performance Management (APM) for Seamless Monitoring and Control",
         "description": "SigNoz is an open-source APM tool with OpenTelemetry support, offering full control over your application monitoring, scaling, and data privacy. Perfect for enterprise-scale applications."
     },
     {
         "id": "changedetection",
+        "name": "ChangeDetection",
+        "title": "The Ultimate Self-Hosted Website Change Detection and Notification Service",
         "description": "Monitor website changes effortlessly with ChangeDetection.io. Get notified instantly with unlimited checks, automated backups, and powerful filtering."
     },
     {
         "id": "canopsis",
+        "name": "Canopsis",
+        "title": "Centralized Event Management and Customizable Real-Time Dashboards",
         "description": "Canopsis streamlines event management by centralizing multisource events, automating actions, and providing customizable real-time dashboards for enhanced monitoring and service optimization."
     },
     {
         "id": "jitsu",
+        "name": "Jitsu",
+        "title": "Open-Source Real-Time Data Ingestion Engine for Modern Data Teams",
         "description": "Jitsu is a fast, open-source replacement for proprietary analytics stacks, enabling real-time data pipelines with ease. It's perfect for modern data teams seeking to quickly send, transform, and enrich data."
     },
     {
         "id": "nagios",
+        "name": "Nagios",
+        "title": "Comprehensive Monitoring for Your Critical Infrastructure",
         "description": "Nagios is a powerful monitoring system that tracks applications, services, systems, and network protocols, helping businesses ensure the health of their mission-critical infrastructure with advanced scalability and flexibility."
     },
     {
         "id": "glitchtip",
+        "name": "GlitchTip",
+        "title": "Simplified Error Tracking, Performance Monitoring, and Uptime Monitoring",
         "description": "GlitchTip makes software monitoring easy by combining error tracking, performance monitoring, and uptime checks in one platform. Track, resolve, and improve your app's performance effortlessly."
     },
     {
         "id": "zabbix",
+        "name": "Zabbix",
+        "title": "Comprehensive Network Monitoring and IT Infrastructure Management",
         "description": "Zabbix is an open-source network monitoring software that offers real-time monitoring, problem detection, flexible alert systems, and powerful data visualization to help businesses manage their IT infrastructure effectively."
     },
     {
         "id": "sensu",
+        "name": "Sensu",
+        "title": "Scalable Monitoring and Observability Solution for Your Infrastructure",
         "description": "Sensu is a powerful monitoring and observability tool that provides real-time insights into your infrastructure. It helps automate workflows and integrates seamlessly across cloud environments to ensure effective monitoring at scale."
     },
     {
         "id": "grafana",
+        "name": "Grafana",
+        "title": "Powerful Open-Source Data Visualization and Observability Platform",
         "description": "Grafana is an open-source platform for visualizing and analyzing metrics, logs, and traces from various sources, including Prometheus, Loki, Elasticsearch, and more, enabling teams to collaborate and make data-driven decisions."
     },
     {
         "id": "uptime-kuma",
+        "name": "Uptime-kuma",
+        "title": "Powerful Self-Hosted Uptime Monitoring & Alerting System",
         "description": "Uptime Kuma is a self-hosted, open-source monitoring system that tracks the health of your services with advanced alerting capabilities, including SSL, Ping, and port monitoring."
     },
     {
         "id": "rabbitmq",
+        "name": "RabbitMQ",
+        "title": "Scalable and Robust Messaging for Distributed Systems",
         "description": "RabbitMQ is a scalable, highly available message broker supporting multiple protocols, ideal for distributed systems and cloud deployments. It offers asynchronous messaging, powerful tools, and plugins for integration and monitoring."
     },
     {
         "id": "haproxy",
+        "name": "HAProxy",
+        "title": "The Ultimate Open-Source Solution for Load Balancing and High Availability",
         "description": "HAProxy is the leading open-source reverse proxy and load balancer, delivering high availability, advanced routing, and exceptional performance for any scale."
     },
     {
         "id": "centrifugo",
+        "name": "Centrifugo",
+        "title": "Real-Time Messaging Simplified",
         "description": "Centrifugo is a high-performance, feature-rich real-time messaging server designed for seamless integration and scalability."
     },
     {
         "id": "localstack",
+        "name": "LocalStack",
+        "title": "Powerful Local Cloud Emulation for Seamless Development and Testing",
         "description": "LocalStack is a local cloud emulation framework that mimics AWS cloud APIs, enabling offline development and faster testing cycles for cloud-based applications."
     },
     {
         "id": "itop",
+        "name": "iTop",
+        "title": "The Ultimate IT Service Management Solution for Businesses",
         "description": "iTop is a fully customizable IT service management platform designed for businesses to streamline operations, enhance customer satisfaction, and manage complex infrastructures with ease."
     },
     {
         "id": "openresty",
+        "name": "OpenResty",
+        "title": "Powerful Web Platform for Scalable Web Applications and Services",
         "description": "OpenResty is a powerful web platform based on Nginx, designed for building scalable web applications and services with Lua scripting for enhanced performance and flexibility."
     },
     {
         "id": "squid",
+        "name": "Squid",
+        "title": "High-Performance Caching Proxy Server for Web Acceleration",
         "description": "Squid is a robust caching proxy server that optimizes web performance, reduces bandwidth, and improves user experience by caching frequently accessed web pages. It supports HTTP, HTTPS, FTP, and more, making it a powerful tool for web acceleration and traffic management."
     },
     {
         "id": "powerdns",
+        "name": "PowerDNS",
+        "title": "High-Performance DNS Server with Flexible Backends",
         "description": "PowerDNS is a versatile DNS server software that supports authoritative and recursive DNS services, load balancing, and more, offering robust performance and high configurability for enterprise use."
     },
     {
         "id": "mailu",
+        "name": "Mailu",
+        "title": "Effortlessly Manage Emails with Mailu: A Full-Featured Open-Source Mail Server",
         "description": "Mailu is a simple, full-featured, open-source mail server with advanced email functionalities, web access, and strong security measures."
     },
     {
         "id": "mailcow",
+        "name": "MailCow",
+        "title": "Simplify Email Server Management with Docker-Based Efficiency",
         "description": "MailCow is a Docker-based email server with a modern web UI, offering easy administration, robust features, and excellent performance."
     },
     {
         "id": "postal",
+        "name": "Postal",
+        "title": "A Powerful Open-Source Mail Server for Reliable Email Delivery",
         "description": "Postal is a fully-featured, open-source mail server offering reliable email delivery, advanced tracking, and DNS monitoring for maximum efficiency."
     },
     {
         "id": "mariadb",
+        "name": "MariaDB",
+        "title": "The Open-Source Relational Database for Modern Applications",
         "description": "MariaDB is an open-source relational database offering modern SQL capabilities, pluggable storage engines, and seamless MySQL compatibility, ideal for scalable, high-performance applications."
     },
     {
         "id": "mysql",
+        "name": "MySQL",
+        "title": "The Reliable and Scalable Open-Source RDBMS",
         "description": "MySQL is a fast, reliable, and secure open-source RDBMS ideal for powering high-volume websites and critical business systems. It offers high availability, robust scalability, and enterprise-grade security features."
     },
     {
         "id": "columnstore",
+        "name": "ColumnStore",
+        "title": "Open-Source Columnar Storage for Advanced Analytics",
         "description": "MariaDB ColumnStore is an open-source columnar database designed for modern analytics, offering advanced SQL, columnar storage, and seamless MySQL compatibility."
     },
     {
         "id": "mssql",
+        "name": "MSSQL",
+        "title": "Fully Managed MSSQL Database Hosting",
         "description": "Effortlessly deploy and manage MSSQL databases with OctaByte.io’s fully managed hosting, offering high availability, built-in analytics, and robust security."
     },
     {
         "id": "clickhouse",
+        "name": "ClickHouse",
+        "title": "High-Performance Real-Time Analytics for Big Data",
         "description": "ClickHouse is a fast, scalable, and reliable OLAP database for real-time analytics, capable of processing billions of rows per second with enterprise-grade security."
     },
     {
         "id": "postgresql",
+        "name": "PostgreSQL",
+        "title": "Reliable, Extensible, and Secure Open-Source Database Solution",
         "description": "PostgreSQL is a robust, open-source database system known for its reliability, scalability, and advanced features. It offers a wide range of data types, high security, and unparalleled extensibility, making it the ideal choice for modern applications."
     },
     {
         "id": "timescaledb",
+        "name": "TimescaleDB",
+        "title": "The Scalable SQL Solution for Time-Series Data",
         "description": "TimescaleDB is an open-source PostgreSQL extension optimized for scalable, high-performance time-series data management with full SQL support."
     },
     {
         "id": "hydra",
+        "name": "Hydra",
+        "title": "The Ultimate Open-Source Data Warehouse for High-Performance Analytics",
         "description": "Hydra is a high-performance open-source data warehouse built on PostgreSQL, offering advanced OLAP and HTAP capabilities with seamless data integration and real-time insights."
     },
     {
         "id": "clickhouses3",
+        "name": "ClickHouseS3",
+        "title": "High-Performance Real-Time Analytics with Seamless Scalability",
         "description": "ClickHouseS3 combines the power of ClickHouse with the scalability of S3 for high-performance, real-time analytics. It delivers exceptional query performance, seamless scalability, and enterprise-grade security for mission-critical data."
     },
     {
         "id": "redis",
+        "name": "Redis",
+        "title": "High-Performance In-Memory Data Store for Real-Time Applications",
         "description": "Redis is an in-memory database that provides lightning-fast data access and supports a wide range of data types. Perfect for real-time applications, it enables millions of requests per second."
     },
     {
         "id": "ferretdb",
+        "name": "FerretDB",
+        "title": "Effortlessly Deploy and Manage FerretDB Database with OctaByte",
         "description": "FerretDB is a powerful, open-source document database built on PostgreSQL. It offers MongoDB compatibility, including CRUD operations, and integrates smoothly with PostgreSQL’s advanced features. Get it fully managed with OctaByte."
     },
     {
         "id": "opensearch",
+        "name": "OpenSearch",
+        "title": "Powerful, Open-Source Search & Analytics Solution",
         "description": "OpenSearch is an open-source search and analytics suite built from Elasticsearch & Kibana, offering powerful search capabilities and data visualization. It provides scalability, flexibility, and community-driven development."
     },
     {
         "id": "scylladb",
+        "name": "ScyllaDB",
+        "title": "High-Performance NoSQL Database for Big Data",
         "description": "ScyllaDB is a high-performance NoSQL database that offers low-latency, high-throughput, and scalable solutions for real-time big data applications, while minimizing DevOps overhead."
     },
     {
         "id": "cassandra",
+        "name": "Cassandra",
+        "title": "Fully Managed Apache Cassandra Database Services – High Availability and Scalability",
         "description": "Easily scale and manage your Apache Cassandra database with OctaByte’s fully managed services. Enjoy high availability, fault tolerance, and seamless scalability across your infrastructure."
     },
     {
         "id": "valkey",
+        "name": "Valkey",
+        "title": "High-Performance Key/Value Datastore for Efficient Caching and Message Queues",
         "description": "Valkey is a high-performance, open-source key/value datastore for fast caching, message queues, and more. It supports a variety of data types and offers high availability for reliable deployments."
     },
     {
         "id": "kafka",
+        "name": "Kafka",
+        "title": "High-Throughput, Real-Time Data Streaming for Businesses",
         "description": "Apache Kafka is a powerful, high-throughput event streaming platform used to build real-time data pipelines and applications for businesses, with support for data storage, processing, and analysis."
     },
     {
         "id": "weaviate",
+        "name": "Weaviate",
+        "title": "Open-Source Vector Database for ML Models and Scalable Data Storage",
         "description": "Weaviate is an open-source vector database that enables fast, scalable storage for machine learning models and data objects. It supports vector searches, recommendations, summarization, and more."
     },
     {
         "id": "immudb",
+        "name": "ImmuDB",
+        "title": "The Immutable Ledger Database for Secure, High-Performance Data Management",
         "description": "ImmuDB is an immutable ledger database that ensures data integrity, auditability, and high performance. Perfect for applications requiring tamper-proof storage and high throughput."
     },
     {
         "id": "influxdb",
+        "name": "InfluxDB",
+        "title": "The Time Series Database for Real-Time Analytics, IoT, and Cloud-Native Services",
         "description": "InfluxDB is a high-performance time series database for managing real-time analytics, IoT, and cloud-native applications. It simplifies data management with an easy-to-use API and robust features for developers."
     },
     {
         "id": "keydb",
+        "name": "KeyDB",
+        "title": "High-Performance, Scalable, and Open-Source Solution",
         "description": "KeyDB is a high-performance, open-source database that outperforms Redis with multithreaded architecture, high scalability, and sub-millisecond latencies."
     },
     {
         "id": "surrealdb",
+        "name": "SurrealDB",
+        "title": "Cloud-Native Database for Modern Applications",
         "description": "SurrealDB is a modern, cloud-native database that simplifies database management for web, mobile, and serverless applications, offering performance, scalability, and security."
     },
     {
         "id": "milvus",
+        "name": "Milvus",
+        "title": "Scalable, High-Speed Open-Source Vector Database for GenAI Applications",
         "description": "Milvus is an open-source vector database designed for GenAI applications. It offers high-speed searches, elastic scalability, and a thriving community for support."
     },
     {
         "id": "m3db",
+        "name": "M3DB",
+        "title": "Scalable and Efficient Cloud-Native Solution for Prometheus Monitoring",
         "description": "M3DB is a scalable, efficient, and highly compatible database designed for Cloud Native companies to enhance Prometheus-based monitoring systems. It offers seamless integration, optimized performance, and exceptional data compression."
     },
     {
         "id": "neo4j",
+        "name": "Neo4j",
+        "title": "The Leading Graph Database for Unmatched Performance and Deep Insights",
         "description": "Neo4j is a high-performance graph database that excels in relationship-based queries, offering unmatched speed, security, and scalability for complex data challenges."
     },
     {
         "id": "chromadb",
+        "name": "Chromadb",
+        "title": "The Open-Source AI Application Database for Seamless Retrieval",
         "description": "Chroma is an open-source AI database that provides vector search, full-text search, document storage, metadata filtering, and multi-modal retrieval all in one place. It's designed for developers and data scientists looking for powerful, scalable, and easy-to-integrate solutions."
     },
     {
         "id": "keycloak",
+        "name": "Keycloak",
+        "title": "The Ultimate Open-Source Identity and Access Management Solution",
         "description": "Keycloak provides seamless single sign-on (SSO) and robust identity and access management capabilities, including user federation, social login, and advanced authentication features to simplify application security."
     },
     {
         "id": "authentik",
+        "name": "Authentik",
+        "title": "Open-Source Identity Provider for Seamless Authentication & Access Control",
         "description": "Authentik is an open-source identity provider that simplifies authentication and access control with flexible integrations and custom workflows, offering seamless sign-on, user management, and more."
     },
     {
         "id": "authelia",
+        "name": "Authelia",
+        "title": "Secure Authentication and Authorization with Multi-Factor Authentication and Single Sign-On",
         "description": "Authelia is a robust authentication and authorization server offering secure multi-factor authentication and single sign-on (SSO) solutions for your web applications. Enhance security and streamline access management with this IAM solution."
     },
     {
         "id": "logto",
+        "name": "Logto",
+        "title": "The Ultimate Auth0 Alternative for Modern Customer Identity Management",
         "description": "Logto is a comprehensive and user-friendly platform for managing customer identity and authentication, offering passwordless logins, social sign-ins, and multi-tenancy capabilities. Ideal for both B2C and B2B applications."
     },
     {
         "id": "lightldap",
+        "name": "LightLDAP",
+        "title": "A Simplified and Lightweight LDAP Authentication Server",
         "description": "LightLDAP is a lightweight and simplified LDAP authentication server designed for seamless integration with a wide range of backend systems. It provides an easy-to-use interface for authentication and user management, offering features like self-service user details editing and password reset by email."
     },
     {
         "id": "zitadel",
+        "name": "Zitadel",
+        "title": "Simplifying Identity Management with Serverless, Open-Source Solutions",
         "description": "Zitadel provides an open-source, serverless identity management platform that simplifies authentication setup while offering scalability and integration flexibility."
     },
     {
         "id": "jenkins",
+        "name": "Jenkins",
+        "title": "The Leading Open-Source Automation Server for Continuous Integration and Delivery",
         "description": "Jenkins is a robust, open-source automation server that supports continuous integration and delivery with hundreds of plugins for building, testing, and deploying software projects."
     },
     {
         "id": "healthchecks",
+        "name": "Healthchecks",
+        "title": "Cron Job Monitoring and Alerts Service",
         "description": "Healthchecks is a robust cron job monitoring service that tracks scheduled tasks, alerting you when pings are missed. With a user-friendly dashboard, integrations, 2FA, and team management, Healthchecks ensures reliable monitoring of your tasks."
     },
     {
         "id": "microk8s",
+        "name": "Microk8s",
+        "title": "Simplified, Scalable, and Secure Kubernetes for Developers",
         "description": "MicroK8s is a lightweight, open-source Kubernetes solution for deploying and managing containerized applications, offering scalability, security, and ease of use."
     },
     {
         "id": "guacamole",
+        "name": "Guacamole",
+        "title": "The Ultimate Clientless Remote Desktop Gateway",
         "description": "Apache Guacamole is a free, open-source remote desktop gateway that allows access to your computers from anywhere through a web browser. It supports standard protocols like VNC, RDP, and SSH, without requiring any plugins or client software."
     },
     {
         "id": "haproxy",
+        "name": "HAProxy",
+        "title": "The Ultimate Open-Source Load Balancer for High Availability and Scalability",
         "description": "HAProxy is a fast, reliable, and open-source reverse proxy offering high availability, load balancing, and proxying for TCP and HTTP applications, ensuring optimal performance for high-traffic websites."
     },
     {
         "id": "airflow-worker",
+        "name": "Airflow-worker",
+        "title": "Scalable and Flexible Apache Airflow Worker Instance",
         "description": "Easily connect this Airflow Worker to any Apache Airflow master instance. Enhance your workflows with Python-based flexibility, robust integrations, and a user-friendly interface."
     },
     {
         "id": "vault",
+        "name": "Vault",
+        "title": "Your Trusted Solution for Secure Secret Management",
         "description": "Vault is a powerful tool for securely managing API keys, passwords, certificates, and other secrets, with encryption, access control, and detailed audit logging."
     },
     {
         "id": "kellnr",
+        "name": "Kellnr",
+        "title": "Host Private Rust Crates on Your Own Hardware with Full Control",
         "description": "Kellnr allows you to host your private Rust crates on your own hardware, offering complete control over your code and providing powerful tools for crate management."
     },
     {
         "id": "mailcow",
+        "name": "MailCow",
+        "title": "The Ultimate Docker-based Email Server for Seamless Email Management",
         "description": "MailCow is a modern, Docker-based email server that provides an intuitive web UI for easy administration, quick setup, and seamless management of email applications. It supports Dovecot, Postfix, and other open-source software for a robust email system."
     },
     {
         "id": "minio",
+        "name": "MinIO",
+        "title": "High-Performance Cloud-Native Object Storage for Modern Applications",
         "description": "MinIO is a high-performance, scalable, and cloud-native object storage solution, designed for hybrid and multi-cloud environments. It is ideal for AI/ML, analytics, backup/restore, and modern web applications."
     },
     {
         "id": "couchbase",
+        "name": "Couchbase",
+        "title": "Unlock the Power of Couchbase – The Ultimate Cloud-Native Distributed Database",
         "description": "Couchbase is a cloud-native distributed database fusing SQL's strengths with NoSQL's flexibility, offering ACID transactions, advanced analytics, and real-time eventing."
     },
     {
         "id": "cronicle",
+        "name": "Cronicle",
+        "title": "Powerful Multi-Server Task Scheduler with Real-Time Monitoring",
         "description": "Cronicle is an advanced multi-server task scheduler that replaces Cron with a web-based UI, offering real-time stats, live logs, and the ability to run tasks on demand or on a schedule."
     },
     {
         "id": "dbgate",
+        "name": "DbGate",
+        "title": "A Comprehensive Database Management Tool for SQL and NoSQL Databases",
         "description": "DbGate is a cross-platform database manager supporting MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, and more. It offers powerful features like data editing, import/export, and SSH tunneling for secure access."
     },
     {
         "id": "kestra",
+        "name": "Kestra",
+        "title": "The Infinite Scalable Data Orchestration and Scheduling Platform",
         "description": "Kestra is an open-source orchestration platform designed for creating, running, and scheduling complex data pipelines with infinite scalability and ease of use."
     },
     {
         "id": "airflow",
+        "name": "Airflow",
+        "title": "Effortlessly Orchestrate Workflows with Apache Airflow",
         "description": "Apache Airflow is a powerful platform to programmatically author, schedule, and monitor workflows using Python, ensuring flexibility, scalability, and robust integrations."
     },
     {
         "id": "openldap",
+        "name": "OpenLDAP",
+        "title": "A Flexible, Cost-Effective LDAP Solution for Seamless Authentication",
         "description": "OpenLDAP is an open-source LDAP protocol implementation, known for its flexibility, cost-effectiveness, and cross-platform compatibility. It centralizes user authentication and integrates easily with various systems."
     },
     {
         "id": "nomad",
+        "name": "Nomad",
+        "title": "Simplified Workload Orchestration for Any Application Type",
         "description": "Nomad is a flexible and efficient workload orchestrator that supports a wide range of application types, providing easy scaling and management of microservices, containers, and legacy applications."
     },
     {
         "id": "openresty",
+        "name": "OpenResty",
+        "title": "The Ultimate Platform for Scalable and Dynamic Web Applications",
         "description": "OpenResty is a robust, NGINX-based platform enabling developers to build scalable, high-performance web applications and services using Lua scripting and enhanced modules."
     },
     {
         "id": "k3s",
+        "name": "K3S",
+        "title": "The Lightweight Kubernetes Distribution for Edge, ARM, and IoT Environments",
         "description": "K3s is a lightweight, easy-to-install Kubernetes distribution optimized for edge, ARM, IoT, and CI environments. Designed for resource-constrained setups, K3s simplifies Kubernetes deployment and management while maintaining powerful capabilities."
     },
     {
         "id": "k0s",
+        "name": "k0s",
+        "title": "The Simple, Solid, and Certified Kubernetes Distribution",
         "description": "k0s is a lightweight, open-source Kubernetes distribution designed for simplicity and ease of use. It enables seamless deployment and management of Kubernetes workloads on any infrastructure, at any scale."
     },
     {
         "id": "portainer",
+        "name": "Portainer",
+        "title": "Effortlessly Manage Containers with Portainer - Your Lightweight UI Solution",
         "description": "Portainer is a lightweight management UI that simplifies the deployment and management of Docker, Kubernetes, and Swarm environments."
     },
     {
         "id": "sonarqube",
+        "name": "SonarQube",
+        "title": "Elevate Your Code Quality with SonarQube: Continuous Inspection Made Easy",
         "description": "SonarQube is an open-source tool for code quality and security, offering static analysis for 20+ languages to detect bugs, vulnerabilities, and code smells."
     },
     {
         "id": "postal",
+        "name": "Postal",
+        "title": "Open-Source Mail Server for Reliable Email Deliverability",
         "description": "Postal is an open-source mail server, offering features like click tracking, IP pools, and real-time updates for seamless email processing."
     },
     {
         "id": "ubuntu-desktop",
+        "name": "Ubuntu-Desktop",
+        "title": "Ubuntu Virtual Desktop by OctaByte - Your Browser-Based Desktop Experience",
         "description": "Ubuntu Virtual Desktop by OctaByte offers a browser-based desktop environment with pre-installed software, Wine for Windows compatibility, and secure, collaborative features."
     },
     {
         "id": "dockerregistry",
+        "name": "DockerRegistry",
+        "title": "The Ultimate Solution for Secure and Efficient Image Storage and Distribution",
         "description": "DockerRegistry provides an easy-to-use platform for securely storing and distributing Docker images, offering complete control over your image pipeline and seamless integration into your development workflow."
     },
     {
         "id": "imagor",
+        "name": "Imagor",
+        "title": "High-Performance Go-Based Image Processing for Web Applications",
         "description": "Imagor is a high-performance image processing solution written in Go, offering optimized support for web applications, containerization, and scalable image transformations."
     },
     {
         "id": "mage",
+        "name": "Mage AI",
+        "title": "The Modern Data Pipeline Orchestration Solution",
         "description": "Mage AI is an advanced platform for building, managing, and automating data pipelines. It simplifies integration, transformation, and monitoring, providing seamless orchestration for real-time and batch data processing."
     },
     {
         "id": "nexus3",
+        "name": "Nexus3",
+        "title": "The World’s Leading Repository Manager for Efficient Component and Artifact Management",
         "description": "Nexus3 is the leading repository manager, supporting a wide range of build tools and enabling efficient distribution of components, binaries, and containers to developers worldwide."
     },
     {
         "id": "powerdns",
+        "name": "PowerDNS",
+        "title": "The Versatile Open-Source DNS Solution for Performance and Scalability",
         "description": "PowerDNS is a high-performance open-source DNS server offering authoritative DNS, recursive resolvers, load balancing, and seamless database integration."
     },
     {
         "id": "gitlab-runner",
+        "name": "Gitlab-runner",
+        "title": "Optimize Your CI/CD Pipeline for Faster and More Secure Software Delivery",
         "description": "GitLab Runner is a tool that integrates with GitLab CI/CD to automate software testing, building, and deployment, ensuring faster, more secure, and efficient delivery."
     },
     {
         "id": "rustdeskserver",
+        "name": "RustdeskServer",
+        "title": "Secure, Open-Source Remote Desktop Solution for Complete Control",
         "description": "RustdeskServer is an open-source, secure remote desktop software, providing full control of your data with no configuration required. A simple, fast, and privacy-focused alternative to TeamViewer."
     },
     {
         "id": "pritunl",
+        "name": "Pritunl",
+        "title": "The Open-Source VPN Solution for Secure and Scalable Remote Access",
         "description": "Pritunl is a powerful, open-source VPN solution that offers secure remote access, supports multiple protocols, and simplifies configuration with an easy-to-use web interface."
     },
     {
         "id": "apachenifi",
+        "name": "ApacheNiFi",
+        "title": "Efficient Data Flow Automation for Seamless Integration",
         "description": "Apache NiFi is a powerful, real-time data logistics platform designed to automate the movement of data across diverse systems with ease. It provides control, monitoring, and traceability for seamless data management."
     },
     {
         "id": "centrifugo",
+        "name": "Centrifugo",
+        "title": "Scalable Real-Time Messaging Server for Seamless PUB/SUB Integration",
         "description": "Centrifugo is a high-performance, self-hosted real-time messaging server that integrates seamlessly with any programming language, delivering real-time communication with low latency and impressive scalability."
     },
     {
         "id": "nebula",
+        "name": "Nebula",
+        "title": "A Powerful Open-Source Overlay Networking Tool for Seamless Global Connectivity",
         "description": "Nebula is an open-source networking tool that enables seamless and secure connections between computers worldwide, supporting a range of platforms and offering scalability and flexibility for any network setup."
     },
     {
         "id": "browserless",
+        "name": "Browserless",
+        "title": "Browserless - High-Speed Web Browser Automation for Developers",
         "description": "Browserless offers fast, scalable, and reliable web browser automation, empowering developers to automate without the hassle of managing browsers or complex setups."
     },
     {
         "id": "meshcentral",
+        "name": "MeshCentral",
+        "title": "Comprehensive Remote Management for Computers Across the World",
         "description": "MeshCentral is a self-hosted, web-based remote management solution that provides secure access to remote desktops, terminals, and files, all in real time. Perfect for managing devices on local or global networks."
     },
     {
         "id": "gotify",
+        "name": "Gotify",
+        "title": "Efficient Real-Time Messaging with Gotify: A Simple, Self-Hosted Push Notification Server",
         "description": "Gotify is an open-source, self-hosted server for real-time messaging via web sockets, offering simple push notifications, API integrations, and full control over data."
     },
     {
         "id": "wg-easy",
+        "name": "WG-Easy",
+        "title": "Simplified WireGuard VPN with Web UI for Effortless Setup and High-Speed Performance",
         "description": "WG-Easy is a user-friendly VPN solution that combines WireGuard’s speed and security with a simple web interface for quick and easy setup on any device."
     },
     {
         "id": "quant-ux",
+        "name": "Quant-UX",
+        "title": "Streamline User Experience Design with Quant-UX: Effortless Prototyping & Usability Testing",
         "description": "Quant-UX simplifies prototype creation and usability testing. Design interactive prototypes in minutes and gather user feedback with ease to validate your ideas."
     },
     {
         "id": "flowiseai",
+        "name": "FlowiseAI",
+        "title": "Build Customizable AI Flows with LangchainJS in NodeJS",
         "description": "FlowiseAI is an open-source visual tool that allows you to create personalized LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS and TypeScript/JavaScript. Build intelligent AI-driven applications quickly and efficiently with FlowiseAI."
     },
     {
         "id": "hoppscotch",
+        "name": "Hoppscotch",
+        "title": "A Fast and Lightweight Web-Based API Development Suite",
         "description": "Hoppscotch is a free, open-source API development tool that offers a fast, lightweight, and user-friendly interface for building and testing APIs."
     },
     {
         "id": "libretranslate",
+        "name": "LibreTranslate",
+        "title": "Free & Open Source Self-Hosted Machine Translation API",
         "description": "LibreTranslate is a free, open-source, and self-hosted machine translation API that supports 29 languages and ensures full privacy without relying on proprietary services like Google or Azure."
     },
     {
         "id": "llana",
+        "name": "Llana",
+        "title": "No-Code API Wrapper for Databases – Effortless REST API Generation",
         "description": "Llana is a no-code API wrapper that generates REST APIs for databases in minutes. Open-source and free, it eliminates the need for manual API development, saving you time and effort."
     },
     {
         "id": "labelstudio",
+        "name": "LabelStudio",
+        "title": "The Ultimate Data Labeling and Annotation Tool for AI & Machine Learning",
         "description": "Label Studio is a flexible data labeling tool for machine learning, supporting multiple data types and providing features like ML-assisted labeling, project management, and seamless integration with your ML pipeline."
     },
     {
         "id": "langflow",
+        "name": "Langflow",
+        "title": "The Visual Framework for Multi-Agent and RAG Applications",
         "description": "Langflow is an open-source, Python-powered visual framework for creating multi-agent and RAG applications. Fully customizable and model-agnostic, it empowers developers to experiment with AI in new and innovative ways."
     },
     {
         "id": "teable",
+        "name": "Teable",
+        "title": "Super-Fast, No-Code Database Built on PostgreSQL for Seamless App Development",
         "description": "Teable is a no-code, PostgreSQL-based database platform that offers real-time, scalable solutions with a user-friendly, spreadsheet-like interface, enabling rapid, efficient app development."
     },
     {
         "id": "daptin",
+        "name": "Daptin",
+        "title": "Open-Source Backend Framework for Production-Ready JSONAPI Microservices",
         "description": "Daptin is an open-source backend framework that simplifies building and deploying production-ready JSONAPI microservices with cloud storage integration and flexible API handling."
     },
     {
         "id": "qdrant",
+        "name": "Qdrant",
+        "title": "High-Performance Vector Search Engine for Semantic Matching and Recommendations",
         "description": "Qdrant is a high-performance vector database and similarity search engine, ideal for semantic matching, neural networks, and faceted search. It offers advanced filtering, high scalability, and a simple API for developers."
     },
     {
         "id": "krakend",
+        "name": "KrakenD",
+        "title": "High-Performance API Gateway for Effortless Microservices Adoption",
         "description": "KrakenD is a distributed, stateless API Gateway designed to streamline microservices adoption with powerful features like content aggregation, format transformation, and advanced security measures."
     },
     {
         "id": "zep",
+        "name": "Zep",
+        "title": "Enhance AI Experiences with Zep's Long-Term Memory for Assistants",
         "description": "Zep empowers AI assistants with long-term memory, enabling them to recall, understand, and extract data from chat histories for personalized, smarter user interactions."
     },
     {
         "id": "appwrite",
+        "name": "Appwrite",
+        "title": "The Ultimate Self-Hosted Backend Solution for Developers",
         "description": "Appwrite is a self-hosted backend platform offering robust APIs for authentication, database, storage, cloud functions, and more, empowering developers with secure and scalable backend solutions."
     },
     {
         "id": "parse",
+        "name": "Parse",
+        "title": "The Ultimate Open-Source Backend for Faster App Development",
         "description": "Parse Server is an open-source backend platform that streamlines app development with features like user authentication, file storage, and push notifications, supporting MongoDB and PostgreSQL databases."
     },
     {
         "id": "strapi",
+        "name": "Strapi",
+        "title": "Effortlessly Build and Manage Content with Strapi – The Leading Open-Source Headless CMS",
         "description": "Strapi is the leading open-source headless CMS, fully customizable and developer-first. Create scalable, API-driven web applications with ease."
     },
     {
         "id": "supabase",
+        "name": "Supabase",
+        "title": "The Open-Source Backend-as-a-Service for Your Modern Applications",
         "description": "Supabase is an open-source backend-as-a-service platform offering PostgreSQL, authentication, real-time APIs, and scalable storage to simplify modern app development."
     },
     {
         "id": "directus",
+        "name": "Directus",
+        "title": "Effortlessly Manage Your Data with Directus - The Open-Source Data Platform",
         "description": "Directus is an open-source platform that connects to any SQL database, offering a powerful API layer and an intuitive app for seamless data management."
     },
     {
         "id": "pocketbase",
+        "name": "PocketBase",
+        "title": "The Open-Source Backend for Real-Time Apps",
         "description": "PocketBase is an open-source backend with SQLite database, real-time subscriptions, auth management, RESTful API, and file storage."
     },
     {
         "id": "agencyos",
+        "name": "AgencyOS",
+        "title": "Boost Your Agency’s Efficiency with AgencyOS: The Ultimate Solution for Modern Agencies",
         "description": "AgencyOS is a comprehensive platform that simplifies agency operations with a customizable website, cloud solutions, and a modern backend powered by Directus."
     },
     {
         "id": "gitness",
+        "name": "Gitness",
+        "title": "The Open Source Developer Platform for CI/CD, Source Control, and Automation",
         "description": "Gitness is an open-source developer platform that combines SCM, CI, and CD, providing a fast, integrated solution for building, testing, and deploying code."
     },
     {
         "id": "infisical",
+        "name": "Infisical",
+        "title": "Secure and Open-Source Secret Management Platform for Teams and Infrastructure",
         "description": "Infisical is an open-source, end-to-end encrypted platform that helps teams manage secrets securely, prevent leaks, and sync secrets across multiple environments with ease."
     },
     {
         "id": "gophish",
+        "name": "Gophish",
+        "title": "The Ultimate Open-Source Phishing Framework for Security Testing",
         "description": "Gophish is an open-source phishing framework that helps organizations test and improve their defense against phishing attacks. Its powerful features include a beautiful web interface, real-time results, and a REST API for seamless integration."
     },
     {
         "id": "emqx",
+        "name": "EMQX",
+        "title": "Scalable MQTT Broker for IoT, IIoT, and Connected Vehicles",
         "description": "EMQX is a high-performance, scalable MQTT broker that supports multiple open protocols like MQTT, HTTP, QUIC, and WebSocket. It ensures secure communication for IoT, IIoT, and connected vehicles with full compliance to MQTT 5.0 and 3.x standards."
     },
     {
         "id": "gerrit",
+        "name": "Gerrit",
+        "title": "Streamlined Code Review and Git Management for Better Collaboration",
         "description": "Gerrit is a code review and Git management tool that streamlines collaboration and simplifies project maintainership through a side-by-side change display, inline commenting, and easy Git repository management."
     },
     {
         "id": "opnform",
+        "name": "OpnForm",
+        "title": "The Ultimate Open-Source Form Builder for Effortless Data Collection",
         "description": "OpnForm is a fast, open-source form builder that lets you create, share, and analyze forms easily, with no coding required. Ideal for surveys, feedback, and registrations."
     },
     {
         "id": "flagsmith",
+        "name": "Flagsmith",
+        "title": "Simplify Feature Flag Management for Seamless App Deployment and Testing",
         "description": "Flagsmith is a powerful feature flag tool that enables real-time changes to apps without requiring code updates or app store approvals. Easily manage flags across multiple platforms and drive precise A/B/n testing with advanced segmentation."
     },
     {
         "id": "rstudio",
+        "name": "Rstudio",
+        "title": "The Ultimate IDE for R Programming and Data Science",
         "description": "RStudio is a powerful Integrated Development Environment (IDE) that simplifies R programming, offering advanced features like script writing, environment management, and interactive visualizations for data science professionals and researchers."
     },
     {
         "id": "draw",
+        "name": "draw",
+        "title": "Powerful Online Diagramming and Whiteboarding Tool",
         "description": "Draw.io is a versatile, client-side diagramming and whiteboarding tool, enabling users to create, store, and collaborate on diagrams across multiple platforms."
     },
     {
         "id": "quickchart",
+        "name": "QuickChart",
+        "title": "Effortless API for Generating Chart Images, PDFs, and QR Codes",
         "description": "QuickChart is a powerful API that lets you generate chart images, PDFs, and QR codes with ease. Built on the popular Chart.js library, QuickChart is perfect for embedding charts in emails, SMS, and more, without the need for dynamic rendering."
     },
     {
         "id": "gitea",
+        "name": "Gitea",
+        "title": "Open-Source Git Hosting Solution for Software Development",
         "description": "Gitea is an open-source Git-based software hosting platform offering collaboration tools like bug tracking, wikis, and code review. Lightweight and cross-platform, it's perfect for both individual developers and teams."
     },
     {
         "id": "jellyfin",
+        "name": "Jellyfin",
+        "title": "The Ultimate Free Software Media Server for Streaming Movies, Music, and More",
         "description": "Jellyfin is a free, open-source media server that lets you manage and stream your personal collection of movies, music, and TV shows. It's a flexible alternative to Emby and Plex with powerful features and no subscription fees."
     },
     {
         "id": "devlake",
+        "name": "DevLake",
+        "title": "Unify and Optimize Your DevOps Data for Engineering Excellence",
         "description": "Apache DevLake unifies data from DevOps tools, offering actionable insights through prebuilt dashboards for improved engineering practices and developer experiences."
     },
     {
         "id": "gotenberg",
+        "name": "Gotenberg",
+        "title": "Powerful API for Converting Documents to PDFs and More",
         "description": "Gotenberg offers a developer-friendly API to easily convert, merge, and manipulate a variety of document formats into PDFs, using tools like Chromium and LibreOffice."
     },
     {
         "id": "growthbook",
+        "name": "GrowthBook",
+        "title": "Open-Source Platform for Feature Flags and A/B Testing",
         "description": "GrowthBook is an open-source platform that enables teams to deploy code efficiently, implement feature flags, and analyze A/B tests for better decision-making and performance optimization."
     },
     {
         "id": "gogs",
+        "name": "Gogs",
+        "title": "A Simple, Lightweight, and Cross-Platform Self-Hosted Git Service",
         "description": "Gogs is a simple, lightweight, and cross-platform Git service that provides hassle-free setup and management for self-hosted repositories. It's open-source, free, and works across all platforms supported by Go."
     },
     {
         "id": "kroki",
+        "name": "Kroki",
+        "title": "Unified API for Creating and Rendering Diagrams Quickly and Easily",
         "description": "Kroki provides a powerful, free, and open-source API for rendering over 20 types of diagrams, including BPMN, UML, and GraphViz, with support for multiple languages."
     },
     {
         "id": "bytebase",
+        "name": "Bytebase",
+        "title": "Streamline Your Database Workflow with Bytebase - The Open-Source CI/CD Tool for Modern Databases",
         "description": "Bytebase is an open-source database CI/CD tool, simplifying database management with SQL review, version control, rollback, and multi-database support, including MySQL, PostgreSQL, and Snowflake."
     },
     {
         "id": "onedev",
+        "name": "Onedev",
+        "title": "The Ultimate All-in-One DevOps Platform for Simplified CI/CD and Git Management",
         "description": "OneDev is an all-in-one DevOps platform offering Git repository management, issue tracking, and a powerful Docker-first Kubernetes native build engine for streamlined CI/CD workflows."
     },
     {
         "id": "gitlab",
+        "name": "Gitlab",
+        "title": "Maximize Your Software Development Efficiency with GitLab - The Ultimate DevOps Platform",
         "description": "GitLab is a powerful DevOps platform that enables organizations to build, secure, and deploy software faster while enhancing security, compliance, and team collaboration."
     },
     {
         "id": "corteza",
+        "name": "Corteza",
+        "title": "The Ultimate Low-Code Platform for Business Process Automation and CRM",
         "description": "Corteza is a low-code platform for building CRM systems, automating workflows, and integrating data across environments."
     },
     {
         "id": "stirling-pdf",
+        "name": "Stirling-PDF",
+        "title": "The Ultimate Locally Hosted PDF Manipulation Tool with Docker",
         "description": "Stirling-PDF is a locally hosted web-based PDF tool that lets you split, merge, convert, and edit PDFs, all within a secure Docker environment."
     },
     {
         "id": "nocobase",
+        "name": "NocoBase",
+        "title": "A Scalable Open-Source No-Code Platform for Building Custom Collaboration Systems",
         "description": "NocoBase is a scalable open-source no-code platform designed for building custom collaboration platforms and management systems in minutes. No programming required, just a simple and extendable architecture to meet your needs."
     },
     {
         "id": "apitable",
+        "name": "APITable",
+        "title": "A Powerful API-Oriented Low-Code Platform for Building Collaborative Apps",
         "description": "APITable is an API-oriented low-code platform that enables users to build collaborative apps with ease, offering advanced features, a beautiful UI, and unmatched extensibility. It’s a top choice for anyone looking for an open-source alternative to Airtable."
     },
     {
         "id": "illa",
+        "name": "ILLA",
+        "title": "The Ultimate Low-Code Platform to Build Internal Tools in Minutes",
         "description": "ILLA Cloud is a powerful low-code platform that enables you to quickly build internal tools and applications with ease, using AI-driven SQL generation, real-time collaboration, and seamless data source integration."
     },
     {
         "id": "node-red",
+        "name": "Node-red",
+        "title": "Visual Programming for Integrating Hardware Devices, APIs, and Services",
         "description": "Node-RED is an open-source tool that lets you wire together hardware devices, APIs, and services visually using a browser-based editor, perfect for IoT and cloud automation."
     },
     {
         "id": "tooljet",
+        "name": "ToolJet",
+        "title": "Build Internal Tools Fast with a Visual Builder and Custom JS Code",
         "description": "ToolJet allows you to rapidly build powerful internal tools by connecting to databases, services, cloud storage, and custom APIs. It features a visual builder with support for custom JavaScript code to tailor your tools."
     },
     {
         "id": "totaljsflow",
+        "name": "TotaljsFlow",
+        "title": "The Visual Programming Interface for Low-Code Development",
         "description": "TotaljsFlow is an intuitive, web-based visual programming interface designed for low-code development, allowing you to create, edit, and manage real-time data integrations and event transformations with ease."
     },
     {
         "id": "hop",
+        "name": "Hop",
+        "title": "A Powerful Data Orchestration and Engineering Platform for Seamless Data Integration",
         "description": "Apache Hop is a metadata-driven data orchestration and engineering platform that simplifies the creation and execution of data workflows and pipelines. Its visual interface, cross-platform support, and lifecycle management make it ideal for data integration and automation."
     },
     {
         "id": "budibase",
+        "name": "Budibase",
+        "title": "The Ultimate Open-Source Low-Code Platform for Building Internal Tools, Admin Panels, and Dashboards",
         "description": "Budibase is an open-source, low-code platform that empowers developers and IT professionals to quickly build and deploy internal tools, admin panels, dashboards, and portals for enhanced workflow automation."
     },
     {
         "id": "hasura",
+        "name": "Hasura",
+        "title": "Instant, Real-time GraphQL API for Your Databases and Services",
         "description": "Hasura is an open-source GraphQL engine that provides a real-time, unified API to your databases and services in minutes, enabling faster application development and optimized performance."
     },
     {
         "id": "automatisch",
+        "name": "Automatisch",
+        "title": "The Best Open-Source Alternative to Zapier for Seamless Business Automation",
         "description": "Automatisch is an open-source platform that allows you to automate your business workflows without coding. Whether cloud-based or self-hosted, it's the affordable and secure solution for workflow automation."
     },
     {
         "id": "nocodb",
+        "name": "NocoDB",
+        "title": "The Open-Source Airtable Alternative for No-Code Database Management",
         "description": "NocoDB is an open-source Airtable alternative that turns relational databases into a smart, collaborative no-code spreadsheet interface for building applications effortlessly."
     },
     {
         "id": "baserow",
+        "name": "Baserow",
+        "title": "The No-Code Online Database Platform for Seamless Project Management",
         "description": "Create custom online databases with ease using Baserow’s intuitive no-code platform. Perfect for managing projects, ideas, and business processes without the need for technical expertise."
     },
     {
         "id": "lowcoder",
+        "name": "Lowcoder",
+        "title": "The Ultimate Low-Code Platform for Building Software Applications",
         "description": "Lowcoder is an intuitive low-code platform designed for businesses and developers. Create powerful software applications for your company and customers with minimal coding experience. Perfect for building internal tools, apps, and workflows."
     },
     {
         "id": "appsmith",
+        "name": "Appsmith",
+        "title": "Build Powerful Internal Applications with Ease",
         "description": "Appsmith is a powerful, open-source low-code platform that lets you build internal applications rapidly. Create dynamic CRUD apps, dashboards, and admin panels with ease."
     },
     {
         "id": "dify",
+        "name": "Dify",
+        "title": "Open-Source LLM App Development Platform for Seamless AI Integration",
         "description": "Dify is an open-source platform designed for LLM app development. It offers a range of features to streamline the development of AI-powered chatbots, document generation, agent creation, and more."
     },
     {
         "id": "openblocks",
+        "name": "OpenBlocks",
+        "title": "A Developer-Friendly Open-Source Low-Code Platform for Building Internal Apps",
         "description": "OpenBlocks is an open-source, low-code platform for developers to rapidly build customizable internal applications with ease, using powerful UI components, seamless data connections, and robust security."
     },
     {
         "id": "n8n",
+        "name": "N8N",
+        "title": "Automate Workflows with N8N: No-Code Integration for 200+ Apps",
         "description": "N8N is an open-source no-code tool that connects 200+ apps, automates workflows, and keeps your data secure while offering full control and customization."
     },
     {
         "id": "mantisbt",
+        "name": "MantisBT",
+        "title": "The Ultimate Open-Source Issue Tracker for Effective Project Management",
         "description": "MantisBT is a flexible open-source issue tracker that simplifies project management, enhances team collaboration, and provides robust tracking and reporting features."
     },
     {
         "id": "formbricks",
+        "name": "Formbricks",
+        "title": "Boost User Engagement with Formbricks: Powerful In-Product Micro-Surveys",
         "description": "Formbricks enables you to create targeted, non-intrusive in-product surveys to collect valuable user feedback and improve your product experience."
     },
     {
         "id": "dittofeed",
+        "name": "Dittofeed",
+        "title": "Boost Customer Engagement with Dittofeed – Automate and Personalize Communications",
         "description": "Automate your customer communications with Dittofeed. Create personalized marketing journeys, segment users, and optimize your growth team’s workflow."
     },
     {
         "id": "zammad",
+        "name": "Zammad",
+        "title": "The Ultimate Free Helpdesk and Issue-Tracking System",
         "description": "Zammad is a free helpdesk system that integrates all your communication channels into one platform with customizable features and high-level security."
     },
     {
         "id": "freescout",
+        "name": "FreeScout",
+        "title": "Powerful, Lightweight, and Free Open Source Help Desk Solution",
         "description": "FreeScout is a free and lightweight open-source help desk and shared inbox solution, offering an easy-to-use, self-hosted alternative to Zendesk and HelpScout. Enjoy privacy, control, and seamless integrations."
     },
     {
         "id": "trudesk",
+        "name": "Trudesk",
+        "title": "Simplified Task and Issue Management for Better Productivity",
         "description": "Trudesk is a powerful, easy-to-use solution designed to streamline task management and issue resolution. Keep workloads organized with real-time updates, live support chat, and customizable permissions."
     },
     {
         "id": "glpi",
+        "name": "GLPI",
+        "title": "Powerful IT Asset Management & Service Desk Software for Efficient Operations",
         "description": "GLPI is a free IT asset and service management software that streamlines your IT operations with tools for asset tracking, helpdesk management, financial oversight, and project planning."
     },
     {
         "id": "tracardi",
+        "name": "Tracardi",
+        "title": "The API-First, Low-Code/No-Code Customer Data Platform for E-commerce Businesses",
         "description": "Tracardi is an API-first, low-code/no-code platform designed for e-commerce businesses to manage and utilize customer data for marketing automation, engagement, and multi-channel integration."
     },
     {
         "id": "papermerge",
+        "name": "Papermerge",
+        "title": "Open-Source Document Management System with OCR and Full-Text Search",
         "description": "Papermerge is an open-source document management system (DMS) designed for efficient management of scanned documents. With features like OCR, multi-user support, full-text search, and a user-friendly interface, Papermerge enables seamless document storage and organization."
     },
     {
         "id": "outline",
+        "name": "Outline",
+        "title": "The Ultimate Knowledge Base and Wiki Software for Teams",
         "description": "Outline is a powerful knowledge base and wiki platform designed to streamline collaboration with features like markdown support, slash commands, rich embeds, and robust access control."
     },
     {
         "id": "bookstack",
+        "name": "BookStack",
+        "title": "Open-Source Wiki System for Efficient Documentation and Knowledge Management",
         "description": "BookStack is a free, open-source wiki system that offers an intuitive, simple platform for organizing and managing documentation. Built on Laravel, it provides powerful features like full-text search, easy linking, and user authentication integration."
     },
     {
         "id": "cells",
+        "name": "Cells",
+        "title": "Powerful Document Sharing, Management, and Collaboration Platform",
         "description": "Pydio Cells is a self-hosted document sharing and collaboration platform, offering fast performance, robust security, and advanced workflow automation for businesses and organizations."
     },
     {
         "id": "docuseal",
+        "name": "DocuSeal",
+        "title": "Streamline Document Filling and Signing with Ease",
         "description": "DocuSeal is an open-source tool designed to simplify document filling and signing. Easily create custom PDF forms, collect signatures, and automate email notifications."
     },
     {
         "id": "answer",
+        "name": "Answer",
+        "title": "Open-Source Knowledge Base & Q&A Community Platform",
         "description": "Answer is an open-source Q&A platform for building engaged communities, offering features like tagging, gamification, integrations, and more."
     },
     {
         "id": "documize",
+        "name": "Documize",
+        "title": "The Free, Enterprise-Ready Wiki and Knowledge-Base Software",
         "description": "Documize is an open-source, enterprise-ready wiki and knowledge base software, designed to simplify documentation management for teams. Free and easy to use, it's the perfect alternative to Confluence."
     },
     {
         "id": "documenso",
+        "name": "Documenso",
+        "title": "Open Source DocuSign Alternative for Effortless Document Signing",
         "description": "Documenso is the open-source alternative to DocuSign, offering a faster, smarter, and more beautiful document signing experience with customizable templates and seamless integrations."
     },
     {
         "id": "wikijs",
+        "name": "Wikijs",
+        "title": "The Ultimate Open-Source Wiki Engine for Node.js",
         "description": "Wiki.js is a free, open-source Node.js-based wiki engine for creating and managing knowledge bases with ease. It offers seamless authentication options and integrates with cloud platforms for easy deployment."
     },
     {
         "id": "pixelfed",
+        "name": "Pixelfed",
+        "title": "Decentralized Image Sharing Network",
         "description": "Pixelfed is a decentralized social network for image sharing, providing a user-friendly alternative to platforms like Instagram, where privacy and control over your data are prioritized."
     },
     {
         "id": "pleroma",
+        "name": "Pleroma",
+        "title": "Decentralized Microblogging Software for Privacy and Freedom",
         "description": "Pleroma is a decentralized microblogging server that supports the ActivityPub protocol, offering privacy, lightweight performance, and easy federation with other platforms."
     },
     {
         "id": "castopod",
+        "name": "Castopod",
+        "title": "The Ultimate Open-Source Podcast Hosting Solution",
         "description": "Castopod is an open-source podcast hosting platform that connects your podcast to the Fediverse, empowering you with direct audience interaction, promotion tools, and analytics, all while ensuring privacy and ease of use."
     },
     {
         "id": "sharkey",
+        "name": "Sharkey",
+        "title": "A Feature-Packed Misskey Fork for the Fediverse",
         "description": "Sharkey is a powerful Misskey fork that enhances ActivityPub interoperability with added features, including background music statuses, Mastodon API support, and a customizable web UI."
     },
     {
         "id": "misskey",
+        "name": "Misskey",
+        "title": "A Decentralized Social Network for the Fediverse",
         "description": "Misskey is a decentralized platform that allows users to create their own servers, interact with others across the Fediverse, and enjoy complete control over their data and social interactions."
     },
     {
         "id": "peertube",
+        "name": "PeerTube",
+        "title": "The Free and Decentralized Alternative to Video Platforms",
         "description": "PeerTube is an open-source, decentralized video platform that empowers users to host and share content while promoting freedom, privacy, and community-based moderation."
     },
     {
         "id": "easyappointments",
+        "name": "EasyAppointments",
+        "title": "Effortless Appointment Booking and Management Software",
         "description": "EasyAppointments is a powerful and customizable appointment booking software that syncs with Google Calendar. Manage appointments, services, and customer data with ease for an improved scheduling experience."
     },
     {
         "id": "rallly",
+        "name": "Rallly",
+        "title": "Streamline Event Scheduling with Rallly: The Best Doodle Alternative",
         "description": "Rallly is a Doodle alternative that makes scheduling meetings and events easy. Create polls to find the best time to meet with your participants."
     },
     {
         "id": "cal",
+        "name": "Cal",
+        "title": "The Ultimate Scheduling Solution for Effortless Meetings",
         "description": "Cal.com is a Calendly alternative that simplifies scheduling by allowing personalized event links, calendar synchronization, and automated workflows. Perfect for individuals and teams, with free access for personal use."
     },
     {
         "id": "fider",
+        "name": "Fider",
+        "title": "Streamline Customer Feedback with an Engaging Portal for Idea Sharing and Voting",
         "description": "Fider is a user-friendly feedback portal for collecting, organizing, and prioritizing customer feedback through idea sharing, voting, and discussions, all in one place."
     },
     {
         "id": "limesurvey",
+        "name": "LimeSurvey",
+        "title": "The Ultimate Free Open-Source Survey Tool for Insights and Feedback",
         "description": "LimeSurvey is a versatile, open-source survey platform that allows you to create powerful, customizable online surveys to gather valuable insights and feedback. With advanced features and integrations, LimeSurvey is perfect for businesses and researchers alike."
     },
     {
         "id": "mautic",
+        "name": "Mautic",
+        "title": "Empower Your Marketing with Open-Source Automation",
         "description": "Mautic is an open-source marketing automation platform offering lead management, activity tracking, email marketing, and multi-channel campaign tools."
     },
     {
         "id": "listmonk",
+        "name": "Listmonk",
+        "title": "Self-Hosted Newsletter and Mailing List Manager",
         "description": "Listmonk is a free, open-source, self-hosted newsletter and mailing list manager offering high performance, advanced features, and seamless integration."
     },
     {
         "id": "openproject",
+        "name": "OpenProject",
+        "title": "Open-Source Project Management Software for Efficient Team Collaboration and Timely Project Delivery",
         "description": "OpenProject is a secure, open-source project management software for effective team collaboration, task tracking, time management, and project delivery. It offers full data control with on-premises installation and supports agile, classic, and hybrid project methodologies."
     },
     {
         "id": "siglens",
+        "name": "SigLens",
+        "title": "Revolutionizing Log Management with 100x Efficiency",
         "description": "SigLens is a high-performance log management tool that scales effortlessly to meet your needs, slashing observability costs by up to 90%. It combines logs, metrics, and traces in a single platform for unmatched efficiency and ease of use."
     },
     {
         "id": "plane",
+        "name": "Plane",
+        "title": "Open-Source Project and Product Management Tool",
         "description": "Plane is an open-source project management tool that evolves from simple task tracking to complex project management frameworks, perfect for teams of all sizes."
     },
     {
         "id": "focalboard",
+        "name": "FocalBoard",
+        "title": "The Open-Source Project and Task Management Tool for Teams and Developers",
         "description": "FocalBoard is an open-source project management tool for organizing tasks and projects, offering collaboration features, task tracking, and seamless integrations for teams of any size."
     },
     {
         "id": "leantime",
+        "name": "Leantime",
+        "title": "A Simple Yet Powerful Project Management Tool for Non-Project Managers",
         "description": "Leantime is an intuitive project management system designed for non-project managers. Offering features like task management, project planning, knowledge management, and more, it's a powerful alternative to ClickUp, Monday, and Asana."
     },
     {
         "id": "wekan",
+        "name": "Wekan",
+        "title": "Efficient Task Management with WeKan: The Open-Source Kanban Solution",
         "description": "WeKan is an open-source, customizable, and privacy-focused Kanban tool that helps you organize tasks and manage projects effectively."
     },
     {
         "id": "taiga",
+        "name": "Taiga",
+        "title": "The Ultimate Project Management Tool for Agile Teams",
         "description": "Taiga is a powerful, intuitive project management tool designed for multi-functional agile teams. Organize, collaborate, and deliver with ease, no complex setup required."
     },
     {
         "id": "kanboard",
+        "name": "Kanboard",
+        "title": "Powerful Kanban Project Management Software",
         "description": "Kanboard is a flexible, easy-to-use project management tool that helps teams stay organized, prioritize tasks, and boost productivity. Manage your tasks with a customizable Kanban board and enjoy simple workflows."
     },
     {
         "id": "infisical",
+        "name": "Infisical",
+        "title": "Open-Source End-to-End Encrypted Secret Management Platform",
         "description": "Infisical is an open-source, end-to-end encrypted platform designed to manage and sync secrets securely across your team and infrastructure, preventing secret leaks."
     },
     {
         "id": "vaultwarden",
+        "name": "Vaultwarden",
+        "title": "The Lightweight, Secure, Open-Source Password Manager",
         "description": "Vaultwarden is a lightweight, open-source alternative to Bitwarden, designed for self-hosted deployments. Built in Rust, it offers secure password management with enterprise-grade encryption and full compatibility with Bitwarden clients."
     },
     {
         "id": "keeweb",
+        "name": "KeeWeb",
+        "title": "Open-Source Password Manager for Secure and Convenient Password Management",
         "description": "KeeWeb is a free, open-source password manager that is compatible with KeePass, offering both web and desktop apps for secure password storage and management."
     },
     {
         "id": "vault",
+        "name": "Vault",
+        "title": "Secure Secrets Management with Vault: Protect Your Sensitive Data",
         "description": "Vault is an open-source secrets management tool that securely stores, encrypts, and generates secrets. It provides access control, audit logging, and dynamic secret generation for enhanced security."
     },
     {
         "id": "yopass",
+        "name": "Yopass",
+        "title": "Secure and Transparent End-to-End Encryption for File Sharing",
         "description": "Yopass provides secure, end-to-end encryption for sensitive files and messages, ensuring privacy with features like self-destruction and one-time downloads. Open-source and fully auditable."
     },
     {
         "id": "passit",
+        "name": "Passit",
+        "title": "Secure Your Digital Life with Passit: The Ultimate Password Manager",
         "description": "Passit is a powerful password manager designed to securely store, manage, and share passwords across multiple devices. With advanced security features and seamless access, Passit ensures your digital life stays safe."
     },
     {
         "id": "password",
+        "name": "Password Pusher",
+        "title": "Secure & Temporary Password Sharing for Safe Online Communication",
         "description": "Password Pusher allows users to securely share passwords and sensitive data through one-time-use URLs that expire after a certain time or number of views, ensuring privacy and control."
     },
     {
         "id": "linkwarden",
+        "name": "Linkwarden",
+        "title": "Collaborative Bookmark Manager for Teams and Individuals",
         "description": "Linkwarden is a collaborative bookmark manager that helps individuals and teams collect, organize, and preserve web pages. Safeguard your resources from link rot and share collections with ease."
     },
     {
         "id": "onlyoffice",
+        "name": "OnlyOffice",
+        "title": "Boost Productivity with OnlyOffice: The Ultimate Open-Source Office Suite",
         "description": "OnlyOffice is an all-in-one open-source office suite offering advanced tools for document management, collaboration, and productivity."
     },
     {
         "id": "xwiki",
+        "name": "XWiki",
+        "title": "The Ultimate Collaboration and Knowledge Management Platform",
         "description": "XWiki is a robust wiki platform designed to enhance collaboration, organize knowledge, and support enterprise integration with unmatched flexibility and extensibility."
     },
     {
         "id": "metatrader5",
+        "name": "MetaTrader5",
+        "title": "Advanced Trading Platform for Modern Traders",
         "description": "MetaTrader 5 is a modern trading platform offering advanced tools, broker compatibility, and 24/7 accessibility for seamless trading experiences."
     },
     {
         "id": "indico",
+        "name": "Indico",
+        "title": "Organize, Manage, and Collaborate with Indico: The Open-Source Event Management System",
         "description": "Indico is an open-source, feature-rich event management platform developed at CERN, designed to simplify the organization, archival, and collaboration of events of all sizes."
     },
     {
         "id": "saleor",
+        "name": "Saleor",
+        "title": "High-Performance, Headless E-Commerce Platform for Modern Businesses",
         "description": "Saleor is a cutting-edge, headless e-commerce API designed to help brands build scalable and extensible online stores, providing unmatched flexibility and performance for the future of digital commerce."
     },
     {
         "id": "iomad",
+        "name": "IOMAD",
+        "title": "Open-Source Multi-Tenancy Solution for Moodle",
         "description": "IOMAD is an open-source multi-tenancy platform for Moodle, offering scalable solutions for businesses and educational institutions with features like enhanced reporting, course management, and administrative control."
     },
     {
         "id": "peppermint",
+        "name": "Peppermint",
+        "title": "The Open-Source Helpdesk Solution Redefining Customer Support",
         "description": "Peppermint is an open-source helpdesk platform offering cost-effective, feature-rich solutions for customer support teams."
     },
     {
         "id": "comfyui",
+        "name": "ComfyUi",
+        "title": "Unlock the Power of Stable Diffusion with ComfyUI",
         "description": "ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs."
     },
     {
         "id": "ragflow",
+        "name": "Ragflow",
+        "title": "Unlock the Power of RAGFlow: The Open-Source Retrieval-Augmented Generation Engine",
         "description": "RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation) engine designed for deep document understanding, delivering accurate, citation-backed question answering when integrated with LLMs."
     },
     {
         "id": "mealie",
+        "name": "Mealie",
+        "title": "The Ultimate Open-Source Recipe Management App",
         "description": "Mealie is a user-friendly, open-source recipe management app with meal planning, recipe importing, and group sharing features for all your culinary needs."
     },
     {
         "id": "moodle",
+        "name": "Moodle",
+        "title": "Empower Education with Moodle: The World’s Leading Learning Management System",
         "description": "Moodle is a free, open-source LMS enabling educators to create dynamic courses and collaborative learning environments, trusted by 213M+ users worldwide."
     },
     {
         "id": "freshrss",
+        "name": "FreshRSS",
+        "title": "The Ultimate Self-Hosted RSS & Atom Feed Aggregator",
         "description": "FreshRSS is a customizable, self-hosted RSS and Atom feed aggregator with support for web scraping and JSON, designed for managing large volumes of content with ease."
     },
     {
         "id": "anythingllm",
+        "name": "AnythingLLM",
+        "title": "The Ultimate AI-Powered Document and Resource Chat Solution",
         "description": "AnythingLLM transforms documents and content into chat-ready contexts for LLMs, offering multi-user support, model flexibility, and deep customization."
     },
     {
         "id": "snipe-it",
+        "name": "Snipe-it",
+        "title": "Streamlined IT Asset Management Solution for Enhanced Efficiency",
         "description": "Snipe-IT simplifies IT asset management, offering secure tracking of hardware, software, and accessories with powerful features like automated security, admin dashboards, and easy integration."
     },
     {
         "id": "neko",
+        "name": "Neko Rooms",
+        "title": "Effortlessly Collaborate and Share with Neko Rooms - The Ultimate Self-Hosted Alternative to Rabb.it",
         "description": "Neko Rooms is a self-hosted collaborative browser and room management system, providing a seamless alternative to Rabb.it for secure and synchronized online experiences."
     },
     {
         "id": "mapzy",
+        "name": "Mapzy",
+        "title": "The Effortless, Privacy-Friendly Store Locator for Your Website",
         "description": "Mapzy lets you add a stunning, code-free store locator to your website. It's simple, mobile-friendly, and privacy-conscious, offering both a managed service and self-hosting option."
     },
     {
         "id": "wger",
+        "name": "Wger",
+        "title": "Wger Workout Manager: The Ultimate Open-Source Fitness Tracker and Gym Management Tool",
         "description": "Wger Workout Manager is an open-source web app that helps you track workouts, diet plans, and progress. Plan meals, set goals, and manage your fitness routine easily. Ideal for both personal use and gym management."
     },
     {
         "id": "traduora",
+        "name": "Traduora",
+        "title": "A Modern Translation Management System for Enterprises",
         "description": "Traduora provides an efficient and streamlined translation management system for enterprises and language service providers to automate and manage their translation workflows."
     },
     {
         "id": "openslides",
+        "name": "OpenSlides",
+        "title": "Streamline Your Meetings with OpenSlides - The Ultimate Digital Meeting Solution",
         "description": "OpenSlides is a modern web-based software for efficient meeting and committee management, offering powerful tools for agendas, motions, and seamless collaboration."
     },
     {
         "id": "librechat",
+        "name": "LibreChat",
+        "title": "The Ultimate Open-Source AI Chat Platform for Seamless Conversations",
         "description": "LibreChat is an advanced, customizable AI chat platform that supports multiple AI models and services, offering dynamic conversation control and integrations to enhance your communication experience."
     },
     {
         "id": "docassemble",
+        "name": "Docassemble",
+        "title": "A Powerful Open-Source Tool for Guided Interviews and Document Assembly",
         "description": "Docassemble is a free, open-source system that automates guided interviews and document assembly, providing customized workflows and generating documents in multiple formats."
     },
     {
         "id": "yourls",
+        "name": "YOURLS",
+        "title": "The Best Self-Hosted URL Shortener for Full Control and Customization",
         "description": "YOURLS is a free, open-source, self-hosted URL shortener in PHP, giving you complete control over your links and data with powerful features like detailed stats and plugin extensibility."
     },
     {
         "id": "akaunting",
+        "name": "Akaunting",
+        "title": "Open-Source Accounting Software for Small Businesses",
         "description": "Akaunting is a free, open-source accounting software for small businesses, offering tools like invoicing, expense tracking, multi-currency support, and powerful reporting."
     },
     {
         "id": "wazuh",
+        "name": "Wazuh",
+        "title": "Open-Source Security Platform for Unified XDR and SIEM Protection",
         "description": "Wazuh is an open-source security platform that delivers unified XDR and SIEM protection for endpoints, cloud workloads, and containers, offering powerful threat hunting, behavioral analysis, and automated response capabilities."
     },
     {
         "id": "dashy",
+        "name": "Dashy",
+        "title": "The Ultimate Self-Hostable Personal Dashboard for Monitoring and Customization",
         "description": "Dashy is a fully customizable, self-hostable dashboard that provides a streamlined interface for monitoring your apps and services with widgets, themes, icons, and status indicators. Perfect for tech enthusiasts and developers looking to optimize their workflow."
     },
     {
         "id": "maybe",
+        "name": "Maybe",
+        "title": "The Ultimate Personal Finance & Wealth Management App",
         "description": "Take control of your financial future with Maybe, the open-source personal finance and wealth management app offering net worth tracking, financial account syncing, investment benchmarking, and more."
     },
     {
         "id": "saltcorn",
+        "name": "Saltcorn",
+        "title": "Build Powerful Database Web Applications with Saltcorn – No Code Required",
         "description": "Saltcorn is a no-code platform for building powerful database web applications with an intuitive drag-and-drop interface. Create and manage your apps effortlessly without writing a single line of code."
     },
     {
         "id": "penpot",
+        "name": "Penpot",
+        "title": "The Ultimate Open-Source Design and Prototyping Platform",
         "description": "Penpot is an open-source, web-based design and prototyping platform that supports real-time collaboration, SVG compatibility, and interactive prototyping for cross-domain teams."
     },
     {
         "id": "hi-events",
+        "name": "Hi-events",
+        "title": "The Ultimate Self-Hosted Event Management and Ticketing Platform",
         "description": "Hi.Events is a powerful, self-hosted event management and ticketing solution that empowers you to create, manage, and sell tickets for events of all sizes. From conferences to club nights, streamline your event operations with ease."
     },
     {
         "id": "ojs",
+        "name": "OJS",
+        "title": "Open Journal Systems (OJS) - Empowering Scholarly Publishing Worldwide",
         "description": "Open Journal Systems (OJS) is open-source software for managing scholarly journals, offering submission, peer review, editorial workflows, and global indexing."
     },
     {
         "id": "tolgee",
+        "name": "Tolgee",
+        "title": "The Ultimate Localization Platform for Effortless Translation Management",
         "description": "Tolgee is a developer-centric localization platform that simplifies translating applications into any language, supporting web, mobile, and desktop apps. Integrating seamlessly into your development workflow, Tolgee streamlines translation management and offers powerful features like in-context translation and machine translation."
     },
     {
         "id": "languagetool",
+        "name": "LanguageTool",
+        "title": "Multilingual Grammar, Style, and Spell Checker for Effortless Writing",
         "description": "LanguageTool is a multilingual writing assistant that provides grammar, style, and spell checking in over 20 languages, enhancing your writing with real-time suggestions. Available as a browser add-on and desktop integration, it ensures error-free writing across any platform."
     },
     {
         "id": "parseable",
+        "name": "Parseable",
+        "title": "A Cloud-Native, High-Performance Log Analytics Platform",
         "description": "Parseable is a high-performance, cloud-native log analytics platform focused on data security, scalability, and efficient resource usage."
     },
     {
         "id": "traggo",
+        "name": "Traggo",
+        "title": "Tag-Based Time Tracking Tool for Seamless Productivity",
         "description": "Traggo is a customizable tag-based time tracking tool that allows users to track time based on projects, task types, and more, offering a sleek interface and powerful user management features."
     },
     {
         "id": "shlink",
+        "name": "Shlink",
+        "title": "The Ultimate Self-Hosted URL Shortener with Analytics and Multi-Domain Support",
         "description": "Shlink is a self-hosted URL shortener that lets you manage your links under custom domains, track visitor stats, and use multi-domain support, all with an easy-to-use API."
     },
     {
         "id": "kimai",
+        "name": "Kimai",
+        "title": "Track Time Efficiently with Kimai: The Ultimate Multi-User Time-Tracking Solution",
         "description": "Kimai is a free, open-source, web-based time-tracking application for freelancers, agencies, and organizations. Track time, generate invoices, and manage projects effortlessly with its multi-user, multi-team features."
     },
     {
         "id": "frappehr",
+        "name": "FrappeHR",
+        "title": "The Open-Source HR Solution for Modern Workforces",
         "description": "FrappeHR is an open-source, modern HRMS designed to simplify HR and payroll operations while enhancing team productivity and employee satisfaction."
     },
     {
         "id": "attendize",
+        "name": "Attendize",
+        "title": "Your Ultimate Ticket-Selling & Event Management Solution",
         "description": "Attendize is a powerful event management and ticket-selling platform offering seamless attendee management, secure payment options, and advanced features to ensure successful events."
     },
     {
         "id": "chiefonboarding",
+        "name": "ChiefOnboarding",
+        "title": "Simplify and Enhance Employee Onboarding with ChiefOnboarding",
         "description": "ChiefOnboarding streamlines the onboarding process for IT, HR, managers, and new hires, ensuring a seamless and structured experience tailored to your team’s needs."
     },
     {
         "id": "erpnext",
+        "name": "ErpNext",
+        "title": "Effortlessly Manage Your Business with ERPNext – The Open-Source ERP Solution",
         "description": "ERPNext is an open-source ERP solution offering comprehensive tools for accounting, billing, inventory, and more, empowering businesses to streamline operations and boost efficiency."
     },
     {
         "id": "invoiceninja",
+        "name": "InvoiceNinja",
+        "title": "Complete Invoicing, Payments, and Time-Tracking Solution for Freelancers and Businesses",
         "description": "InvoiceNinja is a comprehensive invoicing and payment solution for freelancers and small businesses. It includes invoicing, online payments, time-tracking, expense management, and project organization features to help you run your business efficiently."
     },
     {
         "id": "humhub",
+        "name": "HumHub",
+        "title": "The Ultimate Open-Source Platform for Collaboration and Networking",
         "description": "HumHub is an open-source collaboration platform that helps organizations connect, communicate, and build private social networks with customizable tools and features."
     },
     {
         "id": "espocrm",
+        "name": "EspoCRM",
+        "title": "Streamline Your Business Relationships with Ease",
         "description": "EspoCRM is an open-source CRM solution offering sales and marketing automation, customization, analytics, and workflow management in a user-friendly interface."
     },
     {
         "id": "pretix",
+        "name": "Pretix",
+        "title": "The Ultimate Ticket Shop Application for Events, Conferences, Festivals, and More",
         "description": "Pretix is a powerful and customizable ticket shop application designed for conferences, festivals, concerts, tech events, and more. With advanced features like automated waiting lists, marketing tools, and integrated payment options, Pretix offers a seamless experience for both organizers and attendees."
     },
     {
         "id": "suitecrm",
+        "name": "SuiteCRM",
+        "title": "Powerful Open-Source Customer Relationship Management (CRM) Solution",
         "description": "SuiteCRM is a comprehensive, open-source CRM software that enhances sales, marketing, and customer service with powerful automation, insightful reporting, and personalized dashboards."
     },
     {
         "id": "cryptpad",
+        "name": "CryptPad",
+        "title": "Secure, Open-Source Collaboration Suite",
         "description": "CryptPad is an encrypted, open-source collaboration suite offering real-time document editing, organizational tools, and unmatched privacy."
     },
     {
         "id": "odoo",
+        "name": "Odoo ERP & CRM",
+        "title": "Boost Your Business with Odoo ERP & CRM: Seamlessly Integrated Solutions for Efficiency and Growth",
         "description": "Odoo ERP & CRM is an open-source business suite offering integrated apps for CRM, e-commerce, accounting, inventory, and more, making business management easier and more efficient."
     },
     {
         "id": "dolibarr",
+        "name": "Dolibarr",
+        "title": "Streamline Your Business Operations with Dolibarr - The All-in-One Open Source ERP & CRM",
         "description": "Dolibarr is an open-source ERP & CRM solution for businesses of all sizes, offering customizable features for seamless operations in marketing, sales, HR, and more."
     },
     {
         "id": "twenty",
+        "name": "Twenty",
+        "title": "The Open-Source Salesforce Alternative for Effortless Customer Relationship Management",
         "description": "Twenty is an open-source CRM built by the community, offering modern alternatives to Salesforce with advanced features like Kanban views, email sync, and customizable data models."
     },
     {
         "id": "frappehr",
+        "name": "FrappeHR",
+        "title": "Open-Source HRMS for Seamless HR & Payroll Management",
         "description": "FrappeHR is an open-source HRMS that simplifies HR and payroll management with automation, customization, and an intuitive UI for a seamless experience."
     },
     {
         "id": "serpbear",
+        "name": "SerpBear",
+        "title": "Open Source SEO Tool for Keyword Position Tracking & Google Analytics",
         "description": "Track your website's keyword positions on Google with SerpBear, an open-source search engine position tracking app. Get notifications, Google Search Console integration, and more."
     },
     {
         "id": "ollama",
+        "name": "Ollama",
+        "title": "ChatGPT-Style Open Web UI Client for LLMs",
         "description": "Ollama is a ChatGPT-style web UI client for interacting with large language models like Llama 2 and Mistral, featuring intuitive chat, full Markdown/LaTeX support, and advanced RAG and RLHF integration."
     },
     {
         "id": "typesense",
+        "name": "Typesense",
+        "title": "The Fast, Privacy-Friendly Open-Source Search Engine",
         "description": "Typesense is a privacy-focused, open-source search engine that delivers fast, typo-tolerant search results with an intuitive developer experience. Build scalable, lightning-fast search solutions effortlessly."
     },
     {
         "id": "manticoresearch",
+        "name": "ManticoreSearch",
+        "title": "The Open-Source Full-Text Search Engine for High-Performance Data Management",
         "description": "ManticoreSearch is an open-source, high-performance search engine offering advanced full-text search capabilities, scalability, and low resource consumption for efficient data management."
     },
     {
         "id": "zincsearch",
+        "name": "ZincSearch",
+        "title": "A Lightweight and Efficient Alternative to Elasticsearch",
         "description": "ZincSearch is a fast, resource-efficient search engine offering full-text indexing with Elasticsearch compatibility. It's designed to provide powerful search capabilities while using minimal resources."
     },
     {
         "id": "solr",
+        "name": "Solr",
+        "title": "High-Performance, Open-Source Enterprise Search Platform",
         "description": "Apache Solr is an open-source, enterprise-level search platform that provides powerful full-text search capabilities, advanced query features, and extensive scalability for high-volume applications."
     },
     {
         "id": "searxng",
+        "name": "SearXNG",
+        "title": "Privacy-Focused Metasearch Engine for Secure and Anonymous Web Searches",
         "description": "SearXNG is a free, privacy-focused metasearch engine that aggregates results from 70+ search services, ensuring no tracking or profiling of users."
     },
     {
         "id": "meilisearch",
+        "name": "Meilisearch",
+        "title": "The Fast and Relevant Open-Source Search Engine for Developers",
         "description": "Meilisearch is a lightning-fast, customizable open-source search engine designed to offer highly relevant search results in real time. Perfect for developers, it’s easy to install and offers extensive options for customization."
     },
     {
         "id": "metabasepostgres",
+        "name": "MetabasePostgres",
+        "title": "Simplified Data Exploration with Seamless PostgreSQL Integration",
         "description": "MetabasePostgres enables effortless data exploration and visualization, with an easy-to-use interface and seamless PostgreSQL database integration. Perfect for teams of all sizes, it offers quick setup and powerful business intelligence tools."
     },
     {
         "id": "metabase",
+        "name": "Metabase",
+        "title": "Unlock Powerful Data Insights with Metabase: The Easy Business Intelligence Tool",
         "description": "Metabase is a powerful, open-source business intelligence tool that lets you explore and visualize your data in an intuitive way. Create reports, dashboards, and share insights across your team with ease."
     },
     {
         "id": "superset",
+        "name": "Superset",
+        "title": "Powerful Data Visualization and Exploration for Modern Businesses",
         "description": "Apache Superset is a scalable open-source data visualization tool that enables users to explore and visualize data with ease, from basic charts to advanced geospatial maps."
     },
     {
         "id": "lightdash",
+        "name": "Lightdash",
+        "title": "Simplify Data Analytics and Build a Single Source of Truth",
         "description": "Lightdash streamlines data analytics by connecting data modeling, transformation, and visualization into a unified platform. It offers affordable analytics with DBT integration and centralized business logic for easier decision-making."
     },
     {
         "id": "countly",
+        "name": "Countly",
+        "title": "Product Analytics Platform for Mobile, Web, and Desktop Applications",
         "description": "Countly is a comprehensive product analytics platform for mobile, web, and desktop apps, enabling teams to track user behavior, perform A/B testing, and optimize performance."
     },
     {
         "id": "hedgedoc",
+        "name": "HedgeDoc",
+        "title": "Open-Source Real-Time Collaborative Markdown Editor",
         "description": "HedgeDoc is an open-source, real-time collaborative markdown editor that enables easy collaboration on documents, notes, and presentations, all while being self-hosted for data security and control."
     },
     {
         "id": "joplin",
+        "name": "Joplin",
+        "title": "The Ultimate Open-Source Note-Taking and To-Do App",
         "description": "Joplin is a free, open-source note-taking and to-do app with Markdown support, multimedia capabilities, and customizable features for personal and collaborative use."
     },
     {
         "id": "flatnotes",
+        "name": "Flatnotes",
+        "title": "A Simple and Secure Self-Hosted Markdown Note-Taking App",
         "description": "Flatnotes is a self-hosted, database-less markdown note-taking app with advanced features such as multiple authentication options, powerful search functionality, and an intuitive editor."
     },
     {
         "id": "cryptgeon",
+        "name": "Cryptgeon",
+        "title": "Secure File and Note Sharing with Cryptgeon - Open-Source, Client-Side Encrypted Service",
         "description": "Cryptgeon is a secure, open-source note and file-sharing service built with Rust and Svelte, offering client-side encryption for ultimate privacy."
     },
     {
         "id": "docmost",
+        "name": "Docmost",
+        "title": "Open-Source Collaborative Wiki and Documentation Software",
         "description": "Create, collaborate, and share knowledge seamlessly with Docmost, the ideal open-source platform for managing wikis, knowledge bases, and documentation."
     },
     {
         "id": "memos",
+        "name": "Memos",
+        "title": "Your Lightweight and Secure Self-Hosted Memo Hub",
         "description": "Memos is a self-hosted, open-source memo hub that ensures privacy and security while offering a lightweight yet powerful platform for organizing ideas."
     },
     {
         "id": "huly",
+        "name": "Huly",
+        "title": "Streamline Your Workflow with Huly: The All-in-One Project Management Platform",
         "description": "Huly is an all-in-one project management platform that combines tools for task management, communication, and team collaboration. Simplify workflows and boost productivity with Huly."
     },
     {
         "id": "affine",
+        "name": "Affine",
+        "title": "The Ultimate Open-Source, Privacy-First Alternative to Monday, Notion, and Miro",
         "description": "Affine is a powerful, privacy-first collaborative knowledge base designed for professionals. With versatile features like Markdown support, seamless transitions, and real-time collaboration, Affine is the perfect solution for managing your data securely and efficiently."
     },
     {
         "id": "trilium",
+        "name": "Trilium",
+        "title": "The Ultimate Open-Source Hierarchical Note-Taking Application",
         "description": "Trilium Notes is a feature-rich, open-source note-taking app for managing large personal knowledge bases with robust scalability, sketching, and encryption."
     },
     {
         "id": "vikunja",
+        "name": "Vikunja",
+        "title": "Effortless Task Management with Vikunja: The Open-Source To-Do App",
         "description": "Vikunja is an open-source to-do app that helps you organize tasks, manage projects, and collaborate with teams effortlessly. With versatile views, task reminders, and cross-platform accessibility, it’s the ultimate tool for staying productive and on track."
     },
     {
         "id": "etherpad",
+        "name": "Etherpad",
+        "title": "Collaborative Real-Time Document Editing with Etherpad: Perfect for Teams and Groups",
         "description": "Etherpad is a powerful open-source tool that enables real-time, collaborative document editing in your browser. Ideal for teams, students, and colleagues working together on the same document simultaneously."
     },
     {
         "id": "firefish",
+        "name": "Firefish",
+        "title": "A Powerful Microblogging Platform in the Fediverse",
         "description": "Firefish is a microblogging platform inspired by Misskey, offering a fun and engaging experience while being fully connected to the Fediverse through ActivityPub."
     },
     {
         "id": "mediacms",
+        "name": "MediaCMS",
+        "title": "Open-Source Content Management System for Media Sharing and Community Building",
         "description": "MediaCMS is an open-source CMS for sharing and managing media, offering easy installation, robust media management, and advanced user controls. Perfect for creating media-centric communities."
     },
     {
         "id": "joomla",
+        "name": "Joomla",
+        "title": "A Powerful, Open-Source CMS for Effortless Web Publishing",
         "description": "Joomla is a free, open-source CMS that offers flexibility, strong security, SEO optimization, and thousands of extensions, making it perfect for building any website or web application."
     },
     {
         "id": "wordpress-multisites",
+        "name": "Wordpress-Multisites",
+        "title": "Unlock the Power of WordPress Multisite: Manage Multiple Websites Effortlessly",
         "description": "WordPress Multisite lets you manage multiple websites from one dashboard, making it perfect for organizations, businesses, and educational institutions."
     },
     {
         "id": "ghost",
+        "name": "Ghost",
+        "title": "The Ultimate Platform for Content Creators and Business Growth",
         "description": "Ghost is a powerful platform for content creators to publish, share, and grow a business. It offers modern tools for website building, content publishing, newsletters, and paid subscriptions."
     },
     {
         "id": "strapi",
+        "name": "Strapi",
+        "title": "The Leading Open-Source Headless CMS for Developers",
         "description": "Strapi is a fully customizable, developer-first headless CMS built with JavaScript, enabling efficient content management and seamless integrations."
     },
     {
         "id": "wordpress",
+        "name": "Wordpress",
+        "title": "The Ultimate Open-Source CMS for Building Powerful Websites",
         "description": "WordPress is a free, open-source CMS that offers easy-to-use tools, SEO features, and full control over your website, making it the perfect platform for creating websites, blogs, and e-commerce stores."
     },
     {
         "id": "drupal",
+        "name": "Drupal",
+        "title": "The Ultimate Content Management System for Flexibility, Customization, and Scalability",
         "description": "Drupal is a flexible, scalable, and secure CMS that allows you to build and manage content-rich websites. With thousands of modules and customization options, Drupal is perfect for websites of any size, from blogs to enterprise-level platforms."
     },
     {
         "id": "directus",
+        "name": "Directus",
+        "title": "Open Data Platform for SQL Database Management",
         "description": "Directus is an open-source platform for managing content in SQL databases. With its powerful API and user-friendly interface, it empowers developers and non-technical users alike."
     },
     {
         "id": "agencyos",
+        "name": "AgencyOS",
+        "title": "The Ultimate Solution for Agency Management and Growth",
         "description": "AgencyOS provides a customizable website, self-service cloud platform, and enterprise-grade features to help agencies scale and manage their operations efficiently."
     },
     {
         "id": "prestashop",
+        "name": "Prestashop",
+        "title": "The Best Open-Source E-Commerce Platform for Your Online Store",
         "description": "PrestaShop is a free, open-source e-commerce platform that allows you to build, manage, and grow your online store with ease. It offers budget-friendly features, easy installation, and full customization with thousands of plugins."
     },
     {
         "id": "magento",
+        "name": "Magento",
+        "title": "Powerful Open-Source E-Commerce Platform for Seamless Online Stores",
         "description": "Magento is a robust open-source e-commerce platform that empowers businesses to create, manage, and scale their online stores. With flexible features, ease of integration, and customizable storefronts, it offers solutions for both B2B and B2C markets."
     },
     {
         "id": "shopware",
+        "name": "Shopware",
+        "title": "The Ultimate Open-Source E-commerce Platform for B2C and B2B Success",
         "description": "Shopware is a comprehensive e-commerce platform designed for both B2C and B2B businesses, offering scalability, flexibility, and expert support to elevate your online store."
     },
     {
         "id": "nopcommerce",
+        "name": "nopCommerce",
+        "title": "The Leading Open-Source eCommerce Platform for ASP.NET",
         "description": "nopCommerce is a free, open-source eCommerce platform based on ASP.NET, providing a feature-rich solution for creating and managing online stores. It offers mobile commerce, multi-store management, SEO optimization, and various payment methods."
     },
     {
         "id": "woocommerce",
+        "name": "WooCommerce",
+        "title": "The Ultimate Open-Source eCommerce Solution",
         "description": "WooCommerce is the most popular open-source eCommerce platform, offering unlimited customization and control over your online store, empowering entrepreneurs and businesses worldwide to sell products online."
     },
     {
         "id": "minthcm",
+        "name": "MintHCM",
+        "title": "Revolutionizing Human Resource Management for Modern Businesses",
         "description": "MintHCM is a comprehensive Human Capital Management system designed to streamline HR processes, enhance recruitment, and optimize employee performance."
     },
     {
         "id": "activepieces",
+        "name": "Activepieces",
+        "title": "The Ultimate No-Code Automation Tool for Effortless Workflow Management",
         "description": "Activepieces is a no-code automation tool that helps you easily create and manage workflows, automate tasks, and integrate with popular platforms—all without coding and with full data control."
     },
     {
         "id": "airflow-worker",
+        "name": "Airflow-worker",
+        "title": "Apache Airflow Worker - Simplified Workflow Management and Automation",
         "description": "Airflow Worker is a powerful and flexible instance for Apache Airflow, enabling efficient task execution and seamless integration with Airflow's master instance. Leverage Python-driven workflows with a modern UI, robust integrations, and intuitive scheduling features."
     },
     {
         "id": "huginn",
+        "name": "Huginn",
+        "title": "Automate Your Online Tasks with Huginn – The Ultimate Self-Hosted Agent Platform",
         "description": "Huginn is a powerful system for creating agents that automate tasks, monitor events, and interact with various services on your behalf. It’s like a personalized IFTTT for your server, giving you full control of your data."
     },
     {
         "id": "node-red",
+        "name": "Node-red",
+        "title": "Effortlessly Wire Hardware and APIs with Node-RED: A Powerful Programming Tool for the Internet of Things (IoT)",
         "description": "Node-RED is a browser-based programming tool that simplifies wiring hardware, APIs, and services, enabling rapid development of IoT applications."
     },
     {
         "id": "apachenifi",
+        "name": "ApacheNiFi",
+        "title": "Seamless Data Flow Automation for Efficient Integration",
         "description": "Apache NiFi automates data movement between disparate systems, providing real-time control, secure communication, and comprehensive data tracking for seamless integration."
     },
     {
         "id": "airflow",
+        "name": "Airflow",
+        "title": "Automate and Manage Complex Workflows with Ease",
         "description": "Apache Airflow is an open-source platform to author, schedule, and monitor workflows. It simplifies task automation and orchestration using Python, making it highly scalable and flexible."
     },
     {
         "id": "automatisch",
+        "name": "Automatisch",
+        "title": "The Open-Source Alternative to Zapier for Seamless Business Automation",
         "description": "Automatisch enables easy, code-free automation of your business processes, offering an affordable cloud solution or self-hosting option. The best open-source Zapier alternative for businesses looking to streamline operations."
     },
     {
         "id": "n8n",
+        "name": "N8N",
+        "title": "Automate Your Workflows with N8N - No Code, Fully Customizable Automation",
         "description": "N8N is a no-code automation platform that connects over 200 apps, allowing seamless data transfer and workflow creation without writing a single line of code. Host it on your server for complete control and security."
     },
     {
         "id": "discourse",
+        "name": "Discourse",
+        "title": "Modern Open-Source Forum Software for Seamless Online Discussions",
         "description": "Discourse is an open-source, self-hosted forum software that redefines community interaction with dynamic notifications, continuous scrolling, and rich media features for modern discussions."
     },
     {
         "id": "owncast",
+        "name": "Owncast",
+        "title": "Open-Source Self-Hosted Live Streaming and Chat Platform for Total Control",
         "description": "Owncast is an open-source, self-hosted live streaming and chat platform that gives you full control over your content, interface, and audience, providing a decentralized alternative to mainstream streaming services."
     },
     {
         "id": "photon",
+        "name": "Photon",
+        "title": "A Powerful Open-Source Solution for Efficient Image Management",
         "description": "Photon is a customizable replacement for Lemmy-ui, offering an improved design, more features, and full integration with the Fediverse for creating decentralized discussion platforms."
     },
     {
         "id": "picoshare",
+        "name": "Picoshare",
+        "title": "Effortless File Sharing with Direct Downloads and No Restrictions",
         "description": "PicoShare offers hassle-free file uploads with direct download links and no sign-ups required. Share files of any size, in their original form, without re-encoding or restrictions."
     },
     {
         "id": "friendica",
+        "name": "Friendica",
+        "title": "A Decentralized Social Network for Building Your Own Fediverse",
         "description": "Friendica is a decentralized social network that lets you host your own server, participate in the fediverse, and enjoy enhanced privacy and control over your interactions."
     },
     {
         "id": "nodebb",
+        "name": "NodeBB",
+        "title": "The High-Performance Community Forum Platform",
         "description": "NodeBB is a powerful, mobile-first, and SEO-friendly community discussion platform that provides real-time interactions, social authentication, and easy customization."
     },
     {
         "id": "lemmy",
+        "name": "Lemmy",
+        "title": "Decentralized Link Aggregator and Social Media Platform",
         "description": "Lemmy is a decentralized link aggregator and social media platform that allows users to create their own servers while connecting to the larger Fediverse, providing a more open, community-driven experience."
     },
     {
         "id": "kbin",
+        "name": "KBIN",
+        "title": "A Decentralized Content Aggregator and Microblogging Platform",
         "description": "KBIN is a decentralized content aggregator and microblogging platform within the Fediverse, allowing users to create, moderate communities, and engage in meaningful discussions with others who share similar interests."
     },
     {
         "id": "lobsters",
+        "name": "Lobsters",
+        "title": "A Community-Driven Platform for Computing Enthusiasts",
         "description": "Lobsters is a vibrant community for computing enthusiasts, offering a space to share stories, links, and engage in meaningful discussions on a range of tech topics."
     },
     {
         "id": "flarum",
+        "name": "Flarum",
+        "title": "The Ultimate Open-Source Discussion Platform for Your Community",
         "description": "Flarum is a fast, open-source discussion platform that combines simplicity, speed, and flexibility to create an ideal community forum."
     },
     {
         "id": "element",
+        "name": "Element",
+        "title": "The Secure, Decentralized Messaging and Collaboration Platform",
         "description": "Element is a secure, decentralized messaging and collaboration app that provides end-to-end encryption, full data control, and seamless interoperability on the open Matrix network."
     },
     {
         "id": "azuracast",
+        "name": "AzuraCast",
+        "title": "Self-Hosted Web Radio Management Solution for Seamless Broadcasting",
         "description": "AzuraCast is a self-hosted, all-in-one web radio management suite that enables users to easily manage their radio stations through an intuitive web interface. It’s perfect for all types and sizes of stations, offering quick setup, powerful features, and easy customization."
     },
     {
         "id": "mastodon",
+        "name": "Mastodon",
+        "title": "The Open-Source Social Network for a Safer, Customizable Experience",
         "description": "Mastodon is a free, open-source social network server with decentralized communities, offering a customizable, safer, and more interactive experience for users to share posts, images, and videos."
     },
     {
         "id": "phpbb",
+        "name": "PhpBB",
+        "title": "Free Open-Source Forum Software for Your Community",
         "description": "phpBB is a free and secure forum software solution to build and manage online communities effortlessly."
     },
     {
         "id": "bigcapital",
+        "name": "Bigcapital",
+        "title": "The Open-Source Alternative for Smarter Financial Accounting",
         "description": "Bigcapital is open-source online accounting software for automating financial processes with invoicing, expense tracking, inventory, and real-time reporting."
     },
     {
         "id": "btcpay",
+        "name": "BTCPay",
+        "title": "The Ultimate Open-Source Cryptocurrency Payment Processor",
         "description": "BTCPay Server is a secure, open-source cryptocurrency payment processor offering privacy, control, and essential tools for invoicing, payments, and automation."
     },
     {
         "id": "hyperswitch",
+        "name": "Hyperswitch",
+        "title": "Revolutionizing Payment Processing with Speed, Reliability, and Affordability",
         "description": "Hyperswitch is an open-source payment switch in Rust, delivering fast, reliable, and affordable payment processing for digital businesses."
     },
     {
         "id": "crater",
+        "name": "Crater",
+        "title": "Simplify Invoicing, Payments, and Expense Management",
         "description": "Crater helps you create invoices, track expenses, and manage payments with ease, all through an intuitive and open-source platform."
     },
     {
         "id": "lago",
+        "name": "Lago",
+        "title": "The Open-Source Alternative to Stripe Billing and Chargebee for Usage-Based Billing",
         "description": "Lago is an open-source, modular billing solution that provides flexible usage metering, automated invoicing, and advanced billing features to scale your business. It’s the perfect alternative to Stripe Billing and Chargebee."
     },
     {
         "id": "knime",
+        "name": "Knime",
+        "title": "Unlock the Power of Data with KNIME Analytics Platform - Open Source Data Science Software",
         "description": "KNIME Analytics Platform is an open-source data science software that enables users to build data workflows and analyze data with ease, offering visual programming, tool blending, and full support for the data science life cycle."
     },
     {
         "id": "matomo",
+        "name": "Matomo",
+        "title": "Open-Source Web Analytics for Accurate, Privacy-Compliant Data Tracking",
         "description": "Matomo is a self-hosted, open-source web analytics platform that offers 100% accurate data, unlimited tracking, and privacy compliance, allowing businesses to make informed decisions without compromising on security."
     },
     {
         "id": "umami",
+        "name": "Umami",
+        "title": "Simple, Self-Hosted Web Analytics Solution",
         "description": "Umami is an easy-to-use, self-hosted web analytics solution that prioritizes privacy, offering a free alternative to Google Analytics and paid services. Track the metrics that matter to you with an intuitive, lightweight interface."
     },
     {
         "id": "dremio",
+        "name": "Dremio",
+        "title": "Revolutionizing Data Lakes with Self-Service SQL Analytics",
         "description": "Dremio is an open-source data lakehouse that offers self-service SQL analytics, high performance, and data lake flexibility for all your data needs. It delivers sub-second performance and eliminates costly data copies."
     },
     {
         "id": "tika",
+        "name": "Tika",
+        "title": "titleComprehensive Content Analysis Toolkit for File Metadata and Text Extraction",
         "description": "Apache Tika is a powerful content analysis toolkit that extracts text and metadata from over a thousand file formats, including PDFs, PPTs, and XLS files. It supports OCR for image content extraction and provides an easy-to-use API for integration."
     },
     {
         "id": "ackee",
+        "name": "Ackee",
+        "title": "Privacy-Focused Website Analytics with Open-Source, Self-Hosted Solution",
         "description": "Ackee is a privacy-focused, open-source web analytics tool that provides insightful traffic analysis with a minimalistic interface. It ensures complete anonymity and runs self-hosted for full control."
     },
     {
         "id": "fugu",
+        "name": "Fugu",
+        "title": "Simple, Privacy-Friendly, Open-Source Product Analytics for Self-Hosting",
         "description": "Fugu is an open-source, privacy-friendly, and self-hostable product analytics tool designed for simplicity. Track events, build funnels, and manage data with ease."
     },
     {
         "id": "posthog",
+        "name": "PostHog",
+        "title": "Comprehensive Product Analytics and Data Infrastructure for Engineers",
         "description": "PostHog offers product analytics, video replays, feature flags, and more to help engineers build products that users love, all while maintaining full control over customer data."
     },
     {
         "id": "quickwit",
+        "name": "Quickwit",
+        "title": "The Fastest Cloud-Native Search Engine for Logs and Traces",
         "description": "Quickwit is an open-source, cloud-native search engine designed for observability, offering a high-performance alternative to Datadog, Elasticsearch, and other log management solutions."
     },
     {
         "id": "rocket.chat",
+        "name": "Rocket.Chat",
+        "title": "The Secure and Customizable Communication Platform",
         "description": "Rocket.Chat is a secure, customizable messaging platform that enables real-time, private communication across teams, customers, and partners. Trusted by leading organizations, it enhances productivity with features like group messaging, video calls, and integrations."
     },
     {
         "id": "typebot",
+        "name": "Typebot",
+        "title": "Create Powerful, Interactive Chat Experiences with Ease",
         "description": "Typebot allows you to build dynamic chatbots effortlessly, with powerful features like team collaboration, reusable sub bots, folder management, and custom coding. Enhance your web and mobile apps with seamless chat experiences today!"
     },
     {
         "id": "mirotalk",
+        "name": "MiroTalk",
+        "title": "Secure & High-Quality WebRTC Video Conferencing",
         "description": "MiroTalk is a secure, high-quality WebRTC-based video conferencing solution offering 4K video, real-time collaboration, and end-to-end encryption, ensuring privacy and seamless communication across all platforms."
     },
     {
         "id": "jitsi",
+        "name": "Jitsi",
+        "title": "Free and Open-Source Video Conferencing for Seamless Communication",
         "description": "Jitsi is an open-source, multiplatform video conferencing and messaging solution that enables secure, high-quality communication without the need for accounts. It supports voice, video, and instant messaging on web, Windows, Linux, macOS, iOS, and Android devices."
     },
     {
         "id": "lobechat",
+        "name": "LobeChat",
+        "title": "High-Performance Open-Source Chatbot Framework with Multimodal Support",
         "description": "LobeChat is an open-source, high-performance chatbot framework that supports multimodal interactions, including text-to-speech, visual recognition, and text-to-image generation, offering easy deployment of private ChatGPT and LLM applications."
     },
     {
         "id": "botpress",
+        "name": "Botpress",
+        "title": "The Next-Generation Chatbot Builder Powered by OpenAI",
         "description": "Botpress is an AI-powered chatbot builder that enables the creation of intelligent, conversational bots for businesses and projects. Powered by OpenAI, Botpress ensures bots understand context, sentiment, and complex dialogues."
     },
     {
         "id": "revolt",
+        "name": "Revolt",
+        "title": "A Secure and Customizable Chat App for Communities and Friends",
         "description": "Revolt is a secure, privacy-focused chat app for friends and communities, offering customizable spaces with no ads and a commitment to confidentiality. Open-source and GDPR-compliant."
     },
     {
         "id": "zulip",
+        "name": "Zulip",
+        "title": "The Ultimate Open-Source Team Collaboration Tool with Topic-Based Threading",
         "description": "Zulip is an open-source team collaboration platform that enhances productivity with its unique topic-based threading. Combining the best of email and chat, it makes remote work seamless and efficient for teams."
     },
     {
         "id": "chatwoot",
+        "name": "Chatwoot",
+        "title": "The Ultimate Open-Source Customer Support Platform",
         "description": "Chatwoot is an open-source customer support platform that centralizes communication across multiple channels, helping teams deliver fast, efficient, and personalized customer service."
     },
     {
         "id": "papercups",
+        "name": "Papercups",
+        "title": "The Privacy-Focused, Open-Source Alternative for Customer Support",
         "description": "Papercups is a privacy-first, open-source customer support platform offering seamless integration with Slack, chat, email, and SMS. Customize your widget, save developers time, and enhance your support experience."
     },
     {
         "id": "mattermost",
+        "name": "Mattermost Team Edition",
+        "title": "Unlock Seamless Team Collaboration with Mattermost Team Edition",
         "description": "Mattermost Team Edition is an open-source team collaboration platform that enables efficient communication, task management, and workflow automation. Customizable and secure, it is the perfect tool for teams looking to enhance productivity and streamline operations."
     }
 ]
