@@ -2,7 +2,7 @@
 draft: false
 title: Immich fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/storage/immich/screenshot-1.jpg
+  cover: /images/hosting-and-infrastructure/storage/immich/screenshot-1.webp
   description:
     Immich is a self-hosted photo management solution that mimics Google
     Photos' UI and features. With TensorFlow-based machine learning, Immich offers
@@ -31,7 +31,7 @@ content:
   website: https://immich.app/
   iframe_website: /website/hosting-and-infrastructure/storage/immich
   screenshots:
-    - /images/hosting-and-infrastructure/storage/immich/screenshot-1.png
+    - /images/hosting-and-infrastructure/storage/immich/screenshot-1.webp
     - /images/hosting-and-infrastructure/storage/immich/screenshot-2.webp
 ---
 
