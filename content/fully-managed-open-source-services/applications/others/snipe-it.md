@@ -2,24 +2,26 @@
 draft: false
 title: Snipe-it fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/snipe-it/screenshot-1.jpg
-  description: Snipe-IT simplifies IT asset management, offering secure tracking of
+  cover: /images/applications/others/snipe-it/screenshot-1.webp
+  description:
+    Snipe-IT simplifies IT asset management, offering secure tracking of
     hardware, software, and accessories with powerful features like automated security,
     admin dashboards, and easy integration.
-  keywords: IT asset management, asset tracking, software license management, hardware
+  keywords:
+    IT asset management, asset tracking, software license management, hardware
     management, asset lifecycle, security automation, admin dashboard, REST API, integrations,
     Snipe-IT features, asset management software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Snipe-it
-    url: /fully-managed-open-source-services/applications/others/snipe-it
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Snipe-it
+      url: /fully-managed-open-source-services/applications/others/snipe-it
 content:
   id: snipe-it
   name: Snipe-it
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/others/snipe-it
   direct_link: true
   screenshots:
-  - /images/applications/others/snipe-it/screenshot-1.png
-  - /images/applications/others/snipe-it/screenshot-2.png
+    - /images/applications/others/snipe-it/screenshot-1.webp
+    - /images/applications/others/snipe-it/screenshot-2.png
 ---
 
 ## Overview

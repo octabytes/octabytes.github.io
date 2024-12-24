@@ -3,22 +3,24 @@ draft: false
 title: YOURLS fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/yourls/screenshot-1.jpg
-  description: YOURLS is a free, open-source, self-hosted URL shortener in PHP, giving
+  description:
+    YOURLS is a free, open-source, self-hosted URL shortener in PHP, giving
     you complete control over your links and data with powerful features like detailed
     stats and plugin extensibility.
-  keywords: YOURLS, self-hosted URL shortener, PHP URL shortener, open-source URL
+  keywords:
+    YOURLS, self-hosted URL shortener, PHP URL shortener, open-source URL
     shortener, custom URL shortener, URL management, link analytics, free URL shortener
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/others/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: YOURLS
+      url: /fully-managed-open-source-services/applications/others/yourls
 content:
   id: yourls
   name: YOURLS
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/applications/others/yourls
   direct_link: true
   screenshots:
-  - /images/applications/others/yourls/screenshot-1.png
-  - /images/applications/others/yourls/screenshot-2.png
+    - /images/applications/others/yourls/screenshot-1.png
+    - /images/applications/others/yourls/screenshot-2.webp
 ---
 
 ## Overview

@@ -2,26 +2,28 @@
 draft: false
 title: MetabasePostgres fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/business-intelligence/metabasepostgres/screenshot-1.jpg
-  description: MetabasePostgres enables effortless data exploration and visualization,
+  cover: /images/applications/business-intelligence/metabasepostgres/screenshot-1.png
+  description:
+    MetabasePostgres enables effortless data exploration and visualization,
     with an easy-to-use interface and seamless PostgreSQL database integration. Perfect
     for teams of all sizes, it offers quick setup and powerful business intelligence
     tools.
-  keywords: MetabasePostgres, data exploration, PostgreSQL integration, business intelligence,
+  keywords:
+    MetabasePostgres, data exploration, PostgreSQL integration, business intelligence,
     data visualization, easy data analysis, dashboard sharing, no-SQL barrier, team
     collaboration, data insights, quick setup, embedded reports, visual analytics,
     PostgreSQL business intelligence
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Business Intelligence
-    url: /fully-managed-open-source-services/applications/business-intelligence
-  - name: MetabasePostgres
-    url: /fully-managed-open-source-services/applications/business-intelligence/metabasepostgres
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: MetabasePostgres
+      url: /fully-managed-open-source-services/applications/business-intelligence/metabasepostgres
 content:
   id: metabasepostgres
   name: MetabasePostgres
@@ -30,8 +32,8 @@ content:
   website: https://www.metabase.com/
   iframe_website: /website/applications/business-intelligence/metabasepostgres
   screenshots:
-  - /images/applications/business-intelligence/metabasepostgres/screenshot-1.png
-  - /images/applications/business-intelligence/metabasepostgres/screenshot-2.png
+    - /images/applications/business-intelligence/metabasepostgres/screenshot-1.png
+    - /images/applications/business-intelligence/metabasepostgres/screenshot-2.png
 ---
 
 ## Overview

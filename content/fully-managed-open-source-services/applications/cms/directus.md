@@ -2,24 +2,26 @@
 draft: false
 title: Directus fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/cms/directus/screenshot-1.jpg
-  description: Directus is an open-source platform for managing content in SQL databases.
+  cover: /images/applications/cms/directus/screenshot-1.png
+  description:
+    Directus is an open-source platform for managing content in SQL databases.
     With its powerful API and user-friendly interface, it empowers developers and
     non-technical users alike.
-  keywords: Directus, open-source platform, SQL database management, API for developers,
+  keywords:
+    Directus, open-source platform, SQL database management, API for developers,
     content management, cloud platform, enterprise API, data management, open data
     platform, on-demand cloud
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Directus
-    url: /fully-managed-open-source-services/applications/cms/directus
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Directus
+      url: /fully-managed-open-source-services/applications/cms/directus
 content:
   id: directus
   name: Directus
@@ -28,8 +30,8 @@ content:
   website: https://directus.io/
   iframe_website: /website/applications/cms/directus
   screenshots:
-  - /images/applications/cms/directus/screenshot-1.png
-  - /images/applications/cms/directus/screenshot-2.png
+    - /images/applications/cms/directus/screenshot-1.png
+    - /images/applications/cms/directus/screenshot-2.png
 ---
 
 ## Overview

@@ -2,24 +2,26 @@
 draft: false
 title: Cal fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/calendar/cal/screenshot-1.jpg
-  description: Cal.com is a Calendly alternative that simplifies scheduling by allowing
+  cover: /images/applications/calendar/cal/screenshot-1.png
+  description:
+    Cal.com is a Calendly alternative that simplifies scheduling by allowing
     personalized event links, calendar synchronization, and automated workflows. Perfect
     for individuals and teams, with free access for personal use.
-  keywords: Cal.com, Calendly alternative, scheduling tool, meeting scheduler, calendar
+  keywords:
+    Cal.com, Calendly alternative, scheduling tool, meeting scheduler, calendar
     integration, automatic reminders, team scheduling, free scheduling, event management,
     workflow automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Calendar
-    url: /fully-managed-open-source-services/applications/calendar
-  - name: Cal
-    url: /fully-managed-open-source-services/applications/calendar/cal
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Calendar
+      url: /fully-managed-open-source-services/applications/calendar
+    - name: Cal
+      url: /fully-managed-open-source-services/applications/calendar/cal
 content:
   id: cal
   name: Cal
@@ -28,8 +30,8 @@ content:
   website: https://cal.com/
   iframe_website: /website/applications/calendar/cal
   screenshots:
-  - /images/applications/calendar/cal/screenshot-1.png
-  - /images/applications/calendar/cal/screenshot-2.png
+    - /images/applications/calendar/cal/screenshot-1.png
+    - /images/applications/calendar/cal/screenshot-2.png
 ---
 
 ## Overview

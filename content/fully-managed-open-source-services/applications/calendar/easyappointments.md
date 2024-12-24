@@ -2,25 +2,27 @@
 draft: false
 title: EasyAppointments fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/calendar/easyappointments/screenshot-1.jpg
-  description: EasyAppointments is a powerful and customizable appointment booking
+  cover: /images/applications/calendar/easyappointments/screenshot-1.png
+  description:
+    EasyAppointments is a powerful and customizable appointment booking
     software that syncs with Google Calendar. Manage appointments, services, and customer
     data with ease for an improved scheduling experience.
-  keywords: EasyAppointments, appointment booking software, appointment scheduling,
+  keywords:
+    EasyAppointments, appointment booking software, appointment scheduling,
     customer management, service provider scheduling, Google Calendar sync, business
     workflow, appointment management system, customizable appointment software, online
     appointment system, booking software integration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Calendar
-    url: /fully-managed-open-source-services/applications/calendar
-  - name: EasyAppointments
-    url: /fully-managed-open-source-services/applications/calendar/easyappointments
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Calendar
+      url: /fully-managed-open-source-services/applications/calendar
+    - name: EasyAppointments
+      url: /fully-managed-open-source-services/applications/calendar/easyappointments
 content:
   id: easyappointments
   name: EasyAppointments
@@ -29,8 +31,8 @@ content:
   website: https://easyappointments.org/
   iframe_website: /website/applications/calendar/easyappointments
   screenshots:
-  - /images/applications/calendar/easyappointments/screenshot-1.webp
-  - /images/applications/calendar/easyappointments/screenshot-2.png
+    - /images/applications/calendar/easyappointments/screenshot-1.webp
+    - /images/applications/calendar/easyappointments/screenshot-2.png
 ---
 
 ## Overview

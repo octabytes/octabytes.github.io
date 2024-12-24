@@ -2,25 +2,27 @@
 draft: false
 title: Automatisch fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/automation/automatisch/screenshot-1.jpg
-  description: Automatisch enables easy, code-free automation of your business processes,
+  cover: /images/applications/automation/automatisch/screenshot-1.png
+  description:
+    Automatisch enables easy, code-free automation of your business processes,
     offering an affordable cloud solution or self-hosting option. The best open-source
     Zapier alternative for businesses looking to streamline operations.
-  keywords: business automation, open-source automation, Zapier alternative, automate
+  keywords:
+    business automation, open-source automation, Zapier alternative, automate
     without coding, workflow automation, self-hosted automation, cloud automation,
     data privacy automation, Automatisch, business process automation, open-source
     workflow automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Automatisch
-    url: /fully-managed-open-source-services/applications/automation/automatisch
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Automatisch
+      url: /fully-managed-open-source-services/applications/automation/automatisch
 content:
   id: automatisch
   name: Automatisch
@@ -29,8 +31,8 @@ content:
   website: https://automatisch.io/
   iframe_website: /website/applications/automation/automatisch
   screenshots:
-  - /images/applications/automation/automatisch/screenshot-1.png
-  - /images/applications/automation/automatisch/screenshot-2.webp
+    - /images/applications/automation/automatisch/screenshot-1.png
+    - /images/applications/automation/automatisch/screenshot-2.webp
 ---
 
 ## Overview

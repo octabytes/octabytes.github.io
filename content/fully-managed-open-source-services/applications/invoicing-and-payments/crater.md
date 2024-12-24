@@ -3,22 +3,24 @@ draft: false
 title: Crater fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/invoicing-and-payments/crater/screenshot-1.jpg
-  description: Crater helps you create invoices, track expenses, and manage payments
+  description:
+    Crater helps you create invoices, track expenses, and manage payments
     with ease, all through an intuitive and open-source platform.
-  keywords: Crater, invoicing software, expense management, payment tracking, open-source
+  keywords:
+    Crater, invoicing software, expense management, payment tracking, open-source
     invoicing, accounting automation, professional invoices, billing software, financial
     management tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Invoicing and payments
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments
-  - name: Crater
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments/crater
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
+    - name: Crater
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/crater
 content:
   id: crater
   name: Crater
@@ -27,8 +29,8 @@ content:
   website: https://crater.financial/
   iframe_website: /website/applications/invoicing-and-payments/crater
   screenshots:
-  - /images/applications/invoicing-and-payments/crater/screenshot-1.png
-  - /images/applications/invoicing-and-payments/crater/screenshot-2.png
+    - /images/applications/invoicing-and-payments/crater/screenshot-1.png
+    - /images/applications/invoicing-and-payments/crater/screenshot-2.webp
 ---
 
 ## Overview

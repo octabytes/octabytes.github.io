@@ -3,23 +3,25 @@ draft: false
 title: Zammad fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/zammad/screenshot-1.jpg
-  description: Zammad is a free helpdesk system that integrates all your communication
+  description:
+    Zammad is a free helpdesk system that integrates all your communication
     channels into one platform with customizable features and high-level security.
-  keywords: Zammad, free helpdesk software, issue-tracking system, customer support
+  keywords:
+    Zammad, free helpdesk software, issue-tracking system, customer support
     software, full-text search, data migration, customizable helpdesk, secure helpdesk,
     Ruby helpdesk, helpdesk for social media, helpdesk with phone integration, helpdesk
     with email, smart taskbar, data encryption
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: Zammad
-    url: /fully-managed-open-source-services/applications/customer-support/zammad
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: Zammad
+      url: /fully-managed-open-source-services/applications/customer-support/zammad
 content:
   id: zammad
   name: Zammad
@@ -28,8 +30,8 @@ content:
   website: https://zammad.org/
   iframe_website: /website/applications/customer-support/zammad
   screenshots:
-  - /images/applications/customer-support/zammad/screenshot-1.png
-  - /images/applications/customer-support/zammad/screenshot-2.png
+    - /images/applications/customer-support/zammad/screenshot-1.png
+    - /images/applications/customer-support/zammad/screenshot-2.webp
 ---
 
 ## Overview

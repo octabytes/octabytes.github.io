@@ -3,22 +3,24 @@ draft: false
 title: Pixelfed fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/pixelfed/screenshot-1.jpg
-  description: Pixelfed is a decentralized social network for image sharing, providing
+  description:
+    Pixelfed is a decentralized social network for image sharing, providing
     a user-friendly alternative to platforms like Instagram, where privacy and control
     over your data are prioritized.
-  keywords: Pixelfed, decentralized social network, image sharing, privacy, ActivityPub,
+  keywords:
+    Pixelfed, decentralized social network, image sharing, privacy, ActivityPub,
     Instagram alternative, federated network, peer-to-peer social media
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: Listmonk
-    url: /fully-managed-open-source-services/applications/fediverse/pixelfed
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Listmonk
+      url: /fully-managed-open-source-services/applications/fediverse/pixelfed
 content:
   id: pixelfed
   name: Pixelfed
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/applications/fediverse/pixelfed
   direct_link: true
   screenshots:
-  - /images/applications/fediverse/pixelfed/screenshot-1.png
-  - /images/applications/fediverse/pixelfed/screenshot-2.png
+    - /images/applications/fediverse/pixelfed/screenshot-1.png
+    - /images/applications/fediverse/pixelfed/screenshot-2.jpeg
 ---
 
 ## Overview

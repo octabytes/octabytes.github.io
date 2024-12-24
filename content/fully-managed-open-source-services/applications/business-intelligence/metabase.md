@@ -2,35 +2,38 @@
 draft: false
 title: Metabase fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/business-intelligence/metabase/screenshot-1.jpg
-  description: Metabase is a powerful, open-source business intelligence tool that
+  cover: /images/applications/business-intelligence/metabase/screenshot-1.png
+  description:
+    Metabase is a powerful, open-source business intelligence tool that
     lets you explore and visualize your data in an intuitive way. Create reports,
     dashboards, and share insights across your team with ease.
-  keywords: Metabase, business intelligence, data exploration, data visualization,
+  keywords:
+    Metabase, business intelligence, data exploration, data visualization,
     BI tool, SQL-free reporting, dashboards, open-source BI, data insights, easy BI
     solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Business Intelligence
-    url: /fully-managed-open-source-services/applications/business-intelligence
-  - name: Metabase
-    url: /fully-managed-open-source-services/applications/business-intelligence/metabase
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Metabase
+      url: /fully-managed-open-source-services/applications/business-intelligence/metabase
 content:
   id: metabase
   name: Metabase
-  title: 'Unlock Powerful Data Insights with Metabase: The Easy Business Intelligence
-    Tool'
+  title:
+    "Unlock Powerful Data Insights with Metabase: The Easy Business Intelligence
+    Tool"
   logo: /images/applications/business-intelligence/metabase/logo.png
   website: https://www.metabase.com/
   iframe_website: /website/applications/business-intelligence/metabase
   screenshots:
-  - /images/applications/business-intelligence/metabase/screenshot-1.png
-  - /images/applications/business-intelligence/metabase/screenshot-2.png
+    - /images/applications/business-intelligence/metabase/screenshot-1.png
+    - /images/applications/business-intelligence/metabase/screenshot-2.png
 ---
 
 ## Overview

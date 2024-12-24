@@ -2,25 +2,27 @@
 draft: false
 title: AgencyOS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/cms/agencyos/screenshot-1.jpg
-  description: AgencyOS provides a customizable website, self-service cloud platform,
+  cover: /images/applications/cms/agencyos/screenshot-1.png
+  description:
+    AgencyOS provides a customizable website, self-service cloud platform,
     and enterprise-grade features to help agencies scale and manage their operations
     efficiently.
-  keywords: AgencyOS, agency management software, headless CMS, Nuxt 3, Directus backend,
+  keywords:
+    AgencyOS, agency management software, headless CMS, Nuxt 3, Directus backend,
     agency website template, cloud platform for agencies, self-service cloud, enterprise
     cloud, scalable agency tools, agency tools, cloud infrastructure, serverless agency
     solutions
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: AgencyOS
-    url: /fully-managed-open-source-services/applications/cms/agencyos
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: AgencyOS
+      url: /fully-managed-open-source-services/applications/cms/agencyos
 content:
   id: agencyos
   name: AgencyOS
@@ -29,8 +31,8 @@ content:
   website: https://www.agencyos.dev/
   iframe_website: /website/applications/cms/agencyos
   screenshots:
-  - /images/applications/cms/agencyos/screenshot-1.png
-  - /images/applications/cms/agencyos/screenshot-2.png
+    - /images/applications/cms/agencyos/screenshot-1.png
+    - /images/applications/cms/agencyos/screenshot-2.png
 ---
 
 ## Overview

@@ -2,25 +2,27 @@
 draft: false
 title: Countly fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/business-intelligence/countly/screenshot-1.jpg
-  description: Countly is a comprehensive product analytics platform for mobile, web,
+  cover: /images/applications/business-intelligence/countly/screenshot-1.png
+  description:
+    Countly is a comprehensive product analytics platform for mobile, web,
     and desktop apps, enabling teams to track user behavior, perform A/B testing,
     and optimize performance.
-  keywords: Countly, product analytics, user behavior tracking, mobile app analytics,
+  keywords:
+    Countly, product analytics, user behavior tracking, mobile app analytics,
     web analytics, desktop app analytics, A/B testing, activity mapping, app optimization,
     user insights, data-driven decisions, app performance, user engagement, analytics
     platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Business Intelligence
-    url: /fully-managed-open-source-services/applications/business-intelligence
-  - name: Countly
-    url: /fully-managed-open-source-services/applications/business-intelligence/countly
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Countly
+      url: /fully-managed-open-source-services/applications/business-intelligence/countly
 content:
   id: countly
   name: Countly
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/applications/business-intelligence/countly
   direct_link: true
   screenshots:
-  - /images/applications/business-intelligence/countly/screenshot-1.png
-  - /images/applications/business-intelligence/countly/screenshot-2.png
+    - /images/applications/business-intelligence/countly/screenshot-1.png
+    - /images/applications/business-intelligence/countly/screenshot-2.png
 ---
 
 ## Overview

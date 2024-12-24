@@ -2,24 +2,26 @@
 draft: false
 title: Airflow fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/automation/airflow/screenshot-1.jpg
-  description: Apache Airflow is an open-source platform to author, schedule, and
+  cover: /images/applications/automation/airflow/screenshot-1.png
+  description:
+    Apache Airflow is an open-source platform to author, schedule, and
     monitor workflows. It simplifies task automation and orchestration using Python,
     making it highly scalable and flexible.
-  keywords: Apache Airflow, workflow automation, directed acyclic graph, DAGs, task
+  keywords:
+    Apache Airflow, workflow automation, directed acyclic graph, DAGs, task
     scheduling, open-source platform, Python workflows, workflow orchestration, task
     monitoring, data pipelines, machine learning, data engineering, Airflow features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Airflow
-    url: /fully-managed-open-source-services/applications/automation/airflow
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Airflow
+      url: /fully-managed-open-source-services/applications/automation/airflow
 content:
   id: airflow
   name: Airflow
@@ -28,8 +30,8 @@ content:
   website: https://airflow.apache.org/
   iframe_website: /website/applications/automation/airflow
   screenshots:
-  - /images/applications/automation/airflow/screenshot-1.png
-  - /images/applications/automation/airflow/screenshot-2.png
+    - /images/applications/automation/airflow/screenshot-1.png
+    - /images/applications/automation/airflow/screenshot-2.png
 ---
 
 ## Overview

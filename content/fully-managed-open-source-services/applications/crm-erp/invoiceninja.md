@@ -2,37 +2,40 @@
 draft: false
 title: InvoiceNinja fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/invoiceninja/screenshot-1.jpg
-  description: InvoiceNinja is a comprehensive invoicing and payment solution for
+  cover: /images/applications/crm-erp/invoiceninja/screenshot-1.png
+  description:
+    InvoiceNinja is a comprehensive invoicing and payment solution for
     freelancers and small businesses. It includes invoicing, online payments, time-tracking,
     expense management, and project organization features to help you run your business
     efficiently.
-  keywords: InvoiceNinja, invoicing software, payment solutions, time tracking, online
+  keywords:
+    InvoiceNinja, invoicing software, payment solutions, time tracking, online
     payments, expense management, project management, recurring invoices, freelancer
     invoicing, business invoicing, billable hours, online invoicing, small business
     invoicing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: InvoiceNinja
-    url: /fully-managed-open-source-services/applications/crm-erp/invoiceninja
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: InvoiceNinja
+      url: /fully-managed-open-source-services/applications/crm-erp/invoiceninja
 content:
   id: invoiceninja
   name: InvoiceNinja
-  title: Complete Invoicing, Payments, and Time-Tracking Solution for Freelancers
+  title:
+    Complete Invoicing, Payments, and Time-Tracking Solution for Freelancers
     and Businesses
   logo: /images/applications/crm-erp/invoiceninja/logo.png
   website: https://invoiceninja.com/
   iframe_website: /website/applications/crm-erp/invoiceninja
   screenshots:
-  - /images/applications/crm-erp/invoiceninja/screenshot-1.jpg
-  - /images/applications/crm-erp/invoiceninja/screenshot-2.jpg
+    - /images/applications/crm-erp/invoiceninja/screenshot-1.png
+    - /images/applications/crm-erp/invoiceninja/screenshot-2.jpg
 ---
 
 ## Overview

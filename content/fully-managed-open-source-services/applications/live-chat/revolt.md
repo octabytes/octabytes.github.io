@@ -3,23 +3,25 @@ draft: false
 title: Revolt fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/revolt/screenshot-1.jpg
-  description: Revolt is a secure, privacy-focused chat app for friends and communities,
+  description:
+    Revolt is a secure, privacy-focused chat app for friends and communities,
     offering customizable spaces with no ads and a commitment to confidentiality.
     Open-source and GDPR-compliant.
-  keywords: Revolt chat app, privacy-focused chat, secure messaging, customizable
+  keywords:
+    Revolt chat app, privacy-focused chat, secure messaging, customizable
     chat app, open-source chat app, GDPR compliant chat, community chat, secure DMs,
     private conversations, encrypted chat, personalized chat app
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Revolt
-    url: /fully-managed-open-source-services/applications/live-chat/revolt
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Revolt
+      url: /fully-managed-open-source-services/applications/live-chat/revolt
 content:
   id: revolt
   name: Revolt
@@ -28,8 +30,8 @@ content:
   website: https://revolt.chat/
   iframe_website: /website/applications/live-chat/revolt
   screenshots:
-  - /images/applications/live-chat/revolt/screenshot-1.png
-  - /images/applications/live-chat/revolt/screenshot-2.png
+    - /images/applications/live-chat/revolt/screenshot-1.png
+    - /images/applications/live-chat/revolt/screenshot-2.webp
 ---
 
 ## Overview

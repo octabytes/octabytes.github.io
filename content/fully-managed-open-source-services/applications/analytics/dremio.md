@@ -2,24 +2,26 @@
 draft: false
 title: Dremio fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/analytics/dremio/screenshot-1.jpg
-  description: Dremio is an open-source data lakehouse that offers self-service SQL
+  cover: /images/applications/analytics/dremio/screenshot-1.png
+  description:
+    Dremio is an open-source data lakehouse that offers self-service SQL
     analytics, high performance, and data lake flexibility for all your data needs.
     It delivers sub-second performance and eliminates costly data copies.
-  keywords: Dremio, data lakehouse, self-service analytics, SQL analytics, Apache
+  keywords:
+    Dremio, data lakehouse, self-service analytics, SQL analytics, Apache
     Arrow, Apache Iceberg, data lake, cloud data analytics, open-source data platform,
     unified data, business intelligence, data performance, data warehouse
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Dremio
-    url: /fully-managed-open-source-services/applications/analytics/dremio
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Dremio
+      url: /fully-managed-open-source-services/applications/analytics/dremio
 content:
   id: dremio
   name: Dremio
@@ -28,8 +30,8 @@ content:
   website: https://www.dremio.com/
   iframe_website: /website/applications/analytics/dremio
   screenshots:
-  - /images/applications/analytics/dremio/screenshot-1.png
-  - /images/applications/analytics/dremio/screenshot-2.webp
+    - /images/applications/analytics/dremio/screenshot-1.png
+    - /images/applications/analytics/dremio/screenshot-2.webp
 ---
 
 ## Overview

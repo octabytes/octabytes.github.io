@@ -2,25 +2,27 @@
 draft: false
 title: Activepieces fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/automation/activepieces/screenshot-1.jpg
-  description: "Activepieces is a no-code automation tool that helps you easily create\
+  cover: /images/applications/automation/activepieces/screenshot-1.png
+  description:
+    "Activepieces is a no-code automation tool that helps you easily create\
     \ and manage workflows, automate tasks, and integrate with popular platforms\u2014\
     all without coding and with full data control."
-  keywords: Activepieces, no-code automation, workflow automation, task automation,
+  keywords:
+    Activepieces, no-code automation, workflow automation, task automation,
     data privacy, CRM automation, drag-and-drop automation, workflow management, Slack
     integration, email notifications, HubSpot integration, automate tasks without
     code
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Activepieces
-    url: /fully-managed-open-source-services/applications/automation/activepieces
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Activepieces
+      url: /fully-managed-open-source-services/applications/automation/activepieces
 content:
   id: activepieces
   name: Activepieces
@@ -29,8 +31,8 @@ content:
   website: https://www.activepieces.com/
   iframe_website: /website/applications/automation/activepieces
   screenshots:
-  - /images/applications/automation/activepieces/screenshot-1.png
-  - /images/applications/automation/activepieces/screenshot-2.png
+    - /images/applications/automation/activepieces/screenshot-1.png
+    - /images/applications/automation/activepieces/screenshot-2.png
 ---
 
 ## Overview

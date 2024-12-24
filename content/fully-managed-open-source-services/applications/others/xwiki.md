@@ -2,24 +2,26 @@
 draft: false
 title: XWiki fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/xwiki/screenshot-1.jpg
-  description: XWiki is a robust wiki platform designed to enhance collaboration,
+  cover: /images/applications/others/xwiki/screenshot-1.webp
+  description:
+    XWiki is a robust wiki platform designed to enhance collaboration,
     organize knowledge, and support enterprise integration with unmatched flexibility
     and extensibility.
-  keywords: XWiki, collaborative platform, knowledge management, wiki platform, team
+  keywords:
+    XWiki, collaborative platform, knowledge management, wiki platform, team
     collaboration, enterprise integration, knowledge sharing, structured wiki, customizable
     wiki, flexible wiki solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: XWiki
-    url: /fully-managed-open-source-services/applications/others/xwiki
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: XWiki
+      url: /fully-managed-open-source-services/applications/others/xwiki
 content:
   id: xwiki
   name: XWiki
@@ -29,7 +31,8 @@ content:
   iframe_website: /website/applications/others/xwiki
   direct_link: true
   screenshots:
-  - /images/applications/others/xwiki/screenshot-2.png
+    - /images/applications/others/xwiki/screenshot-1.webp
+    - /images/applications/others/xwiki/screenshot-2.png
 ---
 
 ## Overview
