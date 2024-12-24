@@ -5,10 +5,10 @@
   {{ end }}
 
 
-  <div class="px-20 mt-24">
-    <div class="flex gap-5">
+  <div class="px-8 mt-12 sm:px-20 sm:mt-24">
+    <div class="flex flex-col sm:flex-row gap-5">
       <div>
-        <div class="bg-white isolate bg-opacity-30 p-2 rounded-lg">
+        <div class="bg-white max-w-fit isolate bg-opacity-30 p-2 rounded-lg">
           <img
             src="{{ .Params.content.logo }}"
             alt="{{ .Title }} logo"
@@ -45,32 +45,15 @@
     </div>
   </div>
 
-  <div class="mt-9 isolate">
-    <div class="sm:hidden">
-      <label for="tabs" class="sr-only">Select a tab</label>
-      <!-- Use an "onChange" listener to redirect the user to the selected tab URL. -->
-      <select
-        id="tabs"
-        name="tabs"
-        class="block w-full rounded-md border-gray-300 py-2 pl-3 pr-10 text-base focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
-        <option>My Account</option>
-
-        <option>Company</option>
-
-        <option selected>Team Members</option>
-
-        <option>Billing</option>
-      </select>
-    </div>
+  <div class="mt-9 isolate border-b border-gray-200">
     <style>
       html {
         scroll-behavior: smooth;
       }
     </style>
-    <div class="hidden sm:block border-b border-gray-200">
+    <div class="hidden sm:block">
       <div class="px-20">
         <nav class="-mb-px flex space-x-8" aria-label="Tabs">
-          <!-- Current: "border-indigo-500 text-indigo-600", Default: "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300" -->
           <a
             href="#overview"
             class="border-indigo-500 text-indigo-600 whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm">
@@ -106,8 +89,8 @@
     </div>
   </div>
 
-  <div class="px-20 grid grid-cols-5 gap-36">
-    <div class="col-span-3">
+  <div class="px-8 sm:px-20 grid grid-cols-1 sm:grid-cols-5 gap-36">
+    <div class="sm:col-span-3">
       <div
         class="
         [&_h2]:text-xl [&_h2]:py-4 [&_h2]:font-semibold [&_h2]:tracking-tight [&_h2]:text-gray-900
@@ -179,7 +162,7 @@
         </ul>
       </div>
     </div>
-    <div class="mt-9 col-span-2">
+    <div class="hidden sm:block mt-9 col-span-2">
       <div>
         <h2 class="text-xl pt-4 font-semibold tracking-tight text-gray-900">
           Category
@@ -253,11 +236,11 @@
     </div>
   </div>
 
-  <div id="screenshots" class="px-20 mt-4">
+  <div id="screenshots" class="px-8 sm:px-20 mt-4">
     <h2 class="text-xl py-4 font-semibold tracking-tight text-gray-900">
       Screenshots
     </h2>
-    <div class="flex gap-12">
+    <div class="flex flex-col sm:flex-row gap-12">
       {{ range .Params.content.screenshots }}
         <div
           class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
@@ -275,7 +258,7 @@
     {{ $url := printf "/start-trial?service=%s" .Params.content.name }}
     {{ $button := (dict "label" "Get Started Free Trial" "url" $url) }}
     <div
-      class="absolute bottom-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:bottom-[-4rem]">
+      class="absolute inset-x-0 -z-10 transform-gpu overflow-hidden blur-3xl sm:bottom-[-3rem]">
       <svg
         class="relative left-[calc(50%-11rem)] -z-10 h-[21.1875rem] max-w-none -translate-x-1/2 rotate-[30deg] sm:left-[calc(50%-30rem)] sm:h-[42.375rem]"
         viewBox="0 0 1155 678">
@@ -316,7 +299,7 @@
     </div>
   </div>
 
-  <div id="related-softwares" class="px-20 mt-9">
+  <div id="related-softwares" class="px-8 sm:px-20 mt-9">
     {{- $services := .Site.Data.services.catalog_list -}}
     {{- $currentID := .Params.content.id -}}
     {{- $allServices := slice -}}
