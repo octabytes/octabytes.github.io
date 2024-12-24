@@ -12,11 +12,11 @@ hero:
 
   buttonPrimary:
     label: Start free Trial
-    url: /all-services
+    url: /fully-managed-open-source-services
 
   buttonSecondary:
-    label: Top softwares
-    url: /applications
+    label: Top applications
+    url: /fully-managed-open-source-services/applications
 
 top_softwares:
   - id: applications
@@ -318,7 +318,7 @@ cta:
 
   button:
     label: Browse all softwares
-    url: /all-services
+    url: /fully-managed-open-source-services
 
 faq:
   - question: Can I access my server and make customizations?
