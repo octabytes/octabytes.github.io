@@ -1,0 +1,154 @@
+catalog_list:
+- id: databases
+  name: Databases
+  services:
+  - category: relational-databases
+    description: 'PostgreSQL is a robust, '
+    id: postgresql
+    image: /images/databases/relational-databases/postgresql/logo.png
+    title: PostgreSQL
+    url: /databases/relational-databases/postgresql
+  - category: relational-databases
+    description: MySQL is a fast, reliabl
+    id: mysql
+    image: /images/databases/relational-databases/mysql/logo.png
+    title: MySQL
+    url: /databases/relational-databases/mysql
+  - category: relational-databases
+    description: MariaDB is an open-sourc
+    id: mariadb
+    image: /images/databases/relational-databases/mariadb/logo.png
+    title: MariaDB
+    url: /databases/relational-databases/mariadb
+  - category: relational-databases
+    description: MariaDB ColumnStore is a
+    id: columnstore
+    image: /images/databases/relational-databases/columnstore/logo.png
+    title: ColumnStore
+    url: /databases/relational-databases/columnstore
+  - category: relational-databases specialized-databases
+    description: TimescaleDB is an open-s
+    id: timescaledb
+    image: /images/databases/relational-databases/timescaledb/logo.png
+    title: TimescaleDB
+    url: /databases/relational-databases/timescaledb
+  - category: relational-databases specialized-databases
+    description: ClickHouse is a fast, sc
+    id: clickhouse
+    image: /images/databases/relational-databases/clickhouse/logo.png
+    title: ClickHouse
+    url: /databases/relational-databases/clickhouse
+  - category: relational-databases specialized-databases
+    description: ClickHouseS3 combines th
+    id: clickhouses3
+    image: /images/databases/relational-databases/clickhouses3/logo.png
+    title: ClickHouseS3
+    url: /databases/relational-databases/clickhouses3
+  - category: relational-databases
+    description: 'Effortlessly deploy and '
+    id: mssql
+    image: /images/databases/relational-databases/mssql/logo.png
+    title: MSSQL
+    url: /databases/relational-databases/mssql
+  - category: relational-databases specialized-databases
+    description: Hydra is a high-performa
+    id: hydra
+    image: /images/databases/relational-databases/hydra/logo.png
+    title: Hydra
+    url: /databases/relational-databases/hydra
+  - category: nosql specialized-databases
+    description: Valkey is a high-perform
+    id: valkey
+    image: /images/databases/nosql/valkey/logo.png
+    title: Valkey
+    url: /databases/nosql/valkey
+  - category: nosql specialized-databases
+    description: Redis is an in-memory da
+    id: redis
+    image: /images/databases/nosql/redis/logo.png
+    title: Redis
+    url: /databases/nosql/redis
+  - category: nosql
+    description: ScyllaDB is a high-perfo
+    id: scylladb
+    image: /images/databases/nosql/scylladb/logo.png
+    title: ScyllaDB
+    url: /databases/nosql/scylladb
+  - category: nosql specialized-databases
+    description: OpenSearch is an open-so
+    id: opensearch
+    image: /images/databases/nosql/opensearch/logo.png
+    title: OpenSearch
+    url: /databases/nosql/opensearch
+  - category: nosql
+    description: 'Easily scale and manage '
+    id: cassandra
+    image: /images/databases/nosql/cassandra/logo.png
+    title: Cassandra
+    url: /databases/nosql/cassandra
+  - category: nosql
+    description: 'FerretDB is a powerful, '
+    id: ferretdb
+    image: /images/databases/nosql/ferretdb/logo.png
+    title: FerretDB
+    url: /databases/nosql/ferretdb
+  - category: specialized-databases
+    description: KeyDB is a high-performa
+    id: keydb
+    image: /images/databases/specialized-databases/keydb/logo.png
+    title: KeyDB
+    url: /databases/specialized-databases/keydb
+  - category: specialized-databases
+    description: InfluxDB is a high-perfo
+    id: influxdb
+    image: /images/databases/specialized-databases/influxdb/logo.png
+    title: InfluxDB
+    url: /databases/specialized-databases/influxdb
+  - category: specialized-databases
+    description: SurrealDB is a modern, c
+    id: surrealdb
+    image: /images/databases/specialized-databases/surrealdb/logo.png
+    title: SurrealDB
+    url: /databases/specialized-databases/surrealdb
+  - category: specialized-databases
+    description: Chroma is an open-source
+    id: chromadb
+    image: /images/databases/specialized-databases/chromadb/logo.png
+    title: Chromadb
+    url: /databases/specialized-databases/chromadb
+  - category: specialized-databases
+    description: Milvus is an open-source
+    id: milvus
+    image: /images/databases/specialized-databases/milvus/logo.png
+    title: Milvus
+    url: /databases/specialized-databases/milvus
+  - category: specialized-databases
+    description: Neo4j is a high-performa
+    id: neo4j
+    image: /images/databases/specialized-databases/neo4j/logo.png
+    title: Neo4j
+    url: /databases/specialized-databases/neo4j
+  - category: specialized-databases
+    description: Apache Kafka is a powerf
+    id: kafka
+    image: /images/databases/specialized-databases/kafka/logo.png
+    title: Kafka
+    url: /databases/specialized-databases/kafka
+  - category: specialized-databases
+    description: M3DB is a scalable, effi
+    id: m3db
+    image: /images/databases/specialized-databases/m3db/logo.png
+    title: M3DB
+    url: /databases/specialized-databases/m3db
+  - category: specialized-databases
+    description: ImmuDB is an immutable l
+    id: immudb
+    image: /images/databases/specialized-databases/immudb/logo.png
+    title: ImmuDB
+    url: /databases/specialized-databases/immudb
+  - category: specialized-databases
+    description: Weaviate is an open-sour
+    id: weaviate
+    image: /images/databases/specialized-databases/weaviate/logo.png
+    title: Weaviate
+    url: /databases/specialized-databases/weaviate
