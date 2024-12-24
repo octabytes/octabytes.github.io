@@ -240,13 +240,15 @@
     <h2 class="text-xl py-4 font-semibold tracking-tight text-gray-900">
       Screenshots
     </h2>
-    <div class="flex flex-col sm:flex-row gap-12">
+    <div class="grid grid-cols-1 gap-12">
       {{ range .Params.content.screenshots }}
-        <div
-          class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
+        <div>
           <div
-            class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
-          <img src="{{ . }}" alt="{{ $.Title }} screenshot" width="100%" />
+            class="border-t-[2em] border-t-[rgba(230,230,230,0.7)] shadow-[0_7px_16px_0px_rgba(0,0,0,0.12)] relative rounded-lg">
+            <div
+              class="absolute top-[-1.25em] left-[1em] w-[0.5em] h-[0.5em] rounded-full bg-[#f44] shadow-[0_0_0_2px_#f44,1.5em_0_0_2px_#9b3,3em_0_0_2px_#fb5]"></div>
+            <img src="{{ . }}" alt="{{ $.Title }} screenshot" width="100%" />
+          </div>
         </div>
       {{ end }}
     </div>
