@@ -22,7 +22,7 @@ top_softwares:
   - id: applications
     direction: right
     title: "Top 'applications'"
-    description: Deploy any of 350+ supported software in just minutes, with peace of mind knowing we handle installation, configuration, encryption, backups, software and OS updates, live monitoring, and more!
+    description: Unlock the true potential of open-source applications with our fully managed services. Whether you're looking for efficient content management systems, powerful communication tools, or scalable e-commerce platforms, we provide seamless, reliable solutions to meet your needs. Our expert team ensures smooth operations, timely updates, and 24/7 support, so you can focus on delivering exceptional user experiences. With our managed services, you can streamline your operations, boost productivity, and reduce downtime, while leveraging the flexibility and cost-effectiveness of open-source software. Let us handle the complexities while you drive innovation.
 
     button:
       label: View all applications
@@ -42,21 +42,33 @@ top_softwares:
         url: "/fully-managed-open-source-services/applications/cms/directus"
 
       - image: "/images/applications/business-intelligence/superset/logo.png"
-        name: "Directus"
+        name: "Superset"
         url: "/fully-managed-open-source-services/applications/business-intelligence/superset"
 
       - image: "/images/applications/documentation/bookstack/logo.png"
-        name: "Directus"
+        name: "BookStack"
         url: "/fully-managed-open-source-services/applications/documentation/bookstack"
 
       - image: "/images/applications/project-management/taiga/logo.png"
         name: "Taiga"
         url: "/fully-managed-open-source-services/applications/project-management/taiga"
 
+      - image: "/images/applications/crm-erp/frappehr/logo.png"
+        name: "FrappeHR"
+        url: "/fully-managed-open-source-services/applications/crm-erp/frappehr"
+
+      - image: "/images/applications/crm-erp/twenty/logo.png"
+        name: "Twenty"
+        url: "/fully-managed-open-source-services/applications/crm-erp/twenty"
+
+      - image: "/images/applications/live-chat/chatwoot/logo.png"
+        name: "Chatwoot"
+        url: "/fully-managed-open-source-services/applications/live-chat/chatwoot"
+
   - id: development
     direction: left
     title: "Open source 'development'"
-    description: ""
+    description: "Our development services are designed to support developers in every stage of the application lifecycle. We offer a wide range of tools, libraries, and resources that streamline the development process, from DevOps solutions to API gateways. Whether you're building, testing, or deploying applications, we provide the essential infrastructure to ensure efficiency and scalability. Our comprehensive approach helps developers reduce time-to-market while enhancing the quality and reliability of their applications."
 
     button:
       label: View all developments
@@ -87,10 +99,22 @@ top_softwares:
         name: "Baserow"
         url: "/fully-managed-open-source-services/development/nocode-lowcode/baserow"
 
+      - image: "/images/development/dev-tools/corteza/logo.png"
+        name: "Corteza"
+        url: "/fully-managed-open-source-services/development/dev-tools/corteza"
+
+      - image: "/images/development/dev-tools/stirling-pdf/logo.png"
+        name: "Stirling-PDF"
+        url: "/fully-managed-open-source-services/development/dev-tools/stirling-pdf"
+
+      - image: "/images/development/network/meshcentral/logo.png"
+        name: "MeshCentral"
+        url: "/fully-managed-open-source-services/development/network/meshcentral"
+
   - id: database
     direction: right
     title: "Fully managed 'databases'"
-    description: ""
+    description: "Discover a comprehensive list of open source database management tools, including both relational and NoSQL options. Explore reliable, community-driven solutions designed to meet the needs of various applications and use cases. Find the right database software for your project, whether it's for data storage, querying, or scaling."
 
     button:
       label: View all databases
@@ -121,10 +145,22 @@ top_softwares:
         name: "InfluxDB"
         url: "/fully-managed-open-source-services/databases/specialized-databases/influxdb"
 
+      - image: "/images/databases/specialized-databases/weaviate/logo.png"
+        name: "Weaviate"
+        url: "/fully-managed-open-source-services/databases/specialized-databases/weaviate"
+
+      - image: "/images/databases/nosql/cassandra/logo.png"
+        name: "Cassandra"
+        url: "/fully-managed-open-source-services/databases/nosql/cassandra"
+
+      - image: "/images/databases/relational-databases/hydra/logo.png"
+        name: "Hydra"
+        url: "/fully-managed-open-source-services/databases/relational-databases/hydra"
+
   - id: hosting-and-infrastructure
     direction: left
     title: "'Hosting and Infrastructure'"
-    description: ""
+    description: "Take the hassle out of infrastructure management with our comprehensive hosting and infrastructure services. Whether you need scalable hosting solutions on the cloud or prefer an on-premise setup, we provide secure and reliable infrastructure that ensures your applications perform optimally. Our services are designed to give you peace of mind with 24/7 support, enhanced security measures, and the flexibility to scale resources as your business grows. We tailor each solution to meet your specific requirements, offering the reliability and efficiency you need to focus on what matters most—growing your business."
 
     button:
       label: View all hosting and infrastructure
@@ -154,6 +190,18 @@ top_softwares:
       - image: "/images/hosting-and-infrastructure/infrastructure/localstack/logo.png"
         name: "LocalStack"
         url: "/fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/localstack"
+
+      - image: "/images/hosting-and-infrastructure/storage/immich/logo.png"
+        name: "Immich"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/storage/immich"
+
+      - image: "/images/hosting-and-infrastructure/infrastructure/itop/logo.png"
+        name: "iTop"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/itop"
+
+      - image: "/images/hosting-and-infrastructure/storage/docspell/logo.png"
+        name: "Docspell"
+        url: "/fully-managed-open-source-services/hosting-and-infrastructure/storage/docspell"
 
 features:
   title: "Quick Deployment of 'Open-Source' Software"
