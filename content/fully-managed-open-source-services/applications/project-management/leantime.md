@@ -2,7 +2,7 @@
 draft: false
 title: Leantime fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/project-management/OpenProject/screenshot-1.jpg
+  cover: /images/applications/project-management/leantime/screenshot-1.png
   description: Leantime is an intuitive project management system designed for non-project
     managers. Offering features like task management, project planning, knowledge
     management, and more, it's a powerful alternative to ClickUp, Monday, and Asana.

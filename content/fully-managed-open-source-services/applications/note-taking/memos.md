@@ -2,7 +2,7 @@
 draft: false
 title: Memos fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/memos/screenshot-1.jpg
+  cover: /images/applications/note-taking/memos/screenshot-1.webp
   description: Memos is a self-hosted, open-source memo hub that ensures privacy and
     security while offering a lightweight yet powerful platform for organizing ideas.
   keywords: self-hosted memo, open-source memo app, privacy-focused note-taking, markdown

@@ -2,7 +2,7 @@
 draft: false
 title: KeeWeb fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/keeweb/screenshot-1.jpg
   description: KeeWeb is a free, open-source password manager that is compatible with
     KeePass, offering both web and desktop apps for secure password storage and management.
   keywords: KeeWeb, open-source password manager, KeePass compatible, password management,

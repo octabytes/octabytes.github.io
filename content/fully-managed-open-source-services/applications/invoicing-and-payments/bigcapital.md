@@ -2,7 +2,7 @@
 draft: false
 title: Bigcapital fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/invoicing-and-payments/bigcapital/screenshot-1.jpg
+  cover: /images/applications/invoicing-and-payments/bigcapital/screenshot-1.png
   description: Bigcapital is open-source online accounting software for automating
     financial processes with invoicing, expense tracking, inventory, and real-time
     reporting.

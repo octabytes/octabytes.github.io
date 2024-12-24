@@ -3,24 +3,22 @@ draft: false
 title: MailCow fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg
-  description:
-    MailCow is a Docker-based email server with a modern web UI, offering
+  description: MailCow is a Docker-based email server with a modern web UI, offering
     easy administration, robust features, and excellent performance.
-  keywords:
-    MailCow, Docker email server, open-source email server, Dovecot, Postfix,
+  keywords: MailCow, Docker email server, open-source email server, Dovecot, Postfix,
     web UI email management, MailCow features, email server for Ubuntu, email server
     for Debian
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Email
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email
-    - name: MailCow
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email/mailcow
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Email
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email
+  - name: MailCow
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email/mailcow
 content:
   id: mailcow
   name: MailCow
@@ -29,8 +27,8 @@ content:
   website: https://mailcow.email/
   iframe_website: /website/hosting-and-infrastructure/email/mailcow
   screenshots:
-    - /images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/email/mailcow/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/email/mailcow/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/email/mailcow/screenshot-2.jpg
 ---
 
 ## Overview

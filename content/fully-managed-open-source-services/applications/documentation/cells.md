@@ -2,7 +2,7 @@
 draft: false
 title: Cells fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/documentation/cells/screenshot-1.jpg
+  cover: /images/applications/documentation/cells/screenshot-1.png
   description: Pydio Cells is a self-hosted document sharing and collaboration platform,
     offering fast performance, robust security, and advanced workflow automation for
     businesses and organizations.

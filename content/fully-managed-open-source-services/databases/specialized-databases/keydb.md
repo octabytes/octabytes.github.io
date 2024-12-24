@@ -2,7 +2,7 @@
 draft: false
 title: KeyDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/specialized-databases/keydb/screenshot-1.png
+  cover: /images/databases/specialized-databases/keydb/screenshot-1.jpg
   description: KeyDB is a high-performance, open-source database that outperforms
     Redis with multithreaded architecture, high scalability, and sub-millisecond latencies.
   keywords: KeyDB, high-performance database, Redis alternative, open-source database,

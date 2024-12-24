@@ -2,7 +2,7 @@
 draft: false
 title: QuickChart fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/quickchart/screenshot-1.jpg
+  cover: /images/development/dev-tools/quickchart/screenshot-1.png
   description: QuickChart is a powerful API that lets you generate chart images, PDFs,
     and QR codes with ease. Built on the popular Chart.js library, QuickChart is perfect
     for embedding charts in emails, SMS, and more, without the need for dynamic rendering.

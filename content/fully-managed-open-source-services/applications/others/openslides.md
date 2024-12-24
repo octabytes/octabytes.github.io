@@ -2,7 +2,7 @@
 draft: false
 title: OpenSlides fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/openslides/screenshot-1.jpg
+  cover: /images/applications/others/openslides/screenshot-1.png
   description: OpenSlides is a modern web-based software for efficient meeting and
     committee management, offering powerful tools for agendas, motions, and seamless
     collaboration.

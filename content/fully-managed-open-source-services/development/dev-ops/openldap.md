@@ -2,7 +2,7 @@
 draft: false
 title: OpenLDAP fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/openldap/screenshot-1.jpg
+  cover: /images/development/dev-ops/openldap/screenshot-1.png
   description: OpenLDAP is an open-source LDAP protocol implementation, known for
     its flexibility, cost-effectiveness, and cross-platform compatibility. It centralizes
     user authentication and integrates easily with various systems.

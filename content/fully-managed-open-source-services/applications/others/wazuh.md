@@ -2,7 +2,7 @@
 draft: false
 title: Wazuh fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/wazuh/screenshot-1.jpg
+  cover: /images/applications/others/wazuh/screenshot-1.png
   description: Wazuh is an open-source security platform that delivers unified XDR
     and SIEM protection for endpoints, cloud workloads, and containers, offering powerful
     threat hunting, behavioral analysis, and automated response capabilities.

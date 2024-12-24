@@ -3,26 +3,24 @@ draft: false
 title: Grafana fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg
-  description:
-    Grafana is an open-source platform for visualizing and analyzing metrics,
+  description: Grafana is an open-source platform for visualizing and analyzing metrics,
     logs, and traces from various sources, including Prometheus, Loki, Elasticsearch,
     and more, enabling teams to collaborate and make data-driven decisions.
-  keywords:
-    Grafana, data visualization, open-source observability, metrics, logs,
+  keywords: Grafana, data visualization, open-source observability, metrics, logs,
     traces, dashboards, monitoring, Prometheus, Loki, Elasticsearch, cloud services,
     Kubernetes, collaboration, alerting, data sources, data-driven decisions, flexible
     dashboards
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Grafana
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/grafana
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Grafana
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/grafana
 content:
   id: grafana
   name: Grafana
@@ -31,8 +29,8 @@ content:
   website: https://grafana.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/grafana
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/grafana/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/grafana/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/grafana/screenshot-2.jpg
 ---
 
 ## Overview

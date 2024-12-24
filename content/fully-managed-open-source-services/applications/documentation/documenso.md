@@ -2,7 +2,7 @@
 draft: false
 title: Documenso fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/documentation/documenso/screenshot-1.jpg
+  cover: /images/applications/documentation/documenso/screenshot-1.webp
   description: Documenso is the open-source alternative to DocuSign, offering a faster,
     smarter, and more beautiful document signing experience with customizable templates
     and seamless integrations.

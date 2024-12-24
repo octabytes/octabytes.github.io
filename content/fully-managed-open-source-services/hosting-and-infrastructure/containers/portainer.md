@@ -2,25 +2,23 @@
 draft: false
 title: Portainer fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/containers/portainer/screenshot-1.jpg
-  description:
-    Simplify containerized app management with Portainer, the lightweight,
+  cover: /images/hosting-and-infrastructure/containers/portainer/screenshot-1.png
+  description: Simplify containerized app management with Portainer, the lightweight,
     secure, and easy-to-use solution for Docker, Kubernetes, and ACI environments.
-  keywords:
-    Portainer, Docker management, Kubernetes management, containerized apps,
+  keywords: Portainer, Docker management, Kubernetes management, containerized apps,
     GitOps integration, secure container environment, container orchestration, RBAC,
     app deployment, CI/CD automation
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Containers
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
-    - name: Portainer
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/portainer
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Containers
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
+  - name: Portainer
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/portainer
 content:
   id: portainer
   name: Portainer
@@ -30,8 +28,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/containers/portainer
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/containers/portainer/screenshot-1.png
-    - /images/hosting-and-infrastructure/containers/portainer/screenshot-2.png
+  - /images/hosting-and-infrastructure/containers/portainer/screenshot-1.png
+  - /images/hosting-and-infrastructure/containers/portainer/screenshot-2.png
 ---
 
 ## Overview

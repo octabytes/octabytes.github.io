@@ -2,7 +2,7 @@
 draft: false
 title: Redis fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/nosql/redis/screenshot-1.png
+  cover: /images/databases/nosql/redis/screenshot-1.jpg
   description: Redis is an in-memory database that provides lightning-fast data access
     and supports a wide range of data types. Perfect for real-time applications, it
     enables millions of requests per second.

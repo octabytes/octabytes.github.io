@@ -3,35 +3,32 @@ draft: false
 title: Mailu fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg
-  description:
-    Mailu is a simple, full-featured, open-source mail server with advanced
+  description: Mailu is a simple, full-featured, open-source mail server with advanced
     email functionalities, web access, and strong security measures.
-  keywords:
-    Mailu, open-source mail server, Docker mail server, IMAP, SMTP, secure
+  keywords: Mailu, open-source mail server, Docker mail server, IMAP, SMTP, secure
     email, email management, DKIM, TLS encryption, email web access
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Email
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email
-    - name: Mailu
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email/mailu
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Email
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email
+  - name: Mailu
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email/mailu
 content:
   id: mailu
   name: Mailu
-  title:
-    "Effortlessly Manage Emails with Mailu: A Full-Featured Open-Source Mail
-    Server"
+  title: 'Effortlessly Manage Emails with Mailu: A Full-Featured Open-Source Mail
+    Server'
   logo: /images/hosting-and-infrastructure/email/mailu/logo.png
   website: https://mailu.io
   iframe_website: /website/hosting-and-infrastructure/email/mailu
   screenshots:
-    - /images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/email/mailu/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/email/mailu/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/email/mailu/screenshot-2.jpg
 ---
 
 ## Overview

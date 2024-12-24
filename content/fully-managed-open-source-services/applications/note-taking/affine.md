@@ -2,7 +2,7 @@
 draft: false
 title: Affine fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/affine/screenshot-1.jpg
+  cover: /images/applications/note-taking/affine/screenshot-1.jpeg
   description: Affine is a powerful, privacy-first collaborative knowledge base designed
     for professionals. With versatile features like Markdown support, seamless transitions,
     and real-time collaboration, Affine is the perfect solution for managing your

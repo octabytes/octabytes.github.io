@@ -2,7 +2,7 @@
 draft: false
 title: Daptin fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/daptin/screenshot-1.jpg
+  cover: /images/development/others/daptin/screenshot-1.jpg
   description: Daptin is an open-source backend framework that simplifies building
     and deploying production-ready JSONAPI microservices with cloud storage integration
     and flexible API handling.

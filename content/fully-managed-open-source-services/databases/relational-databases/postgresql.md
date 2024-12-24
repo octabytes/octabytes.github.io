@@ -2,7 +2,7 @@
 draft: false
 title: PostgreSQL fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/postgresql/screenshot-1.png
+  cover: /images/databases/relational-databases/postgresql/screenshot-1.jpg
   description: PostgreSQL is a robust, open-source database system known for its reliability,
     scalability, and advanced features. It offers a wide range of data types, high
     security, and unparalleled extensibility, making it the ideal choice for modern

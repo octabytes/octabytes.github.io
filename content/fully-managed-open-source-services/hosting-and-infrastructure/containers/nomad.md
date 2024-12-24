@@ -3,24 +3,22 @@ draft: false
 title: Nomad fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg
-  description:
-    Nomad is a versatile workload orchestrator for microservices, containers,
+  description: Nomad is a versatile workload orchestrator for microservices, containers,
     and legacy apps, offering secure, scalable, and lightweight deployment solutions.
-  keywords:
-    Nomad orchestrator, workload orchestration, containerized applications,
+  keywords: Nomad orchestrator, workload orchestration, containerized applications,
     microservices deployment, legacy app modernization, multi-region orchestration,
     cloud-native workloads
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Containers
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
-    - name: Nomad
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/nomad
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Containers
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
+  - name: Nomad
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/nomad
 content:
   id: nomad
   name: Nomad
@@ -29,8 +27,8 @@ content:
   website: https://www.nomadproject.io/
   iframe_website: /website/hosting-and-infrastructure/containers/nomad
   screenshots:
-    - /images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/containers/nomad/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/containers/nomad/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/containers/nomad/screenshot-2.jpg
 ---
 
 ## Overview

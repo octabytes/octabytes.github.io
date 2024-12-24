@@ -2,7 +2,7 @@
 draft: false
 title: FocalBoard fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/project-management/focalboard/screenshot-1.jpg
+  cover: /images/applications/project-management/focalboard/screenshot-1.jpeg
   description: FocalBoard is an open-source project management tool for organizing
     tasks and projects, offering collaboration features, task tracking, and seamless
     integrations for teams of any size.

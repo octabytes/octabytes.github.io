@@ -2,7 +2,7 @@
 draft: false
 title: MariaDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/mariadb/screenshot-1.png
+  cover: /images/databases/relational-databases/mariadb/screenshot-1.jpg
   description: MariaDB is an open-source relational database offering modern SQL capabilities,
     pluggable storage engines, and seamless MySQL compatibility, ideal for scalable,
     high-performance applications.

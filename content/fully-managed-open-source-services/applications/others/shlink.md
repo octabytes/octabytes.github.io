@@ -2,7 +2,7 @@
 draft: false
 title: Shlink fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/shlink/screenshot-1.jpg
+  cover: /images/applications/others/shlink/screenshot-1.png
   description: Shlink is a self-hosted URL shortener that lets you manage your links
     under custom domains, track visitor stats, and use multi-domain support, all with
     an easy-to-use API.

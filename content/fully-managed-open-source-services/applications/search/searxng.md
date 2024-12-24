@@ -2,7 +2,7 @@
 draft: false
 title: SearXNG fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/search/SerpBear/screenshot-1.jpg
+  cover: /images/applications/search/searxng/screenshot-1.png
   description: SearXNG is a free, privacy-focused metasearch engine that aggregates
     results from 70+ search services, ensuring no tracking or profiling of users.
   keywords: SearXNG, metasearch engine, privacy, no tracking, Tor, anonymous search,

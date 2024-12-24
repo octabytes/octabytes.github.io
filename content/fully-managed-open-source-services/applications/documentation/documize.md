@@ -2,7 +2,7 @@
 draft: false
 title: Documize fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/documentation/documize/screenshot-1.jpg
+  cover: /images/applications/documentation/documize/screenshot-1.png
   description: Documize is an open-source, enterprise-ready wiki and knowledge base
     software, designed to simplify documentation management for teams. Free and easy
     to use, it's the perfect alternative to Confluence.

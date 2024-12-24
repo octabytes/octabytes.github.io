@@ -2,7 +2,7 @@
 draft: false
 title: Zitadel fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/identity-and-access-management/zitadel/screenshot-1.jpg
+  cover: /images/development/identity-and-access-management/zitadel/screenshot-1.png
   description: Zitadel provides an open-source, serverless identity management platform
     that simplifies authentication setup while offering scalability and integration
     flexibility.

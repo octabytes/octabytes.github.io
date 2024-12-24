@@ -2,7 +2,7 @@
 draft: false
 title: Vault fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/vault/screenshot-1.png
   description: Vault is an open-source secrets management tool that securely stores,
     encrypts, and generates secrets. It provides access control, audit logging, and
     dynamic secret generation for enhanced security.

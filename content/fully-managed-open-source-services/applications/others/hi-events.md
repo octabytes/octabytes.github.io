@@ -2,7 +2,7 @@
 draft: false
 title: Hi-events fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/hi-events/screenshot-1.jpg
+  cover: /images/applications/others/hi-events/screenshot-1.png
   description: Hi.Events is a powerful, self-hosted event management and ticketing
     solution that empowers you to create, manage, and sell tickets for events of all
     sizes. From conferences to club nights, streamline your event operations with

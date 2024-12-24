@@ -3,24 +3,22 @@ draft: false
 title: Postal fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/email/postal/screenshot-1.jpg
-  description:
-    Postal is a fully-featured, open-source mail server offering reliable
+  description: Postal is a fully-featured, open-source mail server offering reliable
     email delivery, advanced tracking, and DNS monitoring for maximum efficiency.
-  keywords:
-    Postal mail server, open-source email server, email delivery tracking,
+  keywords: Postal mail server, open-source email server, email delivery tracking,
     IP pool management, DNS monitoring, email self-hosting, SendGrid alternative,
     Mailgun alternative, Postmark alternative, email webhooks
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Email
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email
-    - name: Postal
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/email/postal
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Email
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email
+  - name: Postal
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/email/postal
 content:
   id: postal
   name: Postal
@@ -29,8 +27,8 @@ content:
   website: https://docs.postalserver.io/
   iframe_website: /website/hosting-and-infrastructure/email/postal
   screenshots:
-    - /images/hosting-and-infrastructure/email/postal/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/email/postal/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/email/postal/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/email/postal/screenshot-2.jpg
 ---
 
 ## Overview

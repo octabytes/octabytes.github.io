@@ -2,7 +2,7 @@
 draft: false
 title: Vault fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/vault/screenshot-1.jpg
+  cover: /images/development/dev-ops/vault/screenshot-1.png
   description: Vault is a powerful tool for securely managing API keys, passwords,
     certificates, and other secrets, with encryption, access control, and detailed
     audit logging.

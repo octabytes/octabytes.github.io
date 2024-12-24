@@ -2,7 +2,7 @@
 draft: false
 title: Pritunl fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/network/pritunl/screenshot-1.jpg
+  cover: /images/development/network/pritunl/screenshot-1.png
   description: Pritunl is a powerful, open-source VPN solution that offers secure
     remote access, supports multiple protocols, and simplifies configuration with
     an easy-to-use web interface.

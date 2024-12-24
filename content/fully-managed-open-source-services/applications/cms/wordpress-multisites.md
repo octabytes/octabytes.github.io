@@ -2,7 +2,7 @@
 draft: false
 title: Wordpress-Multisites fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/cms/wordpress-multisites/screenshot-1.jpg
+  cover: /images/applications/cms/wordpress-multisites/screenshot-1.png
   description: WordPress Multisite lets you manage multiple websites from one dashboard,
     making it perfect for organizations, businesses, and educational institutions.
   keywords: WordPress Multisite, WordPress network, multiple websites, manage websites,

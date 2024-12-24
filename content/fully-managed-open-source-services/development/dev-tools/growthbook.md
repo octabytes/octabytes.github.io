@@ -2,7 +2,7 @@
 draft: false
 title: GrowthBook fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/growthbook/screenshot-1.jpg
+  cover: /images/development/dev-tools/growthbook/screenshot-1.png
   description: GrowthBook is an open-source platform that enables teams to deploy
     code efficiently, implement feature flags, and analyze A/B tests for better decision-making
     and performance optimization.

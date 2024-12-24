@@ -2,7 +2,7 @@
 draft: false
 title: AgencyOS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/backend-as-a-service/agencyos/screenshot-1.jpg
+  cover: /images/development/backend-as-a-service/agencyos/screenshot-1.png
   description: AgencyOS is a comprehensive platform that simplifies agency operations
     with a customizable website, cloud solutions, and a modern backend powered by
     Directus.

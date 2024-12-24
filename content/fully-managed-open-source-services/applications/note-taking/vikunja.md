@@ -2,7 +2,7 @@
 draft: false
 title: Vikunja fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/vikunja/screenshot-1.jpg
+  cover: /images/applications/note-taking/vikunja/screenshot-1.webp
   description: "Vikunja is an open-source to-do app that helps you organize tasks,\
     \ manage projects, and collaborate with teams effortlessly. With versatile views,\
     \ task reminders, and cross-platform accessibility, it\u2019s the ultimate tool\

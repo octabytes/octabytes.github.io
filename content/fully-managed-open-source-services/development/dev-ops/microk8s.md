@@ -2,7 +2,7 @@
 draft: false
 title: Microk8s fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/microk8s/screenshot-1.jpg
+  cover: /images/development/dev-ops/microk8s/screenshot-1.png
   description: MicroK8s is a lightweight, open-source Kubernetes solution for deploying
     and managing containerized applications, offering scalability, security, and ease
     of use.

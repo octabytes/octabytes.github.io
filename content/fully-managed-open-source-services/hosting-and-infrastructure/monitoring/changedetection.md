@@ -3,24 +3,22 @@ draft: false
 title: ChangeDetection fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg
-  description:
-    Monitor website changes effortlessly with ChangeDetection.io. Get notified
+  description: Monitor website changes effortlessly with ChangeDetection.io. Get notified
     instantly with unlimited checks, automated backups, and powerful filtering.
-  keywords:
-    website change detection, self-hosted monitoring, open-source monitoring
+  keywords: website change detection, self-hosted monitoring, open-source monitoring
     service, track website changes, ChangeDetection, website notifications, text change
     monitoring, site update alerts, XPath filtering, custom notifications
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: ChangeDetection
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/changedetection
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: ChangeDetection
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/changedetection
 content:
   id: changedetection
   name: ChangeDetection
@@ -30,8 +28,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/monitoring/changedetection
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/changedetection/screenshot-2.jpg
 ---
 
 ## Overview

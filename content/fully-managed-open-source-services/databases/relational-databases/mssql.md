@@ -2,7 +2,7 @@
 draft: false
 title: MSSQL fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/mssql/screenshot-1.png
+  cover: /images/databases/relational-databases/mssql/screenshot-1.jpg
   description: "Effortlessly deploy and manage MSSQL databases with OctaByte.io\u2019\
     s fully managed hosting, offering high availability, built-in analytics, and robust\
     \ security."

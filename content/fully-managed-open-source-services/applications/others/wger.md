@@ -2,7 +2,7 @@
 draft: false
 title: Wger fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/wger/screenshot-1.jpg
+  cover: /images/applications/others/wger/screenshot-1.png
   description: Wger Workout Manager is an open-source web app that helps you track
     workouts, diet plans, and progress. Plan meals, set goals, and manage your fitness
     routine easily. Ideal for both personal use and gym management.

@@ -2,7 +2,7 @@
 draft: false
 title: Quant-UX fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/quant-ux/screenshot-1.jpg
+  cover: /images/development/others/quant-ux/screenshot-1.webp
   description: Quant-UX simplifies prototype creation and usability testing. Design
     interactive prototypes in minutes and gather user feedback with ease to validate
     your ideas.

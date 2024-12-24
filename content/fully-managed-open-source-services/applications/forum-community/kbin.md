@@ -2,7 +2,7 @@
 draft: false
 title: KBIN fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/kbin/screenshot-1.jpg
+  cover: /images/applications/forum-community/kbin/screenshot-1.jpeg
   description: KBIN is a decentralized content aggregator and microblogging platform
     within the Fediverse, allowing users to create, moderate communities, and engage
     in meaningful discussions with others who share similar interests.

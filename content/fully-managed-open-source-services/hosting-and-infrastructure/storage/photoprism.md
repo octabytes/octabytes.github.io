@@ -3,26 +3,24 @@ draft: false
 title: PhotoPrism fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg
-  description:
-    PhotoPrism is an AI-driven app that helps you organize, browse, and
+  description: PhotoPrism is an AI-driven app that helps you organize, browse, and
     share your photo collection effortlessly. Experience intelligent photo tagging
     and easy search features while running it on your server, private cloud, or at
     home.
-  keywords:
-    PhotoPrism, AI photo management, photo organization, photo search, face
+  keywords: PhotoPrism, AI photo management, photo organization, photo search, face
     recognition, photo sharing, RAW support, live photos, private server photo app,
     cloud photo management
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: PhotoPrism
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/photoprism
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: PhotoPrism
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/photoprism
 content:
   id: photoprism
   name: PhotoPrism
@@ -31,8 +29,8 @@ content:
   website: https://photoprism.app/
   iframe_website: /website/hosting-and-infrastructure/storage/photoprism
   screenshots:
-    - /images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/photoprism/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/photoprism/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/photoprism/screenshot-2.jpg
 ---
 
 ## Overview

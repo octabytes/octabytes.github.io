@@ -30,6 +30,7 @@ def update_meta_cover(directory):
                                 and "cover" in data["meta"]
                                 and "content" in data
                                 and "screenshots" in data["content"]
+                                and isinstance(data["content"]["screenshots"], list)
                                 and len(data["content"]["screenshots"]) > 0
                             ):
                                 first_screenshot = data["content"]["screenshots"][0]

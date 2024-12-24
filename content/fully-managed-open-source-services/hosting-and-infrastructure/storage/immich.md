@@ -3,26 +3,24 @@ draft: false
 title: Immich fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/immich/screenshot-1.webp
-  description:
-    Immich is a self-hosted photo management solution that mimics Google
+  description: Immich is a self-hosted photo management solution that mimics Google
     Photos' UI and features. With TensorFlow-based machine learning, Immich offers
     powerful auto-tagging and reverse geocoding, all while keeping your photos private
     and secure.
-  keywords:
-    Immich, self-hosted Google Photos, photo management, auto-tagging, reverse
+  keywords: Immich, self-hosted Google Photos, photo management, auto-tagging, reverse
     geocoding, photo backup, AI-powered photo management, CLI bulk upload, Typesense
     search, private photo storage, TensorFlow, mobile app photo backup
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Immich
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/immich
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Immich
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/immich
 content:
   id: immich
   name: Immich
@@ -31,8 +29,8 @@ content:
   website: https://immich.app/
   iframe_website: /website/hosting-and-infrastructure/storage/immich
   screenshots:
-    - /images/hosting-and-infrastructure/storage/immich/screenshot-1.webp
-    - /images/hosting-and-infrastructure/storage/immich/screenshot-2.webp
+  - /images/hosting-and-infrastructure/storage/immich/screenshot-1.webp
+  - /images/hosting-and-infrastructure/storage/immich/screenshot-2.webp
 ---
 
 ## Overview

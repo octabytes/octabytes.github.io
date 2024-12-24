@@ -2,7 +2,7 @@
 draft: false
 title: Huly fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/huly/screenshot-1.jpg
+  cover: /images/applications/note-taking/huly/screenshot-1.webp
   description: Huly is an all-in-one project management platform that combines tools
     for task management, communication, and team collaboration. Simplify workflows
     and boost productivity with Huly.

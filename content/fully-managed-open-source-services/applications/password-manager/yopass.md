@@ -2,7 +2,7 @@
 draft: false
 title: Yopass fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/yopass/screenshot-1.png
   description: Yopass provides secure, end-to-end encryption for sensitive files and
     messages, ensuring privacy with features like self-destruction and one-time downloads.
     Open-source and fully auditable.

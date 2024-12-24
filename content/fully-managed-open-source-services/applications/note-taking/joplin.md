@@ -2,7 +2,7 @@
 draft: false
 title: Joplin fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/joplin/screenshot-1.jpg
+  cover: /images/applications/note-taking/joplin/screenshot-1.png
   description: Joplin is a free, open-source note-taking and to-do app with Markdown
     support, multimedia capabilities, and customizable features for personal and collaborative
     use.

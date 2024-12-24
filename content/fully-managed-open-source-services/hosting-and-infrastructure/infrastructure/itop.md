@@ -2,26 +2,24 @@
 draft: false
 title: iTop fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.jpg
-  description:
-    iTop is a fully customizable IT service management platform designed
+  cover: /images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png
+  description: iTop is a fully customizable IT service management platform designed
     for businesses to streamline operations, enhance customer satisfaction, and manage
     complex infrastructures with ease.
-  keywords:
-    iTop, IT service management, ITSM, customizable IT solution, ERP for IT,
+  keywords: iTop, IT service management, ITSM, customizable IT solution, ERP for IT,
     incident management, workflow management, IT infrastructure, problem management,
     service contracts, IT operations, business IT solutions, shared infrastructures
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: iTop
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/itop
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: iTop
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/itop
 content:
   id: itop
   name: iTop
@@ -30,8 +28,8 @@ content:
   website: https://www.combodo.com/?lang=en
   iframe_website: /website/hosting-and-infrastructure/infrastructure/itop
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-2.png
+  - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/itop/screenshot-2.png
 ---
 
 ## Overview

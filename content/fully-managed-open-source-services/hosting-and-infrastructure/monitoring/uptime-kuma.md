@@ -3,25 +3,23 @@ draft: false
 title: Uptime-kuma fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg
-  description:
-    Uptime Kuma is a self-hosted, open-source monitoring system that tracks
+  description: Uptime Kuma is a self-hosted, open-source monitoring system that tracks
     the health of your services with advanced alerting capabilities, including SSL,
     Ping, and port monitoring.
-  keywords:
-    Uptime Kuma, uptime monitoring, self-hosted monitoring, open-source uptime,
+  keywords: Uptime Kuma, uptime monitoring, self-hosted monitoring, open-source uptime,
     SSL monitoring, ping monitoring, port monitoring, service monitoring, network
     monitoring, uptime alerts
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Uptime-kuma
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/uptime-kuma
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Uptime-kuma
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/uptime-kuma
 content:
   id: uptime-kuma
   name: Uptime-kuma
@@ -30,8 +28,8 @@ content:
   website: https://uptime.kuma.pet/
   iframe_website: /website/hosting-and-infrastructure/monitoring/uptime-kuma
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/uptime-kuma/screenshot-2.jpg
 ---
 
 ## Overview

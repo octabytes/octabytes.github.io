@@ -2,7 +2,7 @@
 draft: false
 title: Hoppscotch fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/hoppscotch/screenshot-1.jpg
+  cover: /images/development/others/hoppscotch/screenshot-1.jpg
   description: Hoppscotch is a free, open-source API development tool that offers
     a fast, lightweight, and user-friendly interface for building and testing APIs.
   keywords: API development, Hoppscotch, open-source, lightweight API tool, fast API

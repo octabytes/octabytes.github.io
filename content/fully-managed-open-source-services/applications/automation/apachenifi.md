@@ -3,25 +3,23 @@ draft: false
 title: ApacheNiFi fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/automation/apachenifi/screenshot-1.png
-  description:
-    Apache NiFi automates data movement between disparate systems, providing
+  description: Apache NiFi automates data movement between disparate systems, providing
     real-time control, secure communication, and comprehensive data tracking for seamless
     integration.
-  keywords:
-    Apache NiFi, data flow automation, real-time data integration, data logistics,
+  keywords: Apache NiFi, data flow automation, real-time data integration, data logistics,
     secure data transfer, data provenance, high throughput, low latency, scalable
     data management, data integration platform
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Automation
-      url: /fully-managed-open-source-services/applications/automation
-    - name: ApacheNiFi
-      url: /fully-managed-open-source-services/applications/automation/apachenifi
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Automation
+    url: /fully-managed-open-source-services/applications/automation
+  - name: ApacheNiFi
+    url: /fully-managed-open-source-services/applications/automation/apachenifi
 content:
   id: apachenifi
   name: ApacheNiFi
@@ -30,8 +28,8 @@ content:
   website: https://nifi.apache.org/
   iframe_website: /website/applications/automation/apachenifi
   screenshots:
-    - /images/applications/automation/apachenifi/screenshot-1.png
-    - /images/applications/automation/apachenifi/screenshot-2.png
+  - /images/applications/automation/apachenifi/screenshot-1.png
+  - /images/applications/automation/apachenifi/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: Formbricks fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/formbricks/screenshot-1.jpg
+  cover: /images/applications/customer-support/formbricks/screenshot-1.png
   description: Formbricks enables you to create targeted, non-intrusive in-product
     surveys to collect valuable user feedback and improve your product experience.
   keywords: micro-surveys, in-product surveys, user feedback, no-code surveys, survey

@@ -2,26 +2,24 @@
 draft: false
 title: RabbitMQ fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpg
-  description:
-    RabbitMQ is a scalable, highly available message broker supporting
+  cover: /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg
+  description: RabbitMQ is a scalable, highly available message broker supporting
     multiple protocols, ideal for distributed systems and cloud deployments. It offers
     asynchronous messaging, powerful tools, and plugins for integration and monitoring.
-  keywords:
-    RabbitMQ, message broker, messaging protocols, distributed systems, high
+  keywords: RabbitMQ, message broker, messaging protocols, distributed systems, high
     availability, asynchronous messaging, cloud messaging, messaging queue, integration,
     monitoring
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: RabbitMQ
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/rabbitmq
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: RabbitMQ
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/rabbitmq
 content:
   id: rabbitmq
   name: RabbitMQ
@@ -30,8 +28,8 @@ content:
   website: https://www.rabbitmq.com/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/rabbitmq
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg
-    - /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-2.png
+  - /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-1.jpeg
+  - /images/hosting-and-infrastructure/infrastructure/rabbitmq/screenshot-2.png
 ---
 
 ## Overview

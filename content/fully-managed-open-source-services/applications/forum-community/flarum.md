@@ -2,7 +2,7 @@
 draft: false
 title: Flarum fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/flarum/screenshot-1.jpg
+  cover: /images/applications/forum-community/flarum/screenshot-2.png
   description: Flarum is a fast, open-source discussion platform that combines simplicity,
     speed, and flexibility to create an ideal community forum.
   keywords: Flarum, open-source forum, community platform, discussion platform, forum

@@ -3,25 +3,23 @@ draft: false
 title: Browserless fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/browserless/screenshot-1.png
-  description:
-    Browserless offers fast, scalable, and reliable web browser automation,
+  description: Browserless offers fast, scalable, and reliable web browser automation,
     empowering developers to automate without the hassle of managing browsers or complex
     setups.
-  keywords:
-    web browser automation, scalable automation, fast web automation, developer
+  keywords: web browser automation, scalable automation, fast web automation, developer
     tools, headless browsing, Browserless automation, web scraping, automation performance,
     no installation, Chrome automation
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Network
-      url: /fully-managed-open-source-services/development/network
-    - name: Browserless
-      url: /fully-managed-open-source-services/development/network/browserless
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Development
+    url: /fully-managed-open-source-services/development
+  - name: Network
+    url: /fully-managed-open-source-services/development/network
+  - name: Browserless
+    url: /fully-managed-open-source-services/development/network/browserless
 content:
   id: browserless
   name: Browserless
@@ -30,8 +28,8 @@ content:
   website: https://www.browserless.io/
   iframe_website: /website/development/network/browserless
   screenshots:
-    - /images/development/network/browserless/screenshot-1.png
-    - /images/development/network/browserless/screenshot-2.jpg
+  - /images/development/network/browserless/screenshot-1.png
+  - /images/development/network/browserless/screenshot-2.jpg
 ---
 
 ## Overview

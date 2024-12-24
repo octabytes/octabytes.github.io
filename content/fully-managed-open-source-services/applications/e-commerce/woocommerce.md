@@ -3,25 +3,23 @@ draft: false
 title: WooCommerce fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/e-commerce/woocommerce/screenshot-1.jpg
-  description:
-    WooCommerce is the most popular open-source eCommerce platform, offering
+  description: WooCommerce is the most popular open-source eCommerce platform, offering
     unlimited customization and control over your online store, empowering entrepreneurs
     and businesses worldwide to sell products online.
-  keywords:
-    WooCommerce, open-source eCommerce, WordPress eCommerce, customizable
+  keywords: WooCommerce, open-source eCommerce, WordPress eCommerce, customizable
     eCommerce solution, online store, sell products online, eCommerce extensions,
     WooCommerce mobile app, scalable eCommerce platform, WooCommerce features
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: E-commerce
-      url: /fully-managed-open-source-services/applications/e-commerce
-    - name: WooCommerce
-      url: /fully-managed-open-source-services/applications/e-commerce/woocommerce
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: E-commerce
+    url: /fully-managed-open-source-services/applications/e-commerce
+  - name: WooCommerce
+    url: /fully-managed-open-source-services/applications/e-commerce/woocommerce
 content:
   id: woocommerce
   name: WooCommerce
@@ -30,8 +28,8 @@ content:
   website: https://woocommerce.com/
   iframe_website: /website/applications/e-commerce/woocommerce
   screenshots:
-    - /images/applications/e-commerce/woocommerce/screenshot-1.jpg
-    - /images/applications/e-commerce/woocommerce/screenshot-2.png
+  - /images/applications/e-commerce/woocommerce/screenshot-1.jpg
+  - /images/applications/e-commerce/woocommerce/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: Bytebase fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/bytebase/screenshot-1.jpg
+  cover: /images/development/dev-tools/bytebase/screenshot-1.webp
   description: Bytebase is an open-source database CI/CD tool, simplifying database
     management with SQL review, version control, rollback, and multi-database support,
     including MySQL, PostgreSQL, and Snowflake.

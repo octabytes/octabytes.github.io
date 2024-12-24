@@ -2,7 +2,7 @@
 draft: false
 title: Hydra fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/hydra/screenshot-1.png
+  cover: /images/databases/relational-databases/hydra/screenshot-1.webp
   description: Hydra is a high-performance open-source data warehouse built on PostgreSQL,
     offering advanced OLAP and HTAP capabilities with seamless data integration and
     real-time insights.

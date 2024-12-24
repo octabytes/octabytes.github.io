@@ -2,7 +2,7 @@
 draft: false
 title: Typesense fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/search/typesense/screenshot-1.jpg
+  cover: /images/applications/search/typesense/screenshot-1.png
   description: Typesense is a privacy-focused, open-source search engine that delivers
     fast, typo-tolerant search results with an intuitive developer experience. Build
     scalable, lightning-fast search solutions effortlessly.

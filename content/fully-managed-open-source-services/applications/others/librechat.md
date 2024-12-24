@@ -2,7 +2,7 @@
 draft: false
 title: LibreChat fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/librechat/screenshot-1.jpg
+  cover: /images/applications/others/librechat/screenshot-1.png
   description: LibreChat is an advanced, customizable AI chat platform that supports
     multiple AI models and services, offering dynamic conversation control and integrations
     to enhance your communication experience.

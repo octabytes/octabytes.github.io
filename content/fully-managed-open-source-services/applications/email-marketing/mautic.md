@@ -2,7 +2,7 @@
 draft: false
 title: Mautic fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/email-marketing/mautic/screenshot-1.jpg
+  cover: /images/applications/email-marketing/mautic/screenshot-1.png
   description: Mautic is an open-source marketing automation platform offering lead
     management, activity tracking, email marketing, and multi-channel campaign tools.
   keywords: Mautic marketing automation, Open-source marketing tools, Lead management

@@ -2,7 +2,7 @@
 draft: false
 title: Flatnotes fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/flatnotes/screenshot-1.jpg
+  cover: /images/applications/note-taking/flatnotes/screenshot-1.png
   description: Flatnotes is a self-hosted, database-less markdown note-taking app
     with advanced features such as multiple authentication options, powerful search
     functionality, and an intuitive editor.

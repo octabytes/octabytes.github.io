@@ -2,7 +2,7 @@
 draft: false
 title: Photon fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/photon/screenshot-1.jpg
+  cover: /images/applications/forum-community/photon/screenshot-1.png
   description: Photon is a customizable replacement for Lemmy-ui, offering an improved
     design, more features, and full integration with the Fediverse for creating decentralized
     discussion platforms.

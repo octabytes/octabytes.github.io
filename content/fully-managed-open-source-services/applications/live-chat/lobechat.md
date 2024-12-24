@@ -2,7 +2,7 @@
 draft: false
 title: LobeChat fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/live-chat/lobechat/screenshot-1.jpg
+  cover: /images/applications/live-chat/lobechat/screenshot-1.webp
   description: LobeChat is an open-source, high-performance chatbot framework that
     supports multimodal interactions, including text-to-speech, visual recognition,
     and text-to-image generation, offering easy deployment of private ChatGPT and

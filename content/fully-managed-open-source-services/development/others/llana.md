@@ -2,7 +2,7 @@
 draft: false
 title: Llana fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/llana/screenshot-1.jpg
+  cover: /images/development/others/llana/screenshot-1.png
   description: Llana is a no-code API wrapper that generates REST APIs for databases
     in minutes. Open-source and free, it eliminates the need for manual API development,
     saving you time and effort.

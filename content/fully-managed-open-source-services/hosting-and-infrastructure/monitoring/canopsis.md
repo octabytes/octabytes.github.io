@@ -2,26 +2,24 @@
 draft: false
 title: Canopsis fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.jpg
-  description:
-    Canopsis streamlines event management by centralizing multisource events,
+  cover: /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png
+  description: Canopsis streamlines event management by centralizing multisource events,
     automating actions, and providing customizable real-time dashboards for enhanced
     monitoring and service optimization.
-  keywords:
-    Canopsis, event management, real-time dashboards, monitoring tools, customizable
+  keywords: Canopsis, event management, real-time dashboards, monitoring tools, customizable
     dashboards, service optimization, automatic actions, event centralization, supervision
     solutions, business applications
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Canopsis
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/canopsis
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Canopsis
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/canopsis
 content:
   id: canopsis
   name: Canopsis
@@ -30,8 +28,8 @@ content:
   website: https://www.capensis.fr/canopsis/
   iframe_website: /website/hosting-and-infrastructure/monitoring/canopsis
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/canopsis/screenshot-2.png
 ---
 
 ## Overview

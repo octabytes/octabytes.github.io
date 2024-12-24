@@ -2,7 +2,7 @@
 draft: false
 title: Docmost fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/docmost/screenshot-1.jpg
+  cover: /images/applications/note-taking/docmost/screenshot-1.png
   description: Create, collaborate, and share knowledge seamlessly with Docmost, the
     ideal open-source platform for managing wikis, knowledge bases, and documentation.
   keywords: Docmost, open-source wiki, collaborative documentation, knowledge base,

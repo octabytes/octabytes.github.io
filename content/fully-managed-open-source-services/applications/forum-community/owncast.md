@@ -2,7 +2,7 @@
 draft: false
 title: Owncast fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/owncast/screenshot-1.jpg
+  cover: /images/applications/forum-community/owncast/screenshot-1.png
   description: Owncast is an open-source, self-hosted live streaming and chat platform
     that gives you full control over your content, interface, and audience, providing
     a decentralized alternative to mainstream streaming services.

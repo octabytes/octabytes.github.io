@@ -3,26 +3,24 @@ draft: false
 title: Filestash fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg
-  description:
-    Filestash is an open-source web app that allows businesses to manage
+  description: Filestash is an open-source web app that allows businesses to manage
     their data efficiently across various storage backends, with a focus on security
     and seamless collaboration. It can be self-hosted or cloud-based, offering businesses
     the flexibility they need.
-  keywords:
-    Filestash, file management, cloud storage, FTP, S3, self-hosted, open-source,
+  keywords: Filestash, file management, cloud storage, FTP, S3, self-hosted, open-source,
     file sharing, data security, collaboration tool, backend integration, file management
     system
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Filestash
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/filestash
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Filestash
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/filestash
 content:
   id: filestash
   name: Filestash
@@ -31,8 +29,8 @@ content:
   website: https://www.filestash.app/
   iframe_website: /website/hosting-and-infrastructure/storage/filestash
   screenshots:
-    - /images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/filestash/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/filestash/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/filestash/screenshot-2.jpg
 ---
 
 ## Overview

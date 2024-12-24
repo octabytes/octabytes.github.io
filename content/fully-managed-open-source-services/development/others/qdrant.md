@@ -2,26 +2,24 @@
 draft: false
 title: Qdrant fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/qdrant/screenshot-1.jpg
-  description:
-    Qdrant is a high-performance vector database and similarity search
+  cover: /images/development/others/qdrant/screenshot-1.png
+  description: Qdrant is a high-performance vector database and similarity search
     engine, ideal for semantic matching, neural networks, and faceted search. It offers
     advanced filtering, high scalability, and a simple API for developers.
-  keywords:
-    Qdrant, vector search engine, vector database, semantic search, neural
+  keywords: Qdrant, vector search engine, vector database, semantic search, neural
     network matching, high-dimensional vectors, similarity search, embeddings, advanced
     filtering, recommendation systems
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
-    - name: Qdrant
-      url: /fully-managed-open-source-services/development/nocode-lowcode/qdrant
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Development
+    url: /fully-managed-open-source-services/development
+  - name: Others
+    url: /fully-managed-open-source-services/development/others
+  - name: Qdrant
+    url: /fully-managed-open-source-services/development/nocode-lowcode/qdrant
 content:
   id: qdrant
   name: Qdrant
@@ -31,8 +29,8 @@ content:
   iframe_website: /website/development/others/qdrant
   direct_link: true
   screenshots:
-    - /images/development/others/qdrant/screenshot-1.png
-    - /images/development/others/qdrant/screenshot-2.webp
+  - /images/development/others/qdrant/screenshot-1.png
+  - /images/development/others/qdrant/screenshot-2.webp
 ---
 
 ## Overview

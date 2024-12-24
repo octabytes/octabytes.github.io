@@ -2,7 +2,7 @@
 draft: false
 title: Fider fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/product-feedback/fider/screenshot-1.jpg
+  cover: /images/applications/product-feedback/fider/screenshot-1.png
   description: Fider is a user-friendly feedback portal for collecting, organizing,
     and prioritizing customer feedback through idea sharing, voting, and discussions,
     all in one place.

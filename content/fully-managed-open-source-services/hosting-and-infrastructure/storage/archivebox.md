@@ -2,26 +2,24 @@
 draft: false
 title: ArchiveBox fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/storage/archivebox/screenshot-1.jpg
-  description:
-    ArchiveBox is a self-hosted tool for archiving websites offline. Capture
+  cover: /images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png
+  description: ArchiveBox is a self-hosted tool for archiving websites offline. Capture
     and preserve web pages with an intuitive command-line interface and scheduled
     archiving features, supporting various formats for long-term storage.
-  keywords:
-    internet archiving, self-hosted archiving, offline website storage, ArchiveBox,
+  keywords: internet archiving, self-hosted archiving, offline website storage, ArchiveBox,
     website backup, archiving tool, web page preservation, archiving command line,
     offline web archive, URL archiving
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: ArchiveBox
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/archivebox
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: ArchiveBox
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/archivebox
 content:
   id: archivebox
   name: ArchiveBox
@@ -30,8 +28,8 @@ content:
   website: https://archivebox.io/
   iframe_website: /website/hosting-and-infrastructure/storage/archivebox
   screenshots:
-    - /images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png
-    - /images/hosting-and-infrastructure/storage/archivebox/screenshot-2.png
+  - /images/hosting-and-infrastructure/storage/archivebox/screenshot-1.png
+  - /images/hosting-and-infrastructure/storage/archivebox/screenshot-2.png
 ---
 
 ## Overview

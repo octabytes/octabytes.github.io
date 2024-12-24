@@ -2,7 +2,7 @@
 draft: false
 title: ClickHouse fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/clickhouse/screenshot-1.png
+  cover: /images/databases/relational-databases/clickhouse/screenshot-1.jpg
   description: ClickHouse is a fast, scalable, and reliable OLAP database for real-time
     analytics, capable of processing billions of rows per second with enterprise-grade
     security.

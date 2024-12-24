@@ -2,7 +2,7 @@
 draft: false
 title: Parse fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/backend-as-a-service/parse/screenshot-1.jpg
+  cover: /images/development/backend-as-a-service/parse/screenshot-1.png
   description: Parse Server is an open-source backend platform that streamlines app
     development with features like user authentication, file storage, and push notifications,
     supporting MongoDB and PostgreSQL databases.

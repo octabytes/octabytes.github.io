@@ -2,7 +2,7 @@
 draft: false
 title: Passit fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/passit/screenshot-1.png
   description: Passit is a powerful password manager designed to securely store, manage,
     and share passwords across multiple devices. With advanced security features and
     seamless access, Passit ensures your digital life stays safe.

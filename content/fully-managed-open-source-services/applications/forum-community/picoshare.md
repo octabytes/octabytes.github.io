@@ -2,7 +2,7 @@
 draft: false
 title: Picoshare fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/picoshare/screenshot-1.jpg
+  cover: /images/applications/forum-community/picoshare/screenshot-1.png
   description: PicoShare offers hassle-free file uploads with direct download links
     and no sign-ups required. Share files of any size, in their original form, without
     re-encoding or restrictions.

@@ -2,7 +2,7 @@
 draft: false
 title: Dify fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/dify/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/dify/screenshot-1.webp
   description: Dify is an open-source platform designed for LLM app development. It
     offers a range of features to streamline the development of AI-powered chatbots,
     document generation, agent creation, and more.

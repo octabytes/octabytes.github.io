@@ -3,26 +3,24 @@ draft: false
 title: Firefish fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/firefish/screenshot-1.png
-  description:
-    Firefish is a microblogging platform inspired by Misskey, offering
+  description: Firefish is a microblogging platform inspired by Misskey, offering
     a fun and engaging experience while being fully connected to the Fediverse through
     ActivityPub.
-  keywords:
-    Firefish, microblogging, Fediverse, Misskey, ActivityPub, Mastodon, Pixelfed,
+  keywords: Firefish, microblogging, Fediverse, Misskey, ActivityPub, Mastodon, Pixelfed,
     Peertube, Akkoma, Friendica, social media, customizable UI, emoji reactions, rich
     chatting, microblogging platform, social features, full-text search, webhooks,
     plugins
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: CMS
-      url: /fully-managed-open-source-services/applications/cms
-    - name: Firefish
-      url: /fully-managed-open-source-services/applications/cms/firefish
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: CMS
+    url: /fully-managed-open-source-services/applications/cms
+  - name: Firefish
+    url: /fully-managed-open-source-services/applications/cms/firefish
 content:
   id: firefish
   name: Firefish
@@ -32,8 +30,8 @@ content:
   iframe_website: /website/applications/cms/firefish
   direct_link: true
   screenshots:
-    - /images/applications/cms/firefish/screenshot-1.png
-    - /images/applications/cms/firefish/screenshot-2.png
+  - /images/applications/cms/firefish/screenshot-1.png
+  - /images/applications/cms/firefish/screenshot-2.png
 ---
 
 ## Overview

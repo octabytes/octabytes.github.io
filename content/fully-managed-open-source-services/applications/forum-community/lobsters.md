@@ -2,7 +2,7 @@
 draft: false
 title: Lobsters fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/lobsters/screenshot-1.jpg
+  cover: /images/applications/forum-community/lobsters/screenshot-1.png
   description: Lobsters is a vibrant community for computing enthusiasts, offering
     a space to share stories, links, and engage in meaningful discussions on a range
     of tech topics.

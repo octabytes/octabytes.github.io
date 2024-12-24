@@ -2,7 +2,7 @@
 draft: false
 title: Etherpad fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/etherpad/screenshot-1.jpg
+  cover: /images/applications/note-taking/etherpad/screenshot-1.png
   description: Etherpad is a powerful open-source tool that enables real-time, collaborative
     document editing in your browser. Ideal for teams, students, and colleagues working
     together on the same document simultaneously.

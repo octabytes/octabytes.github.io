@@ -2,7 +2,7 @@
 draft: false
 title: DevLake fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/devlake/screenshot-1.jpg
+  cover: /images/development/dev-tools/devlake/screenshot-1.png
   description: Apache DevLake unifies data from DevOps tools, offering actionable
     insights through prebuilt dashboards for improved engineering practices and developer
     experiences.

@@ -2,7 +2,7 @@
 draft: false
 title: Kroki fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/kroki/screenshot-1.jpg
+  cover: /images/development/dev-tools/kroki/screenshot-1.jpeg
   description: Kroki provides a powerful, free, and open-source API for rendering
     over 20 types of diagrams, including BPMN, UML, and GraphViz, with support for
     multiple languages.

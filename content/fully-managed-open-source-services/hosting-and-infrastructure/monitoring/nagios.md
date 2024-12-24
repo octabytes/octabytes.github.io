@@ -2,26 +2,24 @@
 draft: false
 title: Nagios fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.jpg
-  description:
-    Nagios is a powerful monitoring system that tracks applications, services,
+  cover: /images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png
+  description: Nagios is a powerful monitoring system that tracks applications, services,
     systems, and network protocols, helping businesses ensure the health of their
     mission-critical infrastructure with advanced scalability and flexibility.
-  keywords:
-    Nagios monitoring, system monitoring, network monitoring, infrastructure
+  keywords: Nagios monitoring, system monitoring, network monitoring, infrastructure
     monitoring, open-source monitoring, scalable monitoring, service monitoring, application
     monitoring, network protocol monitoring, Nagios features
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Nagios
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/nagios
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Nagios
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/nagios
 content:
   id: nagios
   name: Nagios
@@ -30,8 +28,8 @@ content:
   website: https://www.nagios.org/
   iframe_website: /website/hosting-and-infrastructure/monitoring/nagios
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/nagios/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: ILLA fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/illa/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/illa/screenshot-1.png
   description: ILLA Cloud is a powerful low-code platform that enables you to quickly
     build internal tools and applications with ease, using AI-driven SQL generation,
     real-time collaboration, and seamless data source integration.

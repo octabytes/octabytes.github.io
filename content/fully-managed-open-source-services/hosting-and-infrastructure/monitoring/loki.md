@@ -2,25 +2,23 @@
 draft: false
 title: Loki fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/loki/screenshot-1.jpg
-  description:
-    Loki is a highly scalable, multi-tenant log aggregation tool inspired
+  cover: /images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png
+  description: Loki is a highly scalable, multi-tenant log aggregation tool inspired
     by Prometheus, designed to provide cost-effective log management with easy operation.
-  keywords:
-    Loki, log aggregation, scalable logs, cost-effective logging, Prometheus,
+  keywords: Loki, log aggregation, scalable logs, cost-effective logging, Prometheus,
     Grafana, multi-tenant logs, log management, LogQL, cloud logging, log storage,
     Promtail
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Loki
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/loki
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Loki
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/loki
 content:
   id: loki
   name: Loki
@@ -30,8 +28,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/monitoring/loki
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/loki/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/loki/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/loki/screenshot-2.png
 ---
 
 ## Overview

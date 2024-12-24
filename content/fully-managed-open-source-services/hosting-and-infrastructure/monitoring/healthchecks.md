@@ -3,28 +3,26 @@ draft: false
 title: Healthchecks fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg
-  description:
-    Healthchecks is a cron job monitoring service that helps you track
+  description: Healthchecks is a cron job monitoring service that helps you track
     the status of your scheduled tasks and cron jobs. It sends alerts when pings are
     missing and offers a web dashboard, 25+ integrations, WebAuthn 2FA, and team management
     features.
-  keywords:
-    cron job monitoring, scheduled task monitoring, cron job alerts, cron
+  keywords: cron job monitoring, scheduled task monitoring, cron job alerts, cron
     job service, task status tracker, uptime monitoring, scheduled task alerts, cron
     job dashboard, web dashboard, cron monitoring API, Healthchecks, cron job ping
     service, WebAuthn 2FA, team management tool, self-hosted monitoring, integration
     alerts
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Healthchecks
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/healthchecks
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Healthchecks
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/healthchecks
 content:
   id: healthchecks
   name: Healthchecks
@@ -33,8 +31,8 @@ content:
   website: https://healthchecks.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/healthchecks
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/healthchecks/screenshot-2.jpg
 ---
 
 ## Overview

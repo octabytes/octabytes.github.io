@@ -2,7 +2,7 @@
 draft: false
 title: HAProxy fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/haproxy/screenshot-1.jpg
+  cover: /images/development/dev-ops/haproxy/screenshot-1.png
   description: HAProxy is a fast, reliable, and open-source reverse proxy offering
     high availability, load balancing, and proxying for TCP and HTTP applications,
     ensuring optimal performance for high-traffic websites.

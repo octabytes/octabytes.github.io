@@ -2,7 +2,7 @@
 draft: false
 title: PeerTube fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/fediverse/peertube/screenshot-1.jpg
+  cover: /images/applications/fediverse/peertube/screenshot-1.png
   description: PeerTube is an open-source, decentralized video platform that empowers
     users to host and share content while promoting freedom, privacy, and community-based
     moderation.

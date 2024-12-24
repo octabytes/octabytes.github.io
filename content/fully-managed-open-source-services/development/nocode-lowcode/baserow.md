@@ -2,7 +2,7 @@
 draft: false
 title: Baserow fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/baserow/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/baserow/screenshot-1.png
   description: "Create custom online databases with ease using Baserow\u2019s intuitive\
     \ no-code platform. Perfect for managing projects, ideas, and business processes\
     \ without the need for technical expertise."

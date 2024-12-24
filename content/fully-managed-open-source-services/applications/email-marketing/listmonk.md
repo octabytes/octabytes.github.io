@@ -2,7 +2,7 @@
 draft: false
 title: Listmonk fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/email-marketing/listmonk/screenshot-1.jpg
+  cover: /images/applications/email-marketing/listmonk/screenshot-1.png
   description: Listmonk is a free, open-source, self-hosted newsletter and mailing
     list manager offering high performance, advanced features, and seamless integration.
   keywords: Listmonk, self-hosted newsletter manager, open-source email marketing,

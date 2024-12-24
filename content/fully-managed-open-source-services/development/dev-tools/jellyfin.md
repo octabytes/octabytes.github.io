@@ -3,37 +3,34 @@ draft: false
 title: Jellyfin fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/jellyfin/screenshot-1.png
-  description:
-    Jellyfin is a free, open-source media server that lets you manage and
+  description: Jellyfin is a free, open-source media server that lets you manage and
     stream your personal collection of movies, music, and TV shows. It's a flexible
     alternative to Emby and Plex with powerful features and no subscription fees.
-  keywords:
-    Jellyfin, open-source media server, free media system, Plex alternative,
+  keywords: Jellyfin, open-source media server, free media system, Plex alternative,
     Emby alternative, media streaming, personal media, movie streaming, music streaming,
     TV shows, live TV, DVR, media server software
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Dev tools
-      url: /fully-managed-open-source-services/development/dev-tools
-    - name: Jellyfin
-      url: /fully-managed-open-source-services/development/dev-tools/jellyfin
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Development
+    url: /fully-managed-open-source-services/development
+  - name: Dev tools
+    url: /fully-managed-open-source-services/development/dev-tools
+  - name: Jellyfin
+    url: /fully-managed-open-source-services/development/dev-tools/jellyfin
 content:
   id: jellyfin
   name: Jellyfin
-  title:
-    The Ultimate Free Software Media Server for Streaming Movies, Music, and
+  title: The Ultimate Free Software Media Server for Streaming Movies, Music, and
     More
   logo: /images/development/dev-tools/jellyfin/logo.png
   website: https://jellyfin.org/
   iframe_website: /website/development/dev-tools/jellyfin
   screenshots:
-    - /images/development/dev-tools/jellyfin/screenshot-1.png
-    - /images/development/dev-tools/jellyfin/screenshot-2.png
+  - /images/development/dev-tools/jellyfin/screenshot-1.png
+  - /images/development/dev-tools/jellyfin/screenshot-2.png
 ---
 
 ## Overview

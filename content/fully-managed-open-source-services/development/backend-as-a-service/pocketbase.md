@@ -2,7 +2,7 @@
 draft: false
 title: PocketBase fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/backend-as-a-service/pocketbase/screenshot-1.jpg
+  cover: /images/development/backend-as-a-service/pocketbase/screenshot-1.png
   description: PocketBase is an open-source backend with SQLite database, real-time
     subscriptions, auth management, RESTful API, and file storage.
   keywords: PocketBase, open-source backend, real-time database, SQLite, RESTful API,

@@ -2,26 +2,24 @@
 draft: false
 title: HAProxy fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.jpg
-  description:
-    HAProxy is the leading open-source reverse proxy and load balancer,
+  cover: /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png
+  description: HAProxy is the leading open-source reverse proxy and load balancer,
     delivering high availability, advanced routing, and exceptional performance for
     any scale.
-  keywords:
-    HAProxy, open-source load balancer, reverse proxy, high availability,
+  keywords: HAProxy, open-source load balancer, reverse proxy, high availability,
     load balancing, SSL offloading, application delivery, HTTP compression, TCP proxying,
     high-traffic websites
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: HAProxy
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/haproxy
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: HAProxy
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/haproxy
 content:
   id: haproxy
   name: HAProxy
@@ -30,8 +28,8 @@ content:
   website: https://www.haproxy.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/haproxy
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-2.png
+  - /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/haproxy/screenshot-2.png
 ---
 
 ## Overview

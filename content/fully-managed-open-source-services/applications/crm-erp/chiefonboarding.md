@@ -2,7 +2,7 @@
 draft: false
 title: ChiefOnboarding fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/chiefonboarding/screenshot-1.jpg
+  cover: /images/applications/crm-erp/chiefonboarding/screenshot-1.png
   description: "ChiefOnboarding streamlines the onboarding process for IT, HR, managers,\
     \ and new hires, ensuring a seamless and structured experience tailored to your\
     \ team\u2019s needs."

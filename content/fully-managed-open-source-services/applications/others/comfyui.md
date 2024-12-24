@@ -2,7 +2,7 @@
 draft: false
 title: ComfyUi fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/comfyui/screenshot-1.jpg
+  cover: /images/applications/others/comfyui/screenshot-1.png
   description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes
     interface, API, and backend for creating high-quality, consistent outputs.
   keywords: Stable Diffusion, ComfyUI, graph interface, modular GUI, ControlNet, Loras,

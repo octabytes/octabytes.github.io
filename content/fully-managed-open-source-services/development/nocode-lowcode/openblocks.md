@@ -2,7 +2,7 @@
 draft: false
 title: OpenBlocks fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/openblocks/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/openblocks/screenshot-1.png
   description: OpenBlocks is an open-source, low-code platform for developers to rapidly
     build customizable internal applications with ease, using powerful UI components,
     seamless data connections, and robust security.

@@ -2,7 +2,7 @@
 draft: false
 title: Authelia fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/identity-and-access-management/authelia/screenshot-1.jpg
+  cover: /images/development/identity-and-access-management/authelia/screenshot-1.png
   description: Authelia is a robust authentication and authorization server offering
     secure multi-factor authentication and single sign-on (SSO) solutions for your
     web applications. Enhance security and streamline access management with this

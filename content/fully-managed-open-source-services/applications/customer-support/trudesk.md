@@ -2,7 +2,7 @@
 draft: false
 title: Trudesk fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/trudesk/screenshot-1.jpg
+  cover: /images/applications/customer-support/trudesk/screenshot-1.png
   description: Trudesk is a powerful, easy-to-use solution designed to streamline
     task management and issue resolution. Keep workloads organized with real-time
     updates, live support chat, and customizable permissions.

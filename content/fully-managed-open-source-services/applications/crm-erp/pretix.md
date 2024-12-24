@@ -2,7 +2,7 @@
 draft: false
 title: Pretix fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/pretix/screenshot-1.jpg
+  cover: /images/applications/crm-erp/pretix/screenshot-1.png
   description: Pretix is a powerful and customizable ticket shop application designed
     for conferences, festivals, concerts, tech events, and more. With advanced features
     like automated waiting lists, marketing tools, and integrated payment options,

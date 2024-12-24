@@ -2,7 +2,7 @@
 draft: false
 title: Flagsmith fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/flagsmith/screenshot-1.jpg
+  cover: /images/development/dev-tools/flagsmith/screenshot-1.png
   description: Flagsmith is a powerful feature flag tool that enables real-time changes
     to apps without requiring code updates or app store approvals. Easily manage flags
     across multiple platforms and drive precise A/B/n testing with advanced segmentation.

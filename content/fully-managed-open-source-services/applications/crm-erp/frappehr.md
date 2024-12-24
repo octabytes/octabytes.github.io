@@ -2,7 +2,7 @@
 draft: false
 title: FrappeHR fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/frappehr/screenshot-1.jpg
+  cover: /images/applications/crm-erp/frappehr/screenshot-1.png
   description: FrappeHR is an open-source, modern HRMS designed to simplify HR and
     payroll operations while enhancing team productivity and employee satisfaction.
   keywords: FrappeHR, open-source HRMS, HR management software, payroll automation,

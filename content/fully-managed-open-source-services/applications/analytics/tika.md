@@ -3,26 +3,24 @@ draft: false
 title: Tika fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/tika/screenshot-1.png
-  description:
-    Apache Tika is a powerful content analysis toolkit that extracts text
+  description: Apache Tika is a powerful content analysis toolkit that extracts text
     and metadata from over a thousand file formats, including PDFs, PPTs, and XLS
     files. It supports OCR for image content extraction and provides an easy-to-use
     API for integration.
-  keywords:
-    Apache Tika, content analysis toolkit, file metadata extraction, OCR,
+  keywords: Apache Tika, content analysis toolkit, file metadata extraction, OCR,
     text extraction, MIME type identification, PDF metadata, file parsing, search
     engine indexing, RESTful API
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Analytics
-      url: /fully-managed-open-source-services/applications/analytics
-    - name: Tika
-      url: /fully-managed-open-source-services/applications/analytics/tika
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Analytics
+    url: /fully-managed-open-source-services/applications/analytics
+  - name: Tika
+    url: /fully-managed-open-source-services/applications/analytics/tika
 content:
   id: tika
   name: Tika
@@ -31,8 +29,8 @@ content:
   website: https://tika.apache.org/
   iframe_website: /website/applications/analytics/tika
   screenshots:
-    - /images/applications/analytics/tika/screenshot-1.png
-    - /images/applications/analytics/tika/screenshot-2.png
+  - /images/applications/analytics/tika/screenshot-1.png
+  - /images/applications/analytics/tika/screenshot-2.png
 ---
 
 ## Overview

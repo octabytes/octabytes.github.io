@@ -2,28 +2,26 @@
 draft: false
 title: Prometheus fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.jpg
-  description:
-    Prometheus is a robust monitoring and alerting system, part of the
+  cover: /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png
+  description: Prometheus is a robust monitoring and alerting system, part of the
     Cloud Native Computing Foundation, designed for collecting and storing time-series
     data, querying metrics in real-time, and generating alerts based on user-defined
     conditions.
-  keywords:
-    Prometheus monitoring, time-series database, Prometheus query language,
+  keywords: Prometheus monitoring, time-series database, Prometheus query language,
     cloud-native monitoring, system monitoring, alerting toolkit, Grafana integration,
     CNCF projects, Prometheus metrics, time-series data, monitoring tools, DevOps
     monitoring
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Prometheus
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/prometheus
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Prometheus
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/prometheus
 content:
   id: prometheus
   name: Prometheus
@@ -32,8 +30,8 @@ content:
   website: https://prometheus.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/prometheus
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/prometheus/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: GLPI fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/glpi/screenshot-1.jpg
+  cover: /images/applications/customer-support/glpi/screenshot-1.png
   description: GLPI is a free IT asset and service management software that streamlines
     your IT operations with tools for asset tracking, helpdesk management, financial
     oversight, and project planning.

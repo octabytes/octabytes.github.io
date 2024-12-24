@@ -2,7 +2,7 @@
 draft: false
 title: Outline fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/documentation/outline/screenshot-1.jpg
+  cover: /images/applications/documentation/outline/screenshot-1.png
   description: Outline is a powerful knowledge base and wiki platform designed to
     streamline collaboration with features like markdown support, slash commands,
     rich embeds, and robust access control.

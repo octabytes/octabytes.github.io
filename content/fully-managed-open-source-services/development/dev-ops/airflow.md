@@ -2,7 +2,7 @@
 draft: false
 title: Airflow fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/airflow/screenshot-1.jpg
+  cover: /images/development/dev-ops/airflow/screenshot-1.png
   description: Apache Airflow is a powerful platform to programmatically author, schedule,
     and monitor workflows using Python, ensuring flexibility, scalability, and robust
     integrations.

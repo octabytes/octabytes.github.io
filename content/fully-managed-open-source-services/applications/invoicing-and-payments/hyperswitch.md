@@ -2,7 +2,7 @@
 draft: false
 title: Hyperswitch fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.jpg
+  cover: /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.png
   description: Hyperswitch is an open-source payment switch in Rust, delivering fast,
     reliable, and affordable payment processing for digital businesses.
   keywords: Hyperswitch, open-source payment switch, payment processing software,

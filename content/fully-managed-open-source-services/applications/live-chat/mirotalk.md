@@ -2,7 +2,7 @@
 draft: false
 title: MiroTalk fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/live-chat/mirotalk/screenshot-1.jpg
+  cover: /images/applications/live-chat/mirotalk/screenshot-1.png
   description: MiroTalk is a secure, high-quality WebRTC-based video conferencing
     solution offering 4K video, real-time collaboration, and end-to-end encryption,
     ensuring privacy and seamless communication across all platforms.

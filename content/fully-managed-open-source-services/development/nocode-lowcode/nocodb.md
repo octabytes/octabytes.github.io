@@ -2,7 +2,7 @@
 draft: false
 title: NocoDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/nocodb/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/nocodb/screenshot-1.png
   description: NocoDB is an open-source Airtable alternative that turns relational
     databases into a smart, collaborative no-code spreadsheet interface for building
     applications effortlessly.

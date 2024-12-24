@@ -2,25 +2,23 @@
 draft: false
 title: OpenResty fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.jpg
-  description:
-    OpenResty is a powerful web platform based on Nginx, designed for building
+  cover: /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png
+  description: OpenResty is a powerful web platform based on Nginx, designed for building
     scalable web applications and services with Lua scripting for enhanced performance
     and flexibility.
-  keywords:
-    OpenResty, scalable web applications, web platform, Nginx, Lua, LuaJIT,
+  keywords: OpenResty, scalable web applications, web platform, Nginx, Lua, LuaJIT,
     SSL termination, web services, dynamic web gateways, high-performance applications
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: OpenResty
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/openresty
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: OpenResty
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/openresty
 content:
   id: openresty
   name: OpenResty
@@ -29,8 +27,8 @@ content:
   website: https://openresty.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/openresty
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/openresty/screenshot-2.jpg
 ---
 
 ## Overview

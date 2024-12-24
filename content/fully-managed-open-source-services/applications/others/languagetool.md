@@ -2,7 +2,7 @@
 draft: false
 title: LanguageTool fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/languagetool/screenshot-1.jpg
+  cover: /images/applications/others/languagetool/screenshot-1.png
   description: LanguageTool is a multilingual writing assistant that provides grammar,
     style, and spell checking in over 20 languages, enhancing your writing with real-time
     suggestions. Available as a browser add-on and desktop integration, it ensures

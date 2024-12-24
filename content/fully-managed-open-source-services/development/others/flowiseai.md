@@ -2,7 +2,7 @@
 draft: false
 title: FlowiseAI fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/flowiseai/screenshot-1.jpg
+  cover: /images/development/others/flowiseai/screenshot-1.png
   description: FlowiseAI is an open-source visual tool that allows you to create personalized
     LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS
     and TypeScript/JavaScript. Build intelligent AI-driven applications quickly and

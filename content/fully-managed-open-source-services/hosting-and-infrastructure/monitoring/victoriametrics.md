@@ -2,26 +2,24 @@
 draft: false
 title: VictoriaMetrics fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.jpg
-  description:
-    VictoriaMetrics is a fast, scalable, and cost-effective monitoring
+  cover: /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png
+  description: VictoriaMetrics is a fast, scalable, and cost-effective monitoring
     solution that excels in handling high volumes of time series data, offering efficient
     long-term storage and minimal operational complexity.
-  keywords:
-    VictoriaMetrics, time series database, monitoring solution, scalable database,
+  keywords: VictoriaMetrics, time series database, monitoring solution, scalable database,
     high volume data, cost-effective database, long-term storage, time series data,
     operational efficiency, compression algorithms
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: VictoriaMetrics
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/victoriametrics
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: VictoriaMetrics
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/victoriametrics
 content:
   id: victoriametrics
   name: VictoriaMetrics
@@ -30,8 +28,8 @@ content:
   website: https://victoriametrics.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/victoriametrics
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/victoriametrics/screenshot-2.jpg
 ---
 
 ## Overview

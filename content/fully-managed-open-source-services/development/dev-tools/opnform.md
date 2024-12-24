@@ -2,7 +2,7 @@
 draft: false
 title: OpnForm fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/opnform/screenshot-1.jpg
+  cover: /images/development/dev-tools/opnform/screenshot-1.png
   description: OpnForm is a fast, open-source form builder that lets you create, share,
     and analyze forms easily, with no coding required. Ideal for surveys, feedback,
     and registrations.

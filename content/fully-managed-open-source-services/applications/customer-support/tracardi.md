@@ -2,7 +2,7 @@
 draft: false
 title: Tracardi fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/tracardi/screenshot-1.jpg
+  cover: /images/applications/customer-support/tracardi/screenshot-1.png
   description: Tracardi is an API-first, low-code/no-code platform designed for e-commerce
     businesses to manage and utilize customer data for marketing automation, engagement,
     and multi-channel integration.

@@ -2,7 +2,7 @@
 draft: false
 title: HedgeDoc fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/hedgedoc/screenshot-1.jpg
+  cover: /images/applications/note-taking/hedgedoc/screenshot-1.png
   description: HedgeDoc is an open-source, real-time collaborative markdown editor
     that enables easy collaboration on documents, notes, and presentations, all while
     being self-hosted for data security and control.

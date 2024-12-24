@@ -2,7 +2,7 @@
 draft: false
 title: Attendize fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/attendize/screenshot-1.jpg
+  cover: /images/applications/crm-erp/attendize/screenshot-1.png
   description: Attendize is a powerful event management and ticket-selling platform
     offering seamless attendee management, secure payment options, and advanced features
     to ensure successful events.

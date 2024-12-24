@@ -2,7 +2,7 @@
 draft: false
 title: PhpBB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/phpbb/screenshot-1.jpg
+  cover: /images/applications/forum-community/phpbb/screenshot-1.png
   description: phpBB is a free and secure forum software solution to build and manage
     online communities effortlessly.
   keywords: phpBB, open-source forum software, free forum software, online community

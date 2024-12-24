@@ -2,7 +2,7 @@
 draft: false
 title: Zep fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/zep/screenshot-1.jpg
+  cover: /images/development/others/zep/screenshot-1.png
   description: Zep empowers AI assistants with long-term memory, enabling them to
     recall, understand, and extract data from chat histories for personalized, smarter
     user interactions.

@@ -2,7 +2,7 @@
 draft: false
 title: ApacheNiFi fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/network/apachenifi/screenshot-1.jpg
+  cover: /images/development/network/apachenifi/screenshot-1.png
   description: Apache NiFi is a powerful, real-time data logistics platform designed
     to automate the movement of data across diverse systems with ease. It provides
     control, monitoring, and traceability for seamless data management.

@@ -2,7 +2,7 @@
 draft: false
 title: Kellnr fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/kellnr/screenshot-1.jpg
+  cover: /images/development/dev-ops/kellnr/screenshot-1.png
   description: Kellnr allows you to host your private Rust crates on your own hardware,
     offering complete control over your code and providing powerful tools for crate
     management.

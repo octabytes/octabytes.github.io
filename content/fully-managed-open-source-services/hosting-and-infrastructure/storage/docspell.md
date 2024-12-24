@@ -2,38 +2,35 @@
 draft: false
 title: Docspell fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/storage/docspell/screenshot-1.jpg
-  description:
-    Docspell is an open-source document management tool that uses OCR,
+  cover: /images/hosting-and-infrastructure/storage/docspell/screenshot-1.png
+  description: Docspell is an open-source document management tool that uses OCR,
     text analysis, and automated categorization to help you organize and manage your
     digital files with ease.
-  keywords:
-    Docspell, document management, OCR, text extraction, file organization,
+  keywords: Docspell, document management, OCR, text extraction, file organization,
     digital documents, document categorization, open-source document management, automated
     annotations, file search, PDF conversion.
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Docspell
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/docspell
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Docspell
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/docspell
 content:
   id: docspell
   name: Docspell
-  title:
-    "Efficient Document Management with Docspell: Organize, Search, and Automate
-    Your Digital Files"
+  title: 'Efficient Document Management with Docspell: Organize, Search, and Automate
+    Your Digital Files'
   logo: /images/hosting-and-infrastructure/storage/docspell/logo.png
   website: https://docspell.org/
   iframe_website: /website/hosting-and-infrastructure/storage/docspell
   screenshots:
-    - /images/hosting-and-infrastructure/storage/docspell/screenshot-1.png
-    - /images/hosting-and-infrastructure/storage/docspell/screenshot-2.png
+  - /images/hosting-and-infrastructure/storage/docspell/screenshot-1.png
+  - /images/hosting-and-infrastructure/storage/docspell/screenshot-2.png
 ---
 
 ## Overview

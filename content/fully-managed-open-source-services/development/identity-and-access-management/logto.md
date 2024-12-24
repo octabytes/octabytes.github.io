@@ -2,7 +2,7 @@
 draft: false
 title: Logto fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/identity-and-access-management/logto/screenshot-1.jpg
+  cover: /images/development/identity-and-access-management/logto/screenshot-1.png
   description: Logto is a comprehensive and user-friendly platform for managing customer
     identity and authentication, offering passwordless logins, social sign-ins, and
     multi-tenancy capabilities. Ideal for both B2C and B2B applications.

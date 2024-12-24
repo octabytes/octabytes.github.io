@@ -2,7 +2,7 @@
 draft: false
 title: Saleor fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/saleor/screenshot-1.jpg
+  cover: /images/applications/others/saleor/screenshot-1.png
   description: Saleor is a cutting-edge, headless e-commerce API designed to help
     brands build scalable and extensible online stores, providing unmatched flexibility
     and performance for the future of digital commerce.

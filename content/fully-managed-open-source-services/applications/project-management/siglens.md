@@ -2,7 +2,7 @@
 draft: false
 title: SigLens fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/project-management/siglens/screenshot-1.jpg
+  cover: /images/applications/project-management/siglens/screenshot-1.png
   description: SigLens is a high-performance log management tool that scales effortlessly
     to meet your needs, slashing observability costs by up to 90%. It combines logs,
     metrics, and traces in a single platform for unmatched efficiency and ease of

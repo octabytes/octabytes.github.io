@@ -2,7 +2,7 @@
 draft: false
 title: KrakenD fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/krakend/screenshot-1.jpg
+  cover: /images/development/others/krakend/screenshot-1.png
   description: KrakenD is a distributed, stateless API Gateway designed to streamline
     microservices adoption with powerful features like content aggregation, format
     transformation, and advanced security measures.

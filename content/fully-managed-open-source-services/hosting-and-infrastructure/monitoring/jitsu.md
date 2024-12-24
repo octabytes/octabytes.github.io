@@ -2,27 +2,25 @@
 draft: false
 title: Jitsu fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.jpg
-  description:
-    Jitsu is a fast, open-source replacement for proprietary analytics
+  cover: /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
+  description: Jitsu is a fast, open-source replacement for proprietary analytics
     stacks, enabling real-time data pipelines with ease. It's perfect for modern data
     teams seeking to quickly send, transform, and enrich data.
-  keywords:
-    Jitsu, open-source analytics, real-time data pipeline, data ingestion,
+  keywords: Jitsu, open-source analytics, real-time data pipeline, data ingestion,
     data transformation, data enrichment, framework-agnostic, modern data teams, alternative
     to Google Analytics, alternative to Segment, data integration, Snowflake, BigQuery,
     Redshift, data warehouse, HTTP API integration
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Jitsu
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/jitsu
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Jitsu
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/jitsu
 content:
   id: jitsu
   name: Jitsu
@@ -31,8 +29,8 @@ content:
   website: https://jitsu.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/jitsu
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/jitsu/screenshot-2.png
 ---
 
 ## Overview

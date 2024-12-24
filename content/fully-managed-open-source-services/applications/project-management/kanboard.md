@@ -2,7 +2,7 @@
 draft: false
 title: Kanboard fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/project-management/kanboard/screenshot-1.jpg
+  cover: /images/applications/project-management/kanboard/screenshot-1.png
   description: Kanboard is a flexible, easy-to-use project management tool that helps
     teams stay organized, prioritize tasks, and boost productivity. Manage your tasks
     with a customizable Kanban board and enjoy simple workflows.

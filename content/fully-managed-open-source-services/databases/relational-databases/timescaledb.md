@@ -2,7 +2,7 @@
 draft: false
 title: TimescaleDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/timescaledb/screenshot-1.png
+  cover: /images/databases/relational-databases/timescaledb/screenshot-1.jpg
   description: TimescaleDB is an open-source PostgreSQL extension optimized for scalable,
     high-performance time-series data management with full SQL support.
   keywords: TimescaleDB, time-series database, scalable SQL database, PostgreSQL extension,

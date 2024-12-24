@@ -2,7 +2,7 @@
 draft: false
 title: Password Pusher fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/password/screenshot-1.png
   description: Password Pusher allows users to securely share passwords and sensitive
     data through one-time-use URLs that expire after a certain time or number of views,
     ensuring privacy and control.

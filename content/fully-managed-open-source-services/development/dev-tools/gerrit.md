@@ -2,7 +2,7 @@
 draft: false
 title: Gerrit fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/gerrit/screenshot-1.jpg
+  cover: /images/development/dev-tools/gerrit/screenshot-1.png
   description: Gerrit is a code review and Git management tool that streamlines collaboration
     and simplifies project maintainership through a side-by-side change display, inline
     commenting, and easy Git repository management.

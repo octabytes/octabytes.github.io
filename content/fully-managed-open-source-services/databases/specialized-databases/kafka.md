@@ -2,7 +2,7 @@
 draft: false
 title: Kafka fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/specialized-databases/kafka/screenshot-1.png
+  cover: /images/databases/specialized-databases/kafka/screenshot-1.jpg
   description: Apache Kafka is a powerful, high-throughput event streaming platform
     used to build real-time data pipelines and applications for businesses, with support
     for data storage, processing, and analysis.

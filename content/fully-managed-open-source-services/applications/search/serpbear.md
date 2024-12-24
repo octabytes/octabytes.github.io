@@ -2,7 +2,7 @@
 draft: false
 title: SerpBear fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/search/serpbear/screenshot-1.jpg
+  cover: /images/applications/search/serpbear/screenshot-1.png
   description: Track your website's keyword positions on Google with SerpBear, an
     open-source search engine position tracking app. Get notifications, Google Search
     Console integration, and more.

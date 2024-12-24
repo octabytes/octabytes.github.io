@@ -2,7 +2,7 @@
 draft: false
 title: Gitlab-runner fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/gitlab-runner/screenshot-1.jpg
+  cover: /images/development/dev-ops/gitlab-runner/screenshot-1.png
   description: GitLab Runner is a tool that integrates with GitLab CI/CD to automate
     software testing, building, and deployment, ensuring faster, more secure, and
     efficient delivery.

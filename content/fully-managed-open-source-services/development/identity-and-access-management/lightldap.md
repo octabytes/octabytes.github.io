@@ -2,7 +2,7 @@
 draft: false
 title: LightLDAP fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/identity-and-access-management/lightldap/screenshot-1.jpg
+  cover: /images/development/identity-and-access-management/lightldap/screenshot-1.png
   description: LightLDAP is a lightweight and simplified LDAP authentication server
     designed for seamless integration with a wide range of backend systems. It provides
     an easy-to-use interface for authentication and user management, offering features

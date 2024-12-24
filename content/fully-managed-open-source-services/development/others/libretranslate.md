@@ -2,7 +2,7 @@
 draft: false
 title: LibreTranslate fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/libretranslate/screenshot-1.jpg
+  cover: /images/development/others/libretranslate/screenshot-1.png
   description: LibreTranslate is a free, open-source, and self-hosted machine translation
     API that supports 29 languages and ensures full privacy without relying on proprietary
     services like Google or Azure.

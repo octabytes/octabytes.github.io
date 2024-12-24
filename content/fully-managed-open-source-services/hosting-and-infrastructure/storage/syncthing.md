@@ -3,25 +3,23 @@ draft: false
 title: Syncthing fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg
-  description:
-    Syncthing is an open-source, peer-to-peer file synchronization tool
+  description: Syncthing is an open-source, peer-to-peer file synchronization tool
     offering secure, real-time syncing across all devices without relying on cloud
     services.
-  keywords:
-    Syncthing, peer-to-peer file synchronization, secure file sync, real-time
+  keywords: Syncthing, peer-to-peer file synchronization, secure file sync, real-time
     file sync, cross-platform file sync, open-source file sync, privacy-first file
     sync, file synchronization tool, device-to-device sync
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Syncthing
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/syncthing
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Syncthing
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/syncthing
 content:
   id: syncthing
   name: Syncthing
@@ -31,8 +29,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/storage/syncthing
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/syncthing/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/syncthing/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/syncthing/screenshot-2.jpg
 ---
 
 ## Overview

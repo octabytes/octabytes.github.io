@@ -2,7 +2,7 @@
 draft: false
 title: nopCommerce fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/e-commerce/nopcommerce/screenshot-1.jpg
+  cover: /images/applications/e-commerce/nopcommerce/screenshot-1.png
   description: nopCommerce is a free, open-source eCommerce platform based on ASP.NET,
     providing a feature-rich solution for creating and managing online stores. It
     offers mobile commerce, multi-store management, SEO optimization, and various

@@ -2,25 +2,23 @@
 draft: false
 title: LocalStack fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.jpg
-  description:
-    LocalStack is a local cloud emulation framework that mimics AWS cloud
+  cover: /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
+  description: LocalStack is a local cloud emulation framework that mimics AWS cloud
     APIs, enabling offline development and faster testing cycles for cloud-based applications.
-  keywords:
-    LocalStack, AWS emulation, cloud development, cloud testing, local cloud
+  keywords: LocalStack, AWS emulation, cloud development, cloud testing, local cloud
     stack, mock cloud environment, cloud API emulator, cloud application testing,
     AWS cloud alternatives
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: LocalStack
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/localstack
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: LocalStack
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/localstack
 content:
   id: localstack
   name: LocalStack
@@ -29,8 +27,8 @@ content:
   website: https://localstack.cloud/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/localstack
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-2.png
+  - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/localstack/screenshot-2.png
 ---
 
 ## Overview

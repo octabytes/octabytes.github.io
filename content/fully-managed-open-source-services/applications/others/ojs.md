@@ -2,7 +2,7 @@
 draft: false
 title: OJS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/ojs/screenshot-1.jpg
+  cover: /images/applications/others/ojs/screenshot-1.png
   description: Open Journal Systems (OJS) is open-source software for managing scholarly
     journals, offering submission, peer review, editorial workflows, and global indexing.
   keywords: Open Journal Systems, OJS software, scholarly publishing, peer review

@@ -2,7 +2,7 @@
 draft: false
 title: BTCPay fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/invoicing-and-payments/btcpay/screenshot-1.jpg
+  cover: /images/applications/invoicing-and-payments/btcpay/screenshot-1.png
   description: BTCPay Server is a secure, open-source cryptocurrency payment processor
     offering privacy, control, and essential tools for invoicing, payments, and automation.
   keywords: BTCPay Server, cryptocurrency payment processor, open-source, self-hosted,

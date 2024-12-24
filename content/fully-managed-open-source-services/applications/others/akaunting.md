@@ -2,7 +2,7 @@
 draft: false
 title: Akaunting fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/akaunting/screenshot-1.jpg
+  cover: /images/applications/others/akaunting/screenshot-1.png
   description: Akaunting is a free, open-source accounting software for small businesses,
     offering tools like invoicing, expense tracking, multi-currency support, and powerful
     reporting.

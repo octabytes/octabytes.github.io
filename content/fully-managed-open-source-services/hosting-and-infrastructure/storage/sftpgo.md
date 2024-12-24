@@ -2,27 +2,25 @@
 draft: false
 title: SFTPGo fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.jpg
-  description:
-    SFTPGo is a powerful and highly configurable SFTP server that supports
+  cover: /images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png
+  description: SFTPGo is a powerful and highly configurable SFTP server that supports
     a wide range of protocols, including SFTP, HTTP/S, FTP/S, and WebDAV. With multiple
     storage backend options, it offers an intuitive web UI, robust API, and a wide
     range of features to ensure secure and efficient file management.
-  keywords:
-    SFTP server, secure file transfer, SFTPGo, cloud storage integration,
+  keywords: SFTP server, secure file transfer, SFTPGo, cloud storage integration,
     WebDAV, FTP/S, REST API, file management, secure file sharing, cloud storage,
     encrypted storage, web UI, data transfer limits
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: SFTPGo
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/sftpgo
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: SFTPGo
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/sftpgo
 content:
   id: sftpgo
   name: SFTPGo
@@ -31,8 +29,8 @@ content:
   website: https://github.com/drakkan/sftpgo
   iframe_website: /website/hosting-and-infrastructure/storage/sftpgo
   screenshots:
-    - /images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png
-    - /images/hosting-and-infrastructure/storage/sftpgo/screenshot-2.png
+  - /images/hosting-and-infrastructure/storage/sftpgo/screenshot-1.png
+  - /images/hosting-and-infrastructure/storage/sftpgo/screenshot-2.png
 ---
 
 ## Overview

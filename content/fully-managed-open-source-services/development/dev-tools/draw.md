@@ -2,7 +2,7 @@
 draft: false
 title: draw fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/draw/screenshot-1.jpg
+  cover: /images/development/dev-tools/draw/screenshot-1.png
   description: Draw.io is a versatile, client-side diagramming and whiteboarding tool,
     enabling users to create, store, and collaborate on diagrams across multiple platforms.
   keywords: Draw.io, diagramming tool, whiteboarding software, online diagramming,

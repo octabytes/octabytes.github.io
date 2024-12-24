@@ -2,35 +2,33 @@
 draft: false
 title: Rallly fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/calendar/rallly/screenshot-1.png
-  description:
-    Rallly is a Doodle alternative that makes scheduling meetings and events
+  cover: /images/applications/calendar/rallly/screenshot-1.webp
+  description: Rallly is a Doodle alternative that makes scheduling meetings and events
     easy. Create polls to find the best time to meet with your participants.
-  keywords:
-    Rallly, Doodle alternative, scheduling tool, event planning, meeting polls,
+  keywords: Rallly, Doodle alternative, scheduling tool, event planning, meeting polls,
     availability polls, scheduling polls, collaboration tool, meeting organizer, event
     scheduling
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Calendar
-      url: /fully-managed-open-source-services/applications/calendar
-    - name: Rallly
-      url: /fully-managed-open-source-services/applications/calendar/rallly
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Calendar
+    url: /fully-managed-open-source-services/applications/calendar
+  - name: Rallly
+    url: /fully-managed-open-source-services/applications/calendar/rallly
 content:
   id: rallly
   name: Rallly
-  title: "Streamline Event Scheduling with Rallly: The Best Doodle Alternative"
+  title: 'Streamline Event Scheduling with Rallly: The Best Doodle Alternative'
   logo: /images/applications/calendar/rallly/logo.png
   website: https://rallly.co/
   iframe_website: /website/applications/calendar/rallly
   screenshots:
-    - /images/applications/calendar/rallly/screenshot-1.webp
-    - /images/applications/calendar/rallly/screenshot-2.png
+  - /images/applications/calendar/rallly/screenshot-1.webp
+  - /images/applications/calendar/rallly/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: OpenSearch fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/nosql/opensearch/screenshot-1.png
+  cover: /images/databases/nosql/opensearch/screenshot-1.jpg
   description: OpenSearch is an open-source search and analytics suite built from
     Elasticsearch & Kibana, offering powerful search capabilities and data visualization.
     It provides scalability, flexibility, and community-driven development.

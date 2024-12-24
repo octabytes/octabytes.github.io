@@ -2,7 +2,7 @@
 draft: false
 title: ScyllaDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/nosql/scylladb/screenshot-1.png
+  cover: /images/databases/nosql/scylladb/screenshot-1.jpg
   description: ScyllaDB is a high-performance NoSQL database that offers low-latency,
     high-throughput, and scalable solutions for real-time big data applications, while
     minimizing DevOps overhead.

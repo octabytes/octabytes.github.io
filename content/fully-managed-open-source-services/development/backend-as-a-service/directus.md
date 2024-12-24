@@ -2,7 +2,7 @@
 draft: false
 title: Directus fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/backend-as-a-service/directus/screenshot-1.jpg
+  cover: /images/development/backend-as-a-service/directus/screenshot-1.png
   description: Directus is an open-source platform that connects to any SQL database,
     offering a powerful API layer and an intuitive app for seamless data management.
   keywords: Directus, open-source data platform, SQL database management, data API,

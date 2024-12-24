@@ -3,38 +3,35 @@ draft: false
 title: Dolibarr fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/dolibarr/screenshot-1.webp
-  description:
-    Dolibarr is an open-source ERP & CRM solution for businesses of all
+  description: Dolibarr is an open-source ERP & CRM solution for businesses of all
     sizes, offering customizable features for seamless operations in marketing, sales,
     HR, and more.
-  keywords:
-    Dolibarr, open-source ERP, CRM software, business management software,
+  keywords: Dolibarr, open-source ERP, CRM software, business management software,
     customizable ERP, free ERP, small business tools, PHP software suite, customer
     management, prospect tracking
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: CRM / ERP
-      url: /fully-managed-open-source-services/applications/crm-erp
-    - name: Dolibarr
-      url: /fully-managed-open-source-services/applications/crm-erp/dolibarr
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: CRM / ERP
+    url: /fully-managed-open-source-services/applications/crm-erp
+  - name: Dolibarr
+    url: /fully-managed-open-source-services/applications/crm-erp/dolibarr
 content:
   id: dolibarr
   name: Dolibarr
-  title:
-    Streamline Your Business Operations with Dolibarr - The All-in-One Open Source
+  title: Streamline Your Business Operations with Dolibarr - The All-in-One Open Source
     ERP & CRM
   logo: /images/applications/crm-erp/dolibarr/logo.png
   website: https://www.dolibarr.org/
   iframe_website: /website/applications/crm-erp/dolibarr
   direct_link: true
   screenshots:
-    - /images/applications/crm-erp/dolibarr/screenshot-1.webp
-    - /images/applications/crm-erp/dolibarr/screenshot-2.jpg
+  - /images/applications/crm-erp/dolibarr/screenshot-1.webp
+  - /images/applications/crm-erp/dolibarr/screenshot-2.jpg
 ---
 
 ## Overview

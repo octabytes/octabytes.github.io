@@ -3,25 +3,23 @@ draft: false
 title: Sensu fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg
-  description:
-    Sensu is a powerful monitoring and observability tool that provides
+  description: Sensu is a powerful monitoring and observability tool that provides
     real-time insights into your infrastructure. It helps automate workflows and integrates
     seamlessly across cloud environments to ensure effective monitoring at scale.
-  keywords:
-    Sensu, monitoring, observability, infrastructure monitoring, agent-based
+  keywords: Sensu, monitoring, observability, infrastructure monitoring, agent-based
     observability, multi-cloud monitoring, observability pipeline, monitoring as code,
     automated alerting, system monitoring
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Sensu
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/sensu
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Sensu
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/sensu
 content:
   id: sensu
   name: Sensu
@@ -31,8 +29,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/monitoring/sensu
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/sensu/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/sensu/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/sensu/screenshot-2.jpg
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: Hop fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/hop/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/hop/screenshot-1.jpeg
   description: Apache Hop is a metadata-driven data orchestration and engineering
     platform that simplifies the creation and execution of data workflows and pipelines.
     Its visual interface, cross-platform support, and lifecycle management make it

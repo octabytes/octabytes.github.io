@@ -2,7 +2,7 @@
 draft: false
 title: Infisical fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/infisical/screenshot-1.png
   description: Infisical is an open-source, end-to-end encrypted platform designed
     to manage and sync secrets securely across your team and infrastructure, preventing
     secret leaks.

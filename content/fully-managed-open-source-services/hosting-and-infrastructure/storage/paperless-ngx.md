@@ -2,26 +2,24 @@
 draft: false
 title: Paperless-ngx fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.jpg
-  description:
-    Paperless-ngx is a powerful document management system that transforms
+  cover: /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png
+  description: Paperless-ngx is a powerful document management system that transforms
     physical documents into a searchable digital archive, making it easy to scan,
     index, and organize your paperwork with OCR and full-text search functionality.
-  keywords:
-    Document management, Paperless office, OCR, Digital archive, Document
+  keywords: Document management, Paperless office, OCR, Digital archive, Document
     scanning, Searchable documents, Paperless-ngx, File storage, Document organization,
     Paperless workflow
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Paperless-ngx
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/paperless-ngx
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Paperless-ngx
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/paperless-ngx
 content:
   id: paperless-ngx
   name: Paperless-ngx
@@ -30,8 +28,8 @@ content:
   website: https://paperless-ngx.readthedocs.io/en/latest/
   iframe_website: /website/hosting-and-infrastructure/storage/paperless-ngx
   screenshots:
-    - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png
-    - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-2.png
+  - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-1.png
+  - /images/hosting-and-infrastructure/storage/paperless-ngx/screenshot-2.png
 ---
 
 ## Overview

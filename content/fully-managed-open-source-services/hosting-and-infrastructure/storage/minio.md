@@ -3,25 +3,23 @@ draft: false
 title: MinIO fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg
-  description:
-    MinIO offers the fastest, most scalable object storage solution designed
+  description: MinIO offers the fastest, most scalable object storage solution designed
     for cloud-native environments, providing seamless support across hybrid, multi-cloud,
     and edge use cases. Perfect for AI/ML, analytics, backups, and modern web apps.
-  keywords:
-    MinIO, object storage, cloud-native, hybrid cloud, S3 compatibility, Kubernetes,
+  keywords: MinIO, object storage, cloud-native, hybrid cloud, S3 compatibility, Kubernetes,
     high-performance storage, AI/ML, analytics, backup and restore, multi-cloud, edge
     computing, web-scale storage
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: MinIO
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/minio
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: MinIO
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/minio
 content:
   id: minio
   name: MinIO
@@ -30,8 +28,8 @@ content:
   website: https://min.io/
   iframe_website: /website/hosting-and-infrastructure/storage/minio
   screenshots:
-    - /images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/minio/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/minio/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/minio/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,27 +3,25 @@ draft: false
 title: Quickwit fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/quickwit/screenshot-1.png
-  description:
-    Quickwit is an open-source, cloud-native search engine designed for
+  description: Quickwit is an open-source, cloud-native search engine designed for
     observability, offering a high-performance alternative to Datadog, Elasticsearch,
     and other log management solutions.
-  keywords:
-    Quickwit, cloud-native search engine, log management, trace management,
+  keywords: Quickwit, cloud-native search engine, log management, trace management,
     open-source search, observability, sub-second search, scalable search, Datadog
     alternative, Elasticsearch alternative, Rust search engine, Tantivy, cloud storage
     search, log analysis, traces search, OpenTelemetry, Jaeger, log management solution,
     object storage, distributed queue, Kubernetes.
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Analytics
-      url: /fully-managed-open-source-services/applications/analytics
-    - name: Quickwit
-      url: /fully-managed-open-source-services/applications/analytics/quickwit
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Analytics
+    url: /fully-managed-open-source-services/applications/analytics
+  - name: Quickwit
+    url: /fully-managed-open-source-services/applications/analytics/quickwit
 content:
   id: quickwit
   name: Quickwit
@@ -33,8 +31,8 @@ content:
   iframe_website: /website/applications/analytics/quickwit
   direct_link: true
   screenshots:
-    - /images/applications/analytics/quickwit/screenshot-1.png
-    - /images/applications/analytics/quickwit/screenshot-2.png
+  - /images/applications/analytics/quickwit/screenshot-1.png
+  - /images/applications/analytics/quickwit/screenshot-2.png
 ---
 
 ## Overview

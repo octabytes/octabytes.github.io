@@ -2,7 +2,7 @@
 draft: false
 title: Gophish fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/gophish/screenshot-1.jpg
+  cover: /images/development/dev-tools/gophish/screenshot-1.png
   description: Gophish is an open-source phishing framework that helps organizations
     test and improve their defense against phishing attacks. Its powerful features
     include a beautiful web interface, real-time results, and a REST API for seamless

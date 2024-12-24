@@ -2,7 +2,7 @@
 draft: false
 title: Ollama fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/search/ollama/screenshot-1.jpg
+  cover: /images/applications/search/ollama/screenshot-1.png
   description: Ollama is a ChatGPT-style web UI client for interacting with large
     language models like Llama 2 and Mistral, featuring intuitive chat, full Markdown/LaTeX
     support, and advanced RAG and RLHF integration.

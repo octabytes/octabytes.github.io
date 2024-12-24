@@ -2,7 +2,7 @@
 draft: false
 title: Wekan fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/project-management/wekan/screenshot-1.jpg
+  cover: /images/applications/project-management/wekan/screenshot-1.png
   description: WeKan is an open-source, customizable, and privacy-focused Kanban tool
     that helps you organize tasks and manage projects effectively.
   keywords: WeKan, Open-Source Kanban, Task Management, Kanban Board, Project Management,

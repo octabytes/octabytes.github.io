@@ -2,7 +2,7 @@
 draft: false
 title: Lowcoder fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/lowcoder/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/lowcoder/screenshot-1.png
   description: Lowcoder is an intuitive low-code platform designed for businesses
     and developers. Create powerful software applications for your company and customers
     with minimal coding experience. Perfect for building internal tools, apps, and

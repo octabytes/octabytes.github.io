@@ -2,7 +2,7 @@
 draft: false
 title: Linkwarden fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/linkwarden/screenshot-1.jpg
+  cover: /images/applications/others/linkwarden/screenshot-1.png
   description: Linkwarden is a collaborative bookmark manager that helps individuals
     and teams collect, organize, and preserve web pages. Safeguard your resources
     from link rot and share collections with ease.

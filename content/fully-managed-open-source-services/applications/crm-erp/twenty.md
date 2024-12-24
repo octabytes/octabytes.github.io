@@ -2,7 +2,7 @@
 draft: false
 title: Twenty fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/twenty/screenshot-1.jpg
+  cover: /images/applications/crm-erp/twenty/screenshot-1.webp
   description: Twenty is an open-source CRM built by the community, offering modern
     alternatives to Salesforce with advanced features like Kanban views, email sync,
     and customizable data models.

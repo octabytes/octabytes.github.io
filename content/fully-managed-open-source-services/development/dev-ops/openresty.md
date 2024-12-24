@@ -2,7 +2,7 @@
 draft: false
 title: OpenResty fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/openresty/screenshot-1.jpg
+  cover: /images/development/dev-ops/openresty/screenshot-1.png
   description: OpenResty is a robust, NGINX-based platform enabling developers to
     build scalable, high-performance web applications and services using Lua scripting
     and enhanced modules.

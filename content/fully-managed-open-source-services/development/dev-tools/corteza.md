@@ -2,7 +2,7 @@
 draft: false
 title: Corteza fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/corteza/screenshot-1.jpg
+  cover: /images/development/dev-tools/corteza/screenshot-1.webp
   description: Corteza is a low-code platform for building CRM systems, automating
     workflows, and integrating data across environments.
   keywords: Corteza, low-code platform, Salesforce alternative, CRM software, business

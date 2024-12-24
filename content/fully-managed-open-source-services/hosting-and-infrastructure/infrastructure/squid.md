@@ -2,28 +2,26 @@
 draft: false
 title: Squid fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.jpg
-  description:
-    Squid is a robust caching proxy server that optimizes web performance,
+  cover: /images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png
+  description: Squid is a robust caching proxy server that optimizes web performance,
     reduces bandwidth, and improves user experience by caching frequently accessed
     web pages. It supports HTTP, HTTPS, FTP, and more, making it a powerful tool for
     web acceleration and traffic management.
-  keywords:
-    Squid, caching proxy, web accelerator, HTTP proxy, HTTPS proxy, bandwidth
+  keywords: Squid, caching proxy, web accelerator, HTTP proxy, HTTPS proxy, bandwidth
     reduction, server optimization, user experience, proxy server, Squid proxy, web
     performance, traffic management, content filtering, advanced ACL, proxy authentication,
     load balancing
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: Squid
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/squid
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: Squid
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/squid
 content:
   id: squid
   name: Squid
@@ -32,8 +30,8 @@ content:
   website: http://www.squid-cache.org/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/squid
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/squid/screenshot-2.png
+  - /images/hosting-and-infrastructure/infrastructure/squid/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/squid/screenshot-2.png
 ---
 
 ## Overview

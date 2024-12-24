@@ -2,7 +2,7 @@
 draft: false
 title: Solr fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/search/solr/screenshot-1.jpg
+  cover: /images/applications/search/solr/screenshot-1.png
   description: Apache Solr is an open-source, enterprise-level search platform that
     provides powerful full-text search capabilities, advanced query features, and
     extensive scalability for high-volume applications.

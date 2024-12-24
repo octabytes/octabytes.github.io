@@ -2,7 +2,7 @@
 draft: false
 title: Botpress fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/live-chat/botpress/screenshot-1.jpg
+  cover: /images/applications/live-chat/botpress/screenshot-1.png
   description: Botpress is an AI-powered chatbot builder that enables the creation
     of intelligent, conversational bots for businesses and projects. Powered by OpenAI,
     Botpress ensures bots understand context, sentiment, and complex dialogues.

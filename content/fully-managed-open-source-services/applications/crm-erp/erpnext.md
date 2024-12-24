@@ -3,37 +3,34 @@ draft: false
 title: ErpNext fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/erpnext/screenshot-1.png
-  description:
-    ERPNext is an open-source ERP solution offering comprehensive tools
+  description: ERPNext is an open-source ERP solution offering comprehensive tools
     for accounting, billing, inventory, and more, empowering businesses to streamline
     operations and boost efficiency.
-  keywords:
-    ERPNext, open-source ERP, enterprise resource planning, free ERP software,
+  keywords: ERPNext, open-source ERP, enterprise resource planning, free ERP software,
     ERP for manufacturers, ERP for distributors, business management software, accounting
     software, inventory management, billing automation
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: CRM / ERP
-      url: /fully-managed-open-source-services/applications/crm-erp
-    - name: ErpNext
-      url: /fully-managed-open-source-services/applications/crm-erp/erpnext
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: CRM / ERP
+    url: /fully-managed-open-source-services/applications/crm-erp
+  - name: ErpNext
+    url: /fully-managed-open-source-services/applications/crm-erp/erpnext
 content:
   id: erpnext
   name: ErpNext
-  title:
-    "Effortlessly Manage Your Business with ERPNext \u2013 The Open-Source ERP\
+  title: "Effortlessly Manage Your Business with ERPNext \u2013 The Open-Source ERP\
     \ Solution"
   logo: /images/applications/crm-erp/erpnext/logo.png
   website: https://erpnext.com/
   iframe_website: /website/applications/crm-erp/erpnext
   screenshots:
-    - /images/applications/crm-erp/erpnext/screenshot-1.png
-    - /images/applications/crm-erp/erpnext/screenshot-2.png
+  - /images/applications/crm-erp/erpnext/screenshot-1.png
+  - /images/applications/crm-erp/erpnext/screenshot-2.png
 ---
 
 ## Overview

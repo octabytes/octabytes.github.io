@@ -2,7 +2,7 @@
 draft: false
 title: Mapzy fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/mapzy/screenshot-1.jpg
+  cover: /images/applications/others/mapzy/screenshot-1.png
   description: Mapzy lets you add a stunning, code-free store locator to your website.
     It's simple, mobile-friendly, and privacy-conscious, offering both a managed service
     and self-hosting option.

@@ -2,7 +2,7 @@
 draft: false
 title: Neo4j fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/specialized-databases/neo4j/screenshot-1.png
+  cover: /images/databases/specialized-databases/neo4j/screenshot-1.jpg
   description: Neo4j is a high-performance graph database that excels in relationship-based
     queries, offering unmatched speed, security, and scalability for complex data
     challenges.

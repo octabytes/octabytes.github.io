@@ -2,7 +2,7 @@
 draft: false
 title: Stirling-PDF fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/stirling-pdf/screenshot-1.jpg
+  cover: /images/development/dev-tools/stirling-pdf/screenshot-1.png
   description: Stirling-PDF is a locally hosted web-based PDF tool that lets you split,
     merge, convert, and edit PDFs, all within a secure Docker environment.
   keywords: Stirling-PDF, PDF tool, locally hosted PDF tool, PDF manipulation, PDF

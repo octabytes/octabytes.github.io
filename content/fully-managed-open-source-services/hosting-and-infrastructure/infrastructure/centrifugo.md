@@ -3,24 +3,22 @@ draft: false
 title: Centrifugo fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg
-  description:
-    Centrifugo is a high-performance, feature-rich real-time messaging
+  description: Centrifugo is a high-performance, feature-rich real-time messaging
     server designed for seamless integration and scalability.
-  keywords:
-    Centrifugo, real-time messaging, PUB/SUB server, scalable messaging, WebSocket,
+  keywords: Centrifugo, real-time messaging, PUB/SUB server, scalable messaging, WebSocket,
     Redis, real-time communication, Go language server, message broadcasting, persistent
     connections
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: Centrifugo
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/centrifugo
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: Centrifugo
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/centrifugo
 content:
   id: centrifugo
   name: Centrifugo
@@ -29,8 +27,8 @@ content:
   website: https://centrifugal.dev/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/centrifugo
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/infrastructure/centrifugo/screenshot-2.jpg
 ---
 
 ## Overview

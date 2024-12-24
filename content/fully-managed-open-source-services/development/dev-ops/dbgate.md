@@ -2,7 +2,7 @@
 draft: false
 title: DbGate fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/dbgate/screenshot-1.jpg
+  cover: /images/development/dev-ops/dbgate/screenshot-1.png
   description: DbGate is a cross-platform database manager supporting MySQL, PostgreSQL,
     SQL Server, MongoDB, SQLite, and more. It offers powerful features like data editing,
     import/export, and SSH tunneling for secure access.

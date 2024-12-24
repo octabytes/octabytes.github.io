@@ -3,25 +3,23 @@ draft: false
 title: Element fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/element/screenshot-1.png
-  description:
-    Element is a secure, decentralized messaging and collaboration app
+  description: Element is a secure, decentralized messaging and collaboration app
     that provides end-to-end encryption, full data control, and seamless interoperability
     on the open Matrix network.
-  keywords:
-    Element, secure messaging, end-to-end encryption, decentralized communication,
+  keywords: Element, secure messaging, end-to-end encryption, decentralized communication,
     Matrix-based app, secure collaboration, self-hosting, enterprise collaboration,
     privacy-focused, open Matrix network
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Forum / Community
-      url: /fully-managed-open-source-services/applications/forum-community
-    - name: Element
-      url: /fully-managed-open-source-services/applications/forum-community/element
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Forum / Community
+    url: /fully-managed-open-source-services/applications/forum-community
+  - name: Element
+    url: /fully-managed-open-source-services/applications/forum-community/element
 content:
   id: element
   name: Element
@@ -31,8 +29,8 @@ content:
   iframe_website: /website/applications/forum-community/element
   direct_link: true
   screenshots:
-    - /images/applications/forum-community/element/screenshot-1.png
-    - /images/applications/forum-community/element/screenshot-2.png
+  - /images/applications/forum-community/element/screenshot-1.png
+  - /images/applications/forum-community/element/screenshot-2.png
 ---
 
 ## Overview

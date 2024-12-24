@@ -2,7 +2,7 @@
 draft: false
 title: Valkey fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/nosql/valkey/screenshot-1.png
+  cover: /images/databases/nosql/valkey/screenshot-1.jpg
   description: Valkey is a high-performance, open-source key/value datastore for fast
     caching, message queues, and more. It supports a variety of data types and offers
     high availability for reliable deployments.

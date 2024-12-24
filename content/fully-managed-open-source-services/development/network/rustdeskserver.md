@@ -2,7 +2,7 @@
 draft: false
 title: RustdeskServer fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/network/rustdeskserver/screenshot-1.jpg
+  cover: /images/development/network/rustdeskserver/screenshot-1.png
   description: RustdeskServer is an open-source, secure remote desktop software, providing
     full control of your data with no configuration required. A simple, fast, and
     privacy-focused alternative to TeamViewer.

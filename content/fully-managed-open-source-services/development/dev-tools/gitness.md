@@ -2,7 +2,7 @@
 draft: false
 title: Gitness fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/gitness/screenshot-1.jpg
+  cover: /images/development/dev-tools/gitness/screenshot-1.png
   description: Gitness is an open-source developer platform that combines SCM, CI,
     and CD, providing a fast, integrated solution for building, testing, and deploying
     code.

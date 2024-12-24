@@ -2,7 +2,7 @@
 draft: false
 title: Papermerge fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/documentation/papermerge/screenshot-1.jpg
+  cover: /images/applications/documentation/papermerge/screenshot-1.png
   description: Papermerge is an open-source document management system (DMS) designed
     for efficient management of scanned documents. With features like OCR, multi-user
     support, full-text search, and a user-friendly interface, Papermerge enables seamless

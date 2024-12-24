@@ -2,7 +2,7 @@
 draft: false
 title: Ragflow fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/ragflow/screenshot-1.jpg
+  cover: /images/applications/others/ragflow/screenshot-1.png
   description: RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation)
     engine designed for deep document understanding, delivering accurate, citation-backed
     question answering when integrated with LLMs.

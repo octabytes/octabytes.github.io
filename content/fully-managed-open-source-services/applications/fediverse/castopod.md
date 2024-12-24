@@ -2,7 +2,7 @@
 draft: false
 title: Castopod fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/fediverse/castopod/screenshot-1.jpg
+  cover: /images/applications/fediverse/castopod/screenshot-1.webp
   description: Castopod is an open-source podcast hosting platform that connects your
     podcast to the Fediverse, empowering you with direct audience interaction, promotion
     tools, and analytics, all while ensuring privacy and ease of use.

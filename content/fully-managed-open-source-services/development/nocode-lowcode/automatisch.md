@@ -2,7 +2,7 @@
 draft: false
 title: Automatisch fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/automatisch/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/automatisch/screenshot-1.png
   description: Automatisch is an open-source platform that allows you to automate
     your business workflows without coding. Whether cloud-based or self-hosted, it's
     the affordable and secure solution for workflow automation.

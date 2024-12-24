@@ -2,7 +2,7 @@
 draft: false
 title: Friendica fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/forum-community/friendica/screenshot-1.jpg
+  cover: /images/applications/forum-community/friendica/screenshot-1.png
   description: Friendica is a decentralized social network that lets you host your
     own server, participate in the fediverse, and enjoy enhanced privacy and control
     over your interactions.

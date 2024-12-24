@@ -2,7 +2,7 @@
 draft: false
 title: EMQX fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/emqx/screenshot-1.jpg
+  cover: /images/development/dev-tools/emqx/screenshot-1.webp
   description: EMQX is a high-performance, scalable MQTT broker that supports multiple
     open protocols like MQTT, HTTP, QUIC, and WebSocket. It ensures secure communication
     for IoT, IIoT, and connected vehicles with full compliance to MQTT 5.0 and 3.x

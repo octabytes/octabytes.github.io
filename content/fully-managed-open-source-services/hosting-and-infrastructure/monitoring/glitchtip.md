@@ -2,26 +2,24 @@
 draft: false
 title: GlitchTip fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.jpg
-  description:
-    GlitchTip makes software monitoring easy by combining error tracking,
+  cover: /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp
+  description: GlitchTip makes software monitoring easy by combining error tracking,
     performance monitoring, and uptime checks in one platform. Track, resolve, and
     improve your app's performance effortlessly.
-  keywords:
-    GlitchTip, error tracking, performance monitoring, uptime monitoring,
+  keywords: GlitchTip, error tracking, performance monitoring, uptime monitoring,
     software monitoring, Sentry SDK, bug tracking, application performance, open-source
     monitoring, website uptime, error resolution
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: GlitchTip
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/glitchtip
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: GlitchTip
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/glitchtip
 content:
   id: glitchtip
   name: GlitchTip
@@ -30,8 +28,8 @@ content:
   website: https://glitchtip.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/glitchtip
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp
-    - /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-2.webp
+  - /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-1.webp
+  - /images/hosting-and-infrastructure/monitoring/glitchtip/screenshot-2.webp
 ---
 
 ## Overview

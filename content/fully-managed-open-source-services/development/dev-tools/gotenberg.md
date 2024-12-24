@@ -2,7 +2,7 @@
 draft: false
 title: Gotenberg fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/gotenberg/screenshot-1.jpg
+  cover: /images/development/dev-tools/gotenberg/screenshot-1.png
   description: Gotenberg offers a developer-friendly API to easily convert, merge,
     and manipulate a variety of document formats into PDFs, using tools like Chromium
     and LibreOffice.

@@ -2,7 +2,7 @@
 draft: false
 title: PowerDNS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/powerdns/screenshot-1.jpg
+  cover: /images/development/dev-ops/powerdns/screenshot-1.png
   description: PowerDNS is a high-performance open-source DNS server offering authoritative
     DNS, recursive resolvers, load balancing, and seamless database integration.
   keywords: PowerDNS, open-source DNS server, authoritative DNS, recursive resolver,

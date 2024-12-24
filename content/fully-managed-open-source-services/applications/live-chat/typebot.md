@@ -2,7 +2,7 @@
 draft: false
 title: Typebot fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/live-chat/typebot/screenshot-1.jpg
+  cover: /images/applications/live-chat/typebot/screenshot-1.png
   description: Typebot allows you to build dynamic chatbots effortlessly, with powerful
     features like team collaboration, reusable sub bots, folder management, and custom
     coding. Enhance your web and mobile apps with seamless chat experiences today!

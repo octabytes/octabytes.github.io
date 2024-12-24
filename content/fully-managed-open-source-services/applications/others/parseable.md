@@ -2,7 +2,7 @@
 draft: false
 title: Parseable fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/parseable/screenshot-1.jpg
+  cover: /images/applications/others/parseable/screenshot-1.png
   description: Parseable is a high-performance, cloud-native log analytics platform
     focused on data security, scalability, and efficient resource usage.
   keywords: Parseable, log analytics platform, cloud-native log management, high-throughput

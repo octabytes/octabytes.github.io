@@ -2,7 +2,7 @@
 draft: false
 title: NocoBase fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/nocobase/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/nocobase/screenshot-1.png
   description: NocoBase is a scalable open-source no-code platform designed for building
     custom collaboration platforms and management systems in minutes. No programming
     required, just a simple and extendable architecture to meet your needs.

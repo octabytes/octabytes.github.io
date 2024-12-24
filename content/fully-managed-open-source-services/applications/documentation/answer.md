@@ -3,25 +3,23 @@ draft: false
 title: Answer fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/answer/screenshot-1.webp
-  description:
-    Answer is an open-source Q&A platform for building engaged communities,
+  description: Answer is an open-source Q&A platform for building engaged communities,
     offering features like tagging, gamification, integrations, and more.
-  keywords:
-    open-source knowledge base, Q&A community software, product support hub,
+  keywords: open-source knowledge base, Q&A community software, product support hub,
     customer support platform, user communication, community collaboration, gamified
     Q&A, knowledge management system, technical support community, FAQ platform, Q&A
     system
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Documentation
-      url: /fully-managed-open-source-services/applications/documentation
-    - name: Answer
-      url: /fully-managed-open-source-services/applications/documentation/answer
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: Documentation
+    url: /fully-managed-open-source-services/applications/documentation
+  - name: Answer
+    url: /fully-managed-open-source-services/applications/documentation/answer
 content:
   id: answer
   name: Answer
@@ -30,8 +28,8 @@ content:
   website: https://answer.dev/
   iframe_website: /website/applications/documentation/answer
   screenshots:
-    - /images/applications/documentation/answer/screenshot-1.webp
-    - /images/applications/documentation/answer/screenshot-2.png
+  - /images/applications/documentation/answer/screenshot-1.webp
+  - /images/applications/documentation/answer/screenshot-2.png
 ---
 
 ## Overview

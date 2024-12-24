@@ -2,7 +2,7 @@
 draft: false
 title: MySQL fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/relational-databases/mysql/screenshot-1.png
+  cover: /images/databases/relational-databases/mysql/screenshot-1.jpg
   description: MySQL is a fast, reliable, and secure open-source RDBMS ideal for powering
     high-volume websites and critical business systems. It offers high availability,
     robust scalability, and enterprise-grade security features.

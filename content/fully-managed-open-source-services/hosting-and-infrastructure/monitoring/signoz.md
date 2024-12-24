@@ -3,37 +3,34 @@ draft: false
 title: SigNoz fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg
-  description:
-    SigNoz is an open-source APM tool with OpenTelemetry support, offering
+  description: SigNoz is an open-source APM tool with OpenTelemetry support, offering
     full control over your application monitoring, scaling, and data privacy. Perfect
     for enterprise-scale applications.
-  keywords:
-    SigNoz, APM, OpenTelemetry, Application Performance Management, Open-Source
+  keywords: SigNoz, APM, OpenTelemetry, Application Performance Management, Open-Source
     APM, Kafka, Druid, Application Monitoring, Data Privacy, GDPR Compliance, Enterprise
     Scale, SaaS Alternative
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: SigNoz
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/signoz
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: SigNoz
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/signoz
 content:
   id: signoz
   name: SigNoz
-  title:
-    Open-Source Application Performance Management (APM) for Seamless Monitoring
+  title: Open-Source Application Performance Management (APM) for Seamless Monitoring
     and Control
   logo: /images/hosting-and-infrastructure/monitoring/signoz/logo.png
   website: https://signoz.io/
   iframe_website: /website/hosting-and-infrastructure/monitoring/signoz
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/monitoring/signoz/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/monitoring/signoz/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/monitoring/signoz/screenshot-2.jpg
 ---
 
 ## Overview

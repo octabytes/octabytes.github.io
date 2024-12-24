@@ -2,7 +2,7 @@
 draft: false
 title: SuiteCRM fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/suitecrm/screenshot-1.jpg
+  cover: /images/applications/crm-erp/suitecrm/screenshot-1.png
   description: SuiteCRM is a comprehensive, open-source CRM software that enhances
     sales, marketing, and customer service with powerful automation, insightful reporting,
     and personalized dashboards.

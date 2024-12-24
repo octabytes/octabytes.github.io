@@ -2,7 +2,7 @@
 draft: false
 title: Vaultwarden fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/password-manager/yourls/screenshot-1.jpg
+  cover: /images/applications/password-manager/vaultwarden/screenshot-1.jpg
   description: Vaultwarden is a lightweight, open-source alternative to Bitwarden,
     designed for self-hosted deployments. Built in Rust, it offers secure password
     management with enterprise-grade encryption and full compatibility with Bitwarden

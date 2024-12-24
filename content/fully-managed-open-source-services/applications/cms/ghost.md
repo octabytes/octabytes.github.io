@@ -3,25 +3,23 @@ draft: false
 title: Ghost fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/ghost/screenshot-1.png
-  description:
-    Ghost is a powerful platform for content creators to publish, share,
+  description: Ghost is a powerful platform for content creators to publish, share,
     and grow a business. It offers modern tools for website building, content publishing,
     newsletters, and paid subscriptions.
-  keywords:
-    Ghost, content creators, publishing platform, SEO optimized, newsletters,
+  keywords: Ghost, content creators, publishing platform, SEO optimized, newsletters,
     paid subscriptions, website building, AMP support, membership management, minimalistic
     CMS, modern tools for creators
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: CMS
-      url: /fully-managed-open-source-services/applications/cms
-    - name: Ghost
-      url: /fully-managed-open-source-services/applications/cms/ghost
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: CMS
+    url: /fully-managed-open-source-services/applications/cms
+  - name: Ghost
+    url: /fully-managed-open-source-services/applications/cms/ghost
 content:
   id: ghost
   name: Ghost
@@ -30,8 +28,8 @@ content:
   website: https://ghost.org/
   iframe_website: /website/applications/cms/ghost
   screenshots:
-    - /images/applications/cms/ghost/screenshot-1.png
-    - /images/applications/cms/ghost/screenshot-2.png
+  - /images/applications/cms/ghost/screenshot-1.png
+  - /images/applications/cms/ghost/screenshot-2.png
 ---
 
 ## Overview

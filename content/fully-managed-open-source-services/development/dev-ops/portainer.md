@@ -2,7 +2,7 @@
 draft: false
 title: Portainer fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-ops/portainer/screenshot-1.jpg
+  cover: /images/development/dev-ops/portainer/screenshot-1.png
   description: Portainer is a lightweight management UI that simplifies the deployment
     and management of Docker, Kubernetes, and Swarm environments.
   keywords: Portainer, container management, Docker UI, Kubernetes management, Swarm

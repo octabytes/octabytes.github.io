@@ -3,25 +3,23 @@ draft: false
 title: ownCloud fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg
-  description:
-    ownCloud is a powerful, open-source file hosting software offering
+  description: ownCloud is a powerful, open-source file hosting software offering
     secure, flexible, and scalable data storage and collaboration solutions for teams,
     enterprises, and individuals.
-  keywords:
-    ownCloud, file hosting, secure file storage, data synchronization, collaboration
+  keywords: ownCloud, file hosting, secure file storage, data synchronization, collaboration
     software, private cloud, enterprise collaboration, file sharing, open-source file
     server, secure data storage
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: ownCloud
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/owncloud
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: ownCloud
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/owncloud
 content:
   id: owncloud
   name: ownCloud
@@ -30,8 +28,8 @@ content:
   website: https://owncloud.com/
   iframe_website: /website/hosting-and-infrastructure/storage/owncloud
   screenshots:
-    - /images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/owncloud/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/owncloud/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/owncloud/screenshot-2.jpg
 ---
 
 ## Overview

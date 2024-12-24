@@ -2,7 +2,7 @@
 draft: false
 title: Cryptgeon fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/cryptgeon/screenshot-1.jpg
+  cover: /images/applications/note-taking/cryptgeon/screenshot-1.png
   description: Cryptgeon is a secure, open-source note and file-sharing service built
     with Rust and Svelte, offering client-side encryption for ultimate privacy.
   keywords: Cryptgeon, secure file sharing, secure note sharing, open-source file

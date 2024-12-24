@@ -2,26 +2,24 @@
 draft: false
 title: Coroot fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.jpg
-  description:
-    Coroot is a powerful observability tool that collects and analyzes
+  cover: /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png
+  description: Coroot is a powerful observability tool that collects and analyzes
     metrics, logs, and traces automatically to give you actionable insights, ensuring
     100% coverage and easy anomaly detection without manual configuration.
-  keywords:
-    Coroot, observability, zero-instrumentation, eBPF, metrics, logs, traces,
+  keywords: Coroot, observability, zero-instrumentation, eBPF, metrics, logs, traces,
     application health, distributed tracing, SLOs, performance monitoring, real-time
     insights
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Monitoring
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
-    - name: Coroot
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/coroot
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Monitoring
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
+  - name: Coroot
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/coroot
 content:
   id: coroot
   name: Coroot
@@ -30,8 +28,8 @@ content:
   website: https://coroot.com/
   iframe_website: /website/hosting-and-infrastructure/monitoring/coroot
   screenshots:
-    - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png
-    - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-2.png
+  - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-1.png
+  - /images/hosting-and-infrastructure/monitoring/coroot/screenshot-2.png
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 draft: false
 title: AnythingLLM fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/anythingllm/screenshot-1.jpg
+  cover: /images/applications/others/anythingllm/screenshot-1.png
   description: AnythingLLM transforms documents and content into chat-ready contexts
     for LLMs, offering multi-user support, model flexibility, and deep customization.
   keywords: AI document chat, multi-user AI app, AI agents, custom LLM support, context-based

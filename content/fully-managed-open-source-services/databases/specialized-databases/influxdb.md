@@ -2,7 +2,7 @@
 draft: false
 title: InfluxDB fully managed open source service | OctaByte.io
 meta:
-  cover: /images/databases/specialized-databases/influxdb/screenshot-1.png
+  cover: /images/databases/specialized-databases/influxdb/screenshot-1.jpg
   description: InfluxDB is a high-performance time series database for managing real-time
     analytics, IoT, and cloud-native applications. It simplifies data management with
     an easy-to-use API and robust features for developers.

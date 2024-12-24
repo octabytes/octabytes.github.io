@@ -2,26 +2,24 @@
 draft: false
 title: HumHub fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/crm-erp/humhub/screenshot-1.jpg
-  description:
-    HumHub is an open-source collaboration platform that helps organizations
+  cover: /images/applications/crm-erp/humhub/screenshot-1.png
+  description: HumHub is an open-source collaboration platform that helps organizations
     connect, communicate, and build private social networks with customizable tools
     and features.
-  keywords:
-    HumHub, open-source collaboration, social networking, team communication,
+  keywords: HumHub, open-source collaboration, social networking, team communication,
     community platform, file management, private intranet, modular tools, organizational
     software, productivity tools
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: CRM / ERP
-      url: /fully-managed-open-source-services/applications/crm-erp
-    - name: HumHub
-      url: /fully-managed-open-source-services/applications/crm-erp/humhub
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Applications
+    url: /fully-managed-open-source-services/applications
+  - name: CRM / ERP
+    url: /fully-managed-open-source-services/applications/crm-erp
+  - name: HumHub
+    url: /fully-managed-open-source-services/applications/crm-erp/humhub
 content:
   id: humhub
   name: HumHub
@@ -30,8 +28,8 @@ content:
   website: https://www.humhub.com/en/
   iframe_website: /website/applications/crm-erp/humhub
   screenshots:
-    - /images/applications/crm-erp/humhub/screenshot-1.png
-    - /images/applications/crm-erp/humhub/screenshot-2.webp
+  - /images/applications/crm-erp/humhub/screenshot-1.png
+  - /images/applications/crm-erp/humhub/screenshot-2.webp
 ---
 
 ## Overview

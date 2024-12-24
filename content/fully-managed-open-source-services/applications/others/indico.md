@@ -2,7 +2,7 @@
 draft: false
 title: Indico fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/indico/screenshot-1.jpg
+  cover: /images/applications/others/indico/screenshot-1.png
   description: Indico is an open-source, feature-rich event management platform developed
     at CERN, designed to simplify the organization, archival, and collaboration of
     events of all sizes.

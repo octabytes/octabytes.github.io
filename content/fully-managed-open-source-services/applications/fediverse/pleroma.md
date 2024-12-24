@@ -2,7 +2,7 @@
 draft: false
 title: Pleroma fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/fediverse/pleroma/screenshot-1.jpg
+  cover: /images/applications/fediverse/pleroma/screenshot-1.png
   description: Pleroma is a decentralized microblogging server that supports the ActivityPub
     protocol, offering privacy, lightweight performance, and easy federation with
     other platforms.

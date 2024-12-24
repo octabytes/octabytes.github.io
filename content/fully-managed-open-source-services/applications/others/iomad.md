@@ -2,7 +2,7 @@
 draft: false
 title: IOMAD fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/iomad/screenshot-1.jpg
+  cover: /images/applications/others/iomad/screenshot-1.png
   description: IOMAD is an open-source multi-tenancy platform for Moodle, offering
     scalable solutions for businesses and educational institutions with features like
     enhanced reporting, course management, and administrative control.

@@ -2,7 +2,7 @@
 draft: false
 title: Rstudio fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/dev-tools/rstudio/screenshot-1.jpg
+  cover: /images/development/dev-tools/rstudio/screenshot-1.png
   description: RStudio is a powerful Integrated Development Environment (IDE) that
     simplifies R programming, offering advanced features like script writing, environment
     management, and interactive visualizations for data science professionals and

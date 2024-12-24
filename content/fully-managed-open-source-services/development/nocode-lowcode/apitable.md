@@ -2,7 +2,7 @@
 draft: false
 title: APITable fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/nocode-lowcode/apitable/screenshot-1.jpg
+  cover: /images/development/nocode-lowcode/apitable/screenshot-1.png
   description: "APITable is an API-oriented low-code platform that enables users to\
     \ build collaborative apps with ease, offering advanced features, a beautiful\
     \ UI, and unmatched extensibility. It\u2019s a top choice for anyone looking for\

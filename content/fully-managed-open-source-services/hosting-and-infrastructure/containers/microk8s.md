@@ -2,25 +2,23 @@
 draft: false
 title: Microk8s fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/containers/microk8s/screenshot-1.jpg
-  description:
-    MicroK8s is a lightweight, open-source Kubernetes platform for effortless
+  cover: /images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png
+  description: MicroK8s is a lightweight, open-source Kubernetes platform for effortless
     containerized app management, scalable from single-node to high-availability clusters.
-  keywords:
-    MicroK8s, lightweight Kubernetes, Kubernetes management, containerized
+  keywords: MicroK8s, lightweight Kubernetes, Kubernetes management, containerized
     applications, Kubernetes for developers, secure Kubernetes, scalable Kubernetes,
     production Kubernetes
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Containers
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
-    - name: Microk8s
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/microk8s
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Containers
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers
+  - name: Microk8s
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/containers/microk8s
 content:
   id: microk8s
   name: Microk8s
@@ -30,8 +28,8 @@ content:
   iframe_website: /website/hosting-and-infrastructure/containers/microk8s
   direct_link: true
   screenshots:
-    - /images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png
-    - /images/hosting-and-infrastructure/containers/microk8s/screenshot-2.png
+  - /images/hosting-and-infrastructure/containers/microk8s/screenshot-1.png
+  - /images/hosting-and-infrastructure/containers/microk8s/screenshot-2.png
 ---
 
 ## Overview

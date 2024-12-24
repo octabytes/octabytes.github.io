@@ -2,7 +2,7 @@
 draft: false
 title: Appwrite fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/backend-as-a-service/appwrite/screenshot-1.jpg
+  cover: /images/development/backend-as-a-service/appwrite/screenshot-1.png
   description: Appwrite is a self-hosted backend platform offering robust APIs for
     authentication, database, storage, cloud functions, and more, empowering developers
     with secure and scalable backend solutions.

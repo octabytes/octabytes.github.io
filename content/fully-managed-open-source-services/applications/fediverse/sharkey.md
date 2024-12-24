@@ -2,7 +2,7 @@
 draft: false
 title: Sharkey fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/fediverse/sharkey/screenshot-1.jpg
+  cover: /images/applications/fediverse/sharkey/screenshot-2.png
   description: Sharkey is a powerful Misskey fork that enhances ActivityPub interoperability
     with added features, including background music statuses, Mastodon API support,
     and a customizable web UI.

@@ -2,26 +2,24 @@
 draft: false
 title: PowerDNS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.jpg
-  description:
-    PowerDNS is a versatile DNS server software that supports authoritative
+  cover: /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
+  description: PowerDNS is a versatile DNS server software that supports authoritative
     and recursive DNS services, load balancing, and more, offering robust performance
     and high configurability for enterprise use.
-  keywords:
-    PowerDNS, DNS server, authoritative DNS, recursive DNS, load balancing,
+  keywords: PowerDNS, DNS server, authoritative DNS, recursive DNS, load balancing,
     failover, open-source DNS, DNS software, PowerDNS features, DNS infrastructure,
     MySQL DNS, PostgreSQL DNS, DNS recursor, DNS APIs, high-performance DNS
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
-    - name: PowerDNS
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/powerdns
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure
+  - name: PowerDNS
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/powerdns
 content:
   id: powerdns
   name: PowerDNS
@@ -30,8 +28,8 @@ content:
   website: https://www.powerdns.com/
   iframe_website: /website/hosting-and-infrastructure/infrastructure/powerdns
   screenshots:
-    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
-    - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-1.png
+  - /images/hosting-and-infrastructure/infrastructure/powerdns/screenshot-2.jpg
 ---
 
 ## Overview

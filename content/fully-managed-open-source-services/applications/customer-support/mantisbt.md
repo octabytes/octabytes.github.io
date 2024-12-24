@@ -2,7 +2,7 @@
 draft: false
 title: MantisBT fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/mantisbt/screenshot-1.jpg
+  cover: /images/applications/customer-support/mantisbt/screenshot-1.png
   description: MantisBT is a flexible open-source issue tracker that simplifies project
     management, enhances team collaboration, and provides robust tracking and reporting
     features.

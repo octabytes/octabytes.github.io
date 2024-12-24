@@ -2,7 +2,7 @@
 draft: false
 title: Dittofeed fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/customer-support/dittofeed/screenshot-1.jpg
+  cover: /images/applications/customer-support/dittofeed/screenshot-1.png
   description: "Automate your customer communications with Dittofeed. Create personalized\
     \ marketing journeys, segment users, and optimize your growth team\u2019s workflow."
   keywords: Dittofeed, automate customer communication, personalized marketing, user

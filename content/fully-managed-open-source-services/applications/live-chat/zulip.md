@@ -2,7 +2,7 @@
 draft: false
 title: Zulip fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/live-chat/zulip/screenshot-1.jpg
+  cover: /images/applications/live-chat/zulip/screenshot-1.png
   description: Zulip is an open-source team collaboration platform that enhances productivity
     with its unique topic-based threading. Combining the best of email and chat, it
     makes remote work seamless and efficient for teams.

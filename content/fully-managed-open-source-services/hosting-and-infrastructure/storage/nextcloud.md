@@ -3,37 +3,34 @@ draft: false
 title: Nextcloud fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg
-  description:
-    Nextcloud is a self-hosted productivity platform offering the perfect
+  description: Nextcloud is a self-hosted productivity platform offering the perfect
     balance of ease of use and enterprise-level security. Control, protect, and access
     your data from anywhere with the flexibility and privacy you need.
-  keywords:
-    Nextcloud, self-hosted productivity platform, file sync, secure cloud
+  keywords: Nextcloud, self-hosted productivity platform, file sync, secure cloud
     storage, private cloud, enterprise security, open-source platform, data control,
     multi-platform productivity, file sharing
   breadcrumb:
-    - name: Home
-      url: /
-    - name: Fully managed Open-Source Services
-      url: /fully-managed-open-source-services
-    - name: Hosting and Infrastructure
-      url: /fully-managed-open-source-services/hosting-and-infrastructure
-    - name: Storage
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
-    - name: Nextcloud
-      url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/nextcloud
+  - name: Home
+    url: /
+  - name: Fully managed Open-Source Services
+    url: /fully-managed-open-source-services
+  - name: Hosting and Infrastructure
+    url: /fully-managed-open-source-services/hosting-and-infrastructure
+  - name: Storage
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage
+  - name: Nextcloud
+    url: /fully-managed-open-source-services/hosting-and-infrastructure/storage/nextcloud
 content:
   id: nextcloud
   name: Nextcloud
-  title:
-    "Boost Your Productivity and Privacy with Nextcloud: The Ultimate Self-Hosted
-    Solution"
+  title: 'Boost Your Productivity and Privacy with Nextcloud: The Ultimate Self-Hosted
+    Solution'
   logo: /images/hosting-and-infrastructure/storage/nextcloud/logo.png
   website: https://nextcloud.com/
   iframe_website: /website/hosting-and-infrastructure/storage/nextcloud
   screenshots:
-    - /images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg
-    - /images/hosting-and-infrastructure/storage/nextcloud/screenshot-2.jpg
+  - /images/hosting-and-infrastructure/storage/nextcloud/screenshot-1.jpg
+  - /images/hosting-and-infrastructure/storage/nextcloud/screenshot-2.jpg
 ---
 
 ## Overview

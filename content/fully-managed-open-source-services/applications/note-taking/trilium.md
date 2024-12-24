@@ -2,7 +2,7 @@
 draft: false
 title: Trilium fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/note-taking/trilium/screenshot-1.jpg
+  cover: /images/applications/note-taking/trilium/screenshot-1.png
   description: Trilium Notes is a feature-rich, open-source note-taking app for managing
     large personal knowledge bases with robust scalability, sketching, and encryption.
   keywords: Trilium Notes, hierarchical note-taking, open-source knowledge base, WYSIWYG
